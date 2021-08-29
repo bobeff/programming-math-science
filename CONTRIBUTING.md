@@ -10,6 +10,8 @@
 
 * Place the link in the appropriate section or make a new section if appropriate.
 
+* Keep resource titles and section titles in lexicographic order.
+
 * The pull request needs to have a descriptive title.
 
 * Make a separate pull request for each of the resources.
