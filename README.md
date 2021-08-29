@@ -3,7 +3,6 @@
 This is a list of links to different freely available learning resources about computer programming, math, and science.
 
 ## Table of contents
----
 
 * [AI](#ai)
   * [General AI](#general-ai)
@@ -51,7 +50,6 @@ This is a list of links to different freely available learning resources about c
 * [Other](#other)
 
 ## AI
----
 
 ### General AI
 
@@ -77,8 +75,6 @@ This is a list of links to different freely available learning resources about c
 
 ## Algorithms
 
----
-
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
@@ -91,7 +87,6 @@ This is a list of links to different freely available learning resources about c
 Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
 
 ## Command line and tools
----
 
 * [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
 
@@ -104,7 +99,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Curl Exercises](https://jvns.ca/blog/2019/08/27/curl-exercises) by *Julia Evans*
 
 ## Compilers and Interpreters
----
 
 * [Build Your Own Lisp](https://buildyourownlisp.com) by *Daniel Holden*
 
@@ -131,7 +125,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Make A Language](https://arzg.github.io/lang) - A series about making a programming language called *Eldiro* using the *Rust* programming language.
 
 ## Computer Graphics
----
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 
@@ -170,7 +163,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ## Computer Networks and Network Programming
----
 
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current2/html) by *Peter L. Dordal*
 
@@ -183,17 +175,14 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [HTTP/3 explained](https://http3-explained.haxx.se) by *Daniel Stenberg*
 
 ## Cryptography
----
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
 
 ## Databases
----
 
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
 
 ## Design Patterns
----
 
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook) by *Richard Fabian*
 
@@ -206,28 +195,24 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## Game Programming
----
 
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
 * [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
 
 ## GUI Programming
----
 
 * [A Book about Qt5](https://qmlbook.github.io)
 
 * [Sol on Immediate Mode GUIs](http://sol.gfxile.net/imgui)
 
 ## Hardware
----
 
 * [Modern Microprocessors: A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors) by *Jason Robert Carey Patterson*
 
 * [Processor Design: An Introduction](http://www.gamezero.com/team-0/articles/math_magic/micro)
 
 ## Math
----
 
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat*
 
@@ -254,13 +239,11 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 ## Multithreading and Concurrency
----
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
 
 ## Operating Systems
----
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
 
@@ -271,7 +254,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
 
 ## Physics
----
 
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country) by *Andy Matuschak and Michael Nielsen*
 
@@ -280,7 +262,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 
 ## Programming languages
----
 
 ### Assembly
 
@@ -384,7 +365,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Structure and Interpretation of Computer Programs](https://xuanji.appspot.com/isicp/index.html) by *Harold Abelson and Gerald Jay Sussman with Julie Sussman*
 
 ## Retrocomputing
----
 
 * [How to Write ZX Spectrum Games](https://spectrumcomputing.co.uk/zxdb/sinclair/entries/2001501/HowToWriteSpectrumGames%28v1.0%29.pdf) by *Jonathan Cauldwell*
 
@@ -397,7 +377,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
 
 ## Reverse engineering
----
 
 * [Reverse Engineering for Beginners](https://beginners.re) by *Dennis Yurichev*
 
@@ -406,14 +385,12 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners)
 
 ## Robotics
----
 
 * [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) by *Kevin M. Lynch* and *Frank C. Park*
 
 * [Underactuated Robotics]() by *Russ Tedrake*
 
 ## Text editors
----
 
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo)
 
@@ -422,24 +399,20 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [The Vi/Ex Editor](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html) by *Walter Alan Zintz*
 
 ## Version control tools
----
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
 ## Virtual machines
----
 
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
 
 ## Web programming
----
 
 * [Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2)
 
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi) by *Peter Simons and Ralph Babel*
 
 ## Other
----
 
 * [Beej's Guides](http://beej.us/guide)
 
