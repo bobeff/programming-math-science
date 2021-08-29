@@ -29,4 +29,6 @@
   * [Part 2](link_to_part_2)
 ```
 
+* If the title of the resource is not enough self-explanatory add a short description after it.
+
 * Write a [good](https://chris.beams.io/posts/git-commit) commit message.
