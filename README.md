@@ -10,7 +10,6 @@ This is a list of links to different freely available learning resources about c
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
 * [Command Line and Tools](#command-line-and-tools)
-  * [Curl](#curl)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
@@ -61,11 +60,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
-* [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
-
 * [Machine Learning Engineering Book](http://www.mlebook.com/wik) by *Andriy Burkov*
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
+
+* [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
 
 ### Computer Games AI
 
@@ -88,15 +87,13 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ## Command line and tools
 
-* [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
-
-* [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
-
-### Curl
-
 * [Curl Cookbook](https://catonmat.net/cookbooks/curl)
 
 * [Curl Exercises](https://jvns.ca/blog/2019/08/27/curl-exercises) by *Julia Evans*
+
+* [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
+
+* [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
 
 ## Compilers and Interpreters
 
@@ -265,13 +262,13 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ### Assembly
 
-* [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
-
 * **Let's Learn x86-64 Assembly!**
   * [Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
   * [Part 1 - Metaprogramming in Flat Assembler](https://gpfault.net/posts/asm-tut-1.txt.html)
   * [Part 2 - We're Writing a Virtual Machine](https://gpfault.net/posts/asm-tut-2.txt.html)
   * [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
+
+* [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
 
 
 ### C
