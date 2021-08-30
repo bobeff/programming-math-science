@@ -237,6 +237,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
 
+* [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 ## Multithreading and Concurrency
