@@ -171,6 +171,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [HTTP/3 explained](https://http3-explained.haxx.se) by *Daniel Stenberg*
 
+* [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
+
 ## Cryptography
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
