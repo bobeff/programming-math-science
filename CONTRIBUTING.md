@@ -4,6 +4,8 @@
 
 * Currently the list does not contain video *tutorials/courses* but only text ones. I currently have not decided whether to include video ones so avoid submitting such.
 
+* The official sites of different programming languages and other technologies are not accepted because they are an obvious starting point and can be found easily with a web search engine.
+
 * All resources have to be freely available on the internet by their authors. Links to pirate content are not accepted.
 
 * Make sure that submitted resource is not already included in the list.
@@ -18,7 +20,7 @@
 
 * Use the format `[Title](link_to_resource)`.
 
-* Do not include trailing `/` character.
+* Do not include trailing `/` character from the URL.
 
 * Add the names of the author(s) of the resource after the link in *italic* if known.
 
