@@ -195,6 +195,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ## Game Programming
 
+* [Retro Rampage](https://github.com/nicklockwood/RetroRampage) by *Nick Lockwood*
+
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
 * [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
