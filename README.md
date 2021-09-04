@@ -419,18 +419,20 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Beej's Guides](http://beej.us/guide)
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
-
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/) by *Ian Wienand*
 
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
-* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
-
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
+
+## Other lists
+
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
+
+* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
