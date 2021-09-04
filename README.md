@@ -409,9 +409,11 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
-## Virtual machines
+## Emulators and Virtual Machines
 
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
+
+* [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
 ## Web programming
 
