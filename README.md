@@ -173,6 +173,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
+* [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
+
 ## Cryptography
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
@@ -195,7 +197,7 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ## Game Programming
 
-* [Retro Rampage](https://github.com/nicklockwood/RetroRampage) by *Nick Lockwood*
+* [Retro Rampage](https://github.com/nicklockwood/RetroRampage) a tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
