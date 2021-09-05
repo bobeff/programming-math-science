@@ -44,7 +44,7 @@ This is a list of links to different freely available learning resources about c
 * [Robotics](#robotics)
 * [Text editors](#text-editors)
 * [Version control tools](#version-control-tools)
-* [Virtual machines](#virtual-machines)
+* [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Web programming](#web-programming)
 * [Other](#other)
 
