@@ -264,6 +264,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country) by *Andy Matuschak and Michael Nielsen*
 
+* [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
+
 * [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html), Second Edition by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and [Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)*
 
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
