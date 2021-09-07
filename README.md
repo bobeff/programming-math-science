@@ -20,6 +20,7 @@ This is a list of links to different freely available learning resources about c
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Math](#math)
+  * [Algebra](#algebra)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
 * [Physics](#physics)
@@ -221,8 +222,6 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
-* [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
-
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof), Third Edition by *Richard Hammack*
@@ -235,15 +234,21 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
-
-* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
-
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
+
+### Algebra
+
+* [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
+
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
+
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
+
+* [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
 ## Multithreading and Concurrency
 
