@@ -358,7 +358,7 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ### Regular expressions
  
-* [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/) by *Russ Cox*
+* [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
 
 * [RegexOne](https://regexone.com)
 
