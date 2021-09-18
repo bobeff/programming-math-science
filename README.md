@@ -357,6 +357,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
 
 ### Regular expressions
+ 
+* [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
 
 * [RegexOne](https://regexone.com)
 
