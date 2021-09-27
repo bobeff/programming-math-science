@@ -234,6 +234,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
 
+* [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
+
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
