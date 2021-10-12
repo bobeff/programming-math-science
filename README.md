@@ -330,6 +330,8 @@ Data Structures using Python](https://runestone.academy/runestone/books/publishe
 
 ### Go
 
+* [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go) by *Jan Newmarch*
+
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
 
 ### Haskell
