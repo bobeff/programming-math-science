@@ -83,10 +83,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
 
+* [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) by *Victor Eijkhout* with *Edmond Chow* and *Robert van de Geijn*
+
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) by *Johan Sannemo*
 
-* [Problem Solving with Algorithms and
-Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
+* [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
 
 ## Command line and tools
 
