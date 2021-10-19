@@ -181,6 +181,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Cryptography
 
+* [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) by *Dan Boneh* and *Victor Shoup*
+
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
 
 ## Databases
