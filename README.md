@@ -203,6 +203,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Game Programming
 
+* [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) by *Shahriar Shahrabi*
+
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) a tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
