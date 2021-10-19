@@ -133,6 +133,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) by *Gabriel Gambetta*
 
+* **GPU Gems Books Series**
+  * [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
+  * [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright)
+  * [GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/contributors)
+
 * [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists) by *Keith O’Conor*
 
 * [I Am Graphics And So Can You](https://www.fasterthan.life/blog) - a series of blog posts about implementing a Vulkan renderer for Doom 3 by *Dustin H. Land*
