@@ -398,9 +398,11 @@ This is a list of links to different freely available learning resources about c
 
 ## Retrocomputing
 
-* [How to Write ZX Spectrum Games](https://spectrumcomputing.co.uk/zxdb/sinclair/entries/2001501/HowToWriteSpectrumGames%28v1.0%29.pdf) by *Jonathan Cauldwell*
+* [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
 * [First Steps in Z80 Assembly Language](http://ped.7gods.org/z80.pdf) by *Darryl Sloan*
+
+* [How to Write ZX Spectrum Games](https://spectrumcomputing.co.uk/zxdb/sinclair/entries/2001501/HowToWriteSpectrumGames%28v1.0%29.pdf) by *Jonathan Cauldwell*
 
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
