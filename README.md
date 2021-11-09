@@ -79,6 +79,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
+* [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
+
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
