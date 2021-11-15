@@ -372,6 +372,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
+* [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
+
 ### Racket
 
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
