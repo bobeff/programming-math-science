@@ -382,6 +382,8 @@ This is a list of links to different freely available learning resources about c
  
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
 
+* [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
+
 * [RegexOne](https://regexone.com)
 
 * [Regular-Expressions.info](https://www.regular-expressions.info) by *Jan Goyvaerts*
