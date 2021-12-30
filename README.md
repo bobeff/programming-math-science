@@ -30,6 +30,7 @@ This is a list of links to different freely available learning resources about c
   * [C++](#cpp)
   * [Clojure](#clojure)
   * [Common Lisp](#common-lisp)
+  * [D](#d)
   * [Erlang](#erlang)
   * [Go](#go)
   * [Haskell](#haskell)
@@ -337,6 +338,10 @@ This is a list of links to different freely available learning resources about c
 ### Common Lisp
 
 * [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
+
+### D
+
+* [Programming in D](http://ddili.org/ders/d.en/index.html) by *Ali Çehreli*
 
 ### Erlang
 
