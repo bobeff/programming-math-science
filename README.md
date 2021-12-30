@@ -21,6 +21,7 @@ This is a list of links to different freely available learning resources about c
 * [Hardware](#hardware)
 * [Math](#math)
   * [Algebra](#algebra)
+  * [Category Theory](#category-theory)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
 * [Physics](#physics)
@@ -247,10 +248,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
 
-* [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
-
-* [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
-
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
@@ -269,10 +266,17 @@ This is a list of links to different freely available learning resources about c
 
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
+### Category Theory
+
+* [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
+
+* [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
+
+* [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
+
 ## Multithreading and Concurrency
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
-
 
 ## Operating Systems
 
