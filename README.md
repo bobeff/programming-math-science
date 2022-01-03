@@ -302,6 +302,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Assembly
 
+* [Learn Assembly Language](https://asmtutor.com) -  NASM x86 assembly language tutorial on Linux.
+
 * **Let's Learn x86-64 Assembly!**
   * [Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
   * [Part 1 - Metaprogramming in Flat Assembler](https://gpfault.net/posts/asm-tut-1.txt.html)
@@ -309,7 +311,6 @@ This is a list of links to different freely available learning resources about c
   * [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
 
 * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
-
 
 ### C
 
