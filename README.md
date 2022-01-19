@@ -456,6 +456,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
+* [Learn the workings of Git, not just the commands](https://developer.ibm.com/tutorials/d-learn-workings-git) by *Andre Fachat*
+
 ## Emulators and Virtual Machines
 
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
