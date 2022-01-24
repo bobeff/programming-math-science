@@ -252,6 +252,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
+* [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
+
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
