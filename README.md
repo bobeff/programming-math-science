@@ -22,6 +22,7 @@ This is a list of links to different freely available learning resources about c
 * [Math](#math)
   * [Algebra](#algebra)
   * [Category Theory](#category-theory)
+  * [Theoretical Computer Science](#theoretical-computer-science)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
 * [Physics](#physics)
@@ -254,8 +255,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
-* [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak) 
-
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
@@ -277,6 +276,12 @@ This is a list of links to different freely available learning resources about c
 * [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
 
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
+
+### Theoretical Computer Science
+
+* [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
+
+* [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
 ## Multithreading and Concurrency
 
