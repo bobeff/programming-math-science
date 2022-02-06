@@ -313,6 +313,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Assembly
 
+* [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) by *Nayuki*
+
 * [Learn Assembly Language](https://asmtutor.com) -  NASM x86 assembly language tutorial on Linux.
 
 * **Let's Learn x86-64 Assembly!**
