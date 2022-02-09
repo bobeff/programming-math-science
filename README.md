@@ -501,4 +501,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
 
+* [Electronic References](https://csgordon.github.io/books.html) by *Colin S. Gordon* - a loosely-categorized collection of links to CS textbooks in a variety of areas that are freely available online.
+
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
