@@ -16,6 +16,7 @@ This is a list of links to different freely available learning resources about c
 * [Cryptography](#cryptography)
 * [Databases](#databases)
 * [Design Patterns](#design-patterns)
+* [Distributed Systems](#distributed-systems)
 * [Game Programming](#game-programming)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
@@ -214,6 +215,10 @@ This is a list of links to different freely available learning resources about c
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
+## Distributed systems
+
+* [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
 
 ## Game Programming
 
