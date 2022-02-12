@@ -85,6 +85,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
+* [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
+
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
