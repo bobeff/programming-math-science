@@ -67,6 +67,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
 
+* [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
+
 * [Machine Learning Engineering Book](http://www.mlebook.com/wiki) by *Andriy Burkov*
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
