@@ -342,6 +342,8 @@ This is a list of links to different freely available learning resources about c
 
 * [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work)
 
+* [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
+
 * [Unicode programming, with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html) by *Joe Nelson*
 
 ### C++ <span id="cpp">
