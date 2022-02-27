@@ -36,6 +36,7 @@ This is a list of links to different freely available learning resources about c
   * [D](#d)
   * [Erlang](#erlang)
   * [Go](#go)
+  * [Nim](#nim)
   * [Haskell](#haskell)
   * [Pascal](#pascal)
   * [Pyret](#pyret)
@@ -391,6 +392,10 @@ This is a list of links to different freely available learning resources about c
 * [Monday Morning Haskell](https://mmhaskell.com)
 
 * [Real World Haskell](http://book.realworldhaskell.org) by *Bryan O'Sullivan, Don Stewart, and John Goerzen*
+
+### Nim
+
+* [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html) by *Dr. Stefan Salewski*
 
 ### Pascal
 
