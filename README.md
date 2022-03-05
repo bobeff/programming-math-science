@@ -360,6 +360,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Awesome Modern C++](https://awesomecpp.com/)
 
+* [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html) by *David Drysdale*
+
 * [C++20 Coroutines: sketching a minimal async framework](https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework) by *Jeremy Ong*
 
 * [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide) by *Rajat Jain*
