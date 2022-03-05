@@ -304,6 +304,8 @@ This is a list of links to different freely available learning resources about c
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
+* [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores) by *Allen B. Downey*
+
 ## Operating Systems
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
