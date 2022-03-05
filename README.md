@@ -23,6 +23,7 @@ This is a list of links to different freely available learning resources about c
 * [Math](#math)
   * [Algebra](#algebra)
   * [Category Theory](#category-theory)
+  * [Probability and Statistics](#probability-and-statistics)
   * [Theoretical Computer Science](#theoretical-computer-science)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
@@ -265,11 +266,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
-* [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
-
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
-
-* [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 ### Algebra
 
@@ -288,6 +285,14 @@ This is a list of links to different freely available learning resources about c
 * [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
 
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
+
+### Probability and Statistics
+
+* [Digital textbook on probability and statistics](https://www.statlect.com) by *Marco Taboga*
+
+* [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
+
+* [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 ### Theoretical Computer Science
 
