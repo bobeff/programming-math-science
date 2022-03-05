@@ -302,6 +302,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Multithreading and Concurrency
 
+* [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) by *Paul E. McKenney*
+
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
 * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores) by *Allen B. Downey*
