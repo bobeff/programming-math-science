@@ -494,6 +494,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Vi/Ex Editor](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html) by *Walter Alan Zintz*
 
+* [Vim Reference Guide](https://learnbyexample.github.io/vim_reference) by *Sundeep Agarwal*
+
 ## Version control tools
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
