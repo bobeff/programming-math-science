@@ -5,13 +5,13 @@ This is a list of links to different freely available learning resources about c
 ## Table of contents
 
 * [AI](#ai)
-  * [General AI](#general-ai)
   * [Machine Learning](#machine-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
 * [Command Line and Tools](#command-line-and-tools)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
+  * [Ray Tracing](#ray-tracing)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
 * [Cryptography](#cryptography)
 * [Databases](#databases)
@@ -56,8 +56,6 @@ This is a list of links to different freely available learning resources about c
 * [Other](#other)
 
 ## AI
-
-### General AI
 
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) by *Peter Norvig*
 
@@ -162,11 +160,23 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
 
-* [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
-
 * **Probability Theory for Physically Based Rendering** by *Jacco Bikker*
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering) 
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
+
+* [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
+
+* [Vulkan Guide](https://vkguide.dev)
+
+* [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
+
+* [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
+
+### Ray Tracing
+
+* [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+
+* [Physically Based Rendering: From Theory To Implementation](https://www.pbr-book.org/) by *Matt Pharr*, *Wenzel Jakob*, and *Greg Humphreys*
 
 * [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2) by *Eric Haines and Tomas Akenine-Möller*
 
@@ -174,15 +184,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io) by *Peter Shirley*
 
-* [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
-
-* [Vulkan Guide](https://vkguide.dev)
-
 * [Vulkan Raytracing Tutorials](https://iorange.github.io)
-
-* [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
-
-* [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ## Computer Networks and Network Programming
 
