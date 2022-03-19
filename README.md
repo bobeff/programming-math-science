@@ -328,6 +328,9 @@ This is a list of links to different freely available learning resources about c
 
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country) by *Andy Matuschak and Michael Nielsen*
 
+* [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
+in 5 volumes.
+
 * [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
 
 * [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html), Second Edition by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and [Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)*
