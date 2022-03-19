@@ -141,6 +141,8 @@ This is a list of links to different freely available learning resources about c
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 
+* [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
+
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
 
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) by *Gabriel Gambetta*
