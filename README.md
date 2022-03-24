@@ -20,6 +20,7 @@ This is a list of links to different freely available learning resources about c
 * [Game Programming](#game-programming)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
+* [Logical Games](#logical-games)
 * [Math](#math)
   * [Algebra](#algebra)
   * [Category Theory](#category-theory)
@@ -251,6 +252,10 @@ This is a list of links to different freely available learning resources about c
 * [Modern Microprocessors: A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors) by *Jason Robert Carey Patterson*
 
 * [Processor Design: An Introduction](http://www.gamezero.com/team-0/articles/math_magic/micro)
+
+## Logical Games
+
+* [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book)
 
 ## Math
 
