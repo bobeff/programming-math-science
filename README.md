@@ -255,7 +255,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Logical Games
 
-* [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book)
+* [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
 
 ## Math
 
@@ -326,6 +326,8 @@ This is a list of links to different freely available learning resources about c
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
 
 * [The Linux Documentation Project](https://tldp.org)
+
+* [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
 
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
 
