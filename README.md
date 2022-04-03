@@ -301,6 +301,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
+* [Markov Chains for programmers](https://czekster.github.io/markov) by *Ricardo M. Czekster*
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 ### Theoretical Computer Science
