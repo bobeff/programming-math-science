@@ -402,6 +402,8 @@ in 5 volumes.
 
 * [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
 
+* [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook)
+
 ### D
 
 * [Programming in D](http://ddili.org/ders/d.en/index.html) by *Ali Çehreli*
