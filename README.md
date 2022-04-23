@@ -64,6 +64,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Course in Machine Learning](http://ciml.info) by *Hal Daumé III*
 
+* [Algorithms for Decision Making](https://algorithmsbook.com) by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray
+
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
