@@ -98,6 +98,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
+* [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
+
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
 
 * [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) by *Victor Eijkhout* with *Edmond Chow* and *Robert van de Geijn*
