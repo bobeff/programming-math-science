@@ -38,8 +38,9 @@ This is a list of links to different freely available learning resources about c
   * [D](#d)
   * [Erlang](#erlang)
   * [Go](#go)
-  * [Nim](#nim)
   * [Haskell](#haskell)
+  * [Nim](#nim)
+  * [OCaml](#ocaml)
   * [Pascal](#pascal)
   * [Pyret](#pyret)
   * [Python](#python)
@@ -437,6 +438,10 @@ in 5 volumes.
 ### Nim
 
 * [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html) by *Dr. Stefan Salewski*
+
+### OCaml
+
+* [Real World OCaml](https://dev.realworldocaml.org) by *Yaron Minsky*, *Anil Madhavapeddy* and *Jason Hickey*
 
 ### Pascal
 
