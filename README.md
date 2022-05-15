@@ -31,6 +31,7 @@ This is a list of links to different freely available learning resources about c
 * [Physics](#physics)
 * [Programming Languages](#programming-languages)
   * [Assembly](#assembly)
+  * [Basic](#basic)
   * [C](#c)
   * [C++](#cpp)
   * [Clojure](#clojure)
@@ -375,6 +376,10 @@ in 5 volumes.
   * [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
 
 * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
+
+### Basic
+
+* [BBC BASIC for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
 
 ### C
 
