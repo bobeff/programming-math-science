@@ -471,6 +471,8 @@ in 5 volumes.
 
 ### Racket
 
+* [Beautiful Racket](https://beautifulracket.com/) by *Matthew Butterick*
+
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
 
 ### Regular expressions
