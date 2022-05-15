@@ -56,6 +56,7 @@ This is a list of links to different freely available learning resources about c
 * [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Web programming](#web-programming)
 * [Other](#other)
+* [Other lists](#other-lists)
 
 ## AI
 
