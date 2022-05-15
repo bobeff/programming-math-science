@@ -332,6 +332,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Operating Systems
 
+* [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *0xAD*
+
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
