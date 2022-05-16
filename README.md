@@ -446,6 +446,8 @@ in 5 volumes.
 
 ### JavaScript
 
+* [Eloquent JavaScript](https://eloquentjavascript.net) by *Marijn Haverbeke*
+
 * [The Modern JavaScript Tutorial](https://javascript.info) by *Ilya Kantor*
 
 ### Nim
