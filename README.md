@@ -40,6 +40,7 @@ This is a list of links to different freely available learning resources about c
   * [Erlang](#erlang)
   * [Go](#go)
   * [Haskell](#haskell)
+  * [JavaScript](#javascript)
   * [Nim](#nim)
   * [OCaml](#ocaml)
   * [Pascal](#pascal)
@@ -442,6 +443,10 @@ in 5 volumes.
 * [Monday Morning Haskell](https://mmhaskell.com)
 
 * [Real World Haskell](http://book.realworldhaskell.org) by *Bryan O'Sullivan, Don Stewart, and John Goerzen*
+
+### JavaScript
+
+* [The Modern JavaScript Tutorial](https://javascript.info) by *Ilya Kantor*
 
 ### Nim
 
