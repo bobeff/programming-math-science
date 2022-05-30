@@ -562,9 +562,11 @@ in 5 volumes.
 
 ## Web programming
 
+* [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi) by *Peter Simons and Ralph Babel*
+
 * [Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2)
 
-* [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi) by *Peter Simons and Ralph Babel*
+* [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
 
 ## Other
 
