@@ -44,6 +44,7 @@ This is a list of links to different freely available learning resources about c
   * [Nim](#nim)
   * [OCaml](#ocaml)
   * [Pascal](#pascal)
+  * [Prolog](#prolog)
   * [Pyret](#pyret)
   * [Python](#python)
   * [Racket](#racket)
@@ -463,6 +464,10 @@ in 5 volumes.
 ### Pascal
 
 * [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal_introduction.html) by *Michalis Kamburelis*
+
+### Prolog
+
+* [The Power of Prolog](https://www.metalevel.at/prolog) by *Markus Triska*
 
 ### Pyret
 
