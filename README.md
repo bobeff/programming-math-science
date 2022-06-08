@@ -175,7 +175,7 @@ This is a list of links to different freely available learning resources about c
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
 
 * **Probability Theory for Physically Based Rendering** by *Jacco Bikker*
-  * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering) 
+  * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
 * [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
@@ -441,6 +441,8 @@ in 5 volumes.
 
 ### Haskell
 
+* [Learn Haskell by building a blog generator](https://lhbg-book.link/) *Gil Mizrahi*
+
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) by *Miran Lipovača*
 
 * [Monday Morning Haskell](https://mmhaskell.com)
@@ -490,7 +492,7 @@ in 5 volumes.
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
 
 ### Regular expressions
- 
+
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
 
 * [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
