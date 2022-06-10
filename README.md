@@ -264,6 +264,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Hardware
 
+* [Architecture of Consoles](https://www.copetti.org/writings/consoles) by *Rodrigo Copetti*
+
 * [Modern Microprocessors: A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors) by *Jason Robert Carey Patterson*
 
 * [Processor Design: An Introduction](http://www.gamezero.com/team-0/articles/math_magic/micro)
