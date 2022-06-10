@@ -481,6 +481,8 @@ in 5 volumes.
 
 * [Composing Programs](http://composingprograms.com) by *John DeNero*
 
+* [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy) by *Nicolas P. Rougier*
+
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
