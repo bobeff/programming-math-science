@@ -569,6 +569,8 @@ in 5 volumes.
 
 ## Emulators and Virtual Machines
 
+* [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
+
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
 
 * [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
