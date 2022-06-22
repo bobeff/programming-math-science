@@ -119,6 +119,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Curl Exercises](https://jvns.ca/blog/2019/08/27/curl-exercises) by *Julia Evans*
 
+* [Effective Shell](https://effective-shell.com/) by *Dave Kerr*
+
 * [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
 
 * [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
