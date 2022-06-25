@@ -493,6 +493,8 @@ in 5 volumes.
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
+* [Python Design Patterns](https://python-patterns.guide) by *Brandon Rhodes*
+
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
 
 ### Racket
