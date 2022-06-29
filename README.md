@@ -545,6 +545,8 @@ in 5 volumes.
 
 * [MEGA65 Welcome Guide](https://dansanderson.com/mega65/welcome/index.html) by *Dan Sanderson*
 
+* [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
+
 * [The Lost Ways of Programming: Commodore 64 BASIC](http://tomasp.net/commodore64) by *Tomas Petricek*
 
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
