@@ -389,6 +389,8 @@ in 5 volumes.
 
 * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
 
+* [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
+
 ### Basic
 
 * [BBC BASIC for SDL 2.0](https://www.bbcbasic.co.uk/bbcsdl/index.html)
