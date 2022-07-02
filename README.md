@@ -497,6 +497,8 @@ in 5 volumes.
 
 * [Python Design Patterns](https://python-patterns.guide) by *Brandon Rhodes*
 
+* [Python for Data Analysis, 3rd edition](https://wesmckinney.com/book) by *Wes McKinney*
+
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
 
 ### Racket
