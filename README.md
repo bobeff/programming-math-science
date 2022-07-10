@@ -178,6 +178,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
 
+* **Order Independent Transparency** by *Kostas Anagnostou*
+  * [Part 1](https://interplayoflight.wordpress.com/2022/06/25/order-independent-transparency-part-1)
+  * [Part 2](https://interplayoflight.wordpress.com/2022/07/02/order-independent-transparency-part-2)
+  * [Part 3](https://interplayoflight.wordpress.com/2022/07/10/order-independent-transparency-endgame)
+
 * **Probability Theory for Physically Based Rendering** by *Jacco Bikker*
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
