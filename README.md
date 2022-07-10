@@ -157,6 +157,11 @@ This is a list of links to different freely available learning resources about c
 
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
 
+* **A Beginner's Guide to Coding Graphics Shaders** by *Omar Shehata*
+  * [Part 1](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
+  * [Part 2](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-2--cms-24111)
+  * [Part 3](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-3--cms-24351)
+
 * [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
 
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
