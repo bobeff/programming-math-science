@@ -533,6 +533,10 @@ in 5 volumes.
 
 * [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) by *Steve Donovan*
 
+* [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling) by *Shesh Babu*
+
+* [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system) by *Shesh Babu*
+
 * [Exploring ways to make async Rust easier](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier) by *Carl Lerche*
 
 * [Rust Language Cheat Sheet](https://cheats.rs)
