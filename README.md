@@ -202,6 +202,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Ray Tracing
 
+* [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing) by *Seppe Dekeyser*
+
 * [How to build a BVH](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics) by *Jacco Bikker*
 
 * [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
