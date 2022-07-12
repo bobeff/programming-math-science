@@ -266,6 +266,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) a tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
+* [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com) by *Herbert Wolverson*
+
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
 * [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
