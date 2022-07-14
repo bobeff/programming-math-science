@@ -166,6 +166,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
 
+* [Collection of AMD Research Publications](https://gpuopen.com/learn/publications)
+
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) by *Gabriel Gambetta*
 
 * [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
