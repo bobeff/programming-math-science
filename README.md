@@ -334,6 +334,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Probability and Statistics
 
+* [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
+
 * [Digital textbook on probability and statistics](https://www.statlect.com) by *Marco Taboga*
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
