@@ -577,6 +577,8 @@ in 5 volumes.
 
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
 
+* [ZX Spectrum Next: Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) by *Tomaz Kragelj*
+
 ## Reverse engineering
 
 * [Reverse Engineering for Beginners](https://beginners.re) by *Dennis Yurichev*
