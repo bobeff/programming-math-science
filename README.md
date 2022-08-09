@@ -115,6 +115,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Command line and tools
 
+* [The Linux Command Line](https://linuxcommand.org/tlcl.php) by *William Shotts*
+
 * [Curl Cookbook](https://catonmat.net/cookbooks/curl)
 
 * [Curl Exercises](https://jvns.ca/blog/2019/08/27/curl-exercises) by *Julia Evans*
