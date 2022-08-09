@@ -115,7 +115,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Command line and tools
 
-* [The Linux Command Line](https://linuxcommand.org/tlcl.php)
+* [The Linux Command Line](https://linuxcommand.org/tlcl.php) by *William Shotts*
 
 * [Curl Cookbook](https://catonmat.net/cookbooks/curl)
 
@@ -265,6 +265,8 @@ This is a list of links to different freely available learning resources about c
 * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
 
 ## Game Programming
+
+* [CS50’s Introduction to Game Development](https://cs50.harvard.edu/games/2018/) by *CS50*
 
 * [2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) by *Daniele Penazzo*
 
