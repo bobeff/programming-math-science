@@ -633,6 +633,8 @@ in 5 volumes.
 
 ## Other
 
+* [Agner Fog's Website](https://www.agner.org)
+
 * [Beej's Guides](http://beej.us/guide)
 
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/) by *Ian Wienand*
