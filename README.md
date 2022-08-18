@@ -444,6 +444,8 @@ in 5 volumes.
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
 * [Performance Analysis and Tunning on Modern CPUs](https://book.easyperf.net/perf_book) by *Denis Bakhvalov*
+ 
+* [C++ Interactive tutorials](https://www.scaler.com/topics/cpp//) by *Scaler Topics*
 
 ### Clojure
 
