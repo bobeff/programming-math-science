@@ -264,6 +264,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Distributed systems
 
+* [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by *James Aspnes* **[pdf]**
+
 * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
 
 ## Game Programming
