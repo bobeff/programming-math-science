@@ -647,6 +647,8 @@ in 5 volumes.
 
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com/) by *Ian Wienand*
 
+* [Explained from First Principles](https://explained-from-first-principles.com) by *Kaspar Etter*
+
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
 
 * [Memory Management Reference](https://www.memorymanagement.org)
