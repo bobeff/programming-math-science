@@ -581,6 +581,8 @@ in 5 volumes.
 
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
+* [MEGA65 Documentation](https://files.mega65.org/manuals-upload)
+
 * [MEGA65 Welcome Guide](https://dansanderson.com/mega65/welcome/index.html) by *Dan Sanderson*
 
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book) by *Michael Abrash*
