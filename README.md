@@ -569,6 +569,8 @@ in 5 volumes.
 
 ## Retrocomputing
 
+* [A Guide to the Graphics of the Sega Mega Drive / Genesis](https://rasterscroll.com/mdgraphics)
+
 * [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide) by *Gregorio Naçu*
 
 * [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project)
