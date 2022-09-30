@@ -403,6 +403,8 @@ in 5 volumes.
 
 ## Programming languages
 
+* [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/itpl) by *Bertrand Meyer*
+
 ### Assembly
 
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) by *Nayuki*
