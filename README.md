@@ -661,6 +661,8 @@ in 5 volumes.
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
+* [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
+
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
