@@ -358,6 +358,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Theoretical Computer Science
 
+* [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
+
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
