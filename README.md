@@ -619,6 +619,8 @@ in 5 volumes.
 
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo)
 
+* [Interactive Vim Tutorial](https://www.openvim.com) by *Henrik Huttunen*
+
 * [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) by *Igor Irianto*
 
 * [The Vi/Ex Editor](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html) by *Walter Alan Zintz*
