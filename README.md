@@ -531,6 +531,8 @@ in 5 volumes.
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
+* [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio) by *Jason Brownlee*
+
 * [Python Design Patterns](https://python-patterns.guide) by *Brandon Rhodes*
 
 * [Python for Data Analysis, 3rd edition](https://wesmckinney.com/book) by *Wes McKinney*
