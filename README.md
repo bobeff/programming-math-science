@@ -601,6 +601,8 @@ in 5 volumes.
 
 * [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
 
+* [Sinclair ZX Spectrum BASIC programming](http://zxnext.narod.ru/manuals/Basic_Programming.pdf) by *Steven Vicker*
+
 * [The Lost Ways of Programming: Commodore 64 BASIC](http://tomasp.net/commodore64) by *Tomas Petricek*
 
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
