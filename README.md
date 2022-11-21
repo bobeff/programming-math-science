@@ -380,6 +380,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Operating Systems
 
+* [A Journey in Creating an Operating System Kernel](https://539kernel.com) by *Mohammed Q. Hussain*
+
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *0xAD*
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
