@@ -689,4 +689,6 @@ in 5 volumes.
 
 * [Free Computer Books](https://freecomputerbooks.com)
 
+* [Free Tech Books](https://www.freetechbooks.com)
+
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
