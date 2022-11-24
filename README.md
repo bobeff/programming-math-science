@@ -8,6 +8,7 @@ This is a list of links to different freely available learning resources about c
   * [Machine Learning](#machine-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
+* [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
@@ -116,6 +117,10 @@ This is a list of links to different freely available learning resources about c
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) by *Johan Sannemo*
 
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
+
+## Biology
+
+* [Introduction to Genomics for Engineers](https://learngenomics.dev)
 
 ## Command line and tools
 
