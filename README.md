@@ -18,6 +18,7 @@ This is a list of links to different freely available learning resources about c
 * [Databases](#databases)
 * [Design Patterns](#design-patterns)
 * [Distributed Systems](#distributed-systems)
+* [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Game Programming](#game-programming)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
@@ -58,7 +59,6 @@ This is a list of links to different freely available learning resources about c
 * [Robotics](#robotics)
 * [Text editors](#text-editors)
 * [Version control tools](#version-control-tools)
-* [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Web programming](#web-programming)
 * [Other](#other)
 * [Other lists](#other-lists)
@@ -279,6 +279,14 @@ This is a list of links to different freely available learning resources about c
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by *James Aspnes* **[pdf]**
 
 * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
+
+## Emulators and Virtual Machines
+
+* [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
+
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
+
+* [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
 ## Game Programming
 
@@ -652,14 +660,6 @@ in 5 volumes.
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
 * [Learn the workings of Git, not just the commands](https://developer.ibm.com/tutorials/d-learn-workings-git) by *Andre Fachat*
-
-## Emulators and Virtual Machines
-
-* [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
-
-* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
-
-* [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
 ## Web programming
 
