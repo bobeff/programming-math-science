@@ -29,6 +29,7 @@ This is a list of links to different freely available learning resources about c
   * [Theoretical Computer Science](#theoretical-computer-science)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
+* [Photography](#photography)
 * [Physics](#physics)
 * [Programming Languages](#programming-languages)
   * [Assembly](#assembly)
@@ -400,6 +401,10 @@ This is a list of links to different freely available learning resources about c
 * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
 
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
+
+## Photography
+
+* [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics) by *Michal Zalewski*
 
 ## Physics
 
