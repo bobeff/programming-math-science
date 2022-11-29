@@ -58,6 +58,7 @@ This is a list of links to different freely available learning resources about c
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [Text editors](#text-editors)
+* [Unicode](#unicode)
 * [Version control tools](#version-control-tools)
 * [Web programming](#web-programming)
 * [Other](#other)
@@ -459,8 +460,6 @@ in 5 volumes.
 
 * [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
 
-* [Unicode programming, with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html) by *Joe Nelson*
-
 ### C++ <span id="cpp">
 
 * [Awesome Modern C++](https://awesomecpp.com/)
@@ -654,6 +653,14 @@ in 5 volumes.
 * [The Vi/Ex Editor](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html) by *Walter Alan Zintz*
 
 * [Vim Reference Guide](https://learnbyexample.github.io/vim_reference) by *Sundeep Agarwal*
+
+## Unicode
+
+* [Programming with Unicode](https://unicodebook.readthedocs.io) by *Victor Stinner*
+
+* [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses) by *Joel Spolsky*
+
+* [Unicode programming, with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html) by *Joe Nelson*
 
 ## Version control tools
 
