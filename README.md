@@ -55,6 +55,7 @@ This is a list of links to different freely available learning resources about c
   * [Rust](#rust)
   * [Scheme](#scheme)
 * [Retrocomputing](#retrocomputing)
+  * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [Text editors](#text-editors)
@@ -627,6 +628,14 @@ in 5 volumes.
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
 
 * [ZX Spectrum Next: Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) by *Tomaz Kragelj*
+
+### Books by Fabien Sanglard
+
+* [Game Eengine Black Book: Doom](https://fabiensanglard.net/b/gebbdoom.pdf) [pdf]
+
+* [Game Eengine Black Book: Wolfenstein 3D](https://fabiensanglard.net/b/gebbwolf3d.pdf) [pdf]
+
+* [The Book of CP-System](https://fabiensanglard.net/b/cpsb.pdf) [pdf]
 
 ## Reverse engineering
 
