@@ -652,6 +652,8 @@ in 5 volumes.
 
 * [The Vi/Ex Editor](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html) by *Walter Alan Zintz*
 
+* [Vim from the ground up](https://thevaluable.dev/vim-commands-beginner) by *Matthieu Cneude*
+
 * [Vim Reference Guide](https://learnbyexample.github.io/vim_reference) by *Sundeep Agarwal*
 
 ## Unicode
