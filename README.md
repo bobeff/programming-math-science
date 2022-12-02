@@ -519,6 +519,8 @@ in 5 volumes.
 
 * [Eloquent JavaScript](https://eloquentjavascript.net) by *Marijn Haverbeke*
 
+* [Speaking JavaScript: An In-Depth Guide for Programmers](https://exploringjs.com/es5) by *Dr. Axel Rauschmayer*
+
 * [The Modern JavaScript Tutorial](https://javascript.info) by *Ilya Kantor*
 
 ### Nim
