@@ -18,6 +18,7 @@ This is a list of links to different freely available learning resources about c
 * [Databases](#databases)
 * [Design Patterns](#design-patterns)
 * [Distributed Systems](#distributed-systems)
+* [Electronics](#electronics)
 * [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Game Programming](#game-programming)
 * [GUI Programming](#gui-programming)
@@ -281,6 +282,10 @@ This is a list of links to different freely available learning resources about c
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by *James Aspnes* **[pdf]**
 
 * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
+
+## Electronics
+
+* [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook)
 
 ## Emulators and Virtual Machines
 
