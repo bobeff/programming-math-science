@@ -548,7 +548,9 @@ in 5 volumes.
 
 ### Pyret
 
-* [Programming and Programming Languages](https://papl.cs.brown.edu/2020)
+* [Programming and Programming Languages](https://papl.cs.brown.edu/2020) by *Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz, Kathi Fisler*
+
+* [A Data-Centric Introduction to Computing](https://dcic-world.org/2022-08-28/index.html) by *Kathi Fisler, Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz*
 
 ### Python
 
@@ -573,6 +575,8 @@ in 5 volumes.
 * [Beautiful Racket](https://beautifulracket.com/) by *Matthew Butterick*
 
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
+
+* [Programming Languages: Application and Interpretation](https://www.plai.org) by *Shriram Krishnamurthi*
 
 ### Regular expressions
 
