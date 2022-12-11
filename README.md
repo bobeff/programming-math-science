@@ -134,6 +134,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Effective Shell](https://effective-shell.com/) by *Dave Kerr*
 
+* [Getting started with tmux](https://ittavern.com/getting-started-with-tmux) by *ittavern*
+
 * [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
 
 * [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) by *Kushal Das*
