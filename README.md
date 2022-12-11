@@ -562,6 +562,8 @@ in 5 volumes.
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
+* [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) by *David Beazley*
+
 * [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio) by *Jason Brownlee*
 
 * [Python Design Patterns](https://python-patterns.guide) by *Brandon Rhodes*
