@@ -53,6 +53,7 @@ This is a list of links to different freely available learning resources about c
   * [Python](#python)
   * [Racket](#racket)
   * [Regular expressions](#regular-expressions)
+  * [Ruby](#ruby)
   * [Rust](#rust)
   * [Scheme](#scheme)
 * [Retrocomputing](#retrocomputing)
@@ -593,6 +594,10 @@ in 5 volumes.
 * [Regular-Expressions.info](https://www.regular-expressions.info) by *Jan Goyvaerts*
 
 * [Rex Eats Regular Expressions for Breakfast](https://www.rexegg.com)
+
+### Ruby
+
+* [Building Games with DragonRuby](https://book.dragonriders.community) by *Brett Chalupa*
 
 ### Rust
 
