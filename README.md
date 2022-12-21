@@ -228,6 +228,10 @@ This is a list of links to different freely available learning resources about c
 
 * [How to build a BVH](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics) by *Jacco Bikker*
 
+* **Introduction of the Raytracing Technology**
+  * [Part 1](https://blog.en.uwa4d.com/2022/12/14/introduction-of-the-raytracing-technology-part-1)
+  * [Part 2](https://blog.en.uwa4d.com/2022/12/21/introduction-of-the-raytracing-technology-part-2)
+
 * [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
 * [Physically Based Rendering: From Theory To Implementation](https://www.pbr-book.org/) by *Matt Pharr*, *Wenzel Jakob*, and *Greg Humphreys*
