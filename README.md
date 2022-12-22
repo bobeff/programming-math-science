@@ -607,9 +607,13 @@ in 5 volumes.
 
 * [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) by *Steve Donovan*
 
+* [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
+
 * [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling) by *Shesh Babu*
 
 * [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system) by *Shesh Babu*
+
+* [Comprehensive Rust](https://google.github.io/comprehensive-rust)
 
 * [Exploring ways to make async Rust easier](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier) by *Carl Lerche*
 
