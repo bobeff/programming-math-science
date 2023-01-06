@@ -625,6 +625,8 @@ in 5 volumes.
 
 * [Exploring ways to make async Rust easier](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier) by *Carl Lerche*
 
+* [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics) by *Mara Bos*
+
 * [Rust Language Cheat Sheet](https://cheats.rs)
 
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead)
