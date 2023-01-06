@@ -499,6 +499,8 @@ in 5 volumes.
 
 ### Clojure
 
+* [Babashka Babooka: Write Command-Line Clojure](https://www.braveclojure.com/quests/babooka) by *Daniel Higginbotham*
+
 * [Clojure Concurrency Tutorial](https://purelyfunctional.tv/guide/clojure-concurrency) by *Eric Normand*
 
 * [Clojure for the Brave and True](https://www.braveclojure.com/) by *Daniel Higginbotham*
