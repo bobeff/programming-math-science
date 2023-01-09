@@ -77,6 +77,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms for Decision Making](https://algorithmsbook.com) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
 
+* [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
+
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
@@ -90,6 +92,10 @@ This is a list of links to different freely available learning resources about c
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
+
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by *Kevin Patrick Murphy*
+
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) by *Kevin Patrick Murphy*
 
 * [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
 
