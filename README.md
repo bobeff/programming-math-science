@@ -330,6 +330,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Sol on Immediate Mode GUIs](http://sol.gfxile.net/imgui)
 
+* [X Window System Basics](https://magcius.github.io/xplain/article) by *Jasper St. Pierre*
+
 ## Hardware
 
 * [Architecture of Consoles](https://www.copetti.org/writings/consoles) by *Rodrigo Copetti*
