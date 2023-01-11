@@ -737,7 +737,7 @@ in 5 volumes.
 
 * [Beej's Guides](http://beej.us/guide)
 
-* [Computer Science from the Bottom Up](https://www.bottomupcs.com/) by *Ian Wienand*
+* [Computer Science from the Bottom Up](https://www.bottomupcs.com) by *Ian Wienand*
 
 * [Explained from First Principles](https://explained-from-first-principles.com) by *Kaspar Etter*
 
@@ -745,7 +745,9 @@ in 5 volumes.
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
-* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com)
+
+* [The Computer Science Book](https://thecomputersciencebook.com) by *Tom Johnson*
 
 * [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
 
