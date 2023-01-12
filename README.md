@@ -228,6 +228,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
 
+* [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia) by *
+Kyle Mayes*
+
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Ray Tracing
