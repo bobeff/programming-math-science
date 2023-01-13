@@ -518,6 +518,8 @@ in 5 volumes.
 
 ### Common Lisp
 
+* [Learn Lisp The Hard Way](https://llthw.common-lisp.dev) by  *"the Phoeron" Colin J.E. Lupton*
+
 * [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
 
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook)
