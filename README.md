@@ -331,6 +331,8 @@ Kyle Mayes*
 
 * [A Book about Qt5](https://qmlbook.github.io)
 
+* [Minimal Cross-Platform Graphics](https://zserge.com/posts/fenster) by *Serge Zaitsev*
+
 * [Sol on Immediate Mode GUIs](http://sol.gfxile.net/imgui)
 
 * [X Window System Basics](https://magcius.github.io/xplain/article) by *Jasper St. Pierre*
