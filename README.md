@@ -211,6 +211,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
 
+* [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU) by *Elie Michel*
+
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
 
 * **Order Independent Transparency** by *Kostas Anagnostou*
