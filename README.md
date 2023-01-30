@@ -279,6 +279,8 @@ Kyle Mayes*
 
 ## Databases
 
+* [Build Your Own Redis with C/C++](https://build-your-own.org)
+
 * [PostgreSQL 14 Interbals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
 
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
