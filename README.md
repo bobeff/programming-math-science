@@ -87,6 +87,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan*
 
+* [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
+
 * [Machine Learning Engineering Book](http://www.mlebook.com/wiki) by *Andriy Burkov*
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
