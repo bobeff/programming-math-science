@@ -532,6 +532,8 @@ in 5 volumes.
 
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook)
 
+* [Typed Lisp, A Primer](http://alhassy.com/TypedLisp) by *Musa Al-hassy*
+
 ### D
 
 * [Programming in D](http://ddili.org/ders/d.en/index.html) by *Ali Çehreli*
