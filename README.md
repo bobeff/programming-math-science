@@ -69,7 +69,7 @@ This is a list of links to different freely available learning resources about c
 
 ## AI
 
-* [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://github.com/norvig/paip-lisp) by *Peter Norvig*
+* [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://norvig.github.io/paip-lisp) by *Peter Norvig*
 
 ### Machine Learning
 
