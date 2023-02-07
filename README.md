@@ -13,6 +13,7 @@ This is a list of links to different freely available learning resources about c
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
   * [Ray Tracing](#ray-tracing)
+  * [Shaders](#shaders)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
 * [Cryptography](#cryptography)
 * [Databases](#databases)
@@ -181,14 +182,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Computer Graphics
 
-* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
-
-* **A Beginner's Guide to Coding Graphics Shaders** by *Omar Shehata*
-  * [Part 1](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
-  * [Part 2](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-2--cms-24111)
-  * [Part 3](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-3--cms-24351)
 
 * [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
 
@@ -226,14 +220,11 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
-* [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
-
 * [Vulkan Guide](https://vkguide.dev)
 
 * [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
 
-* [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia) by *
-Kyle Mayes*
+* [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia) by *Kyle Mayes*
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
@@ -258,6 +249,19 @@ Kyle Mayes*
 * [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io) by *Peter Shirley*
 
 * [Vulkan Raytracing Tutorials](https://iorange.github.io)
+
+### Shaders
+
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
+
+* **A Beginner's Guide to Coding Graphics Shaders** by *Omar Shehata*
+  * [Part 1](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313)
+  * [Part 2](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-2--cms-24111)
+  * [Part 3](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-3--cms-24351)
+
+* [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) by *Manuela Malasaña*
+
+* [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
 
 ## Computer Networks and Network Programming
 
