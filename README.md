@@ -261,6 +261,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) by *Manuela Malasaña*
 
+* [Shader Tutorials by Ronja](https://www.ronja-tutorials.com)
+
 * [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
 
 ## Computer Networks and Network Programming
