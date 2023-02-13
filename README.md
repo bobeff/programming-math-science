@@ -14,6 +14,7 @@ This is a list of links to different freely available learning resources about c
 * [Computer Graphics](#computer-graphics)
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
+  * [Vulkan](#vulkan)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
 * [Cryptography](#cryptography)
 * [Databases](#databases)
@@ -203,8 +204,6 @@ This is a list of links to different freely available learning resources about c
 
 * [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists) by *Keith O’Conor*
 
-* [I Am Graphics And So Can You](https://www.fasterthan.life/blog) - a series of blog posts about implementing a Vulkan renderer for Doom 3 by *Dustin H. Land*
-
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
@@ -224,12 +223,6 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
-* [Vulkan Guide](https://vkguide.dev)
-
-* [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
-
-* [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia) by *Kyle Mayes*
-
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Ray Tracing
@@ -242,8 +235,6 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://blog.en.uwa4d.com/2022/12/14/introduction-of-the-raytracing-technology-part-1)
   * [Part 2](https://blog.en.uwa4d.com/2022/12/21/introduction-of-the-raytracing-technology-part-2)
 
-* [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
-
 * [Physically Based Rendering: From Theory To Implementation](https://www.pbr-book.org/) by *Matt Pharr*, *Wenzel Jakob*, and *Greg Humphreys*
 
 * [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2) by *Eric Haines and Tomas Akenine-Möller*
@@ -251,8 +242,6 @@ This is a list of links to different freely available learning resources about c
 * [Ray Tracing Gems II](https://link.springer.com/book/10.1007/978-1-4842-7185-8) by *Adam Marrs, Peter Shirley, and Ingo Wald*
 
 * [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io) by *Peter Shirley*
-
-* [Vulkan Raytracing Tutorials](https://iorange.github.io)
 
 ### Shaders
 
@@ -268,6 +257,20 @@ This is a list of links to different freely available learning resources about c
 * [Shader Tutorials by Ronja](https://www.ronja-tutorials.com)
 
 * [The Book of Shaders](https://thebookofshaders.com/) by *Patricio Gonzalez Vivo and Jen Lowe*
+
+### Vulkan
+
+* [I Am Graphics And So Can You](https://www.fasterthan.life/blog) - a series of blog posts about implementing a Vulkan renderer for Doom 3 by *Dustin H. Land*
+
+* [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+
+* [Vulkan Guide](https://vkguide.dev)
+
+* [Vulkan Raytracing Tutorials](https://iorange.github.io)
+
+* [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
+
+* [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia) by *Kyle Mayes*
 
 ## Computer Networks and Network Programming
 
