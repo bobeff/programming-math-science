@@ -194,6 +194,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
 
+* [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer) by *Kristoffer Dyrkorn*
+
 * **GPU Gems Books Series**
   * [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
   * [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright)
