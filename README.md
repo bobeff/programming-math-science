@@ -422,6 +422,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Markov Chains for programmers](https://czekster.github.io/markov) by *Ricardo M. Czekster*
 
+* [Probability 101, the intuition behind martingales and solving problems with them](https://codeforces.com/blog/entry/110801)
+
 * [Probability and Statistics Cookbook](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf) by *Matthias Vallentin*
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
