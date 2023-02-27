@@ -348,6 +348,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
 
+* [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting) by *Grant Handy*
+
 ## GUI Programming
 
 * [A Book about Qt5](https://qmlbook.github.io)
