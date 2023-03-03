@@ -513,6 +513,8 @@ in 5 volumes.
 
 * [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) by *Simon Tatham*
 
+* [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) by *Andrei Ciobanu*
+
 * [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work)
 
 * [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
