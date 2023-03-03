@@ -613,6 +613,8 @@ in 5 volumes.
 
 ### Python
 
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) by *Asabeneh*
+
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e) by *Al Sweigart*
 
 * [Composing Programs](http://composingprograms.com) by *John DeNero*
