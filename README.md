@@ -63,6 +63,8 @@ This is a list of links to different freely available learning resources about c
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [Text editors](#text-editors)
+  * [Emacs](#emacs)
+  * [Vim](#vim)
 * [Unicode](#unicode)
 * [Version control tools](#version-control-tools)
 * [Web programming](#web-programming)
@@ -738,6 +740,12 @@ in 5 volumes.
 ## Text editors
 
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo)
+
+### Emacs
+
+* [Use GNU Emacs: The Plain Text Computing Environment](https://www2.lib.uchicago.edu/keith/emacs) by *Keith Waclena*
+
+### Vim
 
 * [Interactive Vim Tutorial](https://www.openvim.com) by *Henrik Huttunen*
 
