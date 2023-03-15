@@ -58,6 +58,7 @@ This is a list of links to different freely available learning resources about c
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Scheme](#scheme)
+  * [Smalltalk](#smalltalk)
 * [Retrocomputing](#retrocomputing)
   * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
 * [Reverse engineering](#reverse-engineering)
@@ -686,6 +687,10 @@ in 5 volumes.
 ### Scheme
 
 * [Structure and Interpretation of Computer Programs](https://xuanji.appspot.com/isicp/index.html) by *Harold Abelson and Gerald Jay Sussman with Julie Sussman*
+
+### Smalltalk
+
+* [Smalltalk Resources](https://smalltalk.tech.blog/resources) - A list of free smalltalk books.
 
 ## Retrocomputing
 
