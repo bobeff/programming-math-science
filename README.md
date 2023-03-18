@@ -301,12 +301,14 @@ This is a list of links to different freely available learning resources about c
 
 ## Databases
 
-* [Build Your Own Redis with C/C++](https://build-your-own.org)
+* [Build Your Own Database From Scratch](https://build-your-own.org/database) by *James Smith*
+
+* [Build Your Own Redis with C/C++](https://build-your-own.org/redis) by *James Smith*
 
 * [PostgreSQL 14 Interbals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
 
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
-
+s
 ## Design Patterns
 
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook) by *Richard Fabian*
