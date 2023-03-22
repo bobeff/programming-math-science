@@ -594,6 +594,8 @@ in 5 volumes.
 
 * [The Modern JavaScript Tutorial](https://javascript.info) by *Ilya Kantor*
 
+* [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
+
 ### Nim
 
 * [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html) by *Dr. Stefan Salewski*
