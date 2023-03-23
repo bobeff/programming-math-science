@@ -381,6 +381,8 @@ s
 
 * [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
 
+* [The World's Fastest Scrabble Program](https://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf) by Andrew W. Appel and Guy J. Jacobson **[pdf]**
+
 ## Math
 
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat*
