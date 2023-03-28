@@ -12,6 +12,7 @@ This is a list of links to different freely available learning resources about c
 * [Command Line and Tools](#command-line-and-tools)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
+  * [Demoscene](#demoscene)
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
   * [Vulkan](#vulkan)
@@ -229,6 +230,13 @@ This is a list of links to different freely available learning resources about c
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
+
+### Demoscene
+
+* The making of Immersion
+  * [Part 1: A dive into the making of Immersion](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion)
+  * [Part 2: Texturing in a 64kB intro](http://www.ctrl-alt-test.fr/2018/texturing-in-a-64kb-intro)
+  * [Part 3: Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro)
 
 ### Ray Tracing
 
