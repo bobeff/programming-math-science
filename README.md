@@ -658,6 +658,8 @@ in 5 volumes.
 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
 
+* [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e) by *Allen B. Downey*
+
 ### Racket
 
 * [Beautiful Racket](https://beautifulracket.com/) by *Matthew Butterick*
