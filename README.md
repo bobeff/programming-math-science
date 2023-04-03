@@ -640,6 +640,8 @@ in 5 volumes.
 
 * [Composing Programs](http://composingprograms.com) by *John DeNero*
 
+* [Data Structures and Information Retrieval in Python](https://allendowney.github.io/DSIRP) by *Allen B. Downey*
+
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy) by *Nicolas P. Rougier*
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
