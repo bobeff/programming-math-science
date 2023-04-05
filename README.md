@@ -101,6 +101,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
+* [Practical Deep Learning for Coders](https://course.fast.ai)
+
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by *Kevin Patrick Murphy*
 
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) by *Kevin Patrick Murphy*
