@@ -766,6 +766,8 @@ in 5 volumes.
 
 ## Robotics
 
+* [Introduction to Autonomous Robots](https://introduction-to-autonomous-robots.github.io) by *Nikolaus Correll, Bradley Hayes, Christoffer Heckman, and Alessandro Roncone*
+
 * [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) by *Kevin M. Lynch* and *Frank C. Park*
 
 * [Underactuated Robotics](https://underactuated.mit.edu/) by *Russ Tedrake*
