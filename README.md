@@ -99,6 +99,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
+* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A course by *Andrej Karpathy*
+
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
 * [Practical Deep Learning for Coders](https://course.fast.ai)
