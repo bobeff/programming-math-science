@@ -542,6 +542,8 @@ in 5 volumes.
 
 * [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
 
+* [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) by *Matthew Plant*
+
 ### C++ <span id="cpp">
 
 * [Awesome Modern C++](https://awesomecpp.com/)
