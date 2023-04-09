@@ -477,6 +477,8 @@ s
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com) by *Mohammed Q. Hussain*
 
+* [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming) by *Mark Mitchell, Jeffrey Oldham, and Alex Samuel*
+
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *0xAD*
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
