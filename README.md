@@ -224,6 +224,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
 
+* [Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro) by *Łukasz Izdebski* - The main purpose of this article is to gather information in the field of transformation in computer graphics and put it in one place.
+
 * [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index) by *Fabian Giesen*
 
 * **Order Independent Transparency** by *Kostas Anagnostou*
