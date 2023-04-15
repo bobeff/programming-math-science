@@ -239,6 +239,8 @@ This is a list of links to different freely available learning resources about c
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
+* [WebGPU Fundamentals](https://webgpufundamentals.org)
+
 ### Demoscene
 
 * The making of Immersion
