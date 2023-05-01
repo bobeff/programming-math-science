@@ -846,6 +846,8 @@ in 5 volumes.
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
+* [Rocket and Space Technology](http://www.braeunig.us)
+
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 
 * [The Computer Science Book](https://thecomputersciencebook.com) by *Tom Johnson*
