@@ -497,6 +497,8 @@ s
 
 * [The Linux Documentation Project](https://tldp.org)
 
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg) by *Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang*
+
 * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
 
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
