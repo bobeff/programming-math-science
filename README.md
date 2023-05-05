@@ -334,7 +334,7 @@ This is a list of links to different freely available learning resources about c
 * [PostgreSQL 14 Interbals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
 
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
-s
+
 ## Design Patterns
 
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook) by *Richard Fabian*
@@ -360,6 +360,11 @@ s
 ## Emulators and Virtual Machines
 
 * [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
+
+* **Roll your own JavaScript runtime** by  *Bartek Iwańczuk*
+  * [Part 1](https://deno.com/blog/roll-your-own-javascript-runtime)
+  * [Part 2](https://deno.com/blog/roll-your-own-javascript-runtime-pt2)
+  * [Part 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
 
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
 
