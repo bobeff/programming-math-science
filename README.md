@@ -749,6 +749,8 @@ in 5 volumes.
 
 * [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project)
 
+* [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
+
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
 * [First Steps in Z80 Assembly Language](http://ped.7gods.org/z80.pdf) by *Darryl Sloan*
