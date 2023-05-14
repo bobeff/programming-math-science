@@ -597,6 +597,8 @@ in 5 volumes.
 
 * [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
 
+* [Successful Lisp: How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html) by *David B. Lamkins*
+
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook)
 
 * [Typed Lisp, A Primer](http://alhassy.com/TypedLisp) by *Musa Al-hassy*
