@@ -359,6 +359,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook)
 
+* [Ultimate Electronics](https://ultimateelectronicsbook.com)
+
 ## Emulators and Virtual Machines
 
 * [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
