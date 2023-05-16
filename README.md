@@ -123,6 +123,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
+* [Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf) by *Kurt Mehlhorn and Peter Sanders* **[pdf]**
+
 * [Algorithms for Optimization](https://algorithmsbook.com/optimization) by *Mykel J. Kochenderfer* and *Tim A. Wheeler*
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
