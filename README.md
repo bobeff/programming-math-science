@@ -147,6 +147,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) by *Brad Miller and David Ranum*
 
+* [Sequential and Parallel Data Structures and Algorithms: The Basic Toolbox](https://people.mpi-inf.mpg.de/~mehlhorn/ToolboxNew.html) by *Peter Sanders, Kurt Mehlhorn, Martin Dietzfelbinger, and Roman Dementiev*
+
 ## Biology
 
 * [Introduction to Genomics for Engineers](https://learngenomics.dev)
