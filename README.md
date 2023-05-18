@@ -365,6 +365,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Emulators and Virtual Machines
 
+* [5 Days To Virtualization: A Series On Hypervisor Development](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development) by *Daax Rynd, Aidan Khoury and Nick Peterson*
+
 * [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
 
 * **Roll your own JavaScript runtime** by  *Bartek Iwańczuk*
