@@ -793,6 +793,8 @@ in 5 volumes.
 
 ## Reverse engineering
 
+* [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series) by *Daax Rynd, Aidan Khoury and Nick Peterson*
+
 * [Reverse Engineering for Beginners](https://beginners.re) by *Dennis Yurichev*
 
 * [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) by *Sami Alaoui*
