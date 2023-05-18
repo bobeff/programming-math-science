@@ -454,6 +454,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) by *Sergei Treil*
+
 ### Category Theory
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
