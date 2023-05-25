@@ -426,7 +426,9 @@ This is a list of links to different freely available learning resources about c
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
-* [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen*
+* [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz) by *Clive Newstead*
+
+* [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen* **[pdf]**
 
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
