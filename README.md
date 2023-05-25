@@ -438,6 +438,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
+* [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
+
 * [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) by *Egbert Rijke*
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
