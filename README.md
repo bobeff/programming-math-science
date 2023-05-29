@@ -48,6 +48,7 @@ This is a list of links to different freely available learning resources about c
   * [Go](#go)
   * [Haskell](#haskell)
   * [JavaScript](#javascript)
+  * [Lean](#lean)
   * [Nim](#nim)
   * [OCaml](#ocaml)
   * [Pascal](#pascal)
@@ -652,6 +653,10 @@ in 5 volumes.
 * [The Modern JavaScript Tutorial](https://javascript.info) by *Ilya Kantor*
 
 * [Mostly adequate guide to FP (in JavaScript)](https://mostly-adequate.gitbook.io/mostly-adequate-guide)
+
+### Lean
+
+* [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean) by *David Thrane Christiansen*
 
 ### Nim
 
