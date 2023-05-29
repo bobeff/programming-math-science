@@ -487,6 +487,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
+* [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
+
 ### Theoretical Computer Science
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
