@@ -186,6 +186,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Creating the Bolt Compiler](https://mukulrathi.co.uk/create-your-own-programming-language/intro-to-compiler) by *Mukul Rathi*
 
+* [Essentials of Compilation: An Incremental Approach](https://iucompilercourse.github.io/tutorial-web-page) by *Geremy G. Siek*
+
 * [How Clang Compiles a Function](https://blog.regehr.org/archives/1605) by *John Regehr*
 
 * [How LLVM Optimizes a Function](https://blog.regehr.org/archives/1603) by *John Regehr*
