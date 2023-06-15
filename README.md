@@ -756,6 +756,8 @@ in 5 volumes.
 
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust)
 
+* [Effective Rust](https://www.lurklurk.org/effective-rust) by *David Drysdale*
+
 * [Exploring ways to make async Rust easier](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier) by *Carl Lerche*
 
 * [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics) by *Mara Bos*
