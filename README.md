@@ -354,6 +354,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Design Patterns & Refactoring](https://sourcemaking.com) *SourceMaking*
 
+* [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) by *Andre Weissflog*
+
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory) by *Mark Seemann*
 
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
