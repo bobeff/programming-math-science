@@ -425,6 +425,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Processor Design: An Introduction](http://www.gamezero.com/team-0/articles/math_magic/micro)
 
+* [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) by *Ulrich Drepper* **[pdf]**
+
 ## Logical Games
 
 * [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
