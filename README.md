@@ -507,6 +507,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
+* [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
+
 ## Multithreading and Concurrency
 
 * [A C++17 Thread Pool for High-Performance Scientific Computing](https://arxiv.org/abs/2105.00613) by *Barak Shoshany*
