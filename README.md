@@ -752,6 +752,8 @@ in 5 volumes.
 
 * [Building Games with DragonRuby](https://book.dragonriders.community) by *Brett Chalupa*
 
+* [Ruby Hacking Guide](https://ruby-hacking-guide.github.io)
+
 ### Rust
 
 * [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) by *Steve Donovan*
