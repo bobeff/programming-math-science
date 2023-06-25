@@ -116,7 +116,7 @@ This is a list of links to different freely available learning resources about c
 
 * [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
 
-* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) by *François Fleuret* **[pdf]**
+* [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
 ### Computer Games AI
 
