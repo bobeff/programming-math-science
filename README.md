@@ -241,6 +241,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
 
+* [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
+
 * [Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro) by *Łukasz Izdebski* - The main purpose of this article is to gather information in the field of transformation in computer graphics and put it in one place.
 
 * [OGLdev: Modern OpenGL tutorials](https://ogldev.org) by *Etay Meiri*
