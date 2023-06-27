@@ -366,6 +366,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Distributed systems
 
+* [Distributed systems for fun and profit](https://book.mixu.net/distsys) by *Mikito Takada*
+
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by *James Aspnes* **[pdf]**
 
 * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
@@ -888,9 +890,15 @@ in 5 volumes.
 
 ## Web programming
 
+* [A book about using Node.js](https://book.mixu.net/node) by *Mikito Takada*
+
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi) by *Peter Simons and Ralph Babel*
 
 * [Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2)
+
+* [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
+
+* [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
 
