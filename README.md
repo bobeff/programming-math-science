@@ -29,6 +29,7 @@ This is a list of links to different freely available learning resources about c
 * [Logical Games](#logical-games)
 * [Math](#math)
   * [Algebra](#algebra)
+  * [Calculus](#calculus)
   * [Category Theory](#category-theory)
   * [Probability and Statistics](#probability-and-statistics)
   * [Theoretical Computer Science](#theoretical-computer-science)
@@ -455,8 +456,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
 
-* [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
-
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
@@ -478,6 +477,12 @@ This is a list of links to different freely available learning resources about c
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) by *Sergei Treil*
+
+### Calculus
+
+* [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
+
+* [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
 ### Category Theory
 
