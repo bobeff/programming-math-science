@@ -747,6 +747,10 @@ in 5 volumes.
 
 ### Racket
 
+* **A Functional Introduction To Computer Science** by *Prabhakar Ragde*
+  - [Part I](https://cs.uwaterloo.ca/~plragde/flaneries/FICS)
+  - [Part II](https://cs.uwaterloo.ca/~plragde/flane/FICS2)
+
 * [Beautiful Racket](https://beautifulracket.com/) by *Matthew Butterick*
 
 * [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
