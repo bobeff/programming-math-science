@@ -337,6 +337,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) by *Dan Boneh* and *Victor Shoup*
 
+* [Cryptography: An Introduction (3rd Edition)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf) by *Nigel Smart* **[pdf]**
+
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
 
 ## Databases
