@@ -42,25 +42,26 @@ This is a list of links to different freely available learning resources about c
   * [Basic](#basic)
   * [C](#c)
   * [C++](#cpp)
-  * [Clojure](#clojure)
-  * [Common Lisp](#common-lisp)
   * [D](#d)
   * [Erlang](#erlang)
   * [Go](#go)
   * [Haskell](#haskell)
   * [JavaScript](#javascript)
   * [Lean](#lean)
+  * [Lisp dialects](#lisp-dialects)
+    * [Clojure](#clojure)
+    * [Common Lisp](#common-lisp)
+    * [Racket](#racket)
+    * [Scheme](#scheme)
   * [Nim](#nim)
   * [OCaml](#ocaml)
   * [Pascal](#pascal)
   * [Prolog](#prolog)
   * [Pyret](#pyret)
   * [Python](#python)
-  * [Racket](#racket)
   * [Regular expressions](#regular-expressions)
   * [Ruby](#ruby)
   * [Rust](#rust)
-  * [Scheme](#scheme)
   * [Smalltalk](#smalltalk)
 * [Retrocomputing](#retrocomputing)
   * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
@@ -633,26 +634,6 @@ in 5 volumes.
 
 * [Performance Analysis and Tunning on Modern CPUs](https://book.easyperf.net/perf_book) by *Denis Bakhvalov*
 
-### Clojure
-
-* [Babashka Babooka: Write Command-Line Clojure](https://www.braveclojure.com/quests/babooka) by *Daniel Higginbotham*
-
-* [Clojure Concurrency Tutorial](https://purelyfunctional.tv/guide/clojure-concurrency) by *Eric Normand*
-
-* [Clojure for the Brave and True](https://www.braveclojure.com/) by *Daniel Higginbotham*
-
-### Common Lisp
-
-* [Learn Lisp The Hard Way](https://llthw.common-lisp.dev) by  *"the Phoeron" Colin J.E. Lupton*
-
-* [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
-
-* [Successful Lisp: How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html) by *David B. Lamkins*
-
-* [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook)
-
-* [Typed Lisp, A Primer](http://alhassy.com/TypedLisp) by *Musa Al-hassy*
-
 ### D
 
 * [Programming in D](http://ddili.org/ders/d.en/index.html) by *Ali Çehreli*
@@ -690,6 +671,44 @@ in 5 volumes.
 ### Lean
 
 * [Functional Programming in Lean](https://leanprover.github.io/functional_programming_in_lean) by *David Thrane Christiansen*
+
+### Lisp dialects
+
+#### Clojure
+
+* [Babashka Babooka: Write Command-Line Clojure](https://www.braveclojure.com/quests/babooka) by *Daniel Higginbotham*
+
+* [Clojure Concurrency Tutorial](https://purelyfunctional.tv/guide/clojure-concurrency) by *Eric Normand*
+
+* [Clojure for the Brave and True](https://www.braveclojure.com/) by *Daniel Higginbotham*
+
+#### Common Lisp
+
+* [Learn Lisp The Hard Way](https://llthw.common-lisp.dev) by  *"the Phoeron" Colin J.E. Lupton*
+
+* [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
+
+* [Successful Lisp: How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html) by *David B. Lamkins*
+
+* [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook)
+
+* [Typed Lisp, A Primer](http://alhassy.com/TypedLisp) by *Musa Al-hassy*
+
+#### Racket
+
+* **A Functional Introduction To Computer Science** by *Prabhakar Ragde*
+  - [Part I](https://cs.uwaterloo.ca/~plragde/flaneries/FICS)
+  - [Part II](https://cs.uwaterloo.ca/~plragde/flane/FICS2)
+
+* [Beautiful Racket](https://beautifulracket.com/) by *Matthew Butterick*
+
+* [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
+
+* [Programming Languages: Application and Interpretation](https://www.plai.org) by *Shriram Krishnamurthi*
+
+#### Scheme
+
+* [Structure and Interpretation of Computer Programs](https://xuanji.appspot.com/isicp/index.html) by *Harold Abelson and Gerald Jay Sussman with Julie Sussman*
 
 ### Nim
 
@@ -745,18 +764,6 @@ in 5 volumes.
 
 * [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e) by *Allen B. Downey*
 
-### Racket
-
-* **A Functional Introduction To Computer Science** by *Prabhakar Ragde*
-  - [Part I](https://cs.uwaterloo.ca/~plragde/flaneries/FICS)
-  - [Part II](https://cs.uwaterloo.ca/~plragde/flane/FICS2)
-
-* [Beautiful Racket](https://beautifulracket.com/) by *Matthew Butterick*
-
-* [How to Design Programs](https://htdp.org/), Second Edition by *Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi*
-
-* [Programming Languages: Application and Interpretation](https://www.plai.org) by *Shriram Krishnamurthi*
-
 ### Regular expressions
 
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
@@ -796,10 +803,6 @@ in 5 volumes.
 * [Rust Language Cheat Sheet](https://cheats.rs)
 
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead)
-
-### Scheme
-
-* [Structure and Interpretation of Computer Programs](https://xuanji.appspot.com/isicp/index.html) by *Harold Abelson and Gerald Jay Sussman with Julie Sussman*
 
 ### Smalltalk
 
