@@ -178,6 +178,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) by *Kushal Das*
 
+* [The Definitive Guide To Docker](https://masteringbackend.com/posts/docker-tutorial)
+
 * [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
 
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) by *William Shotts*
