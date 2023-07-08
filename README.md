@@ -602,6 +602,8 @@ in 5 volumes.
 
 * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
 
+* [RISC-V Assembly Programming](https://riscv-programming.org) by *Prof. Edson Borin*
+
 * [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
 
 ### Basic
