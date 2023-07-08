@@ -10,6 +10,8 @@ This is a list of links to different freely available learning resources about c
 * [Algorithms](#algorithms)
 * [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
+  * [Curl](#curl)
+  * [Linux command line](#linux-command-line)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
   * [Demoscene](#demoscene)
@@ -164,21 +166,25 @@ This is a list of links to different freely available learning resources about c
 
 ## Command line and tools
 
-* [Curl Cookbook](https://catonmat.net/cookbooks/curl)
-
-* [Curl Exercises](https://jvns.ca/blog/2019/08/27/curl-exercises) by *Julia Evans*
-
 * [Driving Compilers](https://fabiensanglard.net/dc) by *Fabien Sanglard*
-
-* [Effective Shell](https://effective-shell.com/) by *Dave Kerr*
 
 * [Getting started with tmux](https://ittavern.com/getting-started-with-tmux) by *ittavern*
 
 * [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
 
-* [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) by *Kushal Das*
-
 * [The Definitive Guide To Docker](https://masteringbackend.com/posts/docker-tutorial)
+
+### Curl
+
+* [Curl Cookbook](https://catonmat.net/cookbooks/curl)
+
+* [Curl Exercises](https://jvns.ca/blog/2019/08/27/curl-exercises) by *Julia Evans*
+
+### Linux command line
+
+* [Effective Shell](https://effective-shell.com/) by *Dave Kerr*
+
+* [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) by *Kushal Das*
 
 * [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
 
