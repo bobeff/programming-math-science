@@ -48,6 +48,7 @@ This is a list of links to different freely available learning resources about c
   * [Erlang](#erlang)
   * [Go](#go)
   * [Haskell](#haskell)
+  * [Java](#java)
   * [JavaScript](#javascript)
   * [Lean](#lean)
   * [Lisp dialects](#lisp-dialects)
@@ -668,6 +669,10 @@ in 5 volumes.
 * [Monday Morning Haskell](https://mmhaskell.com)
 
 * [Real World Haskell](http://book.realworldhaskell.org) by *Bryan O'Sullivan, Don Stewart, and John Goerzen*
+
+### Java
+
+* [How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf) by *Matthias Felleisen, Matthew Flatt, Robert Bruce Findler, Kathryn E. Gray, Shriram Krishnamurthi and Viera K. Proulx* **[pdf]**
 
 ### JavaScript
 
