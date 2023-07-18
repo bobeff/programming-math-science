@@ -254,6 +254,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
 
+* [Marching Cubes, Explained Using Marching Squares](https://blog.42yeah.is/algorithm/2023/07/15/marching-cubes.html)
+
 * [Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro) by *Łukasz Izdebski* - The main purpose of this article is to gather information in the field of transformation in computer graphics and put it in one place.
 
 * [OGLdev: Modern OpenGL tutorials](https://ogldev.org) by *Etay Meiri*
