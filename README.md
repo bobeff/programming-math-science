@@ -165,6 +165,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Genomics for Engineers](https://learngenomics.dev)
 
+* [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/abop/abop.pdf) by *Przemyslaw Prusinkiewicz* and *Aristid Lindenmayer* **[pdf]**
+
 ## Command line and tools
 
 * [Driving Compilers](https://fabiensanglard.net/dc) by *Fabien Sanglard*
