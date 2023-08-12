@@ -470,6 +470,8 @@ This is a list of links to different freely available learning resources about c
 
 * [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen* **[pdf]**
 
+* [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
+
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
 * [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof), Third Edition by *Richard Hammack*
