@@ -99,6 +99,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
 
+* [AI-powered Collaborative Research Environment](https://synthical.com)
+
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan*
 
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
