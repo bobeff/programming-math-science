@@ -486,6 +486,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
+* [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf) by *Timothy Gowers - editor* **[pdf]**
+
 * [Topology Without Tears](https://www.topologywithouttears.net) by *Sidney A. Morris*
 
 ### Algebra
