@@ -830,6 +830,8 @@ in 5 volumes.
 
 * [Exploring ways to make async Rust easier](https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier) by *Carl Lerche*
 
+* [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers) by *Ibraheem Ahmed*
+
 * [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics) by *Mara Bos*
 
 * [Rust Language Cheat Sheet](https://cheats.rs)
