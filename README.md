@@ -35,6 +35,7 @@ This is a list of links to different freely available learning resources about c
   * [Category Theory](#category-theory)
   * [Probability and Statistics](#probability-and-statistics)
   * [Theoretical Computer Science](#theoretical-computer-science)
+  * [Topology](#topology)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
 * [Photography](#photography)
@@ -488,8 +489,6 @@ This is a list of links to different freely available learning resources about c
 
 * [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf) by *Timothy Gowers - editor* **[pdf]**
 
-* [Topology Without Tears](https://www.topologywithouttears.net) by *Sidney A. Morris*
-
 ### Algebra
 
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
@@ -545,6 +544,14 @@ This is a list of links to different freely available learning resources about c
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
+
+### Topology
+
+* [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825) by *Michael S. Postol*
+
+* [Computational Algebraic Topology](https://people.maths.ox.ac.uk/nanda/cat) by *Vidit Nanda*
+
+* [Topology Without Tears](https://www.topologywithouttears.net) by *Sidney A. Morris*
 
 ## Multithreading and Concurrency
 
