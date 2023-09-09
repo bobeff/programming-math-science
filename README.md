@@ -67,6 +67,7 @@ This is a list of links to different freely available learning resources about c
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Smalltalk](#smalltalk)
+  * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
 * [Reverse engineering](#reverse-engineering)
@@ -850,6 +851,10 @@ in 5 volumes.
 ### Smalltalk
 
 * [Smalltalk Resources](https://smalltalk.tech.blog/resources) - A list of free smalltalk books.
+
+### Zig
+
+* [Learning Zig](https://www.openmymind.net/learning_zig) by *Karl Seguin*
 
 ## Retrocomputing
 
