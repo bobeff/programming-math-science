@@ -919,6 +919,8 @@ in 5 volumes.
 
 ### Emacs
 
+* [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
+
 * [Use GNU Emacs: The Plain Text Computing Environment](https://www2.lib.uchicago.edu/keith/emacs) by *Keith Waclena*
 
 ### Vim
