@@ -988,8 +988,6 @@ in 5 volumes.
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 
-* [The Computer Science Book](https://thecomputersciencebook.com) by *Tom Johnson*
-
 * [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
 
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
