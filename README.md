@@ -984,6 +984,8 @@ in 5 volumes.
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
+* [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
+
 * [Rocket and Space Technology](http://www.braeunig.us)
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
