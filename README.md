@@ -643,6 +643,8 @@ in 5 volumes.
 
 * [Object-Oriented Programming with ANSI-C](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf) by *Axel-Tobias Schreiner* **[pdf]**
 
+* [So You Think You Know C?](https://wordsandbuttons.online/SYTYKC.pdf) by *Oleksandr Kaleniuk* **[pdf]**
+
 * [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
 
 * [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) by *Matthew Plant*
