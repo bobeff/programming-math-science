@@ -669,6 +669,8 @@ in 5 volumes.
 
 * [Performance Analysis and Tunning on Modern CPUs](https://book.easyperf.net/perf_book) by *Denis Bakhvalov*
 
+* [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
+
 ### D
 
 * [Programming in D](http://ddili.org/ders/d.en/index.html) by *Ali Çehreli*
