@@ -306,6 +306,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Physically Based Rendering: From Theory To Implementation](https://www.pbr-book.org/) by *Matt Pharr*, *Wenzel Jakob*, and *Greg Humphreys*
 
+* [Ray-Casting Tutorial For Game Development And Other Purposes](https://permadi.com/1996/05/ray-casting-tutorial-table-of-contents) by *F. Permadi*
+
 * [Ray Tracing Gems](https://link.springer.com/book/10.1007/978-1-4842-4427-2) by *Eric Haines and Tomas Akenine-Möller*
 
 * [Ray Tracing Gems II](https://link.springer.com/book/10.1007/978-1-4842-7185-8) by *Adam Marrs, Peter Shirley, and Ingo Wald*
