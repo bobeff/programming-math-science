@@ -665,6 +665,8 @@ in 5 volumes.
 
 * [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide) by *Rajat Jain*
 
+* [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics) by *Jiayin Cao*
+
 * [Hacking C++](https://hackingcpp.com)
 
 * [Learn C++](https://www.learncpp.com)
