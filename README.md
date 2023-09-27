@@ -20,6 +20,7 @@ This is a list of links to different freely available learning resources about c
   * [Vulkan](#vulkan)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
 * [Cryptography](#cryptography)
+* [Debuggers](#debuggers)
 * [Databases](#databases)
 * [Design Patterns](#design-patterns)
 * [Distributed Systems](#distributed-systems)
@@ -367,6 +368,22 @@ This is a list of links to different freely available learning resources about c
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
 
+## Debuggers
+
+* [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) by *Kevin Pouget*
+
+* **Writing a Debugger From Scratc** by *Tim Misiak*
+
+  * [Part 1 - Attaching to a Process](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1)
+
+  * [Part 2 - Register State and Stepping](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-2)
+
+  * [Part 3 - Reading Memory](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-3)
+
+  * [Part 4 - Exports and Private Symbols](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-4)
+
+  * [Part 5 - Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5)
+
 ## Databases
 
 * [Build Your Own Database From Scratch](https://build-your-own.org/database) by *James Smith*
@@ -642,8 +659,6 @@ in 5 volumes.
 * [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) by *Simon Tatham*
 
 * [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) by *Andrei Ciobanu*
-
-* [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work)
 
 * [Object-Oriented Programming with ANSI-C](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf) by *Axel-Tobias Schreiner* **[pdf]**
 
