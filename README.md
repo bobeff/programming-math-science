@@ -180,6 +180,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com) by *Chase Lambert*
 
+* [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world) - An unofficial book for beginners by *Ryan Yin*
+
 * [The Definitive Guide To Docker](https://masteringbackend.com/posts/docker-tutorial)
 
 ### Curl
