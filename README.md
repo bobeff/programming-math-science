@@ -326,6 +326,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 2](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-2--cms-24111)
   * [Part 3](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders-part-3--cms-24351)
 
+* [GM Shaders](https://gmshaders.com) - All about shaders for GameMaker!
+
 * [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) by *Manuela Malasaña*
 
 * [Shader Tutorials by Ronja](https://www.ronja-tutorials.com)
