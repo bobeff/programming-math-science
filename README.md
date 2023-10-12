@@ -551,6 +551,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Digital textbook on probability and statistics](https://www.statlect.com) by *Marco Taboga*
 
+* [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
+
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
 * [Markov Chains for programmers](https://czekster.github.io/markov) by *Ricardo M. Czekster*
