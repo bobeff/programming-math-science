@@ -154,6 +154,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) by *Victor Eijkhout* with *Edmond Chow* and *Robert van de Geijn*
 
+* [Kalman Filter from the Ground Up](https://www.kalmanfilter.net) by *Alex Becker*
+
 * [Planning Algorithms](http://lavalle.pl/planning) by *Steven M. LaValle*
 
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) by *Johan Sannemo*
