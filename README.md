@@ -983,6 +983,8 @@ in 5 volumes.
 
 * [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses) by *Joel Spolsky*
 
+* [The Absolute Minimum Every Software Developer Must Know About Unicode in 2023](https://tonsky.me/blog/unicode) by *Nikita Prokopov*
+
 * [Unicode programming, with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html) by *Joe Nelson*
 
 ## Version control tools
