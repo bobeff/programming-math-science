@@ -790,6 +790,8 @@ in 5 volumes.
 
 * [Structure and Interpretation of Computer Programs](https://xuanji.appspot.com/isicp/index.html) by *Harold Abelson and Gerald Jay Sussman with Julie Sussman*
 
+* [(learn 'scheme)](https://jaredkrinke.github.io/learn-scheme) by *Jared Krinke*
+
 ### Nim
 
 * [Computer Programming with the Nim Programming Language](https://ssalewski.de/nimprogramming.html) by *Dr. Stefan Salewski*
