@@ -534,6 +534,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
+* [Linear Algebra Done Right](https://linear.axler.net) by *Sheldon Axler*
+
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) by *Sergei Treil*
 
 ### Calculus
