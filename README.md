@@ -553,6 +553,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
 
+* [Category Theory for Programming](https://arxiv.org/abs/2209.01259) by *Benedikt Ahrens* and *Kobe Wullaert*
+
 * [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
 
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
