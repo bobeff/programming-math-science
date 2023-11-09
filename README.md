@@ -368,6 +368,8 @@ This is a list of links to different freely available learning resources about c
 
 * [HTTP/3 explained](https://http3-explained.haxx.se) by *Daniel Stenberg*
 
+* [Implementing TCP In Rust](https://github.com/Ghvstcode/Rust-Tcp) by *Ghvst Code*
+
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
