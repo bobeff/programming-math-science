@@ -14,6 +14,7 @@ This is a list of links to different freely available learning resources about c
   * [Linux command line](#linux-command-line)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
+  * [Curves and Surfaces](#curves-and-surfaces)
   * [Demoscene](#demoscene)
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
@@ -239,15 +240,11 @@ This is a list of links to different freely available learning resources about c
 
 * [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
 
-* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
-
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by *Fabian Giesen*
 
 * [Collection of AMD Research Publications](https://gpuopen.com/learn/publications)
 
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) by *Gabriel Gambetta*
-
-* [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
 
 * [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer) by *Kristoffer Dyrkorn*
 
@@ -294,6 +291,14 @@ This is a list of links to different freely available learning resources about c
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 * [WebGPU Fundamentals](https://webgpufundamentals.org)
+
+### Curves and Surfaces
+
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
+
+* [Cubic spline interpolation](https://eli.thegreenplace.net/2023/cubic-spline-interpolation) by *Eli Bendersky*
+
+* [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
 
 ### Demoscene
 
