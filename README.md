@@ -63,6 +63,7 @@ This is a list of links to different freely available learning resources about c
   * [Nim](#nim)
   * [OCaml](#ocaml)
   * [Pascal](#pascal)
+  * [PostScript](#postscript)
   * [Prolog](#prolog)
   * [Pyret](#pyret)
   * [Python](#python)
@@ -825,6 +826,10 @@ in 5 volumes.
 ### Pascal
 
 * [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal_introduction.html) by *Michalis Kamburelis*
+
+### PostScript
+
+* [Learning PostScript by Doing](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf) by *Andre Heck*
 
 ### Prolog
 
