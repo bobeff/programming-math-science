@@ -101,6 +101,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
+* [Deep Learning Course](https://fleuret.org/dlc) by *François Fleuret*
+
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
