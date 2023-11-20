@@ -62,6 +62,7 @@ This is a list of links to different freely available learning resources about c
     * [Scheme](#scheme)
   * [Nim](#nim)
   * [OCaml](#ocaml)
+  * [Oberon-2](#oberon-2)
   * [Pascal](#pascal)
   * [PostScript](#postscript)
   * [Prolog](#prolog)
@@ -824,6 +825,10 @@ in 5 volumes.
 * [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) by *Michael R. Clarkson*
 
 * [Real World OCaml](https://dev.realworldocaml.org) by *Yaron Minsky*, *Anil Madhavapeddy* and *Jason Hickey*
+
+### Oberon-2
+
+* [Object-Oriented Programming in Oberon-2](https://ssw.jku.at/Research/Books/Oberon2.pdf) by *Hanspeter Mössenböck* **[pdf]**
 
 ### Pascal
 
