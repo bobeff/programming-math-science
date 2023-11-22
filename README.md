@@ -298,6 +298,8 @@ This is a list of links to different freely available learning resources about c
 
 * [WebGPU Fundamentals](https://webgpufundamentals.org)
 
+* [Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app) by *Brandon Jones* and *François Beaufort*
+
 ### Curves and Surfaces
 
 * [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo)
