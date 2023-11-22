@@ -19,6 +19,7 @@ This is a list of links to different freely available learning resources about c
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
   * [Vulkan](#vulkan)
+  * [WebGPU](#webgpu)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
 * [Cryptography](#cryptography)
 * [Debuggers](#debuggers)
@@ -263,10 +264,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
 
-* [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU) by *Elie Michel*
-
-* [Learn Wgpu](https://sotrh.github.io/learn-wgpu) by *Ben Hansen*
-
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
 
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
@@ -295,10 +292,6 @@ This is a list of links to different freely available learning resources about c
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
-
-* [WebGPU Fundamentals](https://webgpufundamentals.org)
-
-* [Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app) by *Brandon Jones* and *François Beaufort*
 
 ### Curves and Surfaces
 
@@ -368,6 +361,16 @@ This is a list of links to different freely available learning resources about c
 * [Vulkan Tutorial](https://vulkan-tutorial.com) by *Alexander Overvoorde*
 
 * [Vulkan Tutorial (Rust)](https://kylemayes.github.io/vulkanalia) by *Kyle Mayes*
+
+### WebGPU
+
+* [Learn WebGPU](https://eliemichel.github.io/LearnWebGPU) by *Elie Michel*
+
+* [Learn Wgpu](https://sotrh.github.io/learn-wgpu) by *Ben Hansen*
+
+* [WebGPU Fundamentals](https://webgpufundamentals.org)
+
+* [Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app) by *Brandon Jones* and *François Beaufort*
 
 ## Computer Networks and Network Programming
 
