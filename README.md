@@ -291,6 +291,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
+* [RasterTek toturials](https://rastertek.com/tutindex.html)
+
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Curves and Surfaces
