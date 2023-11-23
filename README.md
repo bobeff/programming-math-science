@@ -33,6 +33,7 @@ This is a list of links to different freely available learning resources about c
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Logical Games](#logical-games)
+* [Low Level Stuff](#low-level)
 * [Math](#math)
   * [Algebra](#algebra)
   * [Calculus](#calculus)
@@ -522,6 +523,16 @@ This is a list of links to different freely available learning resources about c
 * [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
 
 * [The World's Fastest Scrabble Program](https://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf) by Andrew W. Appel and Guy J. Jacobson **[pdf]**
+
+## Low Level Stuff
+
+* [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement) by *Michael Doornbos*
+
+* [Computer Science from the Bottom Up](https://www.bottomupcs.com) by *Ian Wienand*
+
+* [Memory Management Reference](https://www.memorymanagement.org)
+
+* [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
 
 ## Math
 
@@ -1061,15 +1072,9 @@ in 5 volumes.
 
 * [Beej's Guides](http://beej.us/guide)
 
-* [Computer Science from the Bottom Up](https://www.bottomupcs.com) by *Ian Wienand*
-
 * [Explained from First Principles](https://explained-from-first-principles.com) by *Kaspar Etter*
 
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
-
-* [Memory Management Reference](https://www.memorymanagement.org)
-
-* [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
 
 * [Rocket and Space Technology](http://www.braeunig.us)
 
