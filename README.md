@@ -1065,6 +1065,8 @@ in 5 volumes.
 
 * [Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2)
 
+* [Josh Comeau's Website](https://www.joshwcomeau.com)
+
 * [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
 
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
