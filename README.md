@@ -30,6 +30,7 @@ This is a list of links to different freely available learning resources about c
 * [Emulators and Virtual Machines](#emulators-and-virtual-machines)
 * [Game Programming](#game-programming)
   * [Game Engines](#game-engines)
+* [Geographic Information Systems](#geographic-information-systems)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Logical Games](#logical-games)
@@ -497,6 +498,10 @@ This is a list of links to different freely available learning resources about c
 ### Game Engines
 
 * [Unofficial Bevy Cheat Book](https://bevy-cheatbook.github.io)
+
+## Geographic Information Systems
+
+* [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook) by *Hugo Ledoux, Ken Arroyo Ohori, Ravi Peters, and Maarten Pronk*
 
 ## GUI Programming
 
