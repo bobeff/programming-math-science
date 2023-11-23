@@ -404,7 +404,7 @@ This is a list of links to different freely available learning resources about c
 
 * [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) by *Kevin Pouget*
 
-* **Writing a Debugger From Scratc** by *Tim Misiak*
+* **Writing a Debugger From Scratch** by *Tim Misiak*
 
   * [Part 1 - Attaching to a Process](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1)
 
@@ -415,6 +415,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 4 - Exports and Private Symbols](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-4)
 
   * [Part 5 - Breakpoints](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-5)
+
+  * [Part 6 - Stacks](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-6)
 
 ## Databases
 
