@@ -86,6 +86,7 @@ This is a list of links to different freely available learning resources about c
 * [Unicode](#unicode)
 * [Version control tools](#version-control-tools)
 * [Web programming](#web-programming)
+  * [CSS](#css)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -1069,11 +1070,15 @@ in 5 volumes.
 
 * [Josh Comeau's Website](https://www.joshwcomeau.com)
 
-* [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
-
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
+
+### CSS
+
+* [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid) by *Chris House*
+
+* [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
 
 ## Other
 
