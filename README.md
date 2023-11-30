@@ -80,6 +80,7 @@ This is a list of links to different freely available learning resources about c
   * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
+* [SIMD programming](#simd-programming)
 * [Text editors](#text-editors)
   * [Emacs](#emacs)
   * [Vim](#vim)
@@ -1025,6 +1026,14 @@ in 5 volumes.
 * [The open online robotics education resource](https://robotacademy.net.au)
 
 * [Underactuated Robotics](https://underactuated.mit.edu/) by *Russ Tedrake*
+
+## SIMD programming
+
+[ARM NEON for C++ Developers](http://const.me/articles/simd/NEON.pdf) **[pdf]**
+
+[Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64) by *Miguel Young de la Sota*
+
+[SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf) **[pdf]**
 
 ## Text editors
 
