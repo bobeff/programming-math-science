@@ -134,6 +134,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
+* [Understanding Deep Learning](https://udlbook.github.io/udlbook) by *Simon J.D. Prince*
+
 ### Computer Games AI
 
 * [Game AI Pro](http://www.gameaipro.com) by *Steve Rabin*
