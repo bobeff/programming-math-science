@@ -110,6 +110,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
 
+* [Dive into Deep Learning](https://d2l.ai)
+
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
 
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan*
