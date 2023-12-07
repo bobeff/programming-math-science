@@ -440,6 +440,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Design Patterns
 
+* [Data Engineering Design Patterns (DEDP)](https://www.dedp.online)
+
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook) by *Richard Fabian*
 
 * [Design Patterns & Refactoring](https://sourcemaking.com) *SourceMaking*
