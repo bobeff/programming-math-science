@@ -732,6 +732,8 @@ in 5 volumes.
 
 ### C
 
+* [Compiler Options Hardening Guide for C and C++](https://best.openssf.org/Compiler-Hardening-Guides/Compiler-Options-Hardening-Guide-for-C-and-C++.html)
+
 * [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html) by *Simon Tatham*
 
 * [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) by *Andrei Ciobanu*
