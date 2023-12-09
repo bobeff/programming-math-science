@@ -8,6 +8,7 @@ This is a list of links to different freely available learning resources about c
   * [Machine Learning](#machine-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
+* [Art](#art)
 * [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
   * [Curl](#curl)
@@ -180,6 +181,10 @@ This is a list of links to different freely available learning resources about c
 * [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) by *Chris Okasaki*
 
 * [Sequential and Parallel Data Structures and Algorithms: The Basic Toolbox](https://people.mpi-inf.mpg.de/~mehlhorn/ToolboxNew.html) by *Peter Sanders, Kurt Mehlhorn, Martin Dietzfelbinger, and Roman Dementiev*
+
+## Art
+
+* [Pixel art articles and tutorials](https://saint11.org) by *Pedro Medeiros*
 
 ## Biology
 
