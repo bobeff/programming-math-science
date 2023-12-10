@@ -441,6 +441,8 @@ This is a list of links to different freely available learning resources about c
 
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
 
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
 
 ## Design Patterns
