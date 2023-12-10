@@ -78,6 +78,7 @@ This is a list of links to different freely available learning resources about c
   * [Smalltalk](#smalltalk)
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
+  * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
   * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
@@ -1013,6 +1014,12 @@ in 5 volumes.
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
 
 * [ZX Spectrum Next: Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) by *Tomaz Kragelj*
+
+### Adevent of code on retro machines
+
+* [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022) by *Jukka Jylänki*
+
+* [Advent Of Code 2023 on a Commodore 64](http://clb.confined.space/aoc2023) by *Jukka Jylänki*
 
 ### Books by Fabien Sanglard
 
