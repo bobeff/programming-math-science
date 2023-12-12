@@ -111,6 +111,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning Course](https://fleuret.org/dlc) by *François Fleuret*
 
+* [Deep Learning: Foundations and Concepts](https://www.bishopbook.com) by *Chris Bishop with Hugh Bishop*
+
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
 
 * [Dive into Deep Learning](https://d2l.ai)
