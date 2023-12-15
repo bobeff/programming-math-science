@@ -440,6 +440,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Build Your Own Redis with C/C++](https://build-your-own.org/redis) by *James Smith*
 
+* [Database Fundamentals](https://tontinton.com/posts/database-fundementals) by *Tony Solomonik*
+
 * [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
 
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
