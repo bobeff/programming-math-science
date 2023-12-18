@@ -565,6 +565,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Math
 
+* [3Blue1Brown lessons](https://www.3blue1brown.com/#lessons) by *Grant Sanderson*
+
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat*
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
