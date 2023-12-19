@@ -362,6 +362,8 @@ This is a list of links to different freely available learning resources about c
 
 * [GM Shaders](https://gmshaders.com) - All about shaders for GameMaker!
 
+* [Mesh Shaders on RDNA™ Graphics Cards](https://gpuopen.com/learn/mesh-shaders-on-rdna-graphics-cards) by *Max Oberberger*, *Bastian Kuth* and *Quirin Meyer*
+
 * [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) by *Manuela Malasaña*
 
 * [Shader Tutorials by Ronja](https://www.ronja-tutorials.com)
