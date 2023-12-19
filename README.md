@@ -309,6 +309,8 @@ This is a list of links to different freely available learning resources about c
 
 * [RasterTek toturials](https://rastertek.com/tutindex.html)
 
+* [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
+
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Curves and Surfaces
