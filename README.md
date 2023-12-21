@@ -47,6 +47,7 @@ This is a list of links to different freely available learning resources about c
 * [Operating Systems](#operating-systems)
 * [Photography](#photography)
 * [Physics](#physics)
+  * [Simulations](#simulations)
 * [Programming Languages](#programming-languages)
   * [Assembly](#assembly)
   * [Basic](#basic)
@@ -719,6 +720,10 @@ in 5 volumes.
 * [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html), Second Edition by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and [Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)*
 
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
+
+### Simulations
+
+* [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics)	by *Matthias Müller*
 
 ## Programming languages
 
