@@ -1091,6 +1091,8 @@ in 5 volumes.
 
 * [Design and Implementation of a Win32 Text Editor](https://www.catch22.net/tuts/neatpad) by *James Brown*
 
+* [Text Buffer Reimplementation](https://code.visualstudio.com/blogs/2018/03/23/text-buffer-reimplementation) by *Peng Lyu*
+
 * [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html) by *Avery Laird*
 
 ### Emacs
