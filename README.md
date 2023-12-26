@@ -1082,6 +1082,8 @@ in 5 volumes.
 
 * [Design and Implementation of a Win32 Text Editor](https://www.catch22.net/tuts/neatpad) by *James Brown*
 
+* [Text Editor: Data Structures](https://www.averylaird.com/programming/the%20text%20editor/2017/09/30/the-piece-table.html) by *Avery Laird*
+
 ### Emacs
 
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
