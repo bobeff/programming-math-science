@@ -703,6 +703,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
+* [OSDev.org](https://osdev.org/Main_Page)
+
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
 
 * [The Linux Documentation Project](https://tldp.org)
