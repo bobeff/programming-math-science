@@ -246,6 +246,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Let's Build a Compiler](https://xmonader.github.io/letsbuildacompiler-pretty) by *Jack Crenshaw*
 
+* **Let's make a Teeny Tiny compiler** by *Austin Z. Henley*
+  * [Part 1](https://austinhenley.com/blog/teenytinycompiler1.html)
+  * [Part 2](https://austinhenley.com/blog/teenytinycompiler2.html)
+  * [Part 3](https://austinhenley.com/blog/teenytinycompiler3.html)
+
 * **Let's Write a Compiler** by *Brian Robert Callahan*
   * [Part 1: Introduction, selecting a language, and doing some planning](https://briancallahan.net/blog/20210814.html)
   * [Part 2: A lexer](https://briancallahan.net/blog/20210815.html)
