@@ -1080,6 +1080,8 @@ in 5 volumes.
 
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo)
 
+* [Design and Implementation of a Win32 Text Editor](https://www.catch22.net/tuts/neatpad) by *James Brown*
+
 ### Emacs
 
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
