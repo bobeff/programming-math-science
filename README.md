@@ -400,6 +400,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn Wgpu](https://sotrh.github.io/learn-wgpu) by *Ben Hansen*
 
+* [Migrating from WebGL to WebGPU](https://hackernoon.com/migrating-from-webgl-to-webgpu) by *Dmitrii Ivashchenko*
+
 * [WebGPU Fundamentals](https://webgpufundamentals.org)
 
 * [Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app) by *Brandon Jones* and *François Beaufort*
