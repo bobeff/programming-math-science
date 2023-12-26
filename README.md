@@ -1141,6 +1141,8 @@ in 5 volumes.
 
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
 
+* [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) by *Alex Gaynor*
+
 ### CSS
 
 * [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid) by *Chris House*
