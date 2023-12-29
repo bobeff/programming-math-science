@@ -1101,6 +1101,10 @@ in 5 volumes.
 
 ### Emacs
 
+* **Emacs From Scratch** by *Arne Bahlo*
+  * [Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
+  * [Part 2: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
+
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
 
 * [Use GNU Emacs: The Plain Text Computing Environment](https://www2.lib.uchicago.edu/keith/emacs) by *Keith Waclena*
