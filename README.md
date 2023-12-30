@@ -174,8 +174,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf) by *Udi Manber* **[pdf]**
 
-* [Introduction to High Performance Scientific Computing](https://web.corral.tacc.utexas.edu/CompEdu/pdf/stc/EijkhoutIntroToHPC.pdf) by *Victor Eijkhout* with *Edmond Chow* and *Robert van de Geijn*
-
 * [Kalman Filter from the Ground Up](https://www.kalmanfilter.net) by *Alex Becker*
 
 * [Planning Algorithms](http://lavalle.pl/planning) by *Steven M. LaValle*
@@ -1172,6 +1170,8 @@ in 5 volumes.
 * [Rocket and Space Technology](http://www.braeunig.us)
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
+
+* [The Art of HPC](https://theartofhpc.com) by *Victor Eijkhout*
 
 * [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
 
