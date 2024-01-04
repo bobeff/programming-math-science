@@ -1173,6 +1173,8 @@ in 5 volumes.
 
 * [Rocket and Space Technology](http://www.braeunig.us)
 
+* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by *James* **[pdf]**
+
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 
 * [The Art of HPC](https://theartofhpc.com) by *Victor Eijkhout*
