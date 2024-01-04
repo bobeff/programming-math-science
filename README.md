@@ -685,6 +685,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A C++17 Thread Pool for High-Performance Scientific Computing](https://arxiv.org/abs/2105.00613) by *Barak Shoshany*
 
+* [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf) by *Leslie Lamport* **[pdf]**
+
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) by *Paul E. McKenney*
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
