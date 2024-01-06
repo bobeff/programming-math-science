@@ -711,6 +711,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
 
+* [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html) by *Eric Steven Raymond*
+
 * [The Linux Documentation Project](https://tldp.org)
 
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg) by *Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang*
