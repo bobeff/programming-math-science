@@ -1201,4 +1201,6 @@ in 5 volumes.
 
 * [Free Tech Books](https://www.freetechbooks.com)
 
+* [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d) by *Ken Hu*
+
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
