@@ -234,6 +234,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Build Your Own Lisp](https://buildyourownlisp.com) by *Daniel Holden*
 
+* **Building the fastest Lua interpreter.. automatically!** by *Haoran Xu*
+  * [Part 1](https://sillycross.github.io/2022/11/22/2022-11-22)
+  * [Part 2: Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12)
+
 * [Crafting Interpreters](http://craftinginterpreters.com) by *Robert Nystrom*
 
 * [Creating the Bolt Compiler](https://mukulrathi.co.uk/create-your-own-programming-language/intro-to-compiler) by *Mukul Rathi*
