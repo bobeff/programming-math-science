@@ -1029,6 +1029,8 @@ in 5 volumes.
 
 * [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
 
+* [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
+
 * [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs)
 
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
