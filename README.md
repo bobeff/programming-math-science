@@ -54,6 +54,7 @@ This is a list of links to different freely available learning resources about c
   * [C](#c)
   * [C++](#cpp)
   * [D](#d)
+  * [Datalog](#datalog)
   * [Erlang](#erlang)
   * [Go](#go)
   * [Haskell](#haskell)
@@ -821,6 +822,10 @@ in 5 volumes.
 ### D
 
 * [Programming in D](http://ddili.org/ders/d.en/index.html) by *Ali Çehreli*
+
+### Datalog
+
+* [Learn Datalog Today](https://www.learndatalogtoday.org) by *Jonas Enlund*
 
 ### Erlang
 
