@@ -167,6 +167,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) by *Jason Brownlee*
 
+* [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
+
 * [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
