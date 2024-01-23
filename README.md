@@ -127,6 +127,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Machine Learning Engineering Book](http://www.mlebook.com/wiki) by *Andriy Burkov*
 
+* [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) by *Stas Bekman*
+
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
