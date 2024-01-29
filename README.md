@@ -1182,6 +1182,8 @@ in 5 volumes.
 
 * [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
 
+* [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev) by *Stephanie Eckles*
+
 ## Other
 
 * [Agner Fog's Website](https://www.agner.org)
