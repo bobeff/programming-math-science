@@ -211,6 +211,8 @@ This is a list of links to different freely available learning resources about c
 
 * [How I'm still not using GUIs: A guide to the terminal](https://lucasfcosta.com/2019/02/10/terminal-guide-2019.html) by *Lucas Fernandes da Costa*
 
+* [How is a binary executable organized? Let's explore it!](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable) by *Julia Evans*
+
 * [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com) by *Chase Lambert*
 
 * [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world) - An unofficial book for beginners by *Ryan Yin*
