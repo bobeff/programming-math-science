@@ -674,6 +674,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
+* [CompSciLib](https://www.compscilib.com/search/statistics?onboarding=true) - A website featuring Statistics Calculators, Practice Problems, and Cheatsheets.
+
 ### Theoretical Computer Science
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
