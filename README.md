@@ -722,6 +722,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
 
+* [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) by *Andre Richter*
+
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
 * [OSDev.org](https://osdev.org/Main_Page)
