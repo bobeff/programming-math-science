@@ -479,6 +479,8 @@ This is a list of links to different freely available learning resources about c
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 
+* [SQL for the Weary](https://gvwilson.github.io/sql-tutorial) by *Greg Wilson*
+
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
 
 ## Design Patterns
