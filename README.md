@@ -82,6 +82,7 @@ This is a list of links to different freely available learning resources about c
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
   * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
+  * [DOS](#dos)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [SIMD programming](#simd-programming)
@@ -1089,6 +1090,12 @@ in 5 volumes.
 * [Game Eengine Black Book: Wolfenstein 3D](https://fabiensanglard.net/b/gebbwolf3d.pdf) [pdf]
 
 * [The Book of CP-System](https://fabiensanglard.net/b/cpsb.pdf) [pdf]
+
+### DOS
+
+* [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos) by *Julio Merino*
+
+* [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos) by *Julio Merino*
 
 ## Reverse engineering
 
