@@ -56,6 +56,7 @@ This is a list of links to different freely available learning resources about c
   * [D](#d)
   * [Datalog](#datalog)
   * [Erlang](#erlang)
+  * [Forth](#forth)
   * [Go](#go)
   * [Haskell](#haskell)
   * [Java](#java)
@@ -845,6 +846,12 @@ in 5 volumes.
 ### Erlang
 
 * [Learn You Some Erlang for great good!](https://learnyousomeerlang.com) by *Fred Hebert*
+
+### Forth
+
+* [Starting FORTH](https://www.forth.com/starting-forth) by *Leo Brodie*
+
+* [Thinking Forth](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf) by *Leo Brodie* **[pdf]**
 
 ### Go
 
