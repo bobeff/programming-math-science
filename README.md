@@ -177,6 +177,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
 
+* [Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf) by *Manos Athanassoulis
+, Stratos Idreos and Dennis Shasha* **[pdf]**
+
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
 
 * [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html) by *Mateusz Kuźmik*
