@@ -836,6 +836,13 @@ in 5 volumes.
 
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
+* **Memory Profiling** by *Denis Bakhvalov*
+  * [Part 1. Introduction](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1)
+  * [Part 2: Memory Usage Case Study](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part2)
+  * [Part 3: Memory Footprint with SDE](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part3)
+  * [Part 4: Memory Footprint Case Study](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part4)
+  * [Part 5. Data Locality and Reuse Distances](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part5)
+
 * [Performance Analysis and Tunning on Modern CPUs](https://book.easyperf.net/perf_book) by *Denis Bakhvalov*
 
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
