@@ -843,7 +843,7 @@ in 5 volumes.
   * [Part 4: Memory Footprint Case Study](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part4)
   * [Part 5. Data Locality and Reuse Distances](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part5)
 
-* [Performance Analysis and Tunning on Modern CPUs](https://book.easyperf.net/perf_book) by *Denis Bakhvalov*
+* [Performance Analysis and Tunning on Modern CPUs](https://github.com/dendibakh/perf-book) by *Denis Bakhvalov*
 
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
