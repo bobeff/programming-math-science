@@ -1008,6 +1008,8 @@ in 5 volumes.
 
 * [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e) by *Allen B. Downey*
 
+* [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by *Allen B. Downey*
+
 ### Regular expressions
 
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
