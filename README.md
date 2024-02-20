@@ -889,6 +889,8 @@ in 5 volumes.
 
 * [Eloquent JavaScript](https://eloquentjavascript.net) by *Marijn Haverbeke*
 
+* [Exploring JS: JavaScript books for programmers](https://exploringjs.com) by *Dr. Axel Rauschmayer*
+
 * [Speaking JavaScript: An In-Depth Guide for Programmers](https://exploringjs.com/es5) by *Dr. Axel Rauschmayer*
 
 * [Structure and Interpretation of Computer Programs — JavaScript Edition](https://sourceacademy.org/sicpjs) by
