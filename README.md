@@ -1236,6 +1236,8 @@ in 5 volumes.
 
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
 
+* [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://www.projectoberon.net) by *Niklaus Wirth* and *Jürg Gutknecht*
+
 * [Rocket and Space Technology](http://www.braeunig.us)
 
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by *James* **[pdf]**
