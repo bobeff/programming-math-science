@@ -127,6 +127,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
 
+* [Learning Theory from First Principles](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf) by *Francis Bach* **[pdf]**
+
 * [Machine Learning Engineering Book](http://www.mlebook.com/wiki) by *Andriy Burkov*
 
 * [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) by *Stas Bekman*
