@@ -50,6 +50,7 @@ This is a list of links to different freely available learning resources about c
 * [Physics](#physics)
   * [Simulations](#simulations)
 * [Programming Languages](#programming-languages)
+  * [Ada](#ada)
   * [Assembly](#assembly)
   * [Basic](#basic)
   * [C](#c)
@@ -782,6 +783,10 @@ in 5 volumes.
 ## Programming languages
 
 * [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/itpl) by *Bertrand Meyer*
+
+### Ada
+
+* [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm) by *John English*
 
 ### Assembly
 
