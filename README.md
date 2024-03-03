@@ -23,6 +23,7 @@ This is a list of links to different freely available learning resources about c
   * [WebGPU](#webgpu)
 * [Computer Networks and Network Programming](#computer-networks-and-network-programming)
 * [Cryptography](#cryptography)
+* [Data Science](#data-science)
 * [Debuggers](#debuggers)
 * [Databases](#databases)
 * [Design Patterns](#design-patterns)
@@ -453,6 +454,12 @@ This is a list of links to different freely available learning resources about c
 * [Cryptography: An Introduction (3rd Edition)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf) by *Nigel Smart* **[pdf]**
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
+
+## Data Science
+
+* [Advanced Data Science: Statistics and Prediction Algorithms Through Case Studies](https://rafalab.dfci.harvard.edu/dsbook-part-2) by *Rafael A. Irizarry*
+
+* [Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1) by *Rafael A. Irizarry*
 
 ## Debuggers
 
