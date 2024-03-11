@@ -149,6 +149,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) by *Kevin Patrick Murphy*
 
+* [Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/) by *Daniel Jurafsky* and *James H. Martin*
+
 * [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
