@@ -593,6 +593,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Architecture of Consoles](https://www.copetti.org/writings/consoles) by *Rodrigo Copetti*
 
+* [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
+
 * [Modern Microprocessors: A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors) by *Jason Robert Carey Patterson*
 
 * [Processor Design: An Introduction](http://www.gamezero.com/team-0/articles/math_magic/micro)
