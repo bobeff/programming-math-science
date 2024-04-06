@@ -649,6 +649,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
+* [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
+
 * [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf) by *Timothy Gowers - editor* **[pdf]**
 
 ### Algebra
