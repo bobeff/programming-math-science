@@ -623,6 +623,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat*
 
+* [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM) by *Joe Fields*
+
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz) by *Clive Newstead*
