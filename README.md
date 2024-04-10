@@ -749,6 +749,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) by *Stephen Marz*
 
+* **Making an RISC-V OS**
+  * [Part 1 - Project Setup](https://traxys.me/riscv_os_setup.html)
+  * [Part 2 - Kernel in virtual addresses](https://traxys.me/riscv_os_2.html)
+  * [Part 3 - Managing free memory](https://traxys.me/riscv_os_buddy.html)
+
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos*
 
 * [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) by *Andre Richter*
