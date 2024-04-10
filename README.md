@@ -715,6 +715,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
+* [Mathematics and Computation](https://www.math.ias.edu/avi/book) by [*Avi Wigderson*](https://en.wikipedia.org/wiki/Avi_Wigderson)
+
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
 
 ### Topology
