@@ -345,6 +345,15 @@ This is a list of links to different freely available learning resources about c
 
 * [RasterTek toturials](https://rastertek.com/tutindex.html)
 
+* **Recreating Nanite** by *Xavier Niochaut*
+  * [Part 1 - The Plan](https://jglrxavpok.github.io/2023/11/12/recreating-nanite-the-plan.html)
+  * [Part 2 - Visibility buffer](https://jglrxavpok.github.io/2023/11/26/recreating-nanite-visibility-buffer.html)
+  * [Part 3 - Cluster rendering](https://jglrxavpok.github.io/2023/12/07/recreating-nanite-cluster-rendering.html)
+  * [Part 4 - LOD generation](https://jglrxavpok.github.io/2024/01/19/recreating-nanite-lod-generation.html)
+  * [Part 5 - A basic material pass](https://jglrxavpok.github.io/2024/02/06/recreating-nanite-material-pass.html)
+  * [Part 6 - LOD generation - faster, better, simpler](https://jglrxavpok.github.io/2024/03/12/recreating-nanite-faster-lod-generation.html)
+  * [Part 7 - Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
+
 * [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
