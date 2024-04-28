@@ -41,6 +41,7 @@ This is a list of links to different freely available learning resources about c
   * [Algebra](#algebra)
   * [Calculus](#calculus)
   * [Category Theory](#category-theory)
+  * [Geometry](#geometry)
   * [Probability and Statistics](#probability-and-statistics)
   * [Theoretical Computer Science](#theoretical-computer-science)
   * [Topology](#topology)
@@ -693,6 +694,10 @@ This is a list of links to different freely available learning resources about c
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
+
+### Geometry
+
+* [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
 
 ### Probability and Statistics
 
