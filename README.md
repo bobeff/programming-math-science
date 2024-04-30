@@ -110,6 +110,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms for Decision Making](https://algorithmsbook.com) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
 
+* [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book) by *Simone Scardapane*
+
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
 
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://faculty.washington.edu/sbrunton/DataBookV2.pdf) by *Steven L. Brunton and J. Nathan Kutz* **[pdf]**
