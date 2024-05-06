@@ -124,6 +124,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
 
+* [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh)
+
 * [Dive into Deep Learning](https://d2l.ai)
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
