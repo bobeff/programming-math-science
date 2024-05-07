@@ -402,6 +402,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Ray Tracing in One Weekend: The Book Series](https://raytracing.github.io) by *Peter Shirley*
 
+* [Ray Tracing with Voxels in C++](https://jacco.ompf2.com/2024/04/24/ray-tracing-with-voxels-in-c-series-part-1) by *Jacco Bikker*
+
 ### Shaders
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
