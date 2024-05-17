@@ -863,6 +863,8 @@ in 5 volumes.
 
 * [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) by *Andrei Ciobanu*
 
+* [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
+
 * [Object-Oriented Programming with ANSI-C](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf) by *Axel-Tobias Schreiner* **[pdf]**
 
 * [So You Think You Know C?](https://wordsandbuttons.online/SYTYKC.pdf) by *Oleksandr Kaleniuk* **[pdf]**
