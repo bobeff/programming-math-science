@@ -1087,6 +1087,8 @@ in 5 volumes.
 
 ### Rust
 
+* [100 Exercises To Learn Rust](https://rust-exercises.com)
+
 * [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) by *Steve Donovan*
 
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
