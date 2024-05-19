@@ -691,6 +691,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
+* [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl) by *John Verzani*
+
 ### Category Theory
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
