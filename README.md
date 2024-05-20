@@ -373,6 +373,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Demoscene
 
+* [How a 64k intro is made](https://www.lofibucket.com/articles/64k_intro.html) by *Pekka Väänänen*
+
 * The making of Immersion
   * [Part 1: A dive into the making of Immersion](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion)
   * [Part 2: Texturing in a 64kB intro](http://www.ctrl-alt-test.fr/2018/texturing-in-a-64kb-intro)
