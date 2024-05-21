@@ -358,6 +358,7 @@ This is a list of links to different freely available learning resources about c
   * [Part 5 - A basic material pass](https://jglrxavpok.github.io/2024/02/06/recreating-nanite-material-pass.html)
   * [Part 6 - LOD generation - faster, better, simpler](https://jglrxavpok.github.io/2024/03/12/recreating-nanite-faster-lod-generation.html)
   * [Part 7 - Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
+  * [Part 8 - Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html)
 
 * [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
 
