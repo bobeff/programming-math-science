@@ -471,6 +471,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Implementing TCP In Rust](https://github.com/Ghvstcode/Rust-Tcp) by *Ghvst Code*
 
+* [Mediocre Engineer’s guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https) by *Devon Peroutky*
+
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
