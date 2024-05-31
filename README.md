@@ -1056,6 +1056,8 @@ in 5 volumes.
 
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy) by *Nicolas P. Rougier*
 
+* [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy) by *Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers*
+
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
 * [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d) by *Lev Maximov*
