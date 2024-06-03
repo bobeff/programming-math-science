@@ -813,6 +813,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country) by *Andy Matuschak and Michael Nielsen*
 
+* [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations) by *Nick M.*
+
 * [Physics for Mathematicians](https://nicf.net/articles/physics-for-mathematicians) by *Nicolas James Marks Ford*
 
 * [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
