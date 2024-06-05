@@ -652,6 +652,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
+* [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) by *Andrei Ciobanu*
+
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz) by *Clive Newstead*
 
 * [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen* **[pdf]**
