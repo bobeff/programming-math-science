@@ -341,6 +341,8 @@ This is a list of links to different freely available learning resources about c
     * [Part 1](https://interplayoflight.wordpress.com/2023/07/15/raytraced-order-independent-transparency)
     * [Part 2](https://interplayoflight.wordpress.com/2023/07/30/raytraced-order-independent-transparency-part-2)
 
+* [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.md.html) by *Romain Guy* and *Mathias Agopian*
+
 * **Probability Theory for Physically Based Rendering** by *Jacco Bikker*
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
