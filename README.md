@@ -444,6 +444,8 @@ This is a list of links to different freely available learning resources about c
 
 * [I Am Graphics And So Can You](https://www.fasterthan.life/blog) - a series of blog posts about implementing a Vulkan renderer for Doom 3 by *Dustin H. Land*
 
+* [How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan) by *Elias Daler*
+
 * [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
 * [Vulkan Guide](https://vkguide.dev)
