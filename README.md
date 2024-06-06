@@ -17,6 +17,7 @@ This is a list of links to different freely available learning resources about c
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
   * [Demoscene](#demoscene)
+  * [OpenGL](#opengl)
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
   * [Vulkan](#vulkan)
@@ -319,8 +320,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
-* [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
-
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
 
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
@@ -330,8 +329,6 @@ This is a list of links to different freely available learning resources about c
 * [Marching Cubes, Explained Using Marching Squares](https://blog.42yeah.is/algorithm/2023/07/15/marching-cubes.html)
 
 * [Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro) by *Łukasz Izdebski* - The main purpose of this article is to gather information in the field of transformation in computer graphics and put it in one place.
-
-* [OGLdev: Modern OpenGL tutorials](https://ogldev.org) by *Etay Meiri*
 
 * [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index) by *Fabian Giesen*
 
@@ -380,6 +377,16 @@ This is a list of links to different freely available learning resources about c
   * [Part 1: A dive into the making of Immersion](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion)
   * [Part 2: Texturing in a 64kB intro](http://www.ctrl-alt-test.fr/2018/texturing-in-a-64kb-intro)
   * [Part 3: Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro)
+
+### OpenGL
+
+* [A Guide to Modern OpenGL Functions](https://github.com/fendevel/Guide-to-Modern-OpenGL-Functions)
+
+* [Best Practices for Modern OpenGL](https://juandiegomontoya.github.io/modern_opengl.html)
+
+* [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
+
+* [OGLdev: Modern OpenGL tutorials](https://ogldev.org) by *Etay Meiri*
 
 ### Ray Tracing
 
