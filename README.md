@@ -1081,6 +1081,8 @@ in 5 volumes.
 
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) by *David Beazley*
 
+* [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl) by *Nicolas P. Rougier*
+
 * [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio) by *Jason Brownlee*
 
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) by *Jake VanderPlas*
