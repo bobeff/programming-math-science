@@ -74,6 +74,7 @@ This is a list of links to different freely available learning resources about c
   * [Nim](#nim)
   * [OCaml](#ocaml)
   * [Oberon-2](#oberon-2)
+  * [Odin](#odin)
   * [Pascal](#pascal)
   * [PostScript](#postscript)
   * [Prolog](#prolog)
@@ -1038,6 +1039,10 @@ in 5 volumes.
 ### Oberon-2
 
 * [Object-Oriented Programming in Oberon-2](https://ssw.jku.at/Research/Books/Oberon2.pdf) by *Hanspeter Mössenböck* **[pdf]**
+
+### Odin
+
+* [Introduction to the Odin Programming Language](https://zylinski.se/posts/introduction-to-odin) by *Karl Zylinski*
 
 ### Pascal
 
