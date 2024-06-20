@@ -1216,6 +1216,8 @@ in 5 volumes.
 
 * [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos) by *Julio Merino*
 
+* [How Cosmo’s Cosmic Adventure DOS game works?](https://cosmodoc.org)
+
 ## Reverse engineering
 
 * [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series) by *Daax Rynd, Aidan Khoury and Nick Peterson*
