@@ -17,6 +17,7 @@ This is a list of links to different freely available learning resources about c
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
   * [Demoscene](#demoscene)
+  * [Image Processing](#image-processing)
   * [OpenGL](#opengl)
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
@@ -380,6 +381,10 @@ This is a list of links to different freely available learning resources about c
   * [Part 1: A dive into the making of Immersion](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion)
   * [Part 2: Texturing in a 64kB intro](http://www.ctrl-alt-test.fr/2018/texturing-in-a-64kb-intro)
   * [Part 3: Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro)
+
+### Image Processing
+
+* [Atkinson Dithering](https://beyondloom.com/blog/dither.html) by *John Earnest*
 
 ### OpenGL
 
