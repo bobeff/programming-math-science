@@ -49,6 +49,7 @@ This is a list of links to different freely available learning resources about c
   * [Topology](#topology)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
+* [Optimization](#optimization)
 * [Photography](#photography)
 * [Physics](#physics)
   * [Simulations](#simulations)
@@ -823,6 +824,11 @@ This is a list of links to different freely available learning resources about c
 * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
 
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
+
+## Optimization
+
+* [CPU performance optimization guide - Preface](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-preface) by *Hui Zhang*
+  * [Part 1](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-part1)
 
 ## Photography
 
