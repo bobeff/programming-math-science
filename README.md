@@ -310,6 +310,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by *Fabian Giesen*
 
+* [A Quick Introduction to Workgraphs](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
+
 * [Collection of AMD Research Publications](https://gpuopen.com/learn/publications)
 
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) by *Gabriel Gambetta*
