@@ -304,6 +304,8 @@ This is a list of links to different freely available learning resources about c
 
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
 
+* [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer) by *Kristoffer Dyrkorn*
+
 * [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
 
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by *Fabian Giesen*
@@ -311,8 +313,6 @@ This is a list of links to different freely available learning resources about c
 * [Collection of AMD Research Publications](https://gpuopen.com/learn/publications)
 
 * [Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch) by *Gabriel Gambetta*
-
-* [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer) by *Kristoffer Dyrkorn*
 
 * **GPU Gems Books Series**
   * [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
