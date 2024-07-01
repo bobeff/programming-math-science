@@ -150,6 +150,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A course by *Andrej Karpathy*
 
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
+
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
 * [Practical Deep Learning for Coders](https://course.fast.ai)
