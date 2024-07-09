@@ -790,6 +790,8 @@ This is a list of links to different freely available learning resources about c
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
+* [The Deadlock Empire](https://deadlockempire.github.io)
+
 * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores) by *Allen B. Downey*
 
 ## Operating Systems
