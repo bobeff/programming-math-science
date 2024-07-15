@@ -831,6 +831,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
 
+* [Writing an OS in Nim](https://0xc0ffee.netlify.app) by *Khaled Hammouda*
+
 ## Optimization
 
 * [CPU performance optimization guide - Preface](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-preface) by *Hui Zhang*
