@@ -120,6 +120,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://faculty.washington.edu/sbrunton/DataBookV2.pdf) by *Steven L. Brunton and J. Nathan Kutz* **[pdf]**
 
+* [Crash Course in Deep Learning](https://boksajak.github.io/blog/DeepLearning) by *Jakub Boksansky*
+
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
 * [Deep Learning Course](https://fleuret.org/dlc) by *François Fleuret*
