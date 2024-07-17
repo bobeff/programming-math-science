@@ -56,6 +56,7 @@ This is a list of links to different freely available learning resources about c
 * [Programming Languages](#programming-languages)
   * [Ada](#ada)
   * [Assembly](#assembly)
+  * [Bash](#bash)
   * [Basic](#basic)
   * [C](#c)
   * [C++](#cpp)
@@ -900,6 +901,10 @@ in 5 volumes.
 * [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
 
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) by  *Ed Jorgensen*
+
+### Bash
+
+* [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) by *Bobby Iliev*
 
 ### Basic
 
