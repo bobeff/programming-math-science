@@ -332,6 +332,8 @@ This is a list of links to different freely available learning resources about c
 
 * [GPU Performance for Game Artists](http://fragmentbuffer.com/gpu-performance-for-game-artists) by *Keith O’Conor*
 
+* [GPU Work Graphs mesh nodes in Microsoft DirectX® 12](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-intro) by *Max Oberberger*
+
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
 * [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
