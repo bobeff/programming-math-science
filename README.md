@@ -993,6 +993,8 @@ in 5 volumes.
 
 * [Learn You a Haskell for Great Good!](http://learnyouahaskell.com) by *Miran Lipovača*
 
+* [Monads for functional programming](https://homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf) by *Philip Wadler* **[pdf]**
+
 * [Monday Morning Haskell](https://mmhaskell.com)
 
 * [Real World Haskell](http://book.realworldhaskell.org) by *Bryan O'Sullivan, Don Stewart, and John Goerzen*
