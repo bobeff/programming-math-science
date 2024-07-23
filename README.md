@@ -1116,6 +1116,8 @@ in 5 volumes.
 
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy) by *Nicolas P. Rougier*
 
+* [Full Stack Python](https://www.fullstackpython.com) by *Matt Makai*
+
 * [How Python Asyncio Works: Recreating it from Scratch](https://jacobpadilla.com/articles/recreating-asyncio) by *Jacob Padilla*
 
 * [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy) by *Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers*
