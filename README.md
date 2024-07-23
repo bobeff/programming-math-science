@@ -1144,6 +1144,8 @@ in 5 volumes.
 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
 
+* [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by *Harry Percival*
+
 * [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e) by *Allen B. Downey*
 
 * [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by *Allen B. Downey*
