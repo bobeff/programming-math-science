@@ -1106,6 +1106,8 @@ in 5 volumes.
 
 * [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) by *Asabeneh*
 
+* [Architecture Patterns with Python](https://www.cosmicpython.com) by *Harry Percival* and *Bob Gregory*
+
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e) by *Al Sweigart*
 
 * [Composing Programs](http://composingprograms.com) by *John DeNero*
