@@ -1262,6 +1262,8 @@ in 5 volumes.
 
 ### DOS
 
+* [256-Color VGA Programming in C](http://www.brackeen.com/vga/index.html) by *David Brackeen*
+
 * [Beyond the 1 MB barrier in DOS](https://blogsystem5.substack.com/p/beyond-the-1-mb-barrier-in-dos) by *Julio Merino*
 
 * [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos) by *Julio Merino*
