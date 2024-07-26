@@ -187,6 +187,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms for Decision Making](https://algorithmsbook.com) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
 
+* [Algorithms for Competitive Programming](https://cp-algorithms.com)
+
 * [Algorithms for Optimization](https://algorithmsbook.com/optimization) by *Mykel J. Kochenderfer* and *Tim A. Wheeler*
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
@@ -194,8 +196,6 @@ This is a list of links to different freely available learning resources about c
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) by *Jason Brownlee*
 
 * [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
-
-* [Competitive Programming Algorithms](https://cp-algorithms.com/)
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
 
