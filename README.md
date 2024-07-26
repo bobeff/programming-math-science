@@ -129,7 +129,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning: Foundations and Concepts](https://www.bishopbook.com) by *Chris Bishop with Hugh Bishop*
 
-* [Deep Learning Interviews](https://github.com/BoltzmannEntropy/interviews.ai) *Second Edition* by *Shlomo Kashani*
+* [Deep Learning Interviews](https://arxiv.org/abs/2201.00650) by *Shlomo Kashani* and *Amir Ivry*
 
 * [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh)
 
