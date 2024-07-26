@@ -113,8 +113,6 @@ This is a list of links to different freely available learning resources about c
 
 * [A Course in Machine Learning](http://ciml.info) by *Hal Daumé III*
 
-* [Algorithms for Decision Making](https://algorithmsbook.com) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
-
 * [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book) by *Simone Scardapane*
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
@@ -188,6 +186,8 @@ This is a list of links to different freely available learning resources about c
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
 * [Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf) by *Kurt Mehlhorn and Peter Sanders* **[pdf]**
+
+* [Algorithms for Decision Making](https://algorithmsbook.com) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
 
 * [Algorithms for Optimization](https://algorithmsbook.com/optimization) by *Mykel J. Kochenderfer* and *Tim A. Wheeler*
 
