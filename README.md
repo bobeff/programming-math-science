@@ -137,8 +137,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
 
-* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan*
-
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
 
 * [Learning Theory from First Principles](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf) by *Francis Bach* **[pdf]**
@@ -207,6 +205,8 @@ This is a list of links to different freely available learning resources about c
 , Stratos Idreos and Dennis Shasha* **[pdf]**
 
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
+
+* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan*
 
 * [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html) by *Mateusz Kuźmik*
 
