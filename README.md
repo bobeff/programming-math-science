@@ -191,8 +191,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
 
-* [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
-
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) by *Jason Brownlee*
 
 * [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
@@ -225,6 +223,8 @@ This is a list of links to different freely available learning resources about c
 * [Purely Functional Data Structures](https://www.cs.cmu.edu/~rwh/students/okasaki.pdf) by *Chris Okasaki*
 
 * [Sequential and Parallel Data Structures and Algorithms: The Basic Toolbox](https://people.mpi-inf.mpg.de/~mehlhorn/ToolboxNew.html) by *Peter Sanders, Kurt Mehlhorn, Martin Dietzfelbinger, and Roman Dementiev*
+
+* [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
 ## Art
 
