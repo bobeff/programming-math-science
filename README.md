@@ -204,7 +204,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
 
-* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan*
+* [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan* **[pdf]**
 
 * [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html) by *Mateusz Kuźmik*
 
