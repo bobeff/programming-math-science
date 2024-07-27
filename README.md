@@ -877,7 +877,7 @@ in 5 volumes.
 
 * [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
 
-* [Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html), Second Edition by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman) and [Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)*
+* [Structure and Interpretation of Classical Mechanics](https://groups.csail.mit.edu/mac/users/gjs/6946/sicm-html) by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman)* and *[Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)* with *[Meinhard E. Mayer](https://en.wikipedia.org/wiki/Meinhard_E._Mayer)*
 
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 
