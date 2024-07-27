@@ -819,7 +819,7 @@ Thelin*
 
 * [Advanced Linux Programming](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf) by *Mark Mitchell*, *Jeffrey Oldham*, and *Alex Samuel* **[pdf]**
 
-* [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *0xAD*
+* [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *Alex Kuleshov*
 
 * [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) by *Stephen Marz*
 
