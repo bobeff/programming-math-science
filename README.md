@@ -50,6 +50,7 @@ This is a list of links to different freely available learning resources about c
   * [Topology](#topology)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
+  * [Operating Systems Development](#operating-systems-development)
 * [Optimization](#optimization)
 * [Photography](#photography)
 * [Physics](#physics)
@@ -815,26 +816,13 @@ Thelin*
 
 ## Operating Systems
 
-* [A Journey in Creating an Operating System Kernel](https://539kernel.com) by *Mohammed Q. Hussain*
-
 * [Advanced Linux Programming](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf) by *Mark Mitchell*, *Jeffrey Oldham*, and *Alex Samuel* **[pdf]**
 
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *Alex Kuleshov*
 
-* [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) by *Stephen Marz*
-
-* **Making an RISC-V OS**
-  * [Part 1 - Project Setup](https://traxys.me/riscv_os_setup.html)
-  * [Part 2 - Kernel in virtual addresses](https://traxys.me/riscv_os_2.html)
-  * [Part 3 - Managing free memory](https://traxys.me/riscv_os_buddy.html)
-
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
 
-* [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) by *Andre Richter*
-
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
-
-* [OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
 
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
 
@@ -845,6 +833,21 @@ Thelin*
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg) by *Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang*
 
 * [Unix as IDE](https://blog.sanctum.geek.nz/series/unix-as-ide) by *Tom Ryder*
+
+### Operating Systems Development
+
+* [A Journey in Creating an Operating System Kernel](https://539kernel.com) by *Mohammed Q. Hussain*
+
+* [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) by *Stephen Marz*
+
+* **Making an RISC-V OS**
+  * [Part 1 - Project Setup](https://traxys.me/riscv_os_setup.html)
+  * [Part 2 - Kernel in virtual addresses](https://traxys.me/riscv_os_2.html)
+  * [Part 3 - Managing free memory](https://traxys.me/riscv_os_buddy.html)
+
+* [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) by *Andre Richter*
+
+* [OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
 
 * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
 
