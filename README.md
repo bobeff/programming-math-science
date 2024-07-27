@@ -834,7 +834,7 @@ Thelin*
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
-* [OSDev.org](https://osdev.org/Main_Page)
+* [OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
 
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
 
