@@ -32,6 +32,7 @@ This is a list of links to different freely available learning resources about c
 * [Distributed Systems](#distributed-systems)
 * [Electronics](#electronics)
 * [Emulators and Virtual Machines](#emulators-and-virtual-machines)
+* [Fluids Simultion](#fluids-simulation)
 * [Game Programming](#game-programming)
   * [Game Engines](#game-engines)
 * [Geographic Information Systems](#geographic-information-systems)
@@ -379,8 +380,6 @@ This is a list of links to different freely available learning resources about c
   * [Part 7 - Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
   * [Part 8 - Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html)
 
-* [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
-
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Curves and Surfaces
@@ -609,11 +608,15 @@ This is a list of links to different freely available learning resources about c
 
 * [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
+## Fluids Simulation
+
+* [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) by *Shahriar Shahrabi*
+
+* [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
+
 ## Game Programming
 
 * [2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) by *Daniele Penazzo*
-
-* [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) by *Shahriar Shahrabi*
 
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) a tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
