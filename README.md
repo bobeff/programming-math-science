@@ -1125,7 +1125,7 @@ in 5 volumes.
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e) by *Al Sweigart*
 
-* [Composing Programs](http://composingprograms.com) by *John DeNero*
+* [Composing Programs](https://www.composingprograms.com) by *John DeNero*
 
 * [Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter) by *Rob Corless*
 
