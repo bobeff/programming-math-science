@@ -946,7 +946,31 @@ in 5 volumes.
 
 ### C++ <span id="cpp">
 
-* [C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html) by *Nicolás Brailovsky*
+* **C++ exceptions uner the hood** by *Nicolás Brailovsky*
+  * [Part 1](https://nicolasbrailo.github.io/blog/2013/2.html#cexceptionsunderthehood)
+  * [Part 2: A tiny ABI](https://nicolasbrailo.github.io/blog/2013/2.html#cexceptionsunderthehoodiiatinyabi)
+  * [Part 3: An ABI to appease the linker](https://nicolasbrailo.github.io/blog/2013/2.html#cexceptionsunderthehood3anabitoappeasethelinker)
+  * [Part 4: Catching what you throw](https://nicolasbrailo.github.io/blog/2013/2.html#cexceptionsunderthehood4catchingwhatyouthrow)
+  * [Part 5: Magic around __cxa_begin_catch and __cxa_end_catch](https://nicolasbrailo.github.io/blog/2013/3.html#cexceptionsunderthehood5magicaround__cxa_begin_catchand__cxa_end_catch)
+  * [Part 6: gcc_except_table and the personality function](https://nicolasbrailo.github.io/blog/2013/3.html#cexceptionsunderthehood6gcc_except_tableandthepersonalityfunction)
+  * [Part 7: A nice personality](https://nicolasbrailo.github.io/blog/2013/3.html#cexceptionsunderthehood7anicepersonality)
+  * [Part 8: Two-phase handling](https://nicolasbrailo.github.io/blog/2013/3.html#cexceptionsunderthehood8twophasehandling)
+  * [Part 9: Catching our first exception](https://nicolasbrailo.github.io/blog/2013/4.html#cexceptionsunderthehood9catchingourfirstexception)
+  * [Part 10: Unwind and call frame info](https://nicolasbrailo.github.io/blog/2013/4.html#cexceptionsunderthehood10unwindandcallframeinfo)
+  * [Part 11: Reading a CFI table](https://nicolasbrailo.github.io/blog/2013/4.html#cexceptionsunderthehood11readingacfitable)
+  * [Part 12: And suddenly, reflexion in C++](https://nicolasbrailo.github.io/blog/2013/4.html#cexceptionsunderthehood12andsuddenlyreflexioninc)
+  * [Part 13: Setting the context for a landing pad](https://nicolasbrailo.github.io/blog/2013/4.html#cexceptionsunderthehood13settingthecontextforalandingpad)
+  * [Part 14: Multiple landing pads & the teachings of the guru](https://nicolasbrailo.github.io/blog/2013/4.html#cexceptionsunderthehood14multiplelandingpadstheteachingsoftheguru)
+  * [Part 15: Finding the right landing pad](https://nicolasbrailo.github.io/blog/2013/5.html#cexceptionsunderthehood15findingtherightlandingpad)
+  * [Part 16: Finding the right catch in a landing](https://nicolasbrailo.github.io/blog/2013/5.html#cexceptionsunderthehood16findingtherightcatchinalanding)
+  * [Part 17: Reflecting on an exception type and reading .gcc_except_table](https://nicolasbrailo.github.io/blog/2013/5.html#cexceptionsunderthehood17reflectingonanexceptiontypeandreading.gcc_except_table)
+  * [Part 18: Getting the right stack frame](https://nicolasbrailo.github.io/blog/2013/5.html#cexceptionsunderthehood18gettingtherightstackframe)
+  * [Part 19: Getting the right catch in a landing pad](https://nicolasbrailo.github.io/blog/2013/5.html#cexceptionsunderthehood19gettingtherightcatchinalandingpad)
+  * [Part 20: Running destructors while unwinding](https://nicolasbrailo.github.io/blog/2013/5.html#cexceptionsunderthehood20runningdestructorswhileunwinding)
+  * [Part 21: A summary and some final thoughts](https://nicolasbrailo.github.io/blog/2013/6.html#cexceptionsunderthehood21asummaryandsomefinalthoughts)
+  * [Appendix I: The true cost of an exception](https://nicolasbrailo.github.io/blog/2013/6.html#cexceptionsunderthehoodappendixithetruecostofanexception)
+  * [Appendix II: Metaclasses and RTTI on C++](https://nicolasbrailo.github.io/blog/2013/6.html#cexceptionsunderthehoodappendixiimetaclassesandrttionc)
+  * [Appendix III: RTTI and exceptions orthogonality](https://nicolasbrailo.github.io/blog/2013/7.html#cexceptionsunderthehoodappendixiiirttiandexceptionsorthogonality)
 
 * [C++20 Coroutines: sketching a minimal async framework](https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework) by *Jeremy Ong*
 
