@@ -509,8 +509,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
-* [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
-
 ## Cryptography
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) by *Dan Boneh* and *Victor Shoup*
@@ -1009,6 +1007,8 @@ in 5 volumes.
 * [Network Programming with Go](https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/index.html) by *Jan Newmarch*
 
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
+
+* [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
 
 ### Haskell
 
