@@ -39,7 +39,7 @@ This is a list of links to different freely available learning resources about c
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Logical Games](#logical-games)
-* [Low Level Stuff](#low-level)
+* [Low Level Stuff](#low-level-stuff)
 * [Math](#math)
   * [Algebra](#algebra)
   * [Calculus](#calculus)
