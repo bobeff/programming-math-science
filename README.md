@@ -687,7 +687,7 @@ Thelin*
 
 * [3Blue1Brown lessons](https://www.3blue1brown.com/#lessons) by *Grant Sanderson*
 
-* [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat*
+* [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat* **[pdf]**
 
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM) by *Joe Fields*
 
