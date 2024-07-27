@@ -1004,8 +1004,6 @@ in 5 volumes.
 
 ### Go
 
-* [Network Programming with Go](https://ipfs.io/ipfs/QmfYeDhGH9bZzihBUDEQbCbTc5k5FZKURMUoUvfmc27BwL/index.html) by *Jan Newmarch*
-
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
 
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
