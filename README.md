@@ -943,8 +943,6 @@ in 5 volumes.
 
 ### C++ <span id="cpp">
 
-* [Awesome Modern C++](https://awesomecpp.com/)
-
 * [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html) by *David Drysdale*
 
 * [C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html) by *Nicolás Brailovsky*
