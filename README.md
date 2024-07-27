@@ -51,7 +51,6 @@ This is a list of links to different freely available learning resources about c
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
   * [Operating Systems Development](#operating-systems-development)
-* [Optimization](#optimization)
 * [Photography](#photography)
 * [Physics](#physics)
   * [Simulations](#simulations)
@@ -682,6 +681,9 @@ Thelin*
 
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com) by *Ian Wienand*
 
+* [CPU performance optimization guide - Preface](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-preface) by *Hui Zhang*
+  * [Part 1](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-part1)
+
 * [Memory Management Reference](https://www.memorymanagement.org)
 
 * [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
@@ -856,11 +858,6 @@ Thelin*
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
 
 * [Writing an OS in Nim](https://0xc0ffee.netlify.app) by *Khaled Hammouda*
-
-## Optimization
-
-* [CPU performance optimization guide - Preface](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-preface) by *Hui Zhang*
-  * [Part 1](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-part1)
 
 ## Photography
 
