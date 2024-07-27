@@ -817,7 +817,7 @@ Thelin*
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com) by *Mohammed Q. Hussain*
 
-* [Advanced Linux Programming](https://mentorembedded.github.io/advancedlinuxprogramming) by *Mark Mitchell, Jeffrey Oldham, and Alex Samuel*
+* [Advanced Linux Programming](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf) by *Mark Mitchell*, *Jeffrey Oldham*, and *Alex Samuel* **[pdf]**
 
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *0xAD*
 
