@@ -911,8 +911,6 @@ in 5 volumes.
 
 * [RISC-V Assembly Programming](https://riscv-programming.org) by *Prof. Edson Borin*
 
-* [Some Assembly Required: An approachable introduction to assembly](https://github.com/hackclub/some-assembly-required)
-
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) by  *Ed Jorgensen*
 
 ### Bash
