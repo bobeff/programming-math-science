@@ -678,6 +678,8 @@ Thelin*
 
 * [A gentle introduction to two's complement](https://imapenguin.com/2023/11/a-gentle-introduction-to-twos-complement) by *Michael Doornbos*
 
+* [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html) by *David Drysdale*
+
 * [Computer Science from the Bottom Up](https://www.bottomupcs.com) by *Ian Wienand*
 
 * [Memory Management Reference](https://www.memorymanagement.org)
@@ -942,8 +944,6 @@ in 5 volumes.
 * [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) by *Matthew Plant*
 
 ### C++ <span id="cpp">
-
-* [Beginner's Guide to Linkers](https://www.lurklurk.org/linkers/linkers.html) by *David Drysdale*
 
 * [C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html) by *Nicolás Brailovsky*
 
