@@ -540,7 +540,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Databases
 
-* [Build Your Own Database From Scratch](https://build-your-own.org/database) by *James Smith*
+* [Build Your Own Database From Scratch in Go](https://build-your-own.org/database) by *James Smith*
 
 * [Build Your Own Redis with C/C++](https://build-your-own.org/redis) by *James Smith*
 
