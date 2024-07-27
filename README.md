@@ -618,7 +618,9 @@ This is a list of links to different freely available learning resources about c
 
 * [2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) by *Daniele Penazzo*
 
-* [Retro Rampage](https://github.com/nicklockwood/RetroRampage) a tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
+* [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
+
+* [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
 
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com) by *Herbert Wolverson*
 
