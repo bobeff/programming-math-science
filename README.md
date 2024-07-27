@@ -905,7 +905,7 @@ in 5 volumes.
   * [Part 2 - We're Writing a Virtual Machine](https://gpfault.net/posts/asm-tut-2.txt.html)
   * [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
 
-* [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial)
+* [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 
 * [PC Assembly Language](https://pacman128.github.io/pcasm) by *Paul A. Carter*
 
