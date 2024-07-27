@@ -644,7 +644,8 @@ This is a list of links to different freely available learning resources about c
 
 ## GUI Programming
 
-* [A Book about Qt5](https://qmlbook.github.io)
+* [A Book about Qt5](https://qmlbook.github.io) by *Jürgen Bocklage-Ryannel* and *Johan
+Thelin*
 
 * [Minimal Cross-Platform Graphics](https://zserge.com/posts/fenster) by *Serge Zaitsev*
 
