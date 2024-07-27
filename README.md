@@ -651,6 +651,8 @@ Thelin*
 
 * [Sol on Immediate Mode GUIs](https://solhsa.com/imgui/index.html) by *Jari Komppa*
 
+* [theForger's Win32 API Programming Tutorial](http://www.winprog.org/tutorial)
+
 * [X Window System Basics](https://magcius.github.io/xplain/article) by *Jasper St. Pierre*
 
 ## Hardware
