@@ -1105,7 +1105,7 @@ in 5 volumes.
 
 ### PostScript
 
-* [Learning PostScript by Doing](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf) by *Andre Heck*
+* [Learning PostScript by Doing](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf) by *Andre Heck* **[pdf]**
 
 ### Prolog
 
