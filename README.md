@@ -1422,7 +1422,7 @@ in 5 volumes.
 
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
 
-* [Electronic References](https://csgordon.github.io/books.html) by *Colin S. Gordon* - a loosely-categorized collection of links to CS textbooks in a variety of areas that are freely available online.
+* [Electronic References](https://www.cs.drexel.edu/~csg63/books.html) by *Colin S. Gordon* - a loosely-categorized collection of links to CS textbooks in a variety of areas that are freely available online.
 
 * [Free Computer Books](https://freecomputerbooks.com)
 
