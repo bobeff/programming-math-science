@@ -1249,7 +1249,7 @@ in 5 volumes.
 
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book) by *Michael Abrash*
 
-* [Multiplying and Dividing on the 6502](https://llx.com/Neil/a2/mult.html)
+* [Neil Parker's Apple II page](https://llx.com/Neil/a2/index.html)
 
 * [Sinclair ZX Spectrum BASIC programming](http://zxnext.narod.ru/manuals/Basic_Programming.pdf) by *Steven Vicker*
 
