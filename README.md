@@ -1251,7 +1251,7 @@ in 5 volumes.
 
 * [Neil Parker's Apple II page](https://llx.com/Neil/a2/index.html)
 
-* [Sinclair ZX Spectrum BASIC programming](http://zxnext.narod.ru/manuals/Basic_Programming.pdf) by *Steven Vicker*
+* [Sinclair ZX Spectrum BASIC programming](http://zxnext.narod.ru/manuals/Basic_Programming.pdf) by *Steven Vicker* **[pdf]**
 
 * [The Lost Ways of Programming: Commodore 64 BASIC](http://tomasp.net/commodore64) by *Tomas Petricek*
 
