@@ -1327,9 +1327,10 @@ in 5 volumes.
 
 ### Emacs
 
-* **Emacs From Scratch** by *Arne Bahlo*
+* **Emacs Config From Scratch** by *Arne Bahlo*
   * [Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
   * [Part 2: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
+  * [Part 3: LSP & Tree-sitter](https://arne.me/blog/emacs-config-from-scratch-part-three)
 
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
 
