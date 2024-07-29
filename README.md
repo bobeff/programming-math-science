@@ -1293,7 +1293,7 @@ in 5 volumes.
 
 * [Reverse Engineering For Everyone](https://0xinfection.github.io/reversing) by *Kevin Thomas*
 
-* [Reversing for dummies - x86 assembly and C code](https://0x41.cf/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) by *Sami Alaoui*
+* [Reversing for dummies - x86 assembly and C code](https://0x44.cc/reversing/2021/07/21/reversing-x86-and-c-code-for-beginners.html) by *Sami Alaoui*
 
 * [Linux Reverse Engineering CTFs for Beginners](https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners)
 
