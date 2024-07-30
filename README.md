@@ -114,6 +114,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Course in Machine Learning](http://ciml.info) by *Hal Daumé III*
 
+* [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
+
 * [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book) by *Simone Scardapane*
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
