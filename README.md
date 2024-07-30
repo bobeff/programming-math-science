@@ -788,6 +788,8 @@ Thelin*
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
+* [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR) by *Cosma Rohilla Shalizi*
+
 ### Theoretical Computer Science
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
