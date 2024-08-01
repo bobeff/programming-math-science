@@ -91,7 +91,6 @@ This is a list of links to different freely available learning resources about c
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
-  * [Books by Fabien Sanglard](#books-by-fabien-sanglard)
   * [DOS](#dos)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
@@ -1272,14 +1271,6 @@ in 5 volumes.
 * [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022) by *Jukka Jylänki*
 
 * [Advent Of Code 2023 on a Commodore 64](http://clb.confined.space/aoc2023) by *Jukka Jylänki*
-
-### Books by Fabien Sanglard
-
-* [Game Eengine Black Book: Doom](https://fabiensanglard.net/b/gebbdoom.pdf) [pdf]
-
-* [Game Eengine Black Book: Wolfenstein 3D](https://fabiensanglard.net/b/gebbwolf3d.pdf) [pdf]
-
-* [The Book of CP-System](https://fabiensanglard.net/b/cpsb.pdf) [pdf]
 
 ### DOS
 
