@@ -749,6 +749,8 @@ Thelin*
 
 * [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl) by *John Verzani*
 
+* [Harmonic Function Theory](https://www.axler.net/HFT.html) by *Sheldon Axler*, *Paul Bourdon*, and *Wade Ramey*
+
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
 * [Measure, Integration & Real Analysis](https://measure.axler.net) by *Sheldon Axler*
