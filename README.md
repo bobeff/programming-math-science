@@ -751,6 +751,8 @@ Thelin*
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
+* [Measure, Integration & Real Analysis](https://measure.axler.net) by *Sheldon Axler*
+
 ### Category Theory
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
