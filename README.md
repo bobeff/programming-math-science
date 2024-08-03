@@ -853,6 +853,8 @@ Thelin*
 
 * [A Journey in Creating an Operating System Kernel](https://539kernel.com) by *Mohammed Q. Hussain*
 
+* [Baking Pi – Operating Systems Development](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os) by *Alex Chadwick*
+
 * [Making a RISC-V Operating System using Rust](https://osblog.stephenmarz.com) by *Stephen Marz*
 
 * **Making an RISC-V OS**
