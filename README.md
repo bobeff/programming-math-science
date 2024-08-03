@@ -747,9 +747,9 @@ Thelin*
 
 * [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
 
-* [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
-
 * [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl) by *John Verzani*
+
+* [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
 ### Category Theory
 
