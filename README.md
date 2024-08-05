@@ -1249,6 +1249,8 @@ in 5 volumes.
 
 * [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project)
 
+* [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
+
 * [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
 
 * [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
