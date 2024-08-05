@@ -490,6 +490,8 @@ This is a list of links to different freely available learning resources about c
 
 * [WebGPU Fundamentals](https://webgpufundamentals.org)
 
+* [WebGPU Unleashed: A Practical Tutorial](https://shi-yan.github.io/webgpuunleashed) by *Shi Yan*
+
 * [Your first WebGPU app](https://codelabs.developers.google.com/your-first-webgpu-app) by *Brandon Jones* and *François Beaufort*
 
 ## Computer Networks and Network Programming
