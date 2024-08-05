@@ -902,6 +902,8 @@ in 5 volumes.
 
 ### Simulations
 
+* [Physics-Based Simulation](https://phys-sim-book.github.io) by *Minchen Li*, *Chenfanfu Jiang*, and *Zhaofeng Luo*
+
 * [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics)	by *Matthias Müller*
 
 ## Programming languages
