@@ -1257,6 +1257,8 @@ in 5 volumes.
 
 * [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs)
 
+* [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
+
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
 * [First Steps in Z80 Assembly Language](http://ped.7gods.org/z80.pdf) by *Darryl Sloan* **[pdf]**
