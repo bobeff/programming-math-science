@@ -621,6 +621,8 @@ This is a list of links to different freely available learning resources about c
 
 * [2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) by *Daniele Penazzo*
 
+* [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) by *Gustavo Pezzi*
+
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
