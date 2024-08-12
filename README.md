@@ -1004,6 +1004,8 @@ in 5 volumes.
 
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
+* [Modernes C++](https://www.modernescpp.com/index.php/table-of-content-2) by *Rainer Grimm*
+
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
 ### D
