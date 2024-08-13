@@ -141,6 +141,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
 
+* [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml) by *Xuan Son NGUYEN*, *Georgi Gerganov* and *slaren*
+
 * [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book) by *Chip Huyen*
 
 * [Learning Theory from First Principles](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf) by *Francis Bach* **[pdf]**
