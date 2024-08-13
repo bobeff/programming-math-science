@@ -454,6 +454,9 @@ This is a list of links to different freely available learning resources about c
 * **A Journey Into Shaders** by *Antoine Mayerowitz*
   * [Part I: The blob](https://www.mayerowitz.io/blog/a-journey-into-shaders)
 
+* **Compute with DirectX 12** by *Stefan Pijnacker*
+  * [Part 1: the Theory](https://www.stefanpijnacker.nl/article/compute-with-directx12-part-1)
+
 * [GM Shaders](https://gmshaders.com) - All about shaders for GameMaker!
 
 * [Introducing GPU Reshape - shader instrumentation for everyone](https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset) by *Miguel Petersen*
