@@ -1264,6 +1264,11 @@ in 5 volumes.
 
 * [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 
+* [Books by Fabien Sanglard](https://fabiensanglard.net/three_books_update/index.html)
+  - **Game Engine Black Book: Wolfenstein 3D**
+  - **Game Engine Black Book: DOOM**
+  - **The Book of CP-System**
+
 * [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
 
 * [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
