@@ -732,6 +732,13 @@ Thelin*
 
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
 
+* [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
+  * [Category theory](https://arxiv.org/abs/1612.09375)
+  * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
+  * [Galois theory](https://arxiv.org/abs/2408.07499)
+  * [General topology](https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf) **[pdf]**
+  * [Linear algebra](https://www.maths.ed.ac.uk/~tl/aa/aa.pdf) by **[pdf]**
+
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
