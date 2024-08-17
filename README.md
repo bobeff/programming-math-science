@@ -822,6 +822,8 @@ Thelin*
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
 
+* [Discrete Mathematics: An Open Introduction, 4th Edition](https://discrete.openmathbooks.org/dmoi4.html) by *Oscar Levin*
+
 * [Elements of Programming](http://elementsofprogramming.com) by *Alexander Stepanov and Paul McJones*
 
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
