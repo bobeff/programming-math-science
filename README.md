@@ -458,6 +458,7 @@ This is a list of links to different freely available learning resources about c
 
 * **Compute with DirectX 12** by *Stefan Pijnacker*
   * [Part 1: the Theory](https://www.stefanpijnacker.nl/article/compute-with-directx12-part-1)
+  * [Part 2: The Setup](https://www.stefanpijnacker.nl/article/compute-with-directx-12-part-2)
 
 * [GM Shaders](https://gmshaders.com) - All about shaders for GameMaker!
 
