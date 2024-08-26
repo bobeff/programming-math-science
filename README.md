@@ -384,6 +384,7 @@ This is a list of links to different freely available learning resources about c
   * [Part 6 - LOD generation - faster, better, simpler](https://jglrxavpok.github.io/2024/03/12/recreating-nanite-faster-lod-generation.html)
   * [Part 7 - Runtime LOD selection](https://jglrxavpok.github.io/2024/04/02/recreating-nanite-runtime-lod-selection.html)
   * [Part 8 - Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html)
+  * [Part 9 - Raytracing](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
