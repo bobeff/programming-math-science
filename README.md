@@ -703,6 +703,8 @@ Thelin*
 * [CPU performance optimization guide - Preface](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-preface) by *Hui Zhang*
   * [Part 1](https://gpuopen.com/learn/cpu-performance-guide/cpu-performance-guide-part1)
 
+* [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained) by *Fabien Sanglard*
+
 * [Memory Management Reference](https://www.memorymanagement.org)
 
 * [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1) by *Denis Bakhvalov*
