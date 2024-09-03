@@ -386,6 +386,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 8 - Mesh shader time](https://jglrxavpok.github.io/2024/05/13/recreating-nanite-mesh-shader-time.html)
   * [Part 9 - Raytracing](https://jglrxavpok.github.io/2024/08/21/recreating-nanite-raytracing.html)
 
+* [Software rasterizing hair](https://www.sctheblog.com/blog/hair-software-rasterize) by *Marcin Matuszczyk*
+
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Curves and Surfaces
