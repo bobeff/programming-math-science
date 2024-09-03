@@ -373,6 +373,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
 
+* [Rasterising a triangle](https://jtsorlinis.github.io/rendering-tutorial) by *Jason Tsorlinis*
+
 * [RasterTek toturials](https://rastertek.com/tutindex.html)
 
 * **Recreating Nanite** by *Xavier Niochaut*
