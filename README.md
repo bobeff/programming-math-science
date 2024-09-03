@@ -758,6 +758,8 @@ Thelin*
 
 * [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) by *Egbert Rijke*
 
+* [Open Mathematics Depository](https://openmathdep.tuxfamily.org)
+
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
 * [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
