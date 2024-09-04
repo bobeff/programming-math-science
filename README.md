@@ -694,6 +694,8 @@ Thelin*
 
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) by *Ulrich Drepper* **[pdf]**
 
+* [Zen, CUDA, and Tensor Cores](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i) by *Casey Muratori*
+
 ## Logical Games
 
 * [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
