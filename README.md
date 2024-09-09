@@ -16,7 +16,6 @@ This is a list of links to different freely available learning resources about c
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
-  * [Demoscene](#demoscene)
   * [Image Processing](#image-processing)
   * [OpenGL](#opengl)
   * [Ray Tracing](#ray-tracing)
@@ -28,6 +27,7 @@ This is a list of links to different freely available learning resources about c
 * [Data Science](#data-science)
 * [Debuggers](#debuggers)
 * [Databases](#databases)
+* [Demoscene](#demoscene)
 * [Design Patterns](#design-patterns)
 * [Distributed Systems](#distributed-systems)
 * [Electronics](#electronics)
@@ -400,15 +400,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
 
-### Demoscene
-
-* [How a 64k intro is made](https://www.lofibucket.com/articles/64k_intro.html) by *Pekka Väänänen*
-
-* The making of Immersion
-  * [Part 1: A dive into the making of Immersion](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion)
-  * [Part 2: Texturing in a 64kB intro](http://www.ctrl-alt-test.fr/2018/texturing-in-a-64kb-intro)
-  * [Part 3: Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro)
-
 ### Image Processing
 
 * [Atkinson Dithering](https://beyondloom.com/blog/dither.html) by *John Earnest*
@@ -579,6 +570,17 @@ This is a list of links to different freely available learning resources about c
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg) by *Hironobu Suzuki*
 
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
+
+## Demoscene
+
+* [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute) - Technical details about a 4096 bytes Atari-STE intro, by *Arnaud Carré*.
+
+* [How a 64k intro is made](https://www.lofibucket.com/articles/64k_intro.html) by *Pekka Väänänen*
+
+* The making of Immersion
+  * [Part 1: A dive into the making of Immersion](https://www.ctrl-alt-test.fr/2018/a-dive-into-the-making-of-immersion)
+  * [Part 2: Texturing in a 64kB intro](http://www.ctrl-alt-test.fr/2018/texturing-in-a-64kb-intro)
+  * [Part 3: Procedural 3D mesh generation in a 64kB intro](https://www.ctrl-alt-test.fr/2023/procedural-3d-mesh-generation-in-a-64kb-intro)
 
 ## Design Patterns
 
