@@ -548,6 +548,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Databases
 
+* [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes) by *Benjamin Dicken*
+
 * [Build Your Own Database From Scratch in Go](https://build-your-own.org/database) by *James Smith*
 
 * **Build your own SQLite** by *Geoffrey Copin*
