@@ -325,7 +325,9 @@ This is a list of links to different freely available learning resources about c
 
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by *Fabian Giesen*
 
-* [A Quick Introduction to Workgraphs](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
+* **A Quick Introduction to Workgraphs** by *Kostas Anagnostou*
+  * [Part 1](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs)
+  * [Part 2: Performance](https://interplayoflight.wordpress.com/2024/09/09/an-introduction-to-workgraphs-part-2-performance)
 
 * [Collection of AMD Research Publications](https://gpuopen.com/learn/publications)
 
