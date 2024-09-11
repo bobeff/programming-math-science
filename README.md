@@ -177,6 +177,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
+* [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103) by *Stanley H. Chan*
+
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook) by *Simon J.D. Prince*
 
 ### Computer Games AI
