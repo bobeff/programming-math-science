@@ -183,6 +183,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Computer Games AI
 
+* [Artificial Intelligence and Games](https://gameaibook.org) by *Georgios N. Yannakakis* and *Julian Togelius*
+
 * [Game AI Pro](http://www.gameaipro.com) by *Steve Rabin*
 
 * [Programming Starcraft AI](https://makingcomputerdothings.com/an-index-for-the-starcraft-ai-posts) by *Peter Kis*
