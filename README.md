@@ -657,6 +657,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Isometric Tutorials](https://clintbellanger.net/articles) by *Clint Bellanger*
 
+* [Procedural Content Generation in Games](https://www.pcgbook.com) by *Noor Shaker*, *Julian Togelius*, and *Mark J. Nelson*
+
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
