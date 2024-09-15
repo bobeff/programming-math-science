@@ -649,6 +649,8 @@ This is a list of links to different freely available learning resources about c
 
 * [2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) by *Daniele Penazzo*
 
+* [CSCI 181G PO: Game Engine Programming Course](https://cs.pomona.edu/classes/cs181g)
+
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) by *Gustavo Pezzi*
 
 * [Isometric Tutorials](https://clintbellanger.net/articles) by *Clint Bellanger*
