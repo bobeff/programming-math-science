@@ -973,6 +973,10 @@ in 5 volumes.
 
 ### Assembly
 
+* **A friendly introduction to assembly for high-level programmers** by *Manuel Spagnolo*
+  * [Part 1: Hello](https://shikaan.github.io/assembly/x86/guide/2024/09/16/x86-64-conditionals.html)
+  * [Part 2: Conditionals](https://shikaan.github.io/assembly/x86/guide/2024/09/16/x86-64-conditionals.html)
+
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) by *Nayuki*
 
 * [Learn Assembly Language](https://asmtutor.com) -  NASM x86 assembly language tutorial on Linux.
