@@ -526,6 +526,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
+* [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding)
+
 ## Cryptography
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) by *Dan Boneh* and *Victor Shoup*
