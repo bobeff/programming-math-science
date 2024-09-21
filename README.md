@@ -45,6 +45,7 @@ This is a list of links to different freely available learning resources about c
   * [Calculus](#calculus)
   * [Category Theory](#category-theory)
   * [Geometry](#geometry)
+  * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
   * [Theoretical Computer Science](#theoretical-computer-science)
   * [Topology](#topology)
@@ -835,6 +836,10 @@ Thelin*
 ### Geometry
 
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
+
+### Operations Research
+
+* [Introduction to Operations Research, Tenth Edition](https://s23.middlebury.edu/MATH0318A/Hillier10th.pdf) by *Frederick S. Hillier*, and *Gerald J. Lieberman*
 
 ### Probability and Statistics
 
