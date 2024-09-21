@@ -195,11 +195,12 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf) by *Kurt Mehlhorn and Peter Sanders* **[pdf]**
 
-* [Algorithms for Decision Making](https://algorithmsbook.com) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
+* [Algorithms Books](https://algorithmsbook.com) by *Mykel J. Kochenderfer*
+  * [Algorithms for Optimization](https://algorithmsbook.com/optimization) by *Mykel J. Kochenderfer*, and *Tim A. Wheeler*
+  * [Algorithms for Decision Making](https://algorithmsbook.com/decisionmaking) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
+  * [Algorithms for Validation](https://algorithmsbook.com/validation) by *Mykel J. Kochenderfer*, *Sydney M. Katz*, *Anthony L. Corso*, and *Robert J. Moss*
 
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
-
-* [Algorithms for Optimization](https://algorithmsbook.com/optimization) by *Mykel J. Kochenderfer* and *Tim A. Wheeler*
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
 
