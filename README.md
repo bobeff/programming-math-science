@@ -841,6 +841,8 @@ Thelin*
 
 * [Introduction to Operations Research, Tenth Edition](https://s23.middlebury.edu/MATH0318A/Hillier10th.pdf) by *Frederick S. Hillier*, and *Gerald J. Lieberman*
 
+* [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
+
 ### Probability and Statistics
 
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
