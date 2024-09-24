@@ -1349,6 +1349,8 @@ in 5 volumes.
 
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
+* [Mark Moxon's Software Archaeology](https://www.bbcelite.com) - Fully documented source code for Elite, Revs, Lander, Aviator and more
+
 * [MEGA65 Documentation](https://files.mega65.org/manuals-upload)
 
 * [MEGA65 Welcome Guide](https://dansanderson.com/mega65/welcome/index.html) by *Dan Sanderson*
