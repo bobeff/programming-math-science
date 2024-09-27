@@ -1025,6 +1025,8 @@ in 5 volumes.
 
 * [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) by *Andrei Ciobanu*
 
+* [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
+
 * [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c) by *Ben Hoyt*
 
 * [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
