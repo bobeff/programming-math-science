@@ -675,6 +675,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Terrain programmig](https://www.shamusyoung.com/twentysidedtale/?p=141) by *Shamus Young*
 
+* [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers) by *Rodrigo Monteiro*
+
 * [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
 
 * [The blog of Nikita Lisitsa](https://lisyarus.github.io/blog)
