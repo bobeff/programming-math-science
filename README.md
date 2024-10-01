@@ -1095,6 +1095,8 @@ in 5 volumes.
 
 ### Erlang
 
+* [Adopting Erlang](https://adoptingerlang.org) by *Tristan Sloughter*, *Fred Hebert*, and *Evan Vigil-McClanahan*
+
 * [Learn You Some Erlang for great good!](https://learnyousomeerlang.com) by *Fred Hebert*
 
 * [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) by *Fred Hebert*
