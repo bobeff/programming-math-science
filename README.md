@@ -1097,6 +1097,8 @@ in 5 volumes.
 
 * [Learn You Some Erlang for great good!](https://learnyousomeerlang.com) by *Fred Hebert*
 
+* [Stuff Goes Bad: Erlang in Anger](https://www.erlang-in-anger.com) by *Fred Hebert*
+
 ### Forth
 
 * [Starting FORTH](https://www.forth.com/starting-forth) by *Leo Brodie*
