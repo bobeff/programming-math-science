@@ -262,6 +262,8 @@ This is a list of links to different freely available learning resources about c
 
 * [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world) - An unofficial book for beginners by *Ryan Yin*
 
+* [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours) by *Julia Evans*
+
 * [The Definitive Guide To Docker](https://masteringbackend.com/posts/docker-tutorial)
 
 * [Use Midnight Commander like a pro](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro) by *Igor Klimer*
