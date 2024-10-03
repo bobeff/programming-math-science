@@ -883,7 +883,7 @@ Thelin*
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
-* [Mathematics and Computation](https://www.math.ias.edu/avi/book) by [*Avi Wigderson*](https://en.wikipedia.org/wiki/Avi_Wigderson)
+* [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) by *Eric Lehman*, *F. Thomson Leighton*, and *Albert R. Meyer* **[pdf]**
 
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
 
