@@ -92,7 +92,11 @@ This is a list of links to different freely available learning resources about c
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
+  * [Apple II](#apple-ii)
+  * [Commodore 64](#commodore-64)
   * [DOS](#dos)
+  * [Mega 65](#mega-65)
+  * [ZX Spectrum and Z80 CPU](#zx-spectrum-and-z80-cpu)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [SIMD programming](#simd-programming)
@@ -1334,22 +1338,10 @@ in 5 volumes.
 
 * [A Guide to the Graphics of the Sega Mega Drive / Genesis](https://rasterscroll.com/mdgraphics)
 
-* [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide) by *Gregorio Naçu*
-
-* [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project)
-
-* [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
-
 * [Books by Fabien Sanglard](https://fabiensanglard.net/three_books_update/index.html)
   - **Game Engine Black Book: Wolfenstein 3D**
   - **Game Engine Black Book: DOOM**
   - **The Book of CP-System**
-
-* [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide) by *Gregorio Naçu*
-
-* [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
-
-* [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
 
 * [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs)
 
@@ -1357,37 +1349,39 @@ in 5 volumes.
 
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
-* [First Steps in Z80 Assembly Language](http://ped.7gods.org/z80.pdf) by *Darryl Sloan* **[pdf]**
-
-* [How to Write ZX Spectrum Games](https://spectrumcomputing.co.uk/zxdb/sinclair/entries/2001501/HowToWriteSpectrumGames%28v1.0%29.pdf) by *Jonathan Cauldwell* **[pdf]**
-
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
 * [Mark Moxon's Software Archaeology](https://www.bbcelite.com) - Fully documented source code for Elite, Revs, Lander, Aviator and more
 
-* [MEGA65 Documentation](https://files.mega65.org/manuals-upload)
-
-* [MEGA65 Welcome Guide](https://dansanderson.com/mega65/welcome/index.html) by *Dan Sanderson*
-
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book) by *Michael Abrash*
 
-* [Neil Parker's Apple II page](https://llx.com/Neil/a2/index.html)
-
-* [Sinclair ZX Spectrum BASIC programming](http://zxnext.narod.ru/manuals/Basic_Programming.pdf) by *Steven Vicker* **[pdf]**
-
-* [The Lost Ways of Programming: Commodore 64 BASIC](http://tomasp.net/commodore64) by *Tomas Petricek*
-
 * [Usborne 1980s Computer Books](https://usborne.com/row/books/computer-and-coding-books)
-
-* [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
-
-* [ZX Spectrum Next: Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) by *Tomaz Kragelj*
 
 ### Adevent of code on retro machines
 
 * [Advent of Code 2022 on a MikroMikko 4TT m326](http://clb.confined.space/aoc2022) by *Jukka Jylänki*
 
 * [Advent Of Code 2023 on a Commodore 64](http://clb.confined.space/aoc2023) by *Jukka Jylänki*
+
+### Apple II
+
+* [Apple II Documentation Project](http://mirrors.apple2.org.za/Apple%20II%20Documentation%20Project)
+
+* [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
+
+* [Neil Parker's Apple II page](https://llx.com/Neil/a2/index.html)
+
+### Commodore 64
+
+* [An Afterlife User's Guide to the C64](http://www.c64os.com/c64os/afterlifeguide) by *Gregorio Naçu*
+
+* [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide) by *Gregorio Naçu*
+
+* [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
+
+* [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
+
+* [The Lost Ways of Programming: Commodore 64 BASIC](http://tomasp.net/commodore64) by *Tomas Petricek*
 
 ### DOS
 
@@ -1398,6 +1392,24 @@ in 5 volumes.
 * [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos) by *Julio Merino*
 
 * [How Cosmo’s Cosmic Adventure DOS game works?](https://cosmodoc.org)
+
+### Mega 65
+
+* [MEGA65 Documentation](https://files.mega65.org/manuals-upload)
+
+* [MEGA65 Welcome Guide](https://dansanderson.com/mega65/welcome/index.html) by *Dan Sanderson*
+
+### ZX Spectrum and Z80 CPU
+
+* [First Steps in Z80 Assembly Language](http://ped.7gods.org/z80.pdf) by *Darryl Sloan* **[pdf]**
+
+* [How to Write ZX Spectrum Games](https://spectrumcomputing.co.uk/zxdb/sinclair/entries/2001501/HowToWriteSpectrumGames%28v1.0%29.pdf) by *Jonathan Cauldwell* **[pdf]**
+
+* [Sinclair ZX Spectrum BASIC programming](http://zxnext.narod.ru/manuals/Basic_Programming.pdf) by *Steven Vicker* **[pdf]**
+
+* [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
+
+* [ZX Spectrum Next: Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) by *Tomaz Kragelj*
 
 ## Reverse engineering
 
