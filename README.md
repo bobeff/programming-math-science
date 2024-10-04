@@ -1345,6 +1345,8 @@ in 5 volumes.
   - **Game Engine Black Book: DOOM**
   - **The Book of CP-System**
 
+* [C64 OS Programmer's Guide](https://www.c64os.com/c64os/programmersguide) by *Gregorio Naçu*
+
 * [Commodore 64 Guides](https://pickledlight.blogspot.com/p/commodore-64-guides.html)
 
 * [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
