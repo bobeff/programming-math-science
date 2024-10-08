@@ -366,8 +366,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
-* [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
-
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
 
 * [Lode's Computer Graphics Tutorial](https://lodev.org/cgtutor) by *Lode Vandevenne*
@@ -431,6 +429,8 @@ This is a list of links to different freely available learning resources about c
 * [Best Practices for Modern OpenGL](https://juandiegomontoya.github.io/modern_opengl.html)
 
 * [Learn OpenGL](https://learnopengl.com) by *Joey de Vries*
+
+* [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut) by *Jason L. McKesson*
 
 * [OGLdev: Modern OpenGL tutorials](https://ogldev.org) by *Etay Meiri*
 
