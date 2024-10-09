@@ -1362,6 +1362,8 @@ in 5 volumes.
 
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book) by *Michael Abrash*
 
+* [NeHe OpenGL Tutorials](https://nehe.gamedev.net)
+
 * [Usborne 1980s Computer Books](https://usborne.com/row/books/computer-and-coding-books)
 
 ### Adevent of code on retro machines
