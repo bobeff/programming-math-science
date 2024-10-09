@@ -363,6 +363,8 @@ This is a list of links to different freely available learning resources about c
 
 * [GPU Programming Primitives for Computer Graphics](https://gpu-primitives-course.github.io) by *Daniel Meister*, *Atsushi Yoshimura*, and *Chih-Chen Kao*
 
+* [Inigo Quilez's Website](https://iquilezles.org) - Articles, tutorials, code, and presentations related to computer graphics.
+
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
