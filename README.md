@@ -1350,11 +1350,11 @@ in 5 volumes.
   - **Game Engine Black Book: DOOM**
   - **The Book of CP-System**
 
+* [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
+
 * [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs)
 
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
-
-* [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
