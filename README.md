@@ -16,6 +16,7 @@ This is a list of links to different freely available learning resources about c
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
+  * [DirectX 12](#directx-12)
   * [Image Processing](#image-processing)
   * [OpenGL](#opengl)
   * [Ray Tracing](#ray-tracing)
@@ -362,8 +363,6 @@ This is a list of links to different freely available learning resources about c
 
 * [GPU Programming Primitives for Computer Graphics](https://gpu-primitives-course.github.io) by *Daniel Meister*, *Atsushi Yoshimura*, and *Chih-Chen Kao*
 
-* [GPU Work Graphs mesh nodes in Microsoft DirectX® 12](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-intro) by *Max Oberberger*
-
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
@@ -420,6 +419,18 @@ This is a list of links to different freely available learning resources about c
 
 * [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
 
+### DirectX 12
+
+* **Compute with DirectX 12** by *Stefan Pijnacker*
+  * [Part 1: the Theory](https://www.stefanpijnacker.nl/article/compute-with-directx12-part-1)
+  * [Part 2: The Setup](https://www.stefanpijnacker.nl/article/compute-with-directx-12-part-2)
+
+* [DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples)
+
+* [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing) by *Seppe Dekeyser*
+
+* [GPU Work Graphs mesh nodes in Microsoft DirectX® 12](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-intro) by *Max Oberberger*
+
 ### Image Processing
 
 * [Atkinson Dithering](https://beyondloom.com/blog/dither.html) by *John Earnest*
@@ -441,8 +452,6 @@ This is a list of links to different freely available learning resources about c
 * [A raycasting engine in 7 easy steps](https://austinhenley.com/blog/raycasting.html) by *Austin Z. Henley*
 
 * [Demystifying multiple importance sampling](https://lisyarus.github.io/blog/posts/multiple-importance-sampling.html) by *Nikita Lisitsa*
-
-* [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing) by *Seppe Dekeyser*
 
 * [How to build a BVH](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics) by *Jacco Bikker*
 
@@ -473,10 +482,6 @@ This is a list of links to different freely available learning resources about c
 
 * **A Journey Into Shaders** by *Antoine Mayerowitz*
   * [Part I: The blob](https://www.mayerowitz.io/blog/a-journey-into-shaders)
-
-* **Compute with DirectX 12** by *Stefan Pijnacker*
-  * [Part 1: the Theory](https://www.stefanpijnacker.nl/article/compute-with-directx12-part-1)
-  * [Part 2: The Setup](https://www.stefanpijnacker.nl/article/compute-with-directx-12-part-2)
 
 * [GM Shaders](https://gmshaders.com) - All about shaders for GameMaker!
 
