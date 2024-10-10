@@ -1287,6 +1287,8 @@ in 5 volumes.
 
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by *Harry Percival*
 
+* [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python) by *Miguel Grinberg*
+
 * [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e) by *Allen B. Downey*
 
 * [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by *Allen B. Downey*
