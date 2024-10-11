@@ -1519,6 +1519,8 @@ in 5 volumes.
 
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi) by *Peter Simons and Ralph Babel*
 
+* [HTML for People](https://htmlforpeople.com) by *Blake Watson*
+
 * [Implementing React From Scratch](https://www.rob.directory/blog/react-from-scratch#conditional-elements) by *Robby Pruzan*
 
 * [Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2)
