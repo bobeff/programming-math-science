@@ -1241,6 +1241,8 @@ in 5 volumes.
 
 * [The Power of Prolog](https://www.metalevel.at/prolog) by *Markus Triska*
 
+* [Game Programming in Prolog](https://thingspool.net/morsels/list.html) by *Youngjin Kang*
+
 ### Pyret
 
 * [Programming and Programming Languages](https://papl.cs.brown.edu/2020) by *Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz, Kathi Fisler*
