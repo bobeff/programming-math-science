@@ -639,6 +639,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Distributed systems for fun and profit](https://book.mixu.net/distsys) by *Mikito Takada*
 
+* [Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction) by *Eli Bendersky*
+
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by *James Aspnes* **[pdf]**
 
 * [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems) by *Unmesh Joshi*
