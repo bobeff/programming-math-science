@@ -453,6 +453,8 @@ This is a list of links to different freely available learning resources about c
 
 * [OGLdev: Modern OpenGL tutorials](https://ogldev.org) by *Etay Meiri*
 
+* [OpenGL Tutorial](https://www.opengl-tutorial.org)
+
 ### Ray Tracing
 
 * [A raycasting engine in 7 easy steps](https://austinhenley.com/blog/raycasting.html) by *Austin Z. Henley*
