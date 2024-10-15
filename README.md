@@ -18,6 +18,7 @@ This is a list of links to different freely available learning resources about c
   * [Curves and Surfaces](#curves-and-surfaces)
   * [DirectX 12](#directx-12)
   * [Image Processing](#image-processing)
+  * [Metal](#metal)
   * [OpenGL](#opengl)
   * [Ray Tracing](#ray-tracing)
   * [Shaders](#shaders)
@@ -379,8 +380,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Matrix Compendium](https://gpuopen.com/learn/matrix-compendium/matrix-compendium-intro) by *Łukasz Izdebski* - The main purpose of this article is to gather information in the field of transformation in computer graphics and put it in one place.
 
-* [Metal Tutorial](https://metaltutorial.com) by *Will Martin*
-
 * [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index) by *Fabian Giesen*
 
 * **Order Independent Transparency** by *Kostas Anagnostou*
@@ -440,6 +439,10 @@ This is a list of links to different freely available learning resources about c
 ### Image Processing
 
 * [Atkinson Dithering](https://beyondloom.com/blog/dither.html) by *John Earnest*
+
+### Metal
+
+* [Metal Tutorial](https://metaltutorial.com) by *Will Martin*
 
 ### OpenGL
 
