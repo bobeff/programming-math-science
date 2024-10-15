@@ -442,6 +442,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Metal
 
+* [Drawing Graphics on Apple Vision with the Metal Rendering API](https://github.com/gnikoloff/drawing-graphics-on-apple-vision-with-metal-rendering-api) by *Georgi Nikolov*
+
 * [Metal Tutorial](https://metaltutorial.com) by *Will Martin*
 
 ### OpenGL
