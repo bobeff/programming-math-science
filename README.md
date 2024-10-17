@@ -1192,6 +1192,10 @@ in 5 volumes.
 
 #### Common Lisp
 
+* **Gamedev in Lisp** by *Andrew Kravchuk*
+  * [Part 1: ECS and Metalinguistic Abstraction](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-1)
+  * [Part 2: Dungeons and Interfaces](https://gitlab.com/lockie/cl-fast-ecs/-/wikis/tutorial-2)
+
 * [Learn Lisp The Hard Way](https://llthw.common-lisp.dev) by  *"the Phoeron" Colin J.E. Lupton*
 
 * [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
