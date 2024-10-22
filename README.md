@@ -174,6 +174,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) by *Kevin Patrick Murphy*
 
+* [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/the-book-2nd.html)
+
 * [Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/) by *Daniel Jurafsky* and *James H. Martin*
 
 * [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) by *Mathieu Blondel and Vincent Roulet*
