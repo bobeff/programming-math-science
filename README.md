@@ -1290,8 +1290,6 @@ in 5 volumes.
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
-* [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices) by *Stuart Ellis*
-
 * [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d) by *Lev Maximov*
 
 * [Pandas Illustrated: The Definitive Visual Guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) by *Lev Maximov*
