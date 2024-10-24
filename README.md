@@ -1340,6 +1340,8 @@ in 5 volumes.
 
 * [A Gentle Introduction to Rust](https://stevedonovan.github.io/rust-gentle-intro/readme.html) by *Steve Donovan*
 
+* [Async Rust in Three Parts](https://jacko.io/async_intro.html) by *Jack O'Connor*
+
 * [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book)
 
 * [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling) by *Shesh Babu*
