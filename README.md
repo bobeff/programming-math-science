@@ -6,6 +6,7 @@ This is a list of links to different freely available learning resources about c
 
 * [AI](#ai)
   * [Machine Learning](#machine-learning)
+    * [Reinforcement learning](#reinforcement-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
 * [Art](#art)
@@ -140,8 +141,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning Interviews](https://arxiv.org/abs/2201.00650) by *Shlomo Kashani* and *Amir Ivry*
 
-* [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh)
-
 * [Dive into Deep Learning](https://d2l.ai)
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
@@ -174,8 +173,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) by *Kevin Patrick Murphy*
 
-* [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/the-book-2nd.html) by *Richard S. Sutton* and *Andrew G. Barto*
-
 * [Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/) by *Daniel Jurafsky* and *James H. Martin*
 
 * [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) by *Mathieu Blondel and Vincent Roulet*
@@ -189,6 +186,18 @@ This is a list of links to different freely available learning resources about c
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103) by *Stanley H. Chan*
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook) by *Simon J.D. Prince*
+
+#### Reinforcement learning
+
+* [Deep Reinforcement Learning](https://deep-reinforcement-learning.net) by *Aske Plaat*
+
+* [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh)
+
+* [Distributional Reinforcement Learning](https://www.distributional-rl.org) by *Marc G. Bellemare*, *Will Dabney* and *Mark Rowland*
+
+* [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com) by *Stefano V. Albrecht*, *Filippos Christianos* and *Lukas Schäfer*
+
+* [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/the-book-2nd.html) by *Richard S. Sutton* and *Andrew G. Barto*
 
 ### Computer Games AI
 
