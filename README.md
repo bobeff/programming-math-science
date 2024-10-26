@@ -475,6 +475,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A raycasting engine in 7 easy steps](https://austinhenley.com/blog/raycasting.html) by *Austin Z. Henley*
 
+* [Amanatides and Woo's fast Voxel Traversal](https://m4xc.dev/articles/amanatides-and-woo)
+
 * [Demystifying multiple importance sampling](https://lisyarus.github.io/blog/posts/multiple-importance-sampling.html) by *Nikita Lisitsa*
 
 * [How to build a BVH](https://jacco.ompf2.com/2022/04/13/how-to-build-a-bvh-part-1-basics) by *Jacco Bikker*
