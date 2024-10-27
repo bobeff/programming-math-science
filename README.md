@@ -706,6 +706,8 @@ This is a list of links to different freely available learning resources about c
 
 * [CSCI 181G PO: Game Engine Programming Course](https://cs.pomona.edu/classes/cs181g)
 
+* [Game Development, Shader Coding & Artificial Intelligence](https://www.alanzucconi.com) by *Alan Zucconi*
+
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) by *Gustavo Pezzi*
 
 * [Isometric Tutorials](https://clintbellanger.net/articles) by *Clint Bellanger*
