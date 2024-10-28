@@ -1122,6 +1122,8 @@ in 5 volumes.
   * [Appendix II: Metaclasses and RTTI on C++](https://nicolasbrailo.github.io/blog/2013/6.html#cexceptionsunderthehoodappendixiimetaclassesandrttionc)
   * [Appendix III: RTTI and exceptions orthogonality](https://nicolasbrailo.github.io/blog/2013/7.html#cexceptionsunderthehoodappendixiiirttiandexceptionsorthogonality)
 
+* [C++ Stories](https://www.cppstories.com) by *Bartłomiej Filipek*
+
 * [C++20 Coroutines: sketching a minimal async framework](https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework) by *Jeremy Ong*
 
 * [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide) by *Rajat Jain*
