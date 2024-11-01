@@ -381,6 +381,8 @@ This is a list of links to different freely available learning resources about c
 
 * [GPU Programming Primitives for Computer Graphics](https://gpu-primitives-course.github.io) by *Daniel Meister*, *Atsushi Yoshimura*, and *Chih-Chen Kao*
 
+* [Implementing a tiny CPU rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html) by *Nikita Lisitsa*
+
 * [Inigo Quilez's Website](https://iquilezles.org) - Articles, tutorials, code, and presentations related to computer graphics.
 
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
