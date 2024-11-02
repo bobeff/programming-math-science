@@ -1412,6 +1412,8 @@ in 5 volumes.
 
 * [Mark Moxon's Software Archaeology](https://www.bbcelite.com) - Fully documented source code for Elite, Revs, Lander, Aviator and more
 
+* [MarkeyJester’s Motorola 68000 Beginner’s Tutorial](https://mrjester.hapisan.com/04_MC68)
+
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book) by *Michael Abrash*
 
 * [NeHe OpenGL Tutorials](https://nehe.gamedev.net)
