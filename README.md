@@ -519,6 +519,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mesh Shaders on RDNA™ Graphics Cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index) by *Max Oberberger*, *Bastian Kuth* and *Quirin Meyer*
 
+* [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders)
+
 * [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) by *Manuela Malasaña*
 
 * [Shader Tutorials by Ronja](https://www.ronja-tutorials.com)
