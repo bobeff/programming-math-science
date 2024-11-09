@@ -429,6 +429,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Software rasterizing hair](https://www.sctheblog.com/blog/hair-software-rasterize) by *Marcin Matuszczyk*
 
+* [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text) by *Tim Gfrerer*
+
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Curves and Surfaces
