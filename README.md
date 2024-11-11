@@ -521,6 +521,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introducing GPU Reshape - shader instrumentation for everyone](https://gpuopen.com/learn/introducing-gpu-reshape-shader-instrumentation-toolset) by *Miguel Petersen*
 
+* [Introduction to Shaders](https://www.hexaquo.at/pages/introduction-to-shaders) by *Karl Bittner*
+
 * [Mesh Shaders on RDNA™ Graphics Cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index) by *Max Oberberger*, *Bastian Kuth* and *Quirin Meyer*
 
 * [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders)
