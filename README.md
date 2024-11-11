@@ -383,6 +383,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Implementing a tiny CPU rasterizer](https://lisyarus.github.io/blog/posts/implementing-a-tiny-cpu-rasterizer.html) by *Nikita Lisitsa*
 
+* [Implementing Order-Independent Transparency](https://osor.io/OIT) by *Rubén Osorio López*
+
 * [Inigo Quilez's Website](https://iquilezles.org) - Articles, tutorials, code, and presentations related to computer graphics.
 
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
