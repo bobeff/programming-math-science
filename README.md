@@ -893,6 +893,8 @@ Thelin*
 
 * [Category Theory Illustrated](https://boris-marinov.github.io/category-theory-illustrated) by *Boris Marinov*
 
+* [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html) by *Noah Ma*
+
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
 
 * **Pragmatic Category Theory** by *Dmitrii Kovanikov*
