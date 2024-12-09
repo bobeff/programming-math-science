@@ -773,6 +773,8 @@ Thelin*
 
 * [Architecture of Consoles](https://www.copetti.org/writings/consoles) by *Rodrigo Copetti*
 
+* [Computer Architecture, Fifth Edition: A Quantitative Approach](https://dl.acm.org/doi/book/10.5555/1999263) by *John L. Hennessy* and *David A Patterson*
+
 * [How Microchips Work](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 
 * [Modern Microprocessors: A 90-Minute Guide!](http://www.lighterra.com/papers/modernmicroprocessors) by *Jason Robert Carey Patterson*
