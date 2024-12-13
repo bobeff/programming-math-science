@@ -976,6 +976,8 @@ Thelin*
 
 * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores) by *Allen B. Downey*
 
+* [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf) by *Matt Kline* **[pdf]**
+
 ## Operating Systems
 
 * [Advanced Linux Programming](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf) by *Mark Mitchell*, *Jeffrey Oldham*, and *Alex Samuel* **[pdf]**
