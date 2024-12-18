@@ -1424,6 +1424,8 @@ in 5 volumes.
 
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
+* [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
+
 * [Mark Moxon's Software Archaeology](https://www.bbcelite.com) - Fully documented source code for Elite, Revs, Lander, Aviator and more
 
 * [MarkeyJester’s Motorola 68000 Beginner’s Tutorial](https://mrjester.hapisan.com/04_MC68)
