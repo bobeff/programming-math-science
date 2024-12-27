@@ -702,7 +702,7 @@ This is a list of links to different freely available learning resources about c
   * [Part 2](https://deno.com/blog/roll-your-own-javascript-runtime-pt2)
   * [Part 3](https://deno.com/blog/roll-your-own-javascript-runtime-pt3)
 
-* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm)
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm) by *Justin Meiners* and *Ryan Pendleton*
 
 * [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
