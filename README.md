@@ -103,6 +103,7 @@ This is a list of links to different freely available learning resources about c
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [SIMD programming](#simd-programming)
+* [System programming](#system-programming)
 * [Text editors](#text-editors)
   * [Emacs](#emacs)
   * [Vim](#vim)
@@ -1523,6 +1524,10 @@ in 5 volumes.
 [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64) by *Miguel Young de la Sota*
 
 [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf) **[pdf]**
+
+## System programming
+
+* [Lord of the io_uring](https://unixism.net/loti/index.html) by *Shuveb Hussain*
 
 ## Text editors
 
