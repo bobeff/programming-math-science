@@ -989,6 +989,8 @@ Thelin*
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
 
+* [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
+
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
