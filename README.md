@@ -1439,6 +1439,8 @@ in 5 volumes.
 
 * [NeHe OpenGL Tutorials](https://nehe.gamedev.net)
 
+* [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake) by *Pekka Väänänen*
+
 * [Retro Game Coders](https://retrogamecoders.com)
 
 * [Usborne 1980s Computer Books](https://usborne.com/row/books/computer-and-coding-books)
