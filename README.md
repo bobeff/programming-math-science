@@ -377,6 +377,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc)
 
+* [Radiometry: Overview](https://momentsingraphics.de/RadiometryOverview.html) by *Christoph Peters*
+
 * **GPU Gems Books Series**
   * [GPU Gems](https://developer.nvidia.com/gpugems/gpugems/contributors)
   * [GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/copyright)
