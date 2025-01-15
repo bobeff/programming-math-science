@@ -1598,6 +1598,8 @@ in 5 volumes.
 
 * [Josh Comeau's Website](https://www.joshwcomeau.com)
 
+* [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers)
+
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
 * [The Copenhagen Book](https://thecopenhagenbook.com) - A general guideline on implementing auth in web applications.
