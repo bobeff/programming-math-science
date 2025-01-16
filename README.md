@@ -817,6 +817,8 @@ Thelin*
 
 * [Performance Analysis and Tunning on Modern CPUs](https://github.com/dendibakh/perf-book) by *Denis Bakhvalov*
 
+* [Understanding Memory Management](https://educatedguesswork.org/posts/memory-management-1) by *Eric Rescorla*
+
 ## Math
 
 * [3Blue1Brown lessons](https://www.3blue1brown.com/#lessons) by *Grant Sanderson*
