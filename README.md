@@ -574,6 +574,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Computer Networks and Network Programming
 
+* [A comprehensive guide for Linux Network (Socket) programming](https://github.com/nguyenchiemminhvu/LinuxNetworkProgramming)
+
 * [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current2/html) by *Peter L. Dordal*
 
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) by *Larry Peterson and Bruce Davie*
