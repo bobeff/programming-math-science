@@ -793,6 +793,8 @@ Thelin*
 
 * [Processor Design: An Introduction](http://www.gamezero.com/team-0/articles/math_magic/micro)
 
+* [Simple CPU design](http://simplecpudesign.com)
+
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) by *Ulrich Drepper* **[pdf]**
 
 * [Zen, CUDA, and Tensor Cores](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i) by *Casey Muratori*
