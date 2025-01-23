@@ -6,6 +6,7 @@ This is a list of links to different freely available learning resources about c
 
 * [AI](#ai)
   * [Machine Learning](#machine-learning)
+    * [Large Language Models](#large-language-models)
     * [Reinforcement learning](#reinforcement-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
@@ -124,8 +125,6 @@ This is a list of links to different freely available learning resources about c
 
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro) by *Benjamin Sanchez-Lengeling*, *Emily Reif*, *Adam Pearce* and *Alexander B. Wiltschko*
 
-* [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
-
 * [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book) by *Simone Scardapane*
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
@@ -189,6 +188,12 @@ This is a list of links to different freely available learning resources about c
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103) by *Stanley H. Chan*
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook) by *Simon J.D. Prince*
+
+#### Large Language Models
+
+* [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
+
+* [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by *Tong Xiao* and *Jingbo Zhu*
 
 #### Reinforcement learning
 
