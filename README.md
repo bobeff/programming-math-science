@@ -1064,7 +1064,9 @@ in 5 volumes.
 
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 
-### Simulations
+###
+
+* [2D Cloth Simulation in Odin with raylib](https://www.marianpekar.com/blog/2d-cloth-simulation-in-odin-with-raylib) by *Marian Pekár*
 
 * [Physics-Based Simulation](https://phys-sim-book.github.io) by *Minchen Li*, *Chenfanfu Jiang*, and *Zhaofeng Luo*
 
