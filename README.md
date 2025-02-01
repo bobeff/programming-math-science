@@ -875,6 +875,8 @@ Thelin*
 
 * [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf) by *Timothy Gowers - editor* **[pdf]**
 
+* [The Tensor Cookbook](https://tensorcookbook.com) by *Thomas Dybdahl Ahle*
+
 ### Algebra
 
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
