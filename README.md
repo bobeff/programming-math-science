@@ -871,6 +871,8 @@ Thelin*
 
 * [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study Mathematics.
 
+* [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html) by *Kaare Brandt Petersen* and *Michael Syskind Pedersen*
+
 * [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
 
 * [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf) by *Timothy Gowers - editor* **[pdf]**
