@@ -209,6 +209,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/the-book-2nd.html) by *Richard S. Sutton* and *Andrew G. Barto*
 
+* [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265) by *Kevin Murphy*
+
 ### Computer Games AI
 
 * [Artificial Intelligence and Games](https://gameaibook.org) by *Georgios N. Yannakakis* and *Julian Togelius*
