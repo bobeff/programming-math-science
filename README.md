@@ -197,6 +197,8 @@ This is a list of links to different freely available learning resources about c
 
 #### Reinforcement learning
 
+* [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com) by *Nathan Lambert*
+
 * [Deep Reinforcement Learning](https://deep-reinforcement-learning.net) by *Aske Plaat*
 
 * [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh)
