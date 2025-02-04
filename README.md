@@ -1421,6 +1421,8 @@ in 5 volumes.
 
 * [Learning Async Rust With Entirely Too Many Web Servers](https://ibraheem.ca/posts/too-many-web-servers) by *Ibraheem Ahmed*
 
+* [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html) by *Josh Haberman*
+
 * [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics) by *Mara Bos*
 
 * [Rust Language Cheat Sheet](https://cheats.rs)
