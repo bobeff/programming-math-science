@@ -543,6 +543,8 @@ This is a list of links to different freely available learning resources about c
 
 * [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders)
 
+* [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium)
+
 * [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) by *Manuela Malasaña*
 
 * [Shader Tutorials by Ronja](https://www.ronja-tutorials.com)
