@@ -1448,6 +1448,8 @@ in 5 volumes.
   - **Game Engine Black Book: DOOM**
   - **The Book of CP-System**
 
+* [Easy 6502](https://skilldrick.github.io/easy6502) by *Nick Morgan*
+
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
 * [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs)
