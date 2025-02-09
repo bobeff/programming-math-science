@@ -1086,6 +1086,8 @@ in 5 volumes.
 
 * [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm) by *John English*
 
+* [Ada Gem Archive](https://www.adacore.com/gems)
+
 ### Assembly
 
 * **A friendly introduction to assembly for high-level programmers** by *Manuel Spagnolo*
