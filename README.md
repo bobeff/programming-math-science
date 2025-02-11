@@ -131,6 +131,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Applied Machine Learning for Tabular Data](https://aml4td.org) by *Max Kuhn* and *Kjell Johnson*
 
+* [Books by Andriy Burkov](https://www.thelmbook.com)
+  * [The Hundred Page Machine Learning Book](http://themlbook.com/wiki)
+  * [The Hundred-Page Language Models Book](https://www.thelmbook.com)
+  * [Machine Learning Engineering Book](http://www.mlebook.com/wiki)
+
 * [Crash Course in Deep Learning (for Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/) by *Jakub Boksansky* [[alternative link]](https://boksajak.github.io/blog/DeepLearning)
 
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://faculty.washington.edu/sbrunton/DataBookV2.pdf) by *Steven L. Brunton and J. Nathan Kutz* **[pdf]**
@@ -155,8 +160,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Learning Theory from First Principles](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf) by *Francis Bach* **[pdf]**
 
-* [Machine Learning Engineering Book](http://www.mlebook.com/wiki) by *Andriy Burkov*
-
 * [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) by *Stas Bekman*
 
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
@@ -180,8 +183,6 @@ This is a list of links to different freely available learning resources about c
 * [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) by *Mathieu Blondel and Vincent Roulet*
 
 * [The Engineer's Guide To Deep Learning](https://www.interdb.jp/dl) by *Hironobu Suzuki*
-
-* [The Hundred Page Machine Learning Book](http://themlbook.com/wiki) by *Andriy Burkov*
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
