@@ -1459,6 +1459,8 @@ in 5 volumes.
 
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
+* [jsgroth's blog](https://jsgroth.dev/blog)
+
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
 
 * [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
