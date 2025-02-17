@@ -540,6 +540,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Shaders](https://www.hexaquo.at/pages/introduction-to-shaders) by *Karl Bittner*
 
+* [Learn Shader Programming with Rick and Morty](https://danielchasehooper.com/posts/code-animated-rick) by *Daniel Hooper*
+
 * [Mesh Shaders on RDNA™ Graphics Cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index) by *Max Oberberger*, *Bastian Kuth* and *Quirin Meyer*
 
 * [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders)
