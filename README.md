@@ -646,6 +646,10 @@ This is a list of links to different freely available learning resources about c
 
 * **Build your own SQLite** by *Geoffrey Copin*
   * [Part 1: Listing tables](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
+  * [Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
+  * [Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
+  * [Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
+  * [Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 
 * [Build Your Own Redis with C/C++](https://build-your-own.org/redis) by *James Smith*
 
