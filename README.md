@@ -1103,6 +1103,8 @@ in 5 volumes.
 
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) by *Nayuki*
 
+* [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons)
+
 * [Learn Assembly Language](https://asmtutor.com) -  NASM x86 assembly language tutorial on Linux.
 
 * **Let's Learn x86-64 Assembly!**
