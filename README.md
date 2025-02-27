@@ -861,7 +861,7 @@ Thelin*
 
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
-* [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof), Third Edition by *Richard Hammack*
+* [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
 
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
 
