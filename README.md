@@ -934,8 +934,7 @@ Thelin*
 
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
 
-* **Pragmatic Category Theory** by *Dmitrii Kovanikov*
-  * [Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
+* [Pragmatic Category Theory](https://chshersh.com/blog/2024-07-30-pragmatic-category-theory-part-01.html) by *Dmitrii Kovanikov*
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
 
