@@ -988,6 +988,8 @@ Thelin*
 
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
 
+* [What Can Be Computed?: A Practical Guide to the Theory of Computation](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf) by *John MacCormick* **[pdf]**
+
 ### Topology
 
 * [Algebraic Topology for Data Scientists](https://arxiv.org/abs/2308.10825) by *Michael S. Postol*
