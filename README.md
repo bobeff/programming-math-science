@@ -904,6 +904,11 @@ Thelin*
 
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) by *David Cherney*, *Tom Denton*,
+*Rohit Thomas* and *Andrew Waldron* **[pdf]**
+
+* [Linear Algebra, Fourth edition](https://www.cs.ox.ac.uk/files/12921/book.pdf) by *Jim Hefferon* **[pdf]**
+
 * [Linear Algebra Done Right](https://linear.axler.net) by *Sheldon Axler*
 
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) by *Sergei Treil*
