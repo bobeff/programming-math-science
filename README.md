@@ -604,6 +604,13 @@ This is a list of links to different freely available learning resources about c
 
 * [Implementing TCP In Rust](https://github.com/Ghvstcode/Rust-Tcp) by *Ghvst Code*
 
+* **Let's code a TCP/IP stack** by *Sami Niiranen*
+  * [Part 1: Ethernet & ARP](https://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp)
+  * [Part 2: IPv4 & ICMPv4](https://www.saminiir.com/lets-code-tcp-ip-stack-2-ipv4-icmpv4)
+  * [Part 3: TCP Basics & Handshake](https://www.saminiir.com/lets-code-tcp-ip-stack-3-tcp-handshake)
+  * [Part 4: TCP Data Flow & Socket API](https://www.saminiir.com/lets-code-tcp-ip-stack-4-tcp-data-flow-socket-api)
+  * [Part 5: TCP Retransmission](https://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission)
+
 * [Mediocre Engineer’s guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https) by *Devon Peroutky*
 
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
