@@ -256,6 +256,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Kalman Filter from the Ground Up](https://www.kalmanfilter.net) by *Alex Becker*
 
+* [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) by *Jörg Arndt* **[pdf]**
+
 * [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) by *David J Wu*
 
 * [Planning Algorithms](http://lavalle.pl/planning) by *Steven M. LaValle*
