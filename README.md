@@ -850,7 +850,9 @@ Thelin*
 
 * [Performance Analysis and Tunning on Modern CPUs](https://github.com/dendibakh/perf-book) by *Denis Bakhvalov*
 
-* [Understanding Memory Management](https://educatedguesswork.org/posts/memory-management-1) by *Eric Rescorla*
+* **Understanding Memory Management** by *Eric Rescorla*
+  * [Part 1: C](https://educatedguesswork.org/posts/memory-management-1)
+  * [Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2)
 
 ## Math
 
