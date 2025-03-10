@@ -716,6 +716,8 @@ This is a list of links to different freely available learning resources about c
 
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) by *Dr. Marc Lichtman*
 
+* [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) by *Travis F. Collins*, *Robin Getz*, *Di Pu*, and *Alexander M. Wyglinski* **[pdf]**
+
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
 
 ## Distributed systems
