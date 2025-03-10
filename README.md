@@ -1189,6 +1189,8 @@ in 5 volumes.
 
 ### C++ <span id="cpp">
 
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) by *Bjarne Stroustrup* and *Herb Sutter*
+
 * **C++ exceptions uner the hood** by *Nicolás Brailovsky*
   * [Part 1](https://nicolasbrailo.github.io/blog/2013/2.html#cexceptionsunderthehood)
   * [Part 2: A tiny ABI](https://nicolasbrailo.github.io/blog/2013/2.html#cexceptionsunderthehoodiiatinyabi)
