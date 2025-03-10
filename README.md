@@ -176,6 +176,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 
+* [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244) by *Andreas Krause*, *Jonas Hübotter*
+
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by *Kevin Patrick Murphy*
 
 * [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html) by *Kevin Patrick Murphy*
