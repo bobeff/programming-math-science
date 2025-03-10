@@ -33,6 +33,7 @@ This is a list of links to different freely available learning resources about c
 * [Databases](#databases)
 * [Demoscene](#demoscene)
 * [Design Patterns](#design-patterns)
+* [Digital Signal Processing](#digital-signal-processing)
 * [Distributed Systems](#distributed-systems)
 * [Electronics](#electronics)
 * [Emulators and Virtual Machines](#emulators-and-virtual-machines)
@@ -710,6 +711,10 @@ This is a list of links to different freely available learning resources about c
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
+## Digital Signal Processing
+
+* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
 
 ## Distributed systems
 
@@ -1706,8 +1711,6 @@ in 5 volumes.
 * [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
 
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
-
-* [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
 
 ## Other lists
 
