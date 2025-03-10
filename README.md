@@ -210,6 +210,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Distributional Reinforcement Learning](https://www.distributional-rl.org) by *Marc G. Bellemare*, *Will Dabney* and *Mark Rowland*
 
+* [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) by *Shiyu Zhao*
+
 * [Multi-Agent Reinforcement Learning: Foundations and Modern Approaches](https://www.marl-book.com) by *Stefano V. Albrecht*, *Filippos Christianos* and *Lukas Schäfer*
 
 * [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/book/the-book-2nd.html) by *Richard S. Sutton* and *Andrew G. Barto*
