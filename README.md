@@ -714,6 +714,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Digital Signal Processing
 
+* [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) by *Dr. Marc Lichtman*
+
 * [The Scientist and Engineer's Guide to Digital Signal Processing](http://www.dspguide.com) by *Steven W. Smith, Ph.D.*
 
 ## Distributed systems
