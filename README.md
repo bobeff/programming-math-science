@@ -889,6 +889,8 @@ Thelin*
 
 * [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
 
+* [Books and papers by *Professor Dimitry P. Bertsekas*](https://web.mit.edu/dimitrib/www/home.html)
+
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
 
 * [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
