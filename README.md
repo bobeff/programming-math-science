@@ -1102,6 +1102,8 @@ Thelin*
 
 * [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations) by *Nick M.*
 
+* [Percolation Theory](https://web.mit.edu/ceder/publications/Percolation.pdf) by *Dr. Kim Christensen* **[pdf]**
+
 * [Physics for Mathematicians](https://nicf.net/articles/physics-for-mathematicians) by *Nicolas James Marks Ford*
 
 * [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
