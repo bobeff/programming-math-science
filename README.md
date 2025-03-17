@@ -20,6 +20,7 @@ This is a list of links to different freely available learning resources about c
   * [Curves and Surfaces](#curves-and-surfaces)
   * [DirectX 12](#directx-12)
   * [Image Processing](#image-processing)
+    * [Dithering](#dithering)
   * [Metal](#metal)
   * [OpenGL](#opengl)
   * [Ray Tracing](#ray-tracing)
@@ -483,9 +484,17 @@ This is a list of links to different freely available learning resources about c
 
 ### Image Processing
 
+#### Dithering
+
 * [Atkinson Dithering](https://beyondloom.com/blog/dither.html) by *John Earnest*
 
 * [Dithering in Colour](https://obrhubr.org/dithering-in-colour) by *Niklas Oberhuber*
+
+* [Ditherpunk — The article I wish I had about monochrome image dithering](https://surma.dev/things/ditherpunk) by *Surma*
+
+* [Image Dithering: Eleven Algorithms and Source Code](https://tannerhelland.com/2012/12/28/dithering-eleven-algorithms-source-code.html) by *Tanner Helland*
+
+* [Writing My Own Dithering Algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket) by *Amanvir Parhar*
 
 ### Metal
 
