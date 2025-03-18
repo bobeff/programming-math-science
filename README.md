@@ -1012,6 +1012,8 @@ Thelin*
 
 * [Probability and Statistics Cookbook](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf) by *Matthias Vallentin*
 
+* [Probability for Computer Scientists](https://chrispiech.github.io/probabilityForComputerScientists) by *Chris Piech*
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
