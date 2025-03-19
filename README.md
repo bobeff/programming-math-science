@@ -745,6 +745,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Electronics
 
+* [ANALOG SEEKrets: DC to daylight … a master class in electronics design](https://www.eevblog.com/files/seekPDF.pdf) by *Leslie Green* **[pdf]**
+
 * [Lessons in Electric Circuits](https://www.allaboutcircuits.com/textbook)
 
 * [Ultimate Electronics](https://ultimateelectronicsbook.com)
