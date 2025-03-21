@@ -1102,6 +1102,8 @@ Thelin*
 
 * [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) by *Andre Richter*
 
+* [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01) by *Tu Do*
+
 * [OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
 
 * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
