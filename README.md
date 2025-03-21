@@ -1073,8 +1073,6 @@ Thelin*
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
 
-* [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
-
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
@@ -1101,6 +1099,8 @@ Thelin*
   * [Part 3 - Managing free memory](https://traxys.me/riscv_os_buddy.html)
 
 * [Operating System development tutorials in Rust on the Raspberry Pi](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials) by *Andre Richter*
+
+* [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en) by *Seiya Nuta*
 
 * [Operating Systems: From 0 to 1](https://tuhdo.github.io/os01) by *Tu Do*
 
