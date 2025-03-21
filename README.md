@@ -1221,6 +1221,8 @@ in 5 volumes.
 
 * [So You Think You Know C?](https://wordsandbuttons.online/SYTYKC.pdf) by *Oleksandr Kaleniuk* **[pdf]**
 
+* [The C Book](https://publications.gbdirect.co.uk/c_book) by *Mike Banahan*, *Declan Brady* and *Mark Doran*
+
 * [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
 
 * [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) by *Matthew Plant*
