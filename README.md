@@ -232,6 +232,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Algorithms
 
+* [Advanced Algorithms](https://people.inf.ethz.ch/aroeyskoe/AA23_materials/AAscript.pdf) by *Mohsen Ghaffari* **[pdf]**
+
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
 * [Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf) by *Kurt Mehlhorn and Peter Sanders* **[pdf]**
