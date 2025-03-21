@@ -1106,6 +1106,8 @@ Thelin*
 
 * [OSDev.org](https://wiki.osdev.org/Expanded_Main_Page)
 
+* [The little book about OS development](https://littleosbook.github.io) by *Erik Helin* and *Adam Renberg*
+
 * [Writing a Simple Operating System — from Scratch](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf) by *Nick Blundell*
 
 * [Writing an OS in Rust](https://os.phil-opp.com) by *Philipp Oppermann*
