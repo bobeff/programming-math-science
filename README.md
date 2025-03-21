@@ -1650,6 +1650,12 @@ in 5 volumes.
   * [Part 2: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
   * [Part 3: LSP & Tree-sitter](https://arne.me/blog/emacs-config-from-scratch-part-three)
 
+* **Emacs Mini Manual** by *Tu Do*
+  * [Part 1: The Basics](https://tuhdo.github.io/emacs-tutor.html)
+  * [Part 2: Lisp Primer - Why Parentheses Matter](https://tuhdo.github.io/emacs-tutor2.html)
+  * [Part 3: Customizing and Extending Emacs](https://tuhdo.github.io/emacs-tutor3.html)
+  * [C/C++ Development Environment for Emacs](https://tuhdo.github.io/c-ide.html)
+
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
 
 * [Use GNU Emacs: The Plain Text Computing Environment](https://www2.lib.uchicago.edu/keith/emacs) by *Keith Waclena*
