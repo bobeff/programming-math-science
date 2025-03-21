@@ -879,6 +879,7 @@ Thelin*
 * **Understanding Memory Management** by *Eric Rescorla*
   * [Part 1: C](https://educatedguesswork.org/posts/memory-management-1)
   * [Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2)
+  * [Part 3: C++ Smart Pointers](https://educatedguesswork.org/posts/memory-management-3)
 
 ## Math
 
