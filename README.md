@@ -655,6 +655,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Debuggers
 
+* [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
+
 * [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) by *Kevin Pouget*
 
 * **Writing a Debugger From Scratch** by *Tim Misiak*
