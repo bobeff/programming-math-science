@@ -32,6 +32,7 @@ This is a list of links to different freely available learning resources about c
 * [Data Science](#data-science)
 * [Debuggers](#debuggers)
 * [Databases](#databases)
+  * [Databases Development](#databases-development)
   * [PostgreSQL](#postgresql)
 * [Demoscene](#demoscene)
 * [Design Patterns](#design-patterns)
@@ -670,6 +671,18 @@ This is a list of links to different freely available learning resources about c
 
 * [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes) by *Benjamin Dicken*
 
+* [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar) by *Alexey Makhotkin*
+
+* [Database Fundamentals](https://tontinton.com/posts/database-fundementals) by *Tony Solomonik*
+
+* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
+
+* [SQL for the Weary](https://gvwilson.github.io/sql-tutorial) by *Greg Wilson*
+
+* [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
+
+### Databases Development
+
 * [Build Your Own Database From Scratch in Go](https://build-your-own.org/database) by *James Smith*
 
 * **Build your own SQLite** by *Geoffrey Copin*
@@ -680,16 +693,6 @@ This is a list of links to different freely available learning resources about c
   * [Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 
 * [Build Your Own Redis with C/C++](https://build-your-own.org/redis) by *James Smith*
-
-* [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar) by *Alexey Makhotkin*
-
-* [Database Fundamentals](https://tontinton.com/posts/database-fundementals) by *Tony Solomonik*
-
-* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
-
-* [SQL for the Weary](https://gvwilson.github.io/sql-tutorial) by *Greg Wilson*
-
-* [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
 
 ### PostgreSQL
 
