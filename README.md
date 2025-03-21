@@ -934,6 +934,10 @@ Thelin*
 
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
+* **Notes on Mathematical Logic** by *David W. Kueker*
+  * [Part 1](https://math.umd.edu/~dkueker/712.pdf) **[pdf]**
+  * [Part 2](https://math.umd.edu/~dkueker/713.pdf) **[pdf]**
+
 * [Open Mathematics Depository](https://openmathdep.tuxfamily.org)
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
