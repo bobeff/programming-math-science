@@ -1056,6 +1056,8 @@ Thelin*
 
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
 
+* [The Foundations of Geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf) by *David Hilbert* **[pdf]**
+
 ### Graph Theory
 
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
