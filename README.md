@@ -1094,6 +1094,8 @@ Thelin*
 
 ### Proofs
 
+* [An introduction to mathematical proof](https://personal.math.ubc.ca/~PLP/assets/plp.pdf) by *Seçkin Demirbaş* and *Andrew Rechnitzer* **[pdf]**
+
 * [An Introduction to Mathematical Reasoning](https://sites.math.washington.edu/~conroy/m300-general/ConroyTaggartIMR.pdf) by *Matthew M. Conroy* and *Jennifer L. Taggart* **[pdf]**
 
 * [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
