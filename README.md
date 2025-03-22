@@ -928,8 +928,6 @@ Thelin*
   * [General topology](https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf) **[pdf]**
   * [Linear algebra](https://www.maths.ed.ac.uk/~tl/aa/aa.pdf) by **[pdf]**
 
-* [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
-
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
 
 * [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) by *Egbert Rijke*
@@ -1006,6 +1004,8 @@ Thelin*
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
 
 ### Geometry
+
+* [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
 
