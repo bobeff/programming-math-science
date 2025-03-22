@@ -937,6 +937,9 @@ Thelin*
 
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
+* [Mathematical Methods for Physics](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf) by *Dmitry Turaev* **[pdf]**
+  * [Problem sheets and solutions](https://www.ma.imperial.ac.uk/~dturaev/phys.php)
+
 * **Notes on Mathematical Logic** by *David W. Kueker*
   * [Part 1](https://math.umd.edu/~dkueker/712.pdf) **[pdf]**
   * [Part 2](https://math.umd.edu/~dkueker/713.pdf) **[pdf]**
