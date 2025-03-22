@@ -128,6 +128,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Machine Learning
 
+* [A Comprehensive Guide to Machine Learning](https://snasiriany.me/files/ml-book.pdf) by *Soroush Nasiriany*, *Garrett Thomas*, *William Wang*, *Alex Yang*, *Jennifer Listgarten*, *Anant Sahai* **[pdf]**
+
 * [A Course in Machine Learning](http://ciml.info) by *Hal Daumé III*
 
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro) by *Benjamin Sanchez-Lengeling*, *Emily Reif*, *Adam Pearce* and *Alexander B. Wiltschko*
