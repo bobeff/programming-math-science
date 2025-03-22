@@ -1064,6 +1064,8 @@ Thelin*
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
+* [Theoretical Statistics](https://www.stat.berkeley.edu/~aditya/resources/FullNotes210BSpring2018.pdf) by *Aditya Guntuboyina* **[pdf]**
+
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR) by *Cosma Rohilla Shalizi*
 
 ### Proofs
