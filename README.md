@@ -1086,6 +1086,8 @@ Thelin*
 
 * [Probability for Computer Scientists](https://web.stanford.edu/~mossr/pdf/p4cs.pdf) by *Robert J. Moss* **[pdf]**
 
+* [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by *Ramon van Handel* **[pdf]**
+
 * [Probability Theory](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/154/course/course.pdf) by *C. McMullen* **[pdf]**
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
