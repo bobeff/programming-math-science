@@ -961,6 +961,8 @@ Thelin*
 
 * [The Tensor Cookbook](https://tensorcookbook.com) by *Thomas Dybdahl Ahle*
 
+* [Undergraduate Game Theory Lecture Notes](https://tamuz.caltech.edu/teaching/ps172/lectures.pdf) by *Omer Tamuz* **[pdf]**
+
 ### Algebra
 
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
