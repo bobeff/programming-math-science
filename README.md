@@ -1013,6 +1013,8 @@ Thelin*
 
 ### Calculus
 
+* [Advanced Calculus](https://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) by *Lynn H. Loomis* and *Shlomo Sternberg*
+
 * [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook) by *Gilbert Strang*
 
 * [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
