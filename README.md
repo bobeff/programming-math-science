@@ -179,6 +179,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
 
+* [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) by *Michael U. Gutmann*
+
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
 * [Practical Deep Learning for Coders](https://course.fast.ai)
