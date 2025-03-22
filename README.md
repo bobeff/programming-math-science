@@ -213,6 +213,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematics for Inference and Machine Learning](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf) by *Marc Deisenroth* and *Stefanos Zafeiriou* **[pdf]**
 
+* [Mathematics of Neural Networks](https://arxiv.org/abs/2403.04807) by *Bart M.N. Smets*
+
 * [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) by *Michael U. Gutmann*
 
 #### Reinforcement learning
