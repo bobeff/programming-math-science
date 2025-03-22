@@ -55,6 +55,7 @@ This is a list of links to different freely available learning resources about c
   * [Geometry](#geometry)
   * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
+  * [Proofs](#proofs)
   * [Theoretical Computer Science](#theoretical-computer-science)
   * [Topology](#topology)
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
@@ -915,8 +916,6 @@ Thelin*
 
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
-* [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
-
 * [Books and papers by *Professor Dimitry P. Bertsekas*](https://web.mit.edu/dimitrib/www/home.html)
 
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
@@ -947,8 +946,6 @@ Thelin*
 * [The Lost Art of Logarithms](https://www.lostartoflogarithms.com) by *Charles Petzold*
 
 * [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html) by *Kaare Brandt Petersen* and *Michael Syskind Pedersen*
-
-* [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
 
 * [The Princeton Companion to Mathematics](https://sites.math.rutgers.edu/~zeilberg/akherim/PCM.pdf) by *Timothy Gowers - editor* **[pdf]**
 
@@ -1042,6 +1039,12 @@ Thelin*
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR) by *Cosma Rohilla Shalizi*
+
+### Proofs
+
+* [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
+
+* [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
 
 ### Theoretical Computer Science
 
