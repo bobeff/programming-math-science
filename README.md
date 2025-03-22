@@ -1092,6 +1092,8 @@ Thelin*
 
 ### Proofs
 
+* [An Introduction to Mathematical Reasoning](https://sites.math.washington.edu/~conroy/m300-general/ConroyTaggartIMR.pdf) by *Matthew M. Conroy* and *Jennifer L. Taggart* **[pdf]**
+
 * [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
 
 * [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
