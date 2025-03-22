@@ -953,6 +953,8 @@ Thelin*
 
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
+* [Libre Texts Math Books](https://math.libretexts.org/Bookshelves)
+
 * [Mathematical Methods for Physics](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf) by *Dmitry Turaev* **[pdf]**
   * [Problem sheets and solutions](https://www.ma.imperial.ac.uk/~dturaev/phys.php)
 
