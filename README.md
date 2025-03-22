@@ -660,6 +660,8 @@ This is a list of links to different freely available learning resources about c
 
 * [All I Know About Certificates](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority) by *Ke Pi*
 
+* [Coding Theory & Cryptography](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf) by *John C. Bowman* **[pdf]**
+
 * [Cryptography: An Introduction (3rd Edition)](https://www.cs.umd.edu/~waa/414-F11/IntroToCrypto.pdf) by *Nigel Smart* **[pdf]**
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
