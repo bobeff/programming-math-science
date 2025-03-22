@@ -1026,6 +1026,8 @@ Thelin*
 
 * [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/vc.pdf) by *David Tong* **[pdf]**
 
+* [Vector Calculus](https://mecmath.net) by *Michael Corral*
+
 ### Category Theory
 
 * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface) by *Bartosz Milewski*
