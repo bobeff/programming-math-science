@@ -209,6 +209,8 @@ This is a list of links to different freely available learning resources about c
 
 #### Mathematics for Machine Learning
 
+* [Mathematical Foundations of Machine Learning](https://nowak.ece.wisc.edu/MFML.pdf) by *Robert Nowak* **[pdf]**
+
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
