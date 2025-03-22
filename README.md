@@ -176,6 +176,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
+* [Mathematics for Inference and Machine Learning](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf) by *Marc Deisenroth* and *Stefanos Zafeiriou* **[pdf]**
+
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A course by *Andrej Karpathy*
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
