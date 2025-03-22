@@ -140,6 +140,8 @@ This is a list of links to different freely available learning resources about c
   * [The Hundred-Page Language Models Book](https://www.thelmbook.com)
   * [Machine Learning Engineering Book](http://www.mlebook.com/wiki)
 
+* [Concise Machine Learning](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf) by *Jonathan Richard Shewchuk* **[pdf]**
+
 * [Crash Course in Deep Learning (for Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/) by *Jakub Boksansky* [[alternative link]](https://boksajak.github.io/blog/DeepLearning)
 
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://faculty.washington.edu/sbrunton/DataBookV2.pdf) by *Steven L. Brunton and J. Nathan Kutz* **[pdf]**
