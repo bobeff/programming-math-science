@@ -54,6 +54,7 @@ This is a list of links to different freely available learning resources about c
   * [Category Theory](#category-theory)
   * [Geometry](#geometry)
   * [Graph Theory](#graph-theory)
+  * [Number Theory](#number-theory)
   * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
   * [Proofs](#proofs)
@@ -931,8 +932,6 @@ Thelin*
   * [General topology](https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf) **[pdf]**
   * [Linear algebra](https://www.maths.ed.ac.uk/~tl/aa/aa.pdf) by **[pdf]**
 
-* [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
-
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
 
 * [Introduction to Applied Mathematics](https://math.dartmouth.edu/~m46s21/Script_MATH46_2020.pdf) by *Jan Glaubitz* **[pdf]**
@@ -1022,6 +1021,12 @@ Thelin*
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
 
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
+
+### Number theory
+
+* [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
+
+* [Theory of Numbers](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012) by *Prof. Abhinav Kumar*
 
 ### Operations Research
 
