@@ -40,9 +40,9 @@ This is a list of links to different freely available learning resources about c
 * [Distributed Systems](#distributed-systems)
 * [Electronics](#electronics)
 * [Emulators and Virtual Machines](#emulators-and-virtual-machines)
-* [Fluids Simultion](#fluids-simulation)
 * [Game Programming](#game-programming)
   * [Game Engines](#game-engines)
+  * [Game Physics](#game-physics)
 * [Geographic Information Systems](#geographic-information-systems)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
@@ -63,7 +63,6 @@ This is a list of links to different freely available learning resources about c
   * [Operating Systems Development](#operating-systems-development)
 * [Photography](#photography)
 * [Physics](#physics)
-  * [Simulations](#simulations)
 * [Programming Languages](#programming-languages)
   * [Ada](#ada)
   * [Assembly](#assembly)
@@ -781,12 +780,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Writing NES emulator in Rust](https://bugzmanov.github.io/nes_ebook) by *Rafael Bagmanov*
 
-## Fluids Simulation
-
-* [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) by *Shahriar Shahrabi*
-
-* [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
-
 ## Game Programming
 
 * [2D Game Development: From Zero To Hero](https://therealpenaz91.itch.io/2dgd-f0th) by *Daniele Penazzo*
@@ -828,6 +821,16 @@ This is a list of links to different freely available learning resources about c
 * [Godot Engine 4 Tutorials](https://catlikecoding.com/godot) by *Jasper Flick*
 
 * [Unofficial Bevy Cheat Book](https://bevy-cheatbook.github.io)
+
+### Game Physics
+
+* [2D Cloth Simulation in Odin with raylib](https://www.marianpekar.com/blog/2d-cloth-simulation-in-odin-with-raylib) by *Marian Pekár*
+
+* [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) by *Shahriar Shahrabi*
+
+* [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
+
+* [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics)	by *Matthias Müller*
 
 ## Geographic Information Systems
 
@@ -1160,13 +1163,7 @@ in 5 volumes.
 
 * [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu)
 
-###
-
-* [2D Cloth Simulation in Odin with raylib](https://www.marianpekar.com/blog/2d-cloth-simulation-in-odin-with-raylib) by *Marian Pekár*
-
 * [Physics-Based Simulation](https://phys-sim-book.github.io) by *Minchen Li*, *Chenfanfu Jiang*, and *Zhaofeng Luo*
-
-* [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics)	by *Matthias Müller*
 
 ## Programming languages
 
