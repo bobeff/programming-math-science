@@ -53,6 +53,7 @@ This is a list of links to different freely available learning resources about c
   * [Calculus](#calculus)
   * [Category Theory](#category-theory)
   * [Geometry](#geometry)
+  * [Graph Theory](#graph-theory)
   * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
   * [Proofs](#proofs)
@@ -915,8 +916,6 @@ Thelin*
 
 * [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen* **[pdf]**
 
-* [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
-
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
 * [Books and papers by *Professor Dimitry P. Bertsekas*](https://web.mit.edu/dimitrib/www/home.html)
@@ -1010,6 +1009,12 @@ Thelin*
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
+
+### Graph Theory
+
+* [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
+
+* [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
 
 ### Operations Research
 
