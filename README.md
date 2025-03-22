@@ -931,6 +931,8 @@ Thelin*
   * [General topology](https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf) **[pdf]**
   * [Linear algebra](https://www.maths.ed.ac.uk/~tl/aa/aa.pdf) by **[pdf]**
 
+* [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
+
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
 
 * [Introduction to Applied Mathematics](https://math.dartmouth.edu/~m46s21/Script_MATH46_2020.pdf) by *Jan Glaubitz* **[pdf]**
