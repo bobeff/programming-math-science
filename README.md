@@ -1809,6 +1809,8 @@ in 5 volumes.
 
 * [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
 
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+
 * [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
 ## Other lists
