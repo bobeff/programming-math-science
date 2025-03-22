@@ -993,6 +993,8 @@ Thelin*
 
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) by *Sergei Treil*
 
+* [Numerical Linear Algebra](https://www.csc.kth.se/~barbel/nla/notes.pdf) by *Bärbel Janssen* **[pdf]**
+
 ### Calculus
 
 * [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook) by *Gilbert Strang*
