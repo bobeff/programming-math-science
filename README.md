@@ -1048,6 +1048,8 @@ Thelin*
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
+* [Lecture Notes on Probability Statistics and Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/chapters1-19.pdf) by *C. H. Taubes* **[pdf]**
+
 * [Markov Chains for programmers](https://czekster.github.io/markov) by *Ricardo M. Czekster*
 
 * [One Thousand Exercises in Probability](https://amarinoo.ir/wp-content/uploads/2023/11/One_Thousand_Exercises_in_Probability_Third_Edition_Geoffrey_Grimmett-1.pdf) by *Geoffrey R. Grimmett* and *David R. Stirzaker*  **[pdf]**
