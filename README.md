@@ -7,6 +7,7 @@ This is a list of links to different freely available learning resources about c
 * [AI](#ai)
   * [Machine Learning](#machine-learning)
     * [Large Language Models](#large-language-models)
+    * [Mathematics for Machine Learning](#mathematics-for-machine-learning)
     * [Reinforcement learning](#reinforcement-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
@@ -172,17 +173,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) by *Stas Bekman*
 
-* [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
-
-* [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
-
-* [Mathematics for Inference and Machine Learning](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf) by *Marc Deisenroth* and *Stefanos Zafeiriou* **[pdf]**
-
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A course by *Andrej Karpathy*
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
-
-* [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) by *Michael U. Gutmann*
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
@@ -211,6 +204,16 @@ This is a list of links to different freely available learning resources about c
 * [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
 
 * [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by *Tong Xiao* and *Jingbo Zhu*
+
+#### Mathematics for Machine Learning
+
+* [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
+
+* [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
+
+* [Mathematics for Inference and Machine Learning](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf) by *Marc Deisenroth* and *Stefanos Zafeiriou* **[pdf]**
+
+* [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) by *Michael U. Gutmann*
 
 #### Reinforcement learning
 
