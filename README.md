@@ -1056,6 +1056,8 @@ Thelin*
 
 * [Probability for Computer Scientists](https://chrispiech.github.io/probabilityForComputerScientists) by *Chris Piech*
 
+* [Probability for Computer Scientists](https://web.stanford.edu/~mossr/pdf/p4cs.pdf) by *Robert J. Moss* **[pdf]**
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
