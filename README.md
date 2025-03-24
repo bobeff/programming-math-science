@@ -1128,6 +1128,8 @@ Thelin*
 
 * [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
 
+* [Reading, Discovering and Writing Proofs](https://cs.uwaterloo.ca/~cbruni/pdfs/Math135SeptDec2015/RDW_1.pdf_) **[pdf]**
+
 * [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
 
 ### Theoretical Computer Science
