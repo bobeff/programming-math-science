@@ -1378,6 +1378,8 @@ in 5 volumes.
 
 * [Modernes C++](https://www.modernescpp.com/index.php/table-of-content-2) by *Rainer Grimm*
 
+* [My Favorite C++ Pattern: X Macros](https://danilafe.com/blog/chapel_x_macros) by *Daniel Fedorin*
+
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
 ### D
