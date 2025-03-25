@@ -946,6 +946,16 @@ Thelin*
 
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
 
+* [Courses and lecture notes by Jeffrey Robert Chasnov](https://www.math.hkust.edu.hk/~machas/?menu=1)
+  * [Calculus for Engineers](https://www.math.hkust.edu.hk/~machas/calculus-for-engineers.pdf) **[pdf]**
+  * [Matrix Algebra for Engineers](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf) **[pdf]**
+  * [Differential Equations for Engineers](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) **[pdf]**
+  * [Vector Calculus for Engineers](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf) **[pdf]**
+  * [Numerical Methods for Engineers](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf) **[pdf]**
+  * [Flow Around a Cylinder](https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf) **[pdf]**
+  * [Fibonacci Numbers and the Golden Ratio](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf) **[pdf]**
+
+
 * [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
   * [Category theory](https://arxiv.org/abs/1612.09375)
   * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
