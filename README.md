@@ -337,6 +337,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Use Midnight Commander like a pro](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro) by *Igor Klimer*
 
+* [Writing Programs with NCURSES](https://invisible-island.net/ncurses/ncurses-intro.html) by *Eric S. Raymond* and *Zeyd M. Ben-Halim*
+
 ### Curl
 
 * [Curl Cookbook](https://catonmat.net/cookbooks/curl)
