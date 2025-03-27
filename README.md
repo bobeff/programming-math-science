@@ -1324,7 +1324,7 @@ in 5 volumes.
 
 * [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 
-* [Moden C](https://inria.hal.science/hal-02383654) by *Jens Gustedt*
+* [Moden C](https://gustedt.gitlabpages.inria.fr/modern-c) by *Jens Gustedt*
 
 * [Object-Oriented Programming with ANSI-C](https://www.mclibre.org/descargar/docs/libros/ooc-ats.pdf) by *Axel-Tobias Schreiner* **[pdf]**
 
