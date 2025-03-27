@@ -1384,6 +1384,8 @@ in 5 volumes.
 
 * [My Favorite C++ Pattern: X Macros](https://danilafe.com/blog/chapel_x_macros) by *Daniel Fedorin*
 
+* [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy) by *Simon Tatham*
+
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
 ### D
