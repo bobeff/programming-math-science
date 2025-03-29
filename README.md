@@ -199,7 +199,7 @@ This is a list of links to different freely available learning resources about c
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
-* [Theory of Deep Learning]
+* [Theory of Deep Learning](https://www.cs.princeton.edu/~arora/TheoryDL.pdf) by *Zhao Song* **[pdf]**
 
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103) by *Stanley H. Chan*
 
