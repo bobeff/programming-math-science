@@ -55,6 +55,7 @@ This is a list of links to different freely available learning resources about c
   * [Category Theory](#category-theory)
   * [Geometry](#geometry)
   * [Graph Theory](#graph-theory)
+  * [Mathematical Logic](#mathematical-logic)
   * [Number Theory](#number-theory)
   * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
@@ -996,10 +997,6 @@ Thelin*
 
 * [Mathematics for the Physical Sciences](https://www2.math.upenn.edu/~wilf/website/Mathematics_for_the_Physical_Sciences.html) by *Herbert S. Wilf*
 
-* **Notes on Mathematical Logic** by *David W. Kueker*
-  * [Part 1](https://math.umd.edu/~dkueker/712.pdf) **[pdf]**
-  * [Part 2](https://math.umd.edu/~dkueker/713.pdf) **[pdf]**
-
 * [Open Mathematics Depository](https://openmathdep.tuxfamily.org)
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
@@ -1097,6 +1094,14 @@ Thelin*
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
 
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
+
+### Mathematical Logic
+
+* [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
+
+* **Notes on Mathematical Logic** by *David W. Kueker*
+  * [Part 1](https://math.umd.edu/~dkueker/712.pdf) **[pdf]**
+  * [Part 2](https://math.umd.edu/~dkueker/713.pdf) **[pdf]**
 
 ### Number theory
 
