@@ -199,6 +199,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
+* [Theory of Deep Learning]
+
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103) by *Stanley H. Chan*
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook) by *Simon J.D. Prince*
@@ -296,6 +298,8 @@ This is a list of links to different freely available learning resources about c
 * [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf) by *Udi Manber* **[pdf]**
 
 * [Kalman Filter from the Ground Up](https://www.kalmanfilter.net) by *Alex Becker*
+
+* [Lecture Notes on Quantum Algorithms](https://www.cs.umd.edu/~amchilds/qa/qa.pdf) by *Andrew M. Childs* **[pdf]**
 
 * [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) by *Jörg Arndt* **[pdf]**
 
