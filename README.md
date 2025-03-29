@@ -225,6 +225,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) by *Michael U. Gutmann*
 
+* [The Matrix Calculus You Need For Deep Learning](https://explained.ai/matrix-calculus) by *Terence Parr* and *Jeremy Howard*
+
 #### Reinforcement learning
 
 * [A Little Bit of Reinforcement Learning from Human Feedback](https://rlhfbook.com) by *Nathan Lambert*
