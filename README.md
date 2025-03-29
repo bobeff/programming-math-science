@@ -221,6 +221,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematics of Neural Networks](https://arxiv.org/abs/2403.04807) by *Bart M.N. Smets*
 
+* [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787) by *Paige Bright*, *Alan Edelman*, and *Steven G. Johnson*
+  * [MIT course](https://ocw.mit.edu/courses/18-s096-matrix-calculus-for-machine-learning-and-beyond-january-iap-2023)
+  * [GitHub repository](https://github.com/mitmath/matrixcalc)
+
 * [Optimization for Data Science](https://n.ethz.ch/~jiaxie/graduate_projs/notes_eth.pdf) by *Bernd Gartner*, *Niao He* and *Martin Jaggi* **[pdf]**
 
 * [Pen and Paper Exercises in Machine Learning](https://arxiv.org/abs/2206.13446) by *Michael U. Gutmann*
