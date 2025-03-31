@@ -273,6 +273,8 @@ This is a list of links to different freely available learning resources about c
   * [Algorithms for Decision Making](https://algorithmsbook.com/decisionmaking) by *Mykel J. Kochenderfer*, *Tim A. Wheeler*, and *Kyle H. Wray*
   * [Algorithms for Validation](https://algorithmsbook.com/validation) by *Mykel J. Kochenderfer*, *Sydney M. Katz*, *Anthony L. Corso*, and *Robert J. Moss*
 
+* [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms) by *Paulo Feofiloff*
+
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
