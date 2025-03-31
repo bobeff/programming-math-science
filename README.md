@@ -411,6 +411,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 7: Arrays](https://briancallahan.net/blog/20210822.html)
   * [Part 8: Strings, forward references, and conclusion](https://briancallahan.net/blog/20210826.html)
 
+* [Low-Level Software Security for Compiler Developers](https://llsoftsec.github.io/llsoftsecbook) by *Bill Wendling*, *Lucian Popescu*, and *Anders Waldenborg*
+
 * [Make A Language](https://arzg.github.io/lang) - A series about making a programming language called *Eldiro* using the *Rust* programming language.
 
 ## Computer Graphics
