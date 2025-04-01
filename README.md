@@ -1139,6 +1139,8 @@ Thelin*
 
 * [Markov Chains for programmers](https://czekster.github.io/markov) by *Ricardo M. Czekster*
 
+* [Notes on Probability](https://web.stanford.edu/~oas/SI/QM/notes/ProbabilityText.pdf) by *Peter J. Cameron* **[pdf]**
+
 * [One Thousand Exercises in Probability](https://amarinoo.ir/wp-content/uploads/2023/11/One_Thousand_Exercises_in_Probability_Third_Edition_Geoffrey_Grimmett-1.pdf) by *Geoffrey R. Grimmett* and *David R. Stirzaker*  **[pdf]**
 
 * [Probability 101, the intuition behind martingales and solving problems with them](https://nor-blog.codeberg.page/posts/2022-12-31-probability-and-martingales/)
