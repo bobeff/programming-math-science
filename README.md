@@ -1435,6 +1435,8 @@ in 5 volumes.
 
 ### Go
 
+* [Go Optimization Guide](https://goperf.dev) by *Alexander Stavonin*
+
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
 
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
