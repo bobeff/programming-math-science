@@ -425,8 +425,6 @@ This is a list of links to different freely available learning resources about c
 
 * [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer) by *Kristoffer Dyrkorn*
 
-* [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
-
 * [A trip through the Graphics Pipeline](https://fgiesen.wordpress.com/2011/07/09/a-trip-through-the-graphics-pipeline-2011-index) by *Fabian Giesen*
 
 * **A Quick Introduction to Workgraphs** by *Kostas Anagnostou*
@@ -519,6 +517,8 @@ This is a list of links to different freely available learning resources about c
 * [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces) by *Bartosz Ciechanowski*
 
 ### DirectX 12
+
+* [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
 
 * **Compute with DirectX 12** by *Stefan Pijnacker*
   * [Part 1: the Theory](https://www.stefanpijnacker.nl/article/compute-with-directx12-part-1)
