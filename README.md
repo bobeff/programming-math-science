@@ -957,6 +957,11 @@ Thelin*
 
 * [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by *Jean Gallier* by **[pdf]**
 
+* [Almost Sure: A random mathematical blog](https://almostsuremath.com) by *George Lowther*
+  * [Stochastic Calculus](https://almostsuremath.com/stochastic-calculus)
+  * [Probability Theory](https://almostsuremath.com/probability-theory)
+  * [Absolutely Sure](https://almostsuremath.com/absolutely-sure)
+
 * [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) by *Andrei Ciobanu*
 
 * [An Infinite Descent into Pure Mathematics](https://infinitedescent.xyz) by *Clive Newstead*
