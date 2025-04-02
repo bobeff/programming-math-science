@@ -1276,6 +1276,8 @@ Thelin*
 
 * [A free introduction to quantum computing and quantum mechanics](https://quantum.country) by *Andy Matuschak and Michael Nielsen*
 
+* [An introduction to Lagrangian and Hamiltonian mechanics](https://www.macs.hw.ac.uk/~simonm/mechanics.pdf) by *Simon J.A. Malham* **[pdf]**
+
 * [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations) by *Nick M.*
 
 * [Percolation Theory](https://web.mit.edu/ceder/publications/Percolation.pdf) by *Dr. Kim Christensen* **[pdf]**
