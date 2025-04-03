@@ -1909,6 +1909,8 @@ in 5 volumes.
 
 * [The Art of HPC](https://theartofhpc.com) by *Victor Eijkhout*
 
+* [The Art of Insight in Science and Engineering: Mastering Complexity](https://ocw.mit.edu/courses/res-6-011-the-art-of-insight-in-science-and-engineering-mastering-complexity-fall-2014/resources/mitres_6-011f14_art_insfin) by *Sanjoy Mahajan*
+
 * [The Fundamentals of Control Theory](https://engineeringmedia.com/books) by *Brian Douglas*
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
