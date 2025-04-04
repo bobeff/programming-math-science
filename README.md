@@ -666,6 +666,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials)
 
+* [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction) by *Eli Bendersky*
+
 * [HTTP2 Explained](https://daniel.haxx.se/http2) by *Daniel Stenberg*
 
 * [HTTP/3 explained](https://http3-explained.haxx.se) by *Daniel Stenberg*
