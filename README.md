@@ -268,6 +268,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
 
+* [Algorithms](https://courses.grainger.illinois.edu/cs473/fa2021/lec/book.pdf) by *Sariel Har-Peled* **[pdf]**
+
 * [Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf) by *Kurt Mehlhorn and Peter Sanders* **[pdf]**
 
 * [Algorithms Books](https://algorithmsbook.com) by *Mykel J. Kochenderfer*
