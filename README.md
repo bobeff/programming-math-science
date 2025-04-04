@@ -206,6 +206,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Understanding Deep Learning](https://udlbook.github.io/udlbook) by *Simon J.D. Prince*
 
+* [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning) by *Shai Shalev-Shwartz* and *Shai Ben-David*
+
 #### Large Language Models
 
 * [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
