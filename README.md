@@ -1194,6 +1194,8 @@ Thelin*
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
 
+* [Discrete Mathematical Modeling](https://sites.math.washington.edu/~billey/classes/math.381.spring.2024/course.notes/381notes.pdf) by *Prof. Sara Billey* **[pdf]**
+
 * [Discrete Mathematics](https://www.cs.ox.ac.uk/andrew.ker/docs/discretemaths-lecture-notes-mt2010.pdf) by *Andrew D. Ker* **[pdf]**
 
 * [Discrete Mathematics: An Open Introduction, 4th Edition](https://discrete.openmathbooks.org/dmoi4.html) by *Oscar Levin*
