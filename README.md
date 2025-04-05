@@ -1206,6 +1206,8 @@ Thelin*
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
+* [Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1184/notes/Mathematical%20Foundations%20of%20Computing.pdf) by *Keith Schwarz* **[pdf]**
+
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) by *Eric Lehman*, *F. Thomson Leighton*, and *Albert R. Meyer* **[pdf]**
 
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
