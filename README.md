@@ -1242,6 +1242,8 @@ Thelin*
 
 * [Advanced Linux Programming](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf) by *Mark Mitchell*, *Jeffrey Oldham*, and *Alex Samuel* **[pdf]**
 
+* [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os)
+
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *Alex Kuleshov*
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
