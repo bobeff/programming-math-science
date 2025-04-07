@@ -1360,6 +1360,8 @@ in 5 volumes.
 
 * [RISC-V Assembly Programming](https://riscv-programming.org) by *Prof. Edson Borin*
 
+* [Understanding Windows x64 Assembly](https://sonictk.github.io/asm_tutorial) by *Siew Yi Liang*
+
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) by  *Ed Jorgensen*
 
 ### Bash
