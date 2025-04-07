@@ -1166,7 +1166,9 @@ Thelin*
 
 * [Probability for Computer Scientists](https://web.stanford.edu/~mossr/pdf/p4cs.pdf) by *Robert J. Moss* **[pdf]**
 
-* [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by *Ramon van Handel* **[pdf]**
+* [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by *Ramon van Handel* **[pdf]** **[Princeton]**
+
+* [Probability in High Dimensions](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf) by *Prof. Joel A. Tropp* **[pdf]** **[Caltech]**
 
 * [Probability Theory](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/154/course/course.pdf) by *C. McMullen* **[pdf]**
 
