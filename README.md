@@ -1172,6 +1172,8 @@ Thelin*
 
 * [Probability Theory](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/154/course/course.pdf) by *C. McMullen* **[pdf]**
 
+* [Probability Theory & Computational Mathematics](https://tropp.caltech.edu/notes/Tro24-Probability-Theory-LN.pdf) by *Prof. Joel A. Tropp* **[pdf]** **[Caltech]**
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
