@@ -1573,7 +1573,11 @@ in 5 volumes.
 
 ### Odin
 
+* ["Handles are the better pointers": An Odin gamedev follow-up](https://zylinski.se/posts/handle-based-arrays) by *Karl Zylinski*
+
 * [Introduction to the Odin Programming Language](https://zylinski.se/posts/introduction-to-odin) by *Karl Zylinski*
+
+* [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas) by *Karl Zylinski*
 
 ### Pascal
 
