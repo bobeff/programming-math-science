@@ -266,6 +266,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Algorithms
 
+* [A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures/fullbook.pdf) by *Donald R. Sheehy* **[dpf]**
+
 * [Advanced Algorithms](https://www.cs.cmu.edu/~15850/notes/cmu850-f20.pdf) by *Anupam Gupta* **[pdf]** **[CMU]**
 
 * [Advanced Algorithms](https://people.inf.ethz.ch/aroeyskoe/AA23_materials/AAscript.pdf) by *Mohsen Ghaffari* **[pdf]** **[ETH]**
