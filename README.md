@@ -1148,6 +1148,8 @@ Thelin*
 
 ### Probability and Statistics
 
+* [Advanced Probability](https://noter.math.ku.dk/vidsand12.pdf) by *Alexander Sokol* and *Anders Rønn-Nielsen* **[pdf]**
+
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
 
 * [Digital textbook on probability and statistics](https://www.statlect.com) by *Marco Taboga*
