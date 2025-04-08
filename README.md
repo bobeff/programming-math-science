@@ -291,6 +291,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms for Competitive Programming](https://cp-algorithms.com)
 
+* [Algorithms for Massive Data](https://arxiv.org/abs/2301.00754) by *Nicola Prezza*
+
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
 
 * [Approximation Algorithms](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf) by *Chandra Chekuri* **[pdf]**
