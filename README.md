@@ -1262,6 +1262,8 @@ Thelin*
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
 
+* [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
