@@ -97,6 +97,7 @@ This is a list of links to different freely available learning resources about c
   * [Prolog](#prolog)
   * [Pyret](#pyret)
   * [Python](#python)
+  * [R](#R)
   * [Regular expressions](#regular-expressions)
   * [Ruby](#ruby)
   * [Rust](#rust)
@@ -1654,6 +1655,10 @@ in 5 volumes.
 * [Think Python, 2nd Edition](https://greenteapress.com/wp/think-python-2e) by *Allen B. Downey*
 
 * [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by *Allen B. Downey*
+
+### R
+
+* [Big Book of R](https://www.bigbookofr.com) by *Oscar Baruffa*
 
 ### Regular expressions
 
