@@ -1207,6 +1207,8 @@ Thelin*
 
 ### Theoretical Computer Science
 
+* [Analytic Combinatorics](https://algo.inria.fr/flajolet/Publications/book.pdf) by *Philippe Flajolet* and *Robert Sedgewick* **[pdf]**
+
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
 
 * [Discrete Mathematical Modeling](https://sites.math.washington.edu/~billey/classes/math.381.spring.2024/course.notes/381notes.pdf) by *Prof. Sara Billey* **[pdf]**
