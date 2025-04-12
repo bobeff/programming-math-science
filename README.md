@@ -1078,7 +1078,9 @@ Thelin*
 
 * [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl) by *John Verzani*
 
-* [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%202024.pdf) by *Dmitry Belyaev* **[pdf]**
+* [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP) by *Joel Feldman*, *Andrew Rechnitzer* and *Elyse Yeager*
+
+* [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
   * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
 
 * [Elementary Calculus](https://mecmath.net/calculus/index.html) by *Michael Corral*
