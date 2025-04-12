@@ -1173,6 +1173,8 @@ Thelin*
 
 * [Probability and Statistics Cookbook](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf) by *Matthias Vallentin*
 
+* [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf) by *Carlos Fernandez-Granda* **[pdf]**
+
 * [Probability for Computer Scientists](https://chrispiech.github.io/probabilityForComputerScientists) by *Chris Piech*
 
 * [Probability for Computer Scientists](https://web.stanford.edu/~mossr/pdf/p4cs.pdf) by *Robert J. Moss* **[pdf]**
