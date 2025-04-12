@@ -56,6 +56,7 @@ This is a list of links to different freely available learning resources about c
   * [Geometry](#geometry)
   * [Graph Theory](#graph-theory)
   * [Mathematical Logic](#mathematical-logic)
+  * [Measure Theory](#measure-theory)
   * [Number Theory](#number-theory)
   * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
@@ -985,8 +986,6 @@ Thelin*
 
 * [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen* **[pdf]**
 
-* [An Introduction to Measure Theory](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf) by *Terence Tao* **[pdf]**
-
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
 * [Books and papers by *Professor Dimitry P. Bertsekas*](https://web.mit.edu/dimitrib/www/home.html)
@@ -1089,8 +1088,6 @@ Thelin*
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
-* [Measure, Integration & Real Analysis](https://measure.axler.net) by *Sheldon Axler*
-
 * [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/vc.pdf) by *David Tong* **[pdf]**
 
 * [Vector Calculus](https://mecmath.net) by *Michael Corral*
@@ -1134,6 +1131,14 @@ Thelin*
 * **Notes on Mathematical Logic** by *David W. Kueker*
   * [Part 1](https://math.umd.edu/~dkueker/712.pdf) **[pdf]**
   * [Part 2](https://math.umd.edu/~dkueker/713.pdf) **[pdf]**
+
+### Measure Theory
+
+* [An Introduction to Measure Theory](https://terrytao.wordpress.com/wp-content/uploads/2012/12/gsm-126-tao5-measure-book.pdf) by *Terence Tao* **[pdf]**
+
+* [Measure, Integration & Real Analysis](https://measure.axler.net) by *Sheldon Axler*
+
+* [Measure Theory Princeton University MAT425 Lecture Notes](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT425_spring_2025/MAT425_Lecture_Notes.pdf) **[pdf]**
 
 ### Number theory
 
