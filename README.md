@@ -1218,6 +1218,8 @@ Thelin*
 
 ### Theoretical Computer Science
 
+* [An Introduction to Abstract Mathematics](https://www.math.uci.edu/~ndonalds/math13/notes.pdf) by *Neil Donaldson* and *Alessandra Pantano* **[pdf]**
+
 * [Analytic Combinatorics](https://algo.inria.fr/flajolet/Publications/book.pdf) by *Philippe Flajolet* and *Robert Sedgewick* **[pdf]**
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
