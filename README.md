@@ -1873,6 +1873,8 @@ in 5 volumes.
   * [Part 2: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
   * [Part 3: LSP & Tree-sitter](https://arne.me/blog/emacs-config-from-scratch-part-three)
 
+* [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements) by *Protesilaos*
+
 * **Emacs Mini Manual** by *Tu Do*
   * [Part 1: The Basics](https://tuhdo.github.io/emacs-tutor.html)
   * [Part 2: Lisp Primer - Why Parentheses Matter](https://tuhdo.github.io/emacs-tutor2.html)
