@@ -168,6 +168,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
 
+* [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook) by *Mehryar Mohri*, *Afshin Rostamizadeh*, and *Ameet Talwalkar* **[MIT]**
+
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
 
 * [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu) by *Peter Holderrieth* and *Ezra Erives*
