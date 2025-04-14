@@ -1003,7 +1003,6 @@ Thelin*
   * [Flow Around a Cylinder](https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf) **[pdf]**
   * [Fibonacci Numbers and the Golden Ratio](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf) **[pdf]**
 
-
 * [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
   * [Category theory](https://arxiv.org/abs/1612.09375)
   * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
@@ -1027,6 +1026,8 @@ Thelin*
 * [Mathematics for the Physical Sciences](https://www2.math.upenn.edu/~wilf/website/Mathematics_for_the_Physical_Sciences.html) by *Herbert S. Wilf*
 
 * [Open Mathematics Depository](https://openmathdep.tuxfamily.org)
+
+* [Open textbooks for undergraduate mathematics](https://openaccesstexts.com/math)
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
@@ -1337,12 +1338,14 @@ Thelin*
 
 * [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations) by *Nick M.*
 
+* [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
+in 5 volumes.
+
 * [Percolation Theory](https://web.mit.edu/ceder/publications/Percolation.pdf) by *Dr. Kim Christensen* **[pdf]**
 
 * [Physics for Mathematicians](https://nicf.net/articles/physics-for-mathematicians) by *Nicolas James Marks Ford*
 
-* [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
-in 5 volumes.
+* [Open textbooks for undergraduate physics](https://openaccesstexts.com/physics)
 
 * [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
 
