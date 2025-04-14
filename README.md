@@ -1408,6 +1408,8 @@ in 5 volumes.
 
 * [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 
+* [Hacktical C: A practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
+
 * [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c) by *Ben Hoyt*
 
 * [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
