@@ -1258,6 +1258,8 @@ Thelin*
 
 * [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html) by *Leslie Lamport*
 
+* [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
+
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) by *Paul E. McKenney*
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
