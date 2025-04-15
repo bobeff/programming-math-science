@@ -1068,6 +1068,8 @@ Thelin*
 
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html) by *Sergei Treil*
 
+* [Linear Algebra for Computer Science](https://la4cs.com) by *Manoj Thulasidas*
+
 * [Numerical Linear Algebra](https://www.csc.kth.se/~barbel/nla/notes.pdf) by *Bärbel Janssen* **[pdf]**
 
 ### Calculus
