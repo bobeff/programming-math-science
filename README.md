@@ -1035,6 +1035,13 @@ Thelin*
 
 * [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study Mathematics.
 
+* [Texts, exercises, problems and lecture notes by John Erdman](https://web.pdx.edu/~erdman)
+  * [Exercises and Problems in Calculus](https://web.pdx.edu/%7Eerdman/CALCULUS/CALCULUSlicensepage.html)
+  * [A ProblemText in Advanced Calculus](https://web.pdx.edu/%7Eerdman/PTAC/problemtext_pdf.pdf) **[pdf]**
+  * [Exercises and Problems in Linear Algebra](https://web.pdx.edu/%7Eerdman/LINALG/Linalg_licensepage.html)
+  * [Companion to Real Analysis](https://web.pdx.edu/%7Eerdman/CRA/CRAlicensepage.html)
+  * [Functional Analysis and Operator Algebras: An Introduction](https://web.pdx.edu/%7Eerdman/FAOA/functional_analysis_operator_algebras_pdf.pdf) **[pdf]**
+
 * [The Lost Art of Logarithms](https://www.lostartoflogarithms.com) by *Charles Petzold*
 
 * [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html) by *Kaare Brandt Petersen* and *Michael Syskind Pedersen*
