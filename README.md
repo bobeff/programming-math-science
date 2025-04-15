@@ -1187,6 +1187,8 @@ Thelin*
 
 * [Probability 101, the intuition behind martingales and solving problems with them](https://nor-blog.codeberg.page/posts/2022-12-31-probability-and-martingales/)
 
+* [Probability and Statistics: The Science of Uncertainty, Second Edition](https://www.utstat.toronto.edu/mikevans/jeffrosenthal) by *Michael J. Evans* and *Jeffrey S. Rosenthal*
+
 * [Probability and Statistics Cookbook](https://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf) by *Matthias Vallentin*
 
 * [Probability and Statistics for Data Science](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf) by *Carlos Fernandez-Granda* **[pdf]**
