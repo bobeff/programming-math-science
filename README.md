@@ -2015,6 +2015,8 @@ in 5 volumes.
 
 * [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d) by *Ken Hu*
 
+* [Max Slater's Bookmarks](https://github.com/TheNumbat/Lists)
+
 * [My favorite technical blogs](https://eatonphil.com/blogs.html) by *Phil Eaton*
 
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
