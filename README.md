@@ -1708,6 +1708,8 @@ in 5 volumes.
 
 * [Big Book of R](https://www.bigbookofr.com) by *Oscar Baruffa*
 
+* [Efficient R programming](https://csgillespie.github.io/efficientR) by *Colin Gillespie* and *Robin Lovelace*
+
 ### Regular expressions
 
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp) by *Russ Cox*
