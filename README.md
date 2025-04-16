@@ -1088,7 +1088,7 @@ Thelin*
 
 * [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook) by *Gilbert Strang*
 
-* [Calculus 1](https://web.math.princeton.edu/~js129/PDFs/teaching/calc1_spring_2019/LectureNotes.pdf) by *Jacob Shapiro* **[pdf]**
+* [Calculus 1](https://web.math.princeton.edu/~js129/PDFs/teaching/calc1_spring_2019/LectureNotes.pdf) by *Jacob Shapiro* **[pdf]** **[Princeton]**
 
 * [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
 
@@ -1098,6 +1098,8 @@ Thelin*
 
 * [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
   * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
+
+* [Complex Analysis with Applications](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2023/MAT330_Lecture_Notes.pdf) by *Jacob Shapiro* **[pdf]** **[Princeton]**
 
 * [Elementary Calculus](https://mecmath.net/calculus/index.html) by *Michael Corral*
 
