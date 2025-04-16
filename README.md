@@ -75,6 +75,7 @@ This is a list of links to different freely available learning resources about c
   * [Basic](#basic)
   * [C](#c)
   * [C++](#cpp)
+  * [CMake](#cmake)
   * [D](#d)
   * [Datalog](#datalog)
   * [Erlang](#erlang)
@@ -1495,6 +1496,10 @@ in 5 volumes.
 * [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy) by *Simon Tatham*
 
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
+
+### CMake
+
+* [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html) by *Henry Schreiner*
 
 ### D
 
