@@ -1034,6 +1034,14 @@ Thelin*
 
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
+* **Lecture Notes by Jacob Shapiro**
+  * [Calculus 1](https://web.math.princeton.edu/~js129/PDFs/teaching/calc1_spring_2019/LectureNotes.pdf) **[pdf]**
+  * [Complex Analysis with Applications](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2024/MAT330_Lecture_Notes.pdf) **[pdf]**
+  * [Functional Analysis](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT520_fall_2023/MAT520_Lecture_Notes.pdf) **[pdf]**
+  * [Measure Theory](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT425_spring_2025/MAT425_Lecture_Notes.pdf) **[pdf]**
+  * [Topics in Mathematical Physics](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT595_spring_2024/MAT595_PHY508_Lecture_Notes.pdf) **[pdf]**
+  * [Homeworks and other courses materials](https://web.math.princeton.edu/~shapiro/teaching.html)
+
 * [Libre Texts Math Books](https://math.libretexts.org/Bookshelves)
 
 * [Mathematical Methods for Physics](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf) by *Dmitry Turaev* **[pdf]**
@@ -1101,8 +1109,6 @@ Thelin*
 
 * [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook) by *Gilbert Strang*
 
-* [Calculus 1](https://web.math.princeton.edu/~js129/PDFs/teaching/calc1_spring_2019/LectureNotes.pdf) by *Jacob Shapiro* **[pdf]** **[Princeton]**
-
 * [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
 
 * [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl) by *John Verzani*
@@ -1111,8 +1117,6 @@ Thelin*
 
 * [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
   * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
-
-* [Complex Analysis with Applications](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2023/MAT330_Lecture_Notes.pdf) by *Jacob Shapiro* **[pdf]** **[Princeton]**
 
 * [Elementary Calculus](https://mecmath.net/calculus/index.html) by *Michael Corral*
 
