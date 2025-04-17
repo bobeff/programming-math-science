@@ -1006,6 +1006,19 @@ Thelin*
   * [Flow Around a Cylinder](https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf) **[pdf]**
   * [Fibonacci Numbers and the Golden Ratio](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf) **[pdf]**
 
+* [Course notes by J.S. Milne](https://www.jmilne.org/math/CourseNotes)
+  * [Abelian Varieties](https://www.jmilne.org/math/CourseNotes/AV.pdf) **[pdf]**
+  * [Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/AG.pdf) **[pdf]**
+  * [Algebraic Number Theory](https://www.jmilne.org/math/CourseNotes/ANT.pdf) **[pdf]**
+  * [Class Field Theory](https://www.jmilne.org/math/CourseNotes/CFT.pdf) **[pdf]**
+  * [Complex Multiplication](https://www.jmilne.org/math/CourseNotes/CM.pdf) **[pdf]**
+  * [Fields and Galois Theory](https://www.jmilne.org/math/CourseNotes/FT.pdf) **[pdf]**
+  * [Group Theory](https://www.jmilne.org/math/CourseNotes/GT.pdf) **[pdf]**
+  * [Lectures on Etale Cohomology](https://www.jmilne.org/math/CourseNotes/LEC.pdf) **[pdf]**
+  * [Lie Algebras, Algebraic Groups, and Lie Groups](https://www.jmilne.org/math/CourseNotes/LAG.pdf) **[pdf]**
+  * [Modular Functions and Modular Forms](https://www.jmilne.org/math/CourseNotes/MF.pdf) **[pdf]**
+  * [Reductive Groups](https://www.jmilne.org/math/CourseNotes/RG.pdf) **[pdf]**
+
 * [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
   * [Category theory](https://arxiv.org/abs/1612.09375)
   * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
