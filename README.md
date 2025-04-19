@@ -1292,6 +1292,8 @@ Thelin*
 
 * [Computational Algebraic Topology](https://people.maths.ox.ac.uk/nanda/cat) by *Vidit Nanda*
 
+* [General Topology](https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf) by *Tom Leinster* **[pdf]**
+
 * [Topology Without Tears](https://www.topologywithouttears.net) by *Sidney A. Morris*
 
 ## Multithreading and Concurrency
