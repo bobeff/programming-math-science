@@ -76,6 +76,7 @@ This is a list of links to different freely available learning resources about c
   * [C](#c)
   * [C++](#cpp)
   * [CMake](#cmake)
+  * [Cuda](#cuda)
   * [D](#d)
   * [Datalog](#datalog)
   * [Erlang](#erlang)
@@ -1527,6 +1528,10 @@ in 5 volumes.
 ### CMake
 
 * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html) by *Henry Schreiner*
+
+### Cuda
+
+* [How To Write A Fast Matrix Multiplication From Scratch With Tensor Cores](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html) by *Alex Armbruster*
 
 ### D
 
