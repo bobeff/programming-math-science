@@ -1431,6 +1431,8 @@ in 5 volumes.
 
 * [RISC-V Assembly Programming](https://riscv-programming.org) by *Prof. Edson Borin*
 
+* [The Art of Assembly Language](https://www.plantation-productions.com/Webster/www.artofasm.com/Linux/HTML/AoATOC.html) by *Randall Hyde*
+
 * [Understanding Windows x64 Assembly](https://sonictk.github.io/asm_tutorial) by *Siew Yi Liang*
 
 * [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/x86.html) by  *Ed Jorgensen*
