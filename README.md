@@ -1203,6 +1203,8 @@ Thelin*
 
 * [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
 
+* [Introduction to Probability at an advanced level](https://www.stat.berkeley.edu/~aditya/resources/FullNotes201AFall2022.pdf) by *Aditya Guntuboyina* **[pdf]**
+
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
 * [Lecture Notes on Probability](https://www.tamuz.caltech.edu/teaching/ma144a/lectures.pdf) by *Omer Tamuz* **[pdf]**
