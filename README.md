@@ -1297,6 +1297,8 @@ Thelin*
 
 * [General Topology](https://www.maths.ed.ac.uk/~tl/topology/topology_notes.pdf) by *Tom Leinster* **[pdf]**
 
+* [Metric and Topological Spaces](https://www.dpmms.cam.ac.uk/~twk10/Top.pdf) by *T. W. K¨orner* **[pdf]**
+
 * [Topology Without Tears](https://www.topologywithouttears.net) by *Sidney A. Morris*
 
 ## Multithreading and Concurrency
