@@ -1281,6 +1281,8 @@ Thelin*
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
+* [Introduction to University Mathematics](https://courses.maths.ox.ac.uk/pluginfile.php/30903/mod_resource/content/33/Introduction%20to%20University%20Mathematics.pdf) by *Ian Hewitt* **[pdf]**
+
 * [Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1184/notes/Mathematical%20Foundations%20of%20Computing.pdf) by *Keith Schwarz* **[pdf]**
 
 * [Mathematical Techniques for Computer Science](https://drive.google.com/file/d/1TRs0Yfdlm7UpY1LJ80ya8rLnmsWUVFi6/view) by *Andrea Schalk* **[pdf]**
