@@ -1089,6 +1089,8 @@ Thelin*
 
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
+* [Introduction to Abstract Algebra](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf) by *Alexander Paulin* **[pdf]**
+
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls) by *Stephen Boyd* and *Lieven Vandenberghe*
 
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) by *David Cherney*, *Tom Denton*,
