@@ -1104,6 +1104,8 @@ Thelin*
 
 * [Linear Algebra for Computer Science](https://la4cs.com) by *Manoj Thulasidas*
 
+* [Linear Algebra Lecture Notes by Terence Tao](https://terrytao.wordpress.com/wp-content/uploads/2016/12/linear-algebra-notes.pdf) **[pdf]** **[UCLA]**
+
 * [Numerical Linear Algebra](https://www.csc.kth.se/~barbel/nla/notes.pdf) by *Bärbel Janssen* **[pdf]**
 
 ### Calculus
