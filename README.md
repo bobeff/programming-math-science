@@ -1285,6 +1285,8 @@ Thelin*
 
 * [Mathematical Foundations of Computing](https://web.stanford.edu/class/archive/cs/cs103/cs103.1184/notes/Mathematical%20Foundations%20of%20Computing.pdf) by *Keith Schwarz* **[pdf]**
 
+* [Mathematical Techniques for Algorithm Analysis](https://pages.cs.wisc.edu/~cs809-1/lectures.pdf) by *Eric Bach* **[pdf]**
+
 * [Mathematical Techniques for Computer Science](https://drive.google.com/file/d/1TRs0Yfdlm7UpY1LJ80ya8rLnmsWUVFi6/view) by *Andrea Schalk* **[pdf]**
 
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) by *Eric Lehman*, *F. Thomson Leighton*, and *Albert R. Meyer* **[pdf]**
