@@ -1243,6 +1243,8 @@ Thelin*
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
+* [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
+
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
 * [Theoretical Statistics](https://www.stat.berkeley.edu/~aditya/resources/FullNotes210BSpring2018.pdf) by *Aditya Guntuboyina* **[pdf]**
