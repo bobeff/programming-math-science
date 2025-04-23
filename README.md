@@ -1257,6 +1257,8 @@ Thelin*
 
 * [Book of Proof](https://richardhammack.github.io/BookOfProof), Third Edition by *Richard Hammack*
 
+* [Handbook of Mathematical Proof](https://www.ams.org/open-math-notes/files/course-material/OMN-202405-111405-1-Course_notes-v1.pdf) by *Edward D. Kim* **[pdf]**
+
 * [Mathematical Reasoning & Proofs](https://alistairsavage.ca/mat1362) by *Alistair Savage* **[University of Ottawa]**
 
 * [Reading, Discovering and Writing Proofs](https://cs.uwaterloo.ca/~cbruni/pdfs/Math135SeptDec2015/RDW_1.pdf_) **[pdf]**
