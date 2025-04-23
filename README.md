@@ -970,6 +970,8 @@ Thelin*
   * [Part 1: C](https://educatedguesswork.org/posts/memory-management-1)
   * [Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2)
   * [Part 3: C++ Smart Pointers](https://educatedguesswork.org/posts/memory-management-3)
+  * [Part 4: Rust Ownership and Borrowing](https://educatedguesswork.org/posts/memory-management-4)
+  * [Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5)
 
 ## Math
 
