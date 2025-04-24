@@ -727,6 +727,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1) by *Rafael A. Irizarry*
 
+* [Mathematical Methods in Data Science (with Python)](https://mmids-textbook.github.io) by *Sebastien Roch*
+
 ## Debuggers
 
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
