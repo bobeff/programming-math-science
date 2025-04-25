@@ -1303,6 +1303,8 @@ Thelin*
 
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) by *Eric Lehman*, *F. Thomson Leighton*, and *Albert R. Meyer* **[pdf]**
 
+* [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm) by *Kenneth E. Iverson*
+
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
 
 * [What Can Be Computed?: A Practical Guide to the Theory of Computation](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf) by *John MacCormick* **[pdf]**
