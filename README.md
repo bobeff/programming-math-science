@@ -1135,6 +1135,8 @@ Thelin*
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
+* [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/benjonathan.pdf) by *B. C. Allanacha* and *J.M. Evansa* **[pdf]**
+
 * [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/vc.pdf) by *David Tong* **[pdf]**
 
 * [Vector Calculus](https://mecmath.net) by *Michael Corral*
