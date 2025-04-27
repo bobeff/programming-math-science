@@ -1026,6 +1026,12 @@ Thelin*
   * [Modular Functions and Modular Forms](https://www.jmilne.org/math/CourseNotes/MF.pdf) **[pdf]**
   * [Reductive Groups](https://www.jmilne.org/math/CourseNotes/RG.pdf) **[pdf]**
 
+* [Course notes by Kenneth R. Davidson](https://www.math.uwaterloo.ca/~krdavids)
+  * [Measure Theory](https://www.math.uwaterloo.ca/~krdavids/MT/PMath451Notes.pdf) **[pdf]**
+  * [Nest Algebras](https://www.math.uwaterloo.ca/~krdavids/nestbook.html)
+  * [Real Analysis](https://www.math.uwaterloo.ca/~krdavids/PM351/PMath351Notes.pdf) **[pdf]**
+  * [Rigorous Calculus](https://www.math.uwaterloo.ca/~krdavids/M148/CalculusNotes.pdf) **[pdf]**
+
 * [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
   * [Category theory](https://arxiv.org/abs/1612.09375)
   * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
