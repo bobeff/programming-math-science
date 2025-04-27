@@ -864,6 +864,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Game Development, Shader Coding & Artificial Intelligence](https://www.alanzucconi.com) by *Alan Zucconi*
 
+* [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) by *Ruud Helderman*
+
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) by *Gustavo Pezzi*
 
 * [Isometric Tutorials](https://clintbellanger.net/articles) by *Clint Bellanger*
