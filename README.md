@@ -1211,6 +1211,8 @@ Thelin*
 
 * [Digital textbook on probability and statistics](https://www.statlect.com) by *Marco Taboga*
 
+* [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) by *Roman Vershynin* **[pdf]**
+
 * [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
 
 * [Introduction to Probability at an advanced level](https://www.stat.berkeley.edu/~aditya/resources/FullNotes201AFall2022.pdf) by *Aditya Guntuboyina* **[pdf]**
