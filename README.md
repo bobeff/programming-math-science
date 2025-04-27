@@ -1032,6 +1032,12 @@ Thelin*
   * [Real Analysis](https://www.math.uwaterloo.ca/~krdavids/PM351/PMath351Notes.pdf) **[pdf]**
   * [Rigorous Calculus](https://www.math.uwaterloo.ca/~krdavids/M148/CalculusNotes.pdf) **[pdf]**
 
+* [Course notes by Rajen Shah](https://www.statslab.cam.ac.uk/~rds37) **[Cambridge]**
+  * [Mathematics of Machine Learning](https://www.statslab.cam.ac.uk/~rds37/machine_learning.html)
+  * [Modern Statistical Methods](https://www.statslab.cam.ac.uk/~rds37/modern_stat_methods.html)
+  * [Principles of Statistics](https://www.statslab.cam.ac.uk/~rds37/PoS.html)
+  * [Statistical Modelling](https://www.statslab.cam.ac.uk/~rds37/statistical_modelling.html)
+
 * [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
   * [Category theory](https://arxiv.org/abs/1612.09375)
   * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
