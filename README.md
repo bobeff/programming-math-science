@@ -1057,6 +1057,8 @@ Thelin*
 
 * [Libre Texts Math Books](https://math.libretexts.org/Bookshelves)
 
+* [Mathematical Methods for Computer Vision, Robotics, and Graphics](https://graphics.stanford.edu/courses/cs205a-13-fall/assets/notes/cs205a_notes.pdf) by *Justin Solomon* **[pdf]**
+
 * [Mathematical Methods for Physics](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf) by *Dmitry Turaev* **[pdf]**
   * [Problem sheets and solutions](https://www.ma.imperial.ac.uk/~dturaev/phys.php)
 
