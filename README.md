@@ -315,6 +315,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](https://ia804600.us.archive.org/14/items/competitive-programming/Competitive%20Programming.pdf) by *Christoph Dürr* and *Jill-Jênn Vie*
 
+* [Data Structures & Algorithm Analysis](https://people.cs.vt.edu/~shaffer/Book) by *Clifford A. Shaffer*
+
 * [Data Structures & Algorithms in C++, Second Edition](https://eduarmandov.wordpress.com/wp-content/uploads/2017/05/c_c-data-structures-and-algorithms-in-c.pdf) by *Michael T. Goodrich*, *Roberto Tamassia*, and *David M. Mount* **[pdf]**
 
 * [Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf) by *Manos Athanassoulis
