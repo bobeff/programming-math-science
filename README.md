@@ -1668,6 +1668,8 @@ in 5 volumes.
 
 * [Learn Lisp The Hard Way](https://llthw.common-lisp.dev) by  *"the Phoeron" Colin J.E. Lupton*
 
+* [On Lisp](https://www.paulgraham.com/onlisptext.html) by *Paul Graham*
+
 * [Practical Common Lisp](https://gigamonkeys.com/book) by *Peter Seibel*
 
 * [Successful Lisp: How to Understand and Use Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/MTP/Common/David-Lamkins/cover.html) by *David B. Lamkins*
