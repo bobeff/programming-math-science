@@ -238,6 +238,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematics for Inference and Machine Learning](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf) by *Marc Deisenroth* and *Stefanos Zafeiriou* **[pdf]**
 
+* [Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/lecture-notes) by *Philippe Rigollet*
+
 * [Mathematics of Neural Networks](https://arxiv.org/abs/2403.04807) by *Bart M.N. Smets*
 
 * [Matrix Calculus (for Machine Learning and Beyond)](https://arxiv.org/abs/2501.14787) by *Paige Bright*, *Alan Edelman*, and *Steven G. Johnson*
