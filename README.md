@@ -1277,6 +1277,8 @@ Thelin*
 
 * [Probability Theory & Computational Mathematics](https://tropp.caltech.edu/notes/Tro24-Probability-Theory-LN.pdf) by *Prof. Joel A. Tropp* **[pdf]** **[Caltech]**
 
+* [Probability with Engineering Applications](https://hajek.ece.illinois.edu/ECE313Notes.html) by *Bruce Hajek*
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 * [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
