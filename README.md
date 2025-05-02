@@ -178,7 +178,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to ggml](https://huggingface.co/blog/introduction-to-ggml) by *Xuan Son NGUYEN*, *Georgi Gerganov* and *slaren*
 
-* [Introduction to Machine Learning](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf) by *Sanjeev Arora*, *Simon Park*, *Dennis Jacob* and *Danqi Chen* **[pdf]**
+* [Introduction to Machine Learning](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf) by *Sanjeev Arora*, *Simon Park*, *Dennis Jacob* and *Danqi Chen* **[pdf]** **[Princeton]**
+
+* [Introduction to Machine Learning](https://introml.mit.edu/_static/spring24/LectureNotes/6_390_lecture_notes_spring24.pdf) **[pdf]** **[MIT]**
 
 * [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book) by *Chip Huyen*
 
