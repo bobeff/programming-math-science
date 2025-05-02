@@ -1014,6 +1014,14 @@ Thelin*
 
 * [Books by *Dr. Kenneth Kuttler*](https://klkuttler.com/)
 
+* [Books of Shlomo Sternberg](https://people.math.harvard.edu/~shlomo/)
+  * [Advanced Calcululs](https://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) **[pdf]**
+  * [Dynamical Systems](https://people.math.harvard.edu/~shlomo/docs/dynamical_systems.pdf) **[pdf]**
+  * [Lie algebras](https://people.math.harvard.edu/~shlomo/docs/lie_algebras.pdf) **[pdf]**
+  * [Semi-classical analysis](https://people.math.harvard.edu/~shlomo/docs/Semi_Classical_Analysis_Start.pdf) by *Victor Guillemin* and *Shlomo Sternberg* **[pdf]**
+  * [Semi-Riemann Geometry and General Relativity](https://people.math.harvard.edu/~shlomo/docs/semi_riemannian_geometry.pdf) **[pdf]**
+  * [Theory of functions of a real variable](https://people.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) **[pdf]**
+
 * [Courses and lecture notes by Jeffrey Robert Chasnov](https://www.math.hkust.edu.hk/~machas/?menu=1)
   * [Calculus for Engineers](https://www.math.hkust.edu.hk/~machas/calculus-for-engineers.pdf) **[pdf]**
   * [Matrix Algebra for Engineers](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf) **[pdf]**
@@ -1137,8 +1145,6 @@ Thelin*
 * [Numerical Linear Algebra](https://www.csc.kth.se/~barbel/nla/notes.pdf) by *Bärbel Janssen* **[pdf]**
 
 ### Calculus
-
-* [Advanced Calculus](https://people.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) by *Lynn H. Loomis* and *Shlomo Sternberg*
 
 * [Advanced Multivariable Calculus](https://sites.math.washington.edu/~awaw/teaching/math224_sp23/notes.pdf) by *Alex Wang* **[pdf]**
 
