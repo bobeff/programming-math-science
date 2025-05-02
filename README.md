@@ -1161,6 +1161,8 @@ Thelin*
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
+* [Vector and Complex Calculus for the Physical Sciences](https://people.math.wisc.edu/~thiffeault/lecturing/321/Full321-S16.pdf) by *Fabian Waleffe* **[pdf]**
+
 * [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/benjonathan.pdf) by *B. C. Allanacha* and *J.M. Evansa* **[pdf]**
 
 * [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/vc.pdf) by *David Tong* **[pdf]**
