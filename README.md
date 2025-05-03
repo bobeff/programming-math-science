@@ -195,8 +195,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Machine Learning Systems](https://mlsysbook.ai) by *Vijay Janapa Reddi*
 
-* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A course by *Andrej Karpathy*
-
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
@@ -232,6 +230,8 @@ This is a list of links to different freely available learning resources about c
 #### Machine Learning Online Courses
 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning)
+
+* [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) - A course by *Andrej Karpathy*
 
 * [Practical Deep Learning for Coders](https://course.fast.ai)
 
