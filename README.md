@@ -754,6 +754,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematical Methods in Data Science (with Python)](https://mmids-textbook.github.io) by *Sebastien Roch*
 
+* [Mining Social Media](https://socialdata.site) by *Lam Thuy Vo*
+
 ## Debuggers
 
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
