@@ -1336,6 +1336,8 @@ Thelin*
 
 * [Discrete Mathematics: An Open Introduction, 4th Edition](https://discrete.openmathbooks.org/dmoi4.html) by *Oscar Levin*
 
+* [Discrete Mathematics and Its Applications, Eighth Edition](https://faculty.ksu.edu.sa/sites/default/files/%5BBook%5D%20Discrete%20mathematics%20and%20its%20applications%20%282019%29_0.pdf) by *Kenneth H. Rosen*
+
 * [Elements of Programming](http://elementsofprogramming.com) by *Alexander Stepanov and Paul McJones*
 
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
