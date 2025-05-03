@@ -7,6 +7,7 @@ This is a list of links to different freely available learning resources about c
 * [AI](#ai)
   * [Machine Learning](#machine-learning)
     * [Large Language Models](#large-language-models)
+    * [Machine Learning Online Courses](#machine-learning-online-courses)
     * [Mathematics for Machine Learning](#mathematics-for-machine-learning)
     * [Reinforcement learning](#reinforcement-learning)
   * [Computer Games AI](#computer-games-ai)
@@ -200,8 +201,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
-* [Practical Deep Learning for Coders](https://course.fast.ai)
-
 * [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244) by *Andreas Krause*, *Jonas Hübotter*
 
 * [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html) by *Kevin Patrick Murphy*
@@ -229,6 +228,12 @@ This is a list of links to different freely available learning resources about c
 * [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
 
 * [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by *Tong Xiao* and *Jingbo Zhu*
+
+#### Machine Learning Online Courses
+
+* [Google Machine Learning Education](https://developers.google.com/machine-learning)
+
+* [Practical Deep Learning for Coders](https://course.fast.ai)
 
 #### Mathematics for Machine Learning
 
