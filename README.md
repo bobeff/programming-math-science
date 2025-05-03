@@ -195,6 +195,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Machine Learning Systems](https://mlsysbook.ai) by *Vijay Janapa Reddi*
 
+* [Machine learning with neural networks](https://arxiv.org/pdf/1901.05639) by *Bernard Mehling* [pdf]
+
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
