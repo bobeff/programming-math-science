@@ -746,6 +746,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) by *Claus O. Wilke*
 
+* [Hands-On Data Visualization](https://handsondataviz.org) by *Jack Dougherty* and *Ilya Ilyankou*
+
 * [Introduction to Data Science: Data Wrangling and Visualization with R](https://rafalab.dfci.harvard.edu/dsbook-part-1) by *Rafael A. Irizarry*
 
 * [Mathematical Methods in Data Science (with Python)](https://mmids-textbook.github.io) by *Sebastien Roch*
