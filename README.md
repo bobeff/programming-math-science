@@ -744,6 +744,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Advanced Data Science: Statistics and Prediction Algorithms Through Case Studies](https://rafalab.dfci.harvard.edu/dsbook-part-2) by *Rafael A. Irizarry*
 
+* [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl) by *Jeroen Janssens*
+
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) by *Claus O. Wilke*
 
 * [Hands-On Data Visualization](https://handsondataviz.org) by *Jack Dougherty* and *Ilya Ilyankou*
