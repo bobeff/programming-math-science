@@ -1320,6 +1320,8 @@ Thelin*
 
 * [Probability with Engineering Applications](https://hajek.ece.illinois.edu/ECE313Notes.html) by *Bruce Hajek*
 
+* [Probability: Theory and Examples](https://sites.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) by *Rick Durrett* **[pdf]**
+
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
 * [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
