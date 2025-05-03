@@ -238,6 +238,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
+* [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by *Garrett Thomas* **[pdf]**
+
 * [Mathematics for Inference and Machine Learning](https://www.doc.ic.ac.uk/~dfg/ProbabilisticInference/InferenceAndMachineLearningNotes.pdf) by *Marc Deisenroth* and *Stefanos Zafeiriou* **[pdf]**
 
 * [Mathematics of Machine Learning](https://ocw.mit.edu/courses/18-657-mathematics-of-machine-learning-fall-2015/pages/lecture-notes) by *Philippe Rigollet*
