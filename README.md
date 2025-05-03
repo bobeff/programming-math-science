@@ -1151,6 +1151,8 @@ Thelin*
 
 * [Linear Algebra Lecture Notes by Terence Tao](https://terrytao.wordpress.com/wp-content/uploads/2016/12/linear-algebra-notes.pdf) **[pdf]** **[UCLA]**
 
+* [Notes for Computational Linear Algebra](https://web.eecs.umich.edu/u/g/grizzle/public_html/papers/ROB_101_ComputationalLinearAlgebra_Grizzle_2020_12_15.pdf) by *Jessy Grizzle* **[pdf]**
+
 * [Numerical Linear Algebra](https://www.csc.kth.se/~barbel/nla/notes.pdf) by *Bärbel Janssen* **[pdf]**
 
 ### Calculus
