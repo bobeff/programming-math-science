@@ -167,6 +167,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning Interviews](https://arxiv.org/abs/2201.00650) by *Shlomo Kashani* and *Amir Ivry*
 
+* [Deep Learning on Graphs](https://yaoma24.github.io/dlg_book) by *Yao Ma* and *Jiliang Tang*
+
 * [Dive into Deep Learning](https://d2l.ai)
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
