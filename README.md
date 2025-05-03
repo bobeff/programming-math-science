@@ -237,6 +237,8 @@ This is a list of links to different freely available learning resources about c
 
 #### Mathematics for Machine Learning
 
+* [Linear Algebra for Computer Vision, Robotics, and Machine Learning](https://www.cis.upenn.edu/~cis5150/linalg-I-f.pdf) by *Jean Gallier* and *Jocelyn Quaintance* **[pdf]**
+
 * [Mathematical Foundations of Machine Learning](https://nowak.ece.wisc.edu/MFML.pdf) by *Robert Nowak* **[pdf]**
 
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
