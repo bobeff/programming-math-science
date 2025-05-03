@@ -140,6 +140,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro) by *Benjamin Sanchez-Lengeling*, *Emily Reif*, *Adam Pearce* and *Alexander B. Wiltschko*
 
+* [Algorithmic Aspects of Machine Learning](https://people.csail.mit.edu/moitra/docs/bookexv2.pdf) by *Ankur Moitra* **[pdf]**
+
 * [Algorithms for Artificial Intelligence](https://web.stanford.edu/~mossr/pdf/alg4ai.pdf) by *Robert J. Moss* **[dpf]** **[Stanford]**
 
 * [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book) by *Simone Scardapane*
