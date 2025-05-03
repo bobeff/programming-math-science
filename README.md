@@ -1776,6 +1776,8 @@ in 5 volumes.
 
 * [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy) by *Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers*
 
+* [Introduction to Python Programming](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf) by *Udayan Das*, *Aubrey Lawson*, *Chris Mayfield*, *Narges Norouzi* **[pdf]**
+
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
 * [NumPy Illustrated: The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d) by *Lev Maximov*
