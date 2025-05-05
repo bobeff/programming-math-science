@@ -54,6 +54,7 @@ This is a list of links to different freely available learning resources about c
   * [Algebra](#algebra)
   * [Calculus](#calculus)
   * [Category Theory](#category-theory)
+  * [Competitive Math](#competitive-math)
   * [Geometry](#geometry)
   * [Graph Theory](#graph-theory)
   * [Mathematical Logic](#mathematical-logic)
@@ -1223,6 +1224,10 @@ Thelin*
 * [Pragmatic Category Theory](https://chshersh.com/blog/2024-07-30-pragmatic-category-theory-part-01.html) by *Dmitrii Kovanikov*
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
+
+### Competitive Math
+
+* [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f) by *Darij Grinberg*
 
 ### Geometry
 
