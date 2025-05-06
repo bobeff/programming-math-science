@@ -160,6 +160,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Crash Course in Deep Learning (for Computer Graphics)](https://gpuopen.com/learn/deep_learning_crash_course/) by *Jakub Boksansky* [[alternative link]](https://boksajak.github.io/blog/DeepLearning)
 
+* [Data Science and Machine Learning: Mathematical and Statistical Methods](https://people.smp.uq.edu.au/DirkKroese/DSML) by *Dirk P. Kroese*, *Zdravko I. Botev*, *Thomas Taimre*, *Radislav Vaisman*
+
 * [Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control](https://faculty.washington.edu/sbrunton/DataBookV2.pdf) by *Steven L. Brunton and J. Nathan Kutz* **[pdf]**
 
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
