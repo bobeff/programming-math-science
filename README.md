@@ -57,6 +57,7 @@ This is a list of links to different freely available learning resources about c
   * [Category Theory](#category-theory)
   * [Competitive Math](#competitive-math)
   * [Geometry](#geometry)
+    * [Diferential Geometry](#diferential-geometry)
   * [Graph Theory](#graph-theory)
   * [Mathematical Logic](#mathematical-logic)
   * [Measure Theory](#measure-theory)
@@ -1240,11 +1241,15 @@ Thelin*
 
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
-* [Functional Differential Geometry](https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf) by *Gerald Jay Sussman* and *Jack Wisdom* with *Will Farr* **[pdf]**
-
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
 
 * [The Foundations of Geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf) by *David Hilbert* **[pdf]**
+
+#### Diferential Geometry
+
+* [Functional Differential Geometry](https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf) by *Gerald Jay Sussman* and *Jack Wisdom* with *Will Farr* **[pdf]**
+
+* [Manifolds and Differential Forms](https://pi.math.cornell.edu/~sjamaar/manifolds/manifold.pdf) by *Reyer Sjamaar* **[pdf]**
 
 ### Graph Theory
 
