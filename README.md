@@ -349,6 +349,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
 
+* [Competetive Programming](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf) by *Steven Halim* **[pdf]**
+
 * [Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](https://ia804600.us.archive.org/14/items/competitive-programming/Competitive%20Programming.pdf) by *Christoph Dürr* and *Jill-Jênn Vie*
 
 * [Data Structures & Algorithm Analysis](https://people.cs.vt.edu/~shaffer/Book) by *Clifford A. Shaffer*
