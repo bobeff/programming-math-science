@@ -2192,4 +2192,6 @@ in 5 volumes.
 
 * [My favorite technical blogs](https://eatonphil.com/blogs.html) by *Phil Eaton*
 
+* [Programming Notes for Professionals books](https://goalkicker.com)
+
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
