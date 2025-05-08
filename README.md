@@ -335,6 +335,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
 
+* [Algorithms in C](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf) by *Robert Sedgewick* **[pdf]**
+
 * [An Open Guide to Data Structures and Algorithms](https://pressbooks.palni.org/anopenguidetodatastructuresandalgorithms) by *Paul W. Bible* and *Lucas Moser*
 
 * [Approximation Algorithms](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf) by *Chandra Chekuri* **[pdf]**
