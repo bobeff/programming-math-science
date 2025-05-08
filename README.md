@@ -260,6 +260,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory](https://arxiv.org/abs/2310.20360) by *Arnulf Jentzen, Benno Kuckuck, Philippe von Wurstemberger*
 
+* [Mathematics for Artificial Intelligence Lecure Notes](https://www.imo.universite-paris-saclay.fr/~gilles.blanchard/teaching/Lecture_Notes_MAI.pdf) by *Gilles Blanchard* **[pdf]**
+
 * [Mathematics for Machine Learning](https://mml-book.github.io/) by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*
 
 * [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) by *Garrett Thomas* **[pdf]**
