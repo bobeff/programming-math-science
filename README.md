@@ -1289,6 +1289,8 @@ Thelin*
 
 * [Applied Mathematical Programming](https://web.mit.edu/15.053/www/AMP.htm) by *Stephen P. Bradley*, *Arnoldo C. Hax*, and *Thomas L. Magnanti*
 
+* [Arkadi Nemirovski Books and Lecture Notes on Optimization](https://www2.isye.gatech.edu/~nemirovs)
+
 * [Introduction to Operations Research, Tenth Edition](https://s23.middlebury.edu/MATH0318A/Hillier10th.pdf) by *Frederick S. Hillier*, and *Gerald J. Lieberman* **[pdf]**
 
 * [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
