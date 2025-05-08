@@ -1207,6 +1207,8 @@ Thelin*
 
 * [Harmonic Function Theory](https://www.axler.net/HFT.html) by *Sheldon Axler*, *Paul Bourdon*, and *Wade Ramey*
 
+* [Integration Theory](https://www.math.chalmers.se/Math/Grundutb/GU/MMA110/A12/integration.pdf) by *Johan Jonasson* **[pdf]**
+
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
 #### Vector Calculus
