@@ -1296,6 +1296,8 @@ Thelin*
 
 * [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
 
+* [Lecture Notes on The Lambda Calculus](https://www.cs.cmu.edu/~fp/courses/15814-f18/lectures/Notes-15814-f18.pdf) by *Frank Pfenning* **[pdf]**
+
 * **Notes on Mathematical Logic** by *David W. Kueker*
   * [Part 1](https://math.umd.edu/~dkueker/712.pdf) **[pdf]**
   * [Part 2](https://math.umd.edu/~dkueker/713.pdf) **[pdf]**
