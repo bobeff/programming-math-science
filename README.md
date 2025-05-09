@@ -1078,6 +1078,24 @@ Thelin*
   * [Flow Around a Cylinder](https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf) **[pdf]**
   * [Fibonacci Numbers and the Golden Ratio](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf) **[pdf]**
 
+* [Cournse Notes and Books by Curtis T. McMullen](https://people.math.harvard.edu/~ctm/papers/index.html#books) **[Harvard]**
+  * **Books**
+    * [Complex Dynamics and Renormalization](https://people.math.harvard.edu/~ctm/papers/home/text/papers/real/real.pdf) **[pdf]**
+    * [Renormalization and 3-Manifolds which Fiber over the Circle](https://people.math.harvard.edu/~ctm/papers/home/text/papers/renorm/renorm.pdf) **[pdf]**
+  * **Course Notes**
+    * [Advanced Complex Analysis](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/213a/course/course.pdf) **[pdf]**
+    * [Advanced Real Analysis](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/212b/course/course.pdf) **[pdf]**
+    * [Algebra and Dynamics](https://people.math.harvard.edu/~ctm/papers/home/text/class/notes/pn/course.pdf) **[pdf]**
+    * [Complex Analysis on Riemann Surfaces](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/213b/course/course.pdf) **[pdf]**
+    * [Ergodic theory, geometry and dynamics](https://people.math.harvard.edu/~ctm/papers/home/text/class/notes/ergodic/course.pdf) **[pdf]**
+    * [From Conformal Invariants to Percolation](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/219/course/course.pdf) **[pdf]**
+    * [Probability Theory](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/154/course/course.pdf) **[pdf]**
+    * [Real Analysis](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/114/course/course.pdf) **[pdf]**
+    * [Riemann surfaces, dynamics and geometry](https://people.math.harvard.edu/~ctm/papers/home/text/class/notes/rs/course.pdf) **[pdf]**
+    * [Sets, Groups and Knots](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/101/course/course.pdf) **[pdf]**
+    * [Topology](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/131/course/course.pdf) **[pdf]**
+
+
 * [Course notes by J.S. Milne](https://www.jmilne.org/math/CourseNotes)
   * [Abelian Varieties](https://www.jmilne.org/math/CourseNotes/AV.pdf) **[pdf]**
   * [Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/AG.pdf) **[pdf]**
@@ -1351,8 +1369,6 @@ Thelin*
 * [Probability in High Dimension](https://web.math.princeton.edu/~rvan/APC550.pdf) by *Ramon van Handel* **[pdf]** **[Princeton]**
 
 * [Probability in High Dimensions](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf) by *Prof. Joel A. Tropp* **[pdf]** **[Caltech]**
-
-* [Probability Theory](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/154/course/course.pdf) by *C. McMullen* **[pdf]** **[Harvard]**
 
 * [Probability Theory](https://web.stanford.edu/class/stats310a/lnotes.pdf) by *Amir Dembo* **[pdf]** **[Stanford]**
   * [Other course materials](https://web.stanford.edu/class/stats310a)
