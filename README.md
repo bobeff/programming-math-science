@@ -56,6 +56,7 @@ This is a list of links to different freely available learning resources about c
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
   * [Competitive Math](#competitive-math)
+  * [Diferential Equations](#deferential-equations)
   * [Geometry](#geometry)
     * [Diferential Geometry](#diferential-geometry)
   * [Graph Theory](#graph-theory)
@@ -1248,6 +1249,10 @@ Thelin*
 ### Competitive Math
 
 * [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f) by *Darij Grinberg*
+
+### Diferential Equations
+
+* [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
 
 ### Geometry
 
