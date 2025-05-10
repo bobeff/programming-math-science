@@ -1130,6 +1130,8 @@ Thelin*
 
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
 
+* [How do undergraduates do mathematics?](https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf) **[pdf]**
+
 * [Introduction to Applied Mathematics](https://math.dartmouth.edu/~m46s21/Script_MATH46_2020.pdf) by *Jan Glaubitz* **[pdf]**
 
 * [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) by *Egbert Rijke*
