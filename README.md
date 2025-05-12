@@ -1544,6 +1544,8 @@ Thelin*
 
 * [An Intuitive Guide to Maxwell’s Equations](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations) by *Nick M.*
 
+* [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012) by *Roger D. Blandford* and *Kip S. Thorne*
+
 * [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
 in 5 volumes.
 
