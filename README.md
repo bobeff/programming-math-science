@@ -177,6 +177,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning on Graphs](https://yaoma24.github.io/dlg_book) by *Yao Ma* and *Jiliang Tang*
 
+* [Deep Learning with Python, Second Edition](https://sourestdeeds.github.io/pdf/Deep%20Learning%20with%20Python.pdf) by *François Chollet* **[pdf]**
+
 * [Dive into Deep Learning](https://d2l.ai)
 
 * [Dive into Deep Learning Compiler](https://tvm.d2l.ai/)
