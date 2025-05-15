@@ -1244,13 +1244,13 @@ Thelin*
 
 #### Vector Calculus
 
+* [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html) by *David Tong*
+
 * [Vector and Complex Calculus for the Physical Sciences](https://people.math.wisc.edu/~thiffeault/lecturing/321/Full321-S16.pdf) by *Fabian Waleffe* **[pdf]**
 
 * [Vector Calculus](https://mate.unipv.it/moiola/ReaDG/VC2016/VectorCalculus_LectureNotes_2016.pdf) by *Andrea Moiola* **[pdf]**
 
 * [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/benjonathan.pdf) by *B. C. Allanacha* and *J.M. Evansa* **[pdf]**
-
-* [Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc/vc.pdf) by *David Tong* **[pdf]**
 
 * [Vector Calculus](https://mecmath.net) by *Michael Corral*
 
