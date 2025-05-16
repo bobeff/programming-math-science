@@ -1330,6 +1330,8 @@ Thelin*
 
 * [Introduction to Operations Research, Tenth Edition](https://s23.middlebury.edu/MATH0318A/Hillier10th.pdf) by *Frederick S. Hillier*, and *Gerald J. Lieberman* **[pdf]**
 
+* [Linear Programming Lecture Notes by Hal Gabow](https://home.cs.colorado.edu/~hal/565notes.pdf) **[dpf]**
+
 * [MOSEK Modeling Cookbook](https://docs.mosek.com/modeling-cookbook/index.html)
 
 ### Probability and Statistics
