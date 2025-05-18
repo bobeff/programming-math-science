@@ -833,6 +833,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Build Your Own Redis with C/C++](https://build-your-own.org/redis) by *James Smith*
 
+* [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book) by *Philip A. Bernstein*, *Vassos Hadzilacos*, *Nathan Goodman*
+
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial) by *Connor Stack*
 
 ### PostgreSQL
