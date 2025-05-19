@@ -1038,6 +1038,8 @@ Thelin*
   * [Part 4: Rust Ownership and Borrowing](https://educatedguesswork.org/posts/memory-management-4)
   * [Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5)
 
+* [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) **[pdf]**
+
 ## Math
 
 * [3Blue1Brown lessons](https://www.3blue1brown.com/#lessons) by *Grant Sanderson*
