@@ -2073,6 +2073,8 @@ in 5 volumes.
 
 ## Reverse engineering
 
+* [Angle Calculation on Z80: Doing the Impossible at 3.5 MHz](https://zxonline.net/angle-calculation-on-z80-doing-the-impossible-at-3-5-mhz)
+
 * [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series) by *Daax Rynd, Aidan Khoury and Nick Peterson*
 
 * [Reverse Engineering for Beginners](https://beginners.re) by *Dennis Yurichev*
