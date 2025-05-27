@@ -1154,8 +1154,6 @@ Thelin*
   * [Topics in Mathematical Physics](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT595_spring_2024/MAT595_PHY508_Lecture_Notes.pdf) **[pdf]**
   * [Homeworks and other courses materials](https://web.math.princeton.edu/~shapiro/teaching.html)
 
-* [Libre Texts Math Books](https://math.libretexts.org/Bookshelves)
-
 * [Mathematical Methods for Computer Vision, Robotics, and Graphics](https://graphics.stanford.edu/courses/cs205a-13-fall/assets/notes/cs205a_notes.pdf) by *Justin Solomon* **[pdf]**
 
 * [Mathematical Methods for Physics](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf) by *Dmitry Turaev* **[pdf]**
@@ -2239,6 +2237,8 @@ in 5 volumes.
 * [Free Tech Books](https://www.freetechbooks.com)
 
 * [GPU Optimization for GameDev](https://gist.github.com/silvesthu/505cf0cbf284bb4b971f6834b8fec93d) by *Ken Hu*
+
+* [LibreTexts](https://libretexts.org) - Collections of science books.
 
 * [Max Slater's Bookmarks](https://github.com/TheNumbat/Lists)
 
