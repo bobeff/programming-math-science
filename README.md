@@ -1908,6 +1908,8 @@ in 5 volumes.
 
 * [Python for Data Analysis, 3rd edition](https://wesmckinney.com/book) by *Wes McKinney*
 
+* [Python Programming for Economics and Finance](https://python-programming.quantecon.org) by *Thomas J. Sargent* and *John Stachurski*
+
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
 
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by *Harry Percival*
