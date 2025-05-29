@@ -407,6 +407,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Command Line and Tools
 
+* [Command Line Handbook](https://commandline.stribny.name) by *Petr Stribny*
+
 * [Driving Compilers](https://fabiensanglard.net/dc) by *Fabien Sanglard*
 
 * [Getting started with tmux](https://ittavern.com/getting-started-with-tmux) by *ittavern*
