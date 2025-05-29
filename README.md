@@ -1898,6 +1898,8 @@ in 5 volumes.
 
 * [Python Asyncio: The Complete Guide](https://superfastpython.com/python-asyncio) by *Jason Brownlee*
 
+* [Python Courses](https://python-course.eu) by *Bernd Klein*
+
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook) by *Jake VanderPlas*
 
 * [Python Design Patterns](https://python-patterns.guide) by *Brandon Rhodes*
