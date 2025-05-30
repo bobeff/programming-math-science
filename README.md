@@ -1169,6 +1169,8 @@ Thelin*
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
 
+* [Precalculus](https://stitz-zeager.com/) by *Carl Stitz* and *Jeff Zeager*
+
 * [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study Mathematics.
 
 * [Texts, exercises, problems and lecture notes by John Erdman](https://web.pdx.edu/~erdman)
