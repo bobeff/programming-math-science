@@ -1960,6 +1960,8 @@ in 5 volumes.
 
 * [Beginner's guide to Error Handling in Rust](https://www.sheshbabu.com/posts/rust-error-handling) by *Shesh Babu*
 
+* [C++ to Rust Phrasebook](https://cel.cs.brown.edu/crp)
+
 * [Clear explanation of Rust’s module system](https://www.sheshbabu.com/posts/rust-module-system) by *Shesh Babu*
 
 * [Comprehensive Rust](https://google.github.io/comprehensive-rust)
