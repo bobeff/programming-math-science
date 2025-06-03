@@ -2109,6 +2109,8 @@ in 5 volumes.
 
 * [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) by *Kevin M. Lynch* and *Frank C. Park*
 
+* [Robotics & ROS 2 Essentials](https://github.com/henki-robotics/robotics_essentials_ros2)
+
 * [The open online robotics education resource](https://robotacademy.net.au)
 
 * [Underactuated Robotics](https://underactuated.mit.edu/) by *Russ Tedrake*
