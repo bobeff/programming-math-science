@@ -1204,6 +1204,8 @@ Thelin*
 
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
 
+* [Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212) by *Alexander Postnikov*
+
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
 
 * [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
