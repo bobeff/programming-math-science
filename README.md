@@ -2190,6 +2190,8 @@ in 5 volumes.
 
 * [A book about using Node.js](https://book.mixu.net/node) by *Mikito Takada*
 
+* [A masochist’s guide to web development](https://sebastiano.tronto.net/blog/2025-06-06-webdev) by *Sebastiano Tronto*
+
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi) by *Peter Simons and Ralph Babel*
 
 * [HTML for People](https://htmlforpeople.com) by *Blake Watson*
