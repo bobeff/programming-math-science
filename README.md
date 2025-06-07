@@ -1566,6 +1566,8 @@ Thelin*
 
 * [Applications of Classical Physics](http://pmaweb.caltech.edu/Courses/ph136/yr2012) by *Roger D. Blandford* and *Kip S. Thorne*
 
+* [IBM Quantum Learning](https://learning.quantum.ibm.com) - Learn the basics of quantum computing.
+
 * [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
 in 5 volumes.
 
