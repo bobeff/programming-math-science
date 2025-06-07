@@ -1314,6 +1314,8 @@ Thelin*
 
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
 
+* [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016) by *David P. Williamson*
+
 ### Mathematical Logic
 
 * [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
