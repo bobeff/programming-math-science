@@ -1346,6 +1346,8 @@ Thelin*
 
 * [Arkadi Nemirovski Books and Lecture Notes on Optimization](https://www2.isye.gatech.edu/~nemirovs)
 
+* [Bridging Continuous and Discrete Optimization](https://people.orie.cornell.edu/dpw/orie6334) by *David P. Williamson*
+
 * [Introduction to Operations Research, Tenth Edition](https://s23.middlebury.edu/MATH0318A/Hillier10th.pdf) by *Frederick S. Hillier*, and *Gerald J. Lieberman* **[pdf]**
 
 * [Linear Programming Lecture Notes by Hal Gabow](https://home.cs.colorado.edu/~hal/565notes.pdf) **[dpf]**
