@@ -60,6 +60,7 @@ This is a list of links to different freely available learning resources about c
   * [Geometry](#geometry)
     * [Diferential Geometry](#diferential-geometry)
   * [Graph Theory](#graph-theory)
+  * [Mathematical Finance](#mathematical-finance)
   * [Mathematical Logic](#mathematical-logic)
   * [Measure Theory](#measure-theory)
   * [Number Theory](#number-theory)
@@ -1315,6 +1316,10 @@ Thelin*
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
 
 * [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016) by *David P. Williamson*
+
+### Mathematical Finance
+
+* [A Practical Guide to Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) by *Xinfeng Zhou* **[pdf]**
 
 ### Mathematical Logic
 
