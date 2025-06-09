@@ -382,6 +382,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) by *David J Wu*
 
+* [Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) by *James Aspnes* **[pdf]**
+
 * [Planning Algorithms](http://lavalle.pl/planning) by *Steven M. LaValle*
 
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) by *Johan Sannemo*
