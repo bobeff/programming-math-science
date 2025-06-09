@@ -1577,14 +1577,15 @@ Thelin*
 
 * [IBM Quantum Learning](https://learning.quantum.ibm.com) - Learn the basics of quantum computing.
 
-* [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook
-in 5 volumes.
+* [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook in 5 volumes.
+
+* [Open textbooks for undergraduate physics](https://openaccesstexts.com/physics)
 
 * [Percolation Theory](https://web.mit.edu/ceder/publications/Percolation.pdf) by *Dr. Kim Christensen* **[pdf]**
 
 * [Physics for Mathematicians](https://nicf.net/articles/physics-for-mathematicians) by *Nicolas James Marks Ford*
 
-* [Open textbooks for undergraduate physics](https://openaccesstexts.com/physics)
+* [Quantum Computation Lecture Notes](https://math.mit.edu/~shor/435-LN) by *Peter Shor*
 
 * [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
 
