@@ -970,6 +970,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Gentle Introduction to Realtime Fluid Simulation for Programmers and Technical Artists](https://shahriyarshahrabi.medium.com/gentle-introduction-to-fluid-simulation-for-programmers-and-technical-artists-7c0045c40bac) by *Shahriar Shahrabi*
 
+* [iforce2d](https://www.iforce2d.net) - A collection of programming resources, mainly focusing on 2D games development with Box2D.
+
 * [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
 
 * [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics)	by *Matthias Müller*
