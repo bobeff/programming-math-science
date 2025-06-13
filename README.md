@@ -382,6 +382,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) by *David J Wu*
 
+* [Notes on Algorithms](https://www.cs.yale.edu/homes/aspnes/pinewiki/CS365(2f)Notes.html) by *James Aspnes*
+
+* [Notes on Data Structures and Programming Techniques](https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html) by *James Aspnes*
+
 * [Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) by *James Aspnes* **[pdf]**
 
 * [Planning Algorithms](http://lavalle.pl/planning) by *Steven M. LaValle*
@@ -1490,6 +1494,10 @@ Thelin*
 
 * [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm) by *Kenneth E. Iverson*
 
+* [Notes on Computational Complexity Theory](https://www.cs.yale.edu/homes/aspnes/classes/468/notes.pdf) by *James Aspnes* **[pdf]**
+
+* [Notes on Discrete Mathematics](https://www.cs.yale.edu/homes/aspnes/classes/202/notes.pdf) by *James Aspnes* **[pdf]**
+
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
 
 * [What Can Be Computed?: A Practical Guide to the Theory of Computation](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf) by *John MacCormick* **[pdf]**
@@ -1535,6 +1543,8 @@ Thelin*
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
 
 * [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
+
+* [Notes on Operating Systems](https://www.cs.yale.edu/homes/aspnes/pinewiki/CS422(2f)Notes.html) by *James Aspnes*
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
