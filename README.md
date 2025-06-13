@@ -1337,6 +1337,8 @@ Thelin*
 
 * [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
 
+* [PQT Logic Textbook](https://www.cis.upenn.edu/~weinstei/PQT.pdf) by *Scott Weinstein*, *Owain West* and *Grace Zhang* **[pdf]**
+
 * [Lecture Notes on The Lambda Calculus](https://www.cs.cmu.edu/~fp/courses/15814-f18/lectures/Notes-15814-f18.pdf) by *Frank Pfenning* **[pdf]**
 
 * **Notes on Mathematical Logic** by *David W. Kueker*
