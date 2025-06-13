@@ -1085,13 +1085,19 @@ Thelin*
   * [Theory of functions of a real variable](https://people.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) **[pdf]**
 
 * [Courses and lecture notes by Jeffrey Robert Chasnov](https://www.math.hkust.edu.hk/~machas/?menu=1)
+  * [Applied Linear Algebra and Differential Equations](https://www.math.hkust.edu.hk/~machas/applied-linear-algebra-and-differential-equations.pdf) **[pdf]**
   * [Calculus for Engineers](https://www.math.hkust.edu.hk/~machas/calculus-for-engineers.pdf) **[pdf]**
-  * [Matrix Algebra for Engineers](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf) **[pdf]**
   * [Differential Equations for Engineers](https://www.math.hkust.edu.hk/~machas/differential-equations-for-engineers.pdf) **[pdf]**
-  * [Vector Calculus for Engineers](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf) **[pdf]**
-  * [Numerical Methods for Engineers](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf) **[pdf]**
-  * [Flow Around a Cylinder](https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf) **[pdf]**
+  * [Differential Equations: Review with YouTube Examples](https://www.math.hkust.edu.hk/~machas/differential-equations-with-youtube-examples.pdf) **[pdf]**
+  * [Differential Equations](https://www.math.hkust.edu.hk/~machas/differential-equations.pdf) **[pdf]**
   * [Fibonacci Numbers and the Golden Ratio](https://www.math.hkust.edu.hk/~machas/fibonacci.pdf) **[pdf]**
+  * [Flow Around a Cylinder](https://www.math.hkust.edu.hk/~machas/flow-around-a-cylinder.pdf) **[pdf]**
+  * [Mathematical Biology](https://www.math.hkust.edu.hk/~machas/mathematical-biology.pdf) **[pdf]**
+  * [Matrix Algebra for Engineers](https://www.math.hkust.edu.hk/~machas/matrix-algebra-for-engineers.pdf) **[pdf]**
+  * [Numerical Methods for Engineers](https://www.math.hkust.edu.hk/~machas/numerical-methods-for-engineers.pdf) **[pdf]**
+  * [Numerical Methods](https://www.math.hkust.edu.hk/~machas/numerical-methods.pdf) **[pdf]**
+  * [Scientific Computing](https://www.math.hkust.edu.hk/~machas/scientific-computing.pdf) **[pdf]**
+  * [Vector Calculus for Engineers](https://www.math.hkust.edu.hk/~machas/vector-calculus-for-engineers.pdf) **[pdf]**
 
 * [Cournse Notes and Books by Curtis T. McMullen](https://people.math.harvard.edu/~ctm/papers/index.html#books) **[Harvard]**
   * **Books**
