@@ -1391,6 +1391,8 @@ Thelin*
 
 * [Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp) by *Sebastien Roch*
 
+* [Notes on Counting and Rapidly Mixing Markov Chains](https://www.math.cmu.edu/~af1p/Mixingbook.pdf) by *Alan Frieze* **[pdf]**
+
 * [Notes on Probability](https://web.stanford.edu/~oas/SI/QM/notes/ProbabilityText.pdf) by *Peter J. Cameron* **[pdf]**
 
 * [One Thousand Exercises in Probability](https://amarinoo.ir/wp-content/uploads/2023/11/One_Thousand_Exercises_in_Probability_Third_Edition_Geoffrey_Grimmett-1.pdf) by *Geoffrey R. Grimmett* and *David R. Stirzaker*  **[pdf]**
