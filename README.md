@@ -1319,6 +1319,8 @@ Thelin*
 
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
 
+* [Introduction to Random Graphs](https://www.math.cmu.edu/~af1p/BOOK.pdf) by *Alan Frieze" and **ALAN FRIEZE and *Michał Karonski* **[pdf]**
+
 * [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016) by *David P. Williamson*
 
 ### Mathematical Finance
