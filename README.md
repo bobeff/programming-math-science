@@ -50,6 +50,7 @@ This is a list of links to different freely available learning resources about c
 * [Hardware](#hardware)
 * [Logical Games](#logical-games)
 * [Low Level Stuff](#low-level-stuff)
+  * [SIMD programming](#simd-programming)
 * [Math](#math)
   * [Algebra](#algebra)
   * [Calculus](#calculus)
@@ -1036,7 +1037,7 @@ Thelin*
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
-* [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1) by *Denis Bakhvalov*
+* [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memorfy-Profiling-Part1) by *Denis Bakhvalov*
 
 * [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
 
@@ -1050,6 +1051,16 @@ Thelin*
   * [Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5)
 
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) **[pdf]**
+
+### SIMD programming
+
+* [ARM NEON for C++ Developers](http://const.me/articles/simd/NEON.pdf) **[pdf]**
+
+* [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64) by *Miguel Young de la Sota*
+
+* [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf) **[pdf]**
+
+* [Wojciech Muła — website](http://0x80.pl/notesen.html)
 
 ## Math
 
@@ -2154,14 +2165,6 @@ Thelin*
 * [The open online robotics education resource](https://robotacademy.net.au)
 
 * [Underactuated Robotics](https://underactuated.mit.edu/) by *Russ Tedrake*
-
-## SIMD programming
-
-[ARM NEON for C++ Developers](http://const.me/articles/simd/NEON.pdf) **[pdf]**
-
-[Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64) by *Miguel Young de la Sota*
-
-[SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf) **[pdf]**
 
 ## System programming
 
