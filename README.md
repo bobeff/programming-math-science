@@ -2130,6 +2130,8 @@ Thelin*
 
 ### ZX Spectrum and Z80 CPU
 
+* [Angle Calculation on Z80: Doing the Impossible at 3.5 MHz](https://zxonline.net/angle-calculation-on-z80-doing-the-impossible-at-3-5-mhz)
+
 * [First Steps in Z80 Assembly Language](http://ped.7gods.org/z80.pdf) by *Darryl Sloan* **[pdf]**
 
 * [How to Write ZX Spectrum Games](https://spectrumcomputing.co.uk/zxdb/sinclair/entries/2001501/HowToWriteSpectrumGames%28v1.0%29.pdf) by *Jonathan Cauldwell* **[pdf]**
@@ -2138,11 +2140,11 @@ Thelin*
 
 * [Z80 User's Manual](https://zany80.github.io/documentation/Z80/UserManual.html)
 
+* [ZX Spectrum Graphics Magic: The Basics Every Spectrum Fan Should Know](https://zxonline.net/zx-spectrum-graphics-magic-the-basics-every-spectrum-fan-should-know)
+
 * [ZX Spectrum Next: Assembly Developer Guide](https://github.com/tomaz/zx-next-dev-guide) by *Tomaz Kragelj*
 
 ## Reverse engineering
-
-* [Angle Calculation on Z80: Doing the Impossible at 3.5 MHz](https://zxonline.net/angle-calculation-on-z80-doing-the-impossible-at-3-5-mhz)
 
 * [Applied Reverse Engineering Series](https://revers.engineering/applied-reverse-engineering-series) by *Daax Rynd, Aidan Khoury and Nick Peterson*
 
