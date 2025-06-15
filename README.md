@@ -21,6 +21,7 @@ This is a list of links to different freely available learning resources about c
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
   * [DirectX 12](#directx-12)
+    * [Microsoft Dev Blog Articles](#microsoft-dev-blog-articles)
   * [Image Processing](#image-processing)
     * [Dithering](#dithering)
   * [Metal](#metal)
@@ -614,6 +615,20 @@ This is a list of links to different freely available learning resources about c
 * [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing) by *Seppe Dekeyser*
 
 * [GPU Work Graphs mesh nodes in Microsoft DirectX® 12](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-intro) by *Max Oberberger*
+
+#### Microsoft Dev Blog Articles
+
+  * [DirectX Raytracing (DXR) Tier 1.1](https://devblogs.microsoft.com/directx/dxr-1-1) by *Amar Patel*
+
+  * [D3D12 Work Graphs Preview](https://devblogs.microsoft.com/directx/d3d12-work-graphs-preview) by *Amar Patel* and *Tex Riddell*
+
+  * [D3D12 Preview: Mesh Nodes in Work Graphs](https://devblogs.microsoft.com/directx/d3d12-mesh-nodes-in-work-graphs) by *Amar Patel*, *David Cook*, and *Greg Roth*
+
+  * [D3D12 Shader Execution Reordering](https://devblogs.microsoft.com/directx/ser) by *Amar Patel*
+
+  * [D3D12 Opacity Micromaps](https://devblogs.microsoft.com/directx/omm) by *Amar Patel* and *Adam Miles*
+
+  * [D3D12 Cooperative Vector](https://devblogs.microsoft.com/directx/cooperative-vector) by *Amar Patel* and *Greg Roth*
 
 ### Image Processing
 
