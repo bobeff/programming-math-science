@@ -188,6 +188,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Dummy's Guide to Modern LLM Sampling](https://rentry.co/samplers)
 
+* [Foundations of Computer Vision](https://visionbook.mit.edu) by *Antonio Torralba*, *Phillip Isola*, and *William Freeman*
+
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook) by *Mehryar Mohri*, *Afshin Rostamizadeh*, and *Ameet Talwalkar* **[MIT]**
 
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
