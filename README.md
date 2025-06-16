@@ -2086,6 +2086,8 @@ Thelin*
 
 * [Game Boy Advanced programming tutorial](https://www.coranac.com/tonc/text) by *Jasper Vijn*
 
+* [Game Boy Advanced Development Resources](https://gbadev.org)
+
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
 * [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
