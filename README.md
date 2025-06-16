@@ -2083,13 +2083,15 @@ Thelin*
 
 * [Game Boy Development community](https://gbdev.io)
 
+* [Game Boy Advanced programming tutorial](https://www.coranac.com/tonc/text) by *Jasper Vijn*
+
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
+
+* [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
 
 * [jsgroth's blog](https://jsgroth.dev/blog)
 
 * [Learn Multiplatform Assembly Programming](https://www.chibiakumas.com) by *ChibiAkumas*
-
-* [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
 
 * [Mark Moxon's Software Archaeology](https://www.bbcelite.com) - Fully documented source code for Elite, Revs, Lander, Aviator and more
 
@@ -2103,7 +2105,11 @@ Thelin*
 
 * [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake) by *Pekka Väänänen*
 
+* [Programming specs for the GBA and NDS hardware](https://problemkaputt.de/gbatek.htm) by *Martin Korth*
+
 * [Retro Game Coders](https://retrogamecoders.com)
+
+* [The Annotated "Programming the Nintendo GBA : The Unofficial Guide](https://www.coranac.com/documents/taptngba) by *Jasper Vijn*
 
 * [Usborne 1980s Computer Books](https://usborne.com/row/books/computer-and-coding-books)
 
