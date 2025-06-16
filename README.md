@@ -1066,6 +1066,7 @@ Thelin*
   * [Part 3: C++ Smart Pointers](https://educatedguesswork.org/posts/memory-management-3)
   * [Part 4: Rust Ownership and Borrowing](https://educatedguesswork.org/posts/memory-management-4)
   * [Part 5: Fighting with Rust](https://educatedguesswork.org/posts/memory-management-5)
+  * [Part 6: Basic Garbage Collection](https://educatedguesswork.org/posts/memory-management-6)
 
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) **[pdf]**
 
