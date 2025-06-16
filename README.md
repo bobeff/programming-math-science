@@ -2081,7 +2081,7 @@ Thelin*
 
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
-* [Gameboy Technical Reference for Homebrew Developers](https://gbdev.io/pandocs)
+* [Game Boy Development community](https://gbdev.io)
 
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
