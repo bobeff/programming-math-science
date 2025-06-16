@@ -2099,6 +2099,8 @@ Thelin*
 
 * [NeHe OpenGL Tutorials](https://nehe.gamedev.net)
 
+* [NesDev.org](https://www.nesdev.org) - A community of homebrew game developers and hardware researchers for the Nintendo Entertainment System (NES) and other retro consoles.
+
 * [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake) by *Pekka Väänänen*
 
 * [Retro Game Coders](https://retrogamecoders.com)
