@@ -1408,6 +1408,8 @@ Thelin*
 
 ### Probability and Statistics
 
+* [Advanced Data Analysis from an Elementary Point of View](https://stat.cmu.edu/~cshalizi/ADAfaEPoV) by *Cosma Rohilla Shalizi*
+
 * [Advanced Probability](https://noter.math.ku.dk/vidsand12.pdf) by *Alexander Sokol* and *Anders Rønn-Nielsen* **[pdf]**
 
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
