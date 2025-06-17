@@ -1929,6 +1929,8 @@ Thelin*
 
 * [Learning PostScript by Doing](https://staff.science.uva.nl/a.j.p.heck/Courses/Mastercourse2005/tutorial.pdf) by *Andre Heck* **[pdf]**
 
+* [Mathematical Ilustrations: A Manual of Geometry and PostScript](https://personal.math.ubc.ca/~cass/graphics/text/www) by *Bill Casselman*
+
 ### Prolog
 
 * [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md) by *Frank McSherry*
