@@ -2079,6 +2079,8 @@ Thelin*
 
 * [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.
 
+* [SQLZap](https://sqlzap.com) - Learn SQL with for Free.
+
 ### Zig
 
 * [Learning Zig](https://www.openmymind.net/learning_zig) by *Karl Seguin*
