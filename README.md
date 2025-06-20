@@ -37,6 +37,7 @@ This is a list of links to different freely available learning resources about c
 * [Databases](#databases)
   * [Databases Development](#databases-development)
   * [PostgreSQL](#postgresql)
+  * [Oracle](#oracle)
 * [Demoscene](#demoscene)
 * [Design Patterns](#design-patterns)
 * [Digital Signal Processing](#digital-signal-processing)
@@ -2092,6 +2093,10 @@ Thelin*
 #### PostgreSQL <span id="sql-postgresql">
 
 * [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+
+#### Oracle
+
+* [Oracle Tutorial](https://www.oracletutorial.com)
 
 ### Zig
 
