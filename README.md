@@ -36,6 +36,7 @@ This is a list of links to different freely available learning resources about c
 * [Debuggers](#debuggers)
 * [Databases](#databases)
   * [Databases Development](#databases-development)
+  * [NoSQL](#nosql)
   * [SQL](#sql)
     * [MySQL](#mysql)
     * [PostgreSQL](#postgresql)
@@ -865,6 +866,10 @@ This is a list of links to different freely available learning resources about c
 * [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book) by *Philip A. Bernstein*, *Vassos Hadzilacos*, *Nathan Goodman*
 
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial) by *Connor Stack*
+
+### NoSQL
+
+* [MongoDB Tutorial](https://www.mongodbtutorial.org)
 
 ### SQL
 
