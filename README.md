@@ -2310,7 +2310,7 @@ Thelin*
 * [Mozilla Developers Network](https://developer.mozilla.org) - Resources for Developers,
 by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
-* [Josh Comeau's Website](https://www.joshwcomeau.com)
+* [Josh Comeau's Website](https://www.joshwcomeau.com) - Animation, CSS, JavaScript, React
 
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
