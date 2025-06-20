@@ -113,6 +113,7 @@ This is a list of links to different freely available learning resources about c
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Smalltalk](#smalltalk)
+  * [SQL](#sql)
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
@@ -2073,6 +2074,10 @@ Thelin*
 ### Smalltalk
 
 * [Smalltalk Resources](https://smalltalk.tech.blog/resources) - A list of free smalltalk books.
+
+### SQL
+
+* [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.
 
 ### Zig
 
