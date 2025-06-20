@@ -50,6 +50,7 @@ This is a list of links to different freely available learning resources about c
 * [Game Programming](#game-programming)
   * [Game Engines](#game-engines)
   * [Game Physics](#game-physics)
+* [General Programming](#general-programming)
 * [Geographic Information Systems](#geographic-information-systems)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
@@ -770,8 +771,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) by *Larry Peterson and Bruce Davie*
 
-* [Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials)
-
 * [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction) by *Eli Bendersky*
 
 * [HTTP2 Explained](https://daniel.haxx.se/http2) by *Daniel Stenberg*
@@ -1027,6 +1026,12 @@ This is a list of links to different freely available learning resources about c
 * [Simulating Fluids, Fire, and Smoke in Real-Time](https://andrewkchan.dev/posts/fire.html) by *Andrew Chan*
 
 * [Ten Minute Physics](https://matthias-research.github.io/pages/tenMinutePhysics)	by *Matthias Müller*
+
+## General Programming
+
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+
+* [Tutorials Point](https://www.tutorialspoint.com)
 
 ## Geographic Information Systems
 
@@ -1685,8 +1690,6 @@ Thelin*
 ## Programming languages
 
 * [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/itpl) by *Bertrand Meyer*
-
-* [Tutorials Point](https://www.tutorialspoint.com)
 
 ### Ada
 
