@@ -2309,6 +2309,9 @@ Thelin*
 
 * [Intro to Web Dev](https://btholt.github.io/intro-to-web-dev-v2)
 
+* [Mozilla Developers Network](https://developer.mozilla.org) - Resources for Developers,
+by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
+
 * [Josh Comeau's Website](https://www.joshwcomeau.com)
 
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
