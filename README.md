@@ -2077,6 +2077,8 @@ Thelin*
 
 ### SQL
 
+* [Mode's SQL Tutorial](https://mode.com/sql-tutorial)
+
 * [SQL Tutorial](https://www.sqltutorial.org) - Master SQL quickly and effectively with clear concepts, hands-on examples, and interactive quizzes.
 
 * [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.
