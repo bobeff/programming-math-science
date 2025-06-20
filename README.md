@@ -114,6 +114,8 @@ This is a list of links to different freely available learning resources about c
   * [Rust](#rust)
   * [Smalltalk](#smalltalk)
   * [SQL](#sql)
+    * [MySQL](#mysql)
+    * [PostgreSQL](#sql-postgresql)
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
@@ -845,8 +847,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Database Fundamentals](https://tontinton.com/posts/database-fundementals) by *Tony Solomonik*
 
-* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
-
 * [SQL for the Weary](https://gvwilson.github.io/sql-tutorial) by *Greg Wilson*
 
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
@@ -871,8 +871,6 @@ This is a list of links to different freely available learning resources about c
 ### PostgreSQL
 
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
-
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg) by *Hironobu Suzuki*
 
@@ -2084,6 +2082,16 @@ Thelin*
 * [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.
 
 * [SQLZap](https://sqlzap.com) - Learn SQL with for Free.
+
+#### MySQL
+
+* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
+
+* [MySQL Tutorial](https://www.mysqltutorial.org)
+
+#### PostgreSQL <span id="sql-postgresql">
+
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
 
 ### Zig
 
