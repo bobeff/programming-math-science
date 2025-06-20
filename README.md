@@ -2318,6 +2318,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
 
+* [The Odin Project](https://www.theodinproject.com) - An open-source curriculum for learning full-stack web development.
+
 * [W3 Schools](https://www.w3schools.com)
 
 * [WebDev](https://web.dev) - Guidance to build modern web experiences that work on any browser.
