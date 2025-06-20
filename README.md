@@ -1686,6 +1686,8 @@ Thelin*
 
 * [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/itpl) by *Bertrand Meyer*
 
+* [Tutorials Point](https://www.tutorialspoint.com)
+
 ### Ada
 
 * [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm) by *John English*
