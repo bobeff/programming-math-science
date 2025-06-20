@@ -36,8 +36,10 @@ This is a list of links to different freely available learning resources about c
 * [Debuggers](#debuggers)
 * [Databases](#databases)
   * [Databases Development](#databases-development)
-  * [PostgreSQL](#postgresql)
-  * [Oracle](#oracle)
+  * [SQL](#sql)
+    * [MySQL](#mysql)
+    * [PostgreSQL](#postgresql)
+    * [Oracle](#oracle)
 * [Demoscene](#demoscene)
 * [Design Patterns](#design-patterns)
 * [Digital Signal Processing](#digital-signal-processing)
@@ -114,9 +116,6 @@ This is a list of links to different freely available learning resources about c
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Smalltalk](#smalltalk)
-  * [SQL](#sql)
-    * [MySQL](#mysql)
-    * [PostgreSQL](#sql-postgresql)
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
@@ -842,17 +841,15 @@ This is a list of links to different freely available learning resources about c
 
 ## Databases
 
-* [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes) by *Benjamin Dicken*
-
 * [Database Design for Google Calendar: a tutorial](https://kb.databasedesignbook.com/posts/google-calendar) by *Alexey Makhotkin*
 
 * [Database Fundamentals](https://tontinton.com/posts/database-fundementals) by *Tony Solomonik*
 
-* [SQL for the Weary](https://gvwilson.github.io/sql-tutorial) by *Greg Wilson*
-
 * [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html) by *David Maier*
 
 ### Databases Development
+
+* [B-trees and database indexes](https://planetscale.com/blog/btrees-and-database-indexes) by *Benjamin Dicken*
 
 * [Build Your Own Database From Scratch in Go](https://build-your-own.org/database) by *James Smith*
 
@@ -869,11 +866,35 @@ This is a list of links to different freely available learning resources about c
 
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial) by *Connor Stack*
 
-### PostgreSQL
+### SQL
+
+* [Mode's SQL Tutorial](https://mode.com/sql-tutorial)
+
+* [SQL Tutorial](https://www.sqltutorial.org) - Master SQL quickly and effectively with clear concepts, hands-on examples, and interactive quizzes.
+
+* [SQL for the Weary](https://gvwilson.github.io/sql-tutorial) by *Greg Wilson*
+
+* [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.
+
+* [SQLZap](https://sqlzap.com) - Learn SQL with for Free.
+
+#### MySQL
+
+* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
+
+* [MySQL Tutorial](https://www.mysqltutorial.org)
+
+#### PostgreSQL
 
 * [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals) by *Egor Rogov*
 
+* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
+
 * [The Internals of PostgreSQL](https://www.interdb.jp/pg) by *Hironobu Suzuki*
+
+#### Oracle
+
+* [Oracle Tutorial](https://www.oracletutorial.com)
 
 ## Demoscene
 
@@ -2073,30 +2094,6 @@ Thelin*
 ### Smalltalk
 
 * [Smalltalk Resources](https://smalltalk.tech.blog/resources) - A list of free smalltalk books.
-
-### SQL
-
-* [Mode's SQL Tutorial](https://mode.com/sql-tutorial)
-
-* [SQL Tutorial](https://www.sqltutorial.org) - Master SQL quickly and effectively with clear concepts, hands-on examples, and interactive quizzes.
-
-* [SQLBolt](https://sqlbolt.com) - Learn SQL with simple, interactive exercises.
-
-* [SQLZap](https://sqlzap.com) - Learn SQL with for Free.
-
-#### MySQL
-
-* [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
-
-* [MySQL Tutorial](https://www.mysqltutorial.org)
-
-#### PostgreSQL <span id="sql-postgresql">
-
-* [PostgreSQL Tutorial](https://www.postgresqltutorial.com)
-
-#### Oracle
-
-* [Oracle Tutorial](https://www.oracletutorial.com)
 
 ### Zig
 
