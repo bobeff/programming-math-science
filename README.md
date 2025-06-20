@@ -17,6 +17,12 @@ This is a list of links to different freely available learning resources about c
 * [Command Line and Tools](#command-line-and-tools)
   * [Curl](#curl)
   * [Linux command line](#linux-command-line)
+* [Competitions and Interview Preparation Websites](#competitions-and-interview-preparation-websites)
+  * [Physics](#physics-competitions)
+  * [Math](#math-competitions)
+    * [Preparation Resources](#math-competitions-preparation)
+  * [Programming](#programming-competitions)
+    * [Preparation Resources](#programming-competitions-preparation)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
@@ -62,7 +68,6 @@ This is a list of links to different freely available learning resources about c
   * [Calculus](#calculus)
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
-  * [Competitive Math](#competitive-math)
   * [Diferential Equations](#deferential-equations)
   * [Geometry](#geometry)
     * [Diferential Geometry](#diferential-geometry)
@@ -346,8 +351,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms) by *Paulo Feofiloff*
 
-* [Algorithms for Competitive Programming](https://cp-algorithms.com)
-
 * [Algorithms for Massive Data](https://arxiv.org/abs/2301.00754) by *Nicola Prezza*
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
@@ -363,12 +366,6 @@ This is a list of links to different freely available learning resources about c
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) by *Jason Brownlee*
 
 * [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
-
-* [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
-
-* [Competetive Programming](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf) by *Steven Halim* **[pdf]**
-
-* [Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](https://ia804600.us.archive.org/14/items/competitive-programming/Competitive%20Programming.pdf) by *Christoph Dürr* and *Jill-Jênn Vie*
 
 * [Data Structures & Algorithm Analysis](https://people.cs.vt.edu/~shaffer/Book) by *Clifford A. Shaffer*
 
@@ -464,6 +461,86 @@ This is a list of links to different freely available learning resources about c
 * [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
 
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) by *William Shotts*
+
+## Competitions and Interview Preparation Websites
+
+### Physics <span id="physics-competitions">
+
+* [International Physics Olympiad](https://ipho-unofficial.org)
+
+### Math <span id="math-competitions">
+
+* [Erdős](https://erdos.sdslabs.co)
+
+* [Erdős Problems](https://www.erdosproblems.com)
+
+* [International Mathematical Olympiad](https://www.imo-official.org)
+
+#### Preparation Resources <span id="math-competitions-preparation">
+
+* [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f) by *Darij Grinberg*
+
+### Programming <span id="programming-competitions">
+
+* [Code Golf](https://codegolf.stackexchange.com) - A site for recreational programming competitions
+
+* [CodeAbbey](https://www.codeabbey.com)
+
+* [CodeChef](https://www.codechef.com)
+
+* [CodeForces](https://codeforces.com)
+
+* [Coderbyte](https://coderbyte.com)
+
+* [Codewars](https://www.codewars.com)
+
+* [Codility](https://app.codility.com/programmers)
+
+* [CodingBat](https://codingbat.com) - A free site of live coding problems to build coding skill in Java and Python.
+
+* [CodinGame](https://www.codingame.com)
+
+* [Daily Programmer](https://www.reddit.com/r/dailyprogrammer)
+
+* [Edabit](https://edabit.com)
+
+* [Exercism](https://exercism.org)
+
+* [Hacker Earth](https://www.hackerearth.com)
+
+* [HackerRank](https://www.hackerrank.com)
+
+* [International Collegiate Programming Contest](https://icpc.global)
+
+* [International Olympiad in Informatics](https://ioinformatics.org)
+
+* [Kaggle](https://www.kaggle.com) - ML specific.
+
+* [LeetCode](https://leetcode.com)
+
+* [NeetCode](https://neetcode.io)
+
+* [Project Euler](https://projecteuler.net)
+
+* [Rosalind](https://rosalind.info) - A platform for learning bioinformatics through problem solving.
+
+* [Skilled.dev](https://skilled.dev)
+
+* [Sphere Online Judge](https://www.spoj.com)
+
+* [takeUforward](https://takeuforward.org)
+
+* [Top Coder](https://www.topcoder.com/community/arena)
+
+#### Preparation Resources <span id="programming-competitions-preparation">
+
+* [Algorithms for Competitive Programming](https://cp-algorithms.com)
+
+* [Competitive Programmer's Handbook](https://cses.fi/book/index.php) by *Antti Laaksonen*
+
+* [Competetive Programming](https://www.comp.nus.edu.sg/~stevenha/myteaching/competitive_programming/cp2.pdf) by *Steven Halim* **[pdf]**
+
+* [Competitive Programming in Python: 128 Algorithms to Develop your Coding Skills](https://ia804600.us.archive.org/14/items/competitive-programming/Competitive%20Programming.pdf) by *Christoph Dürr* and *Jill-Jênn Vie*
 
 ## Compilers and Interpreters
 
@@ -1366,10 +1443,6 @@ Thelin*
 * [Pragmatic Category Theory](https://chshersh.com/blog/2024-07-30-pragmatic-category-theory-part-01.html) by *Dmitrii Kovanikov*
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
-
-### Competitive Math
-
-* [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f) by *Darij Grinberg*
 
 ### Diferential Equations
 
