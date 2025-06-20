@@ -137,6 +137,7 @@ This is a list of links to different freely available learning resources about c
 * [Web programming](#web-programming)
   * [CSS](#css)
   * [Django](#django)
+  * [HTML](#html)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -2333,6 +2334,10 @@ Thelin*
 * [Learn Django](https://learndjango.com) by *Will Vincent*
 
 * [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers)
+
+### HTML
+
+* [Learn HTML](https://learn-html.org)
 
 ## Other
 
