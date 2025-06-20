@@ -1995,6 +1995,8 @@ Thelin*
 
 * [Python Programming for Economics and Finance](https://python-programming.quantecon.org) by *Thomas J. Sargent* and *John Stachurski*
 
+* [Real Python](https://realpython.com) - A collection of Python tutorials.
+
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
 
 * [Test-Driven Development with Python](http://www.obeythetestinggoat.com/pages/book.html) by *Harry Percival*
