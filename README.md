@@ -132,6 +132,7 @@ This is a list of links to different freely available learning resources about c
 * [Version control tools](#version-control-tools)
 * [Web programming](#web-programming)
   * [CSS](#css)
+  * [Django](#django)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -2281,8 +2282,6 @@ Thelin*
 
 * [Josh Comeau's Website](https://www.joshwcomeau.com)
 
-* [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers)
-
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
 * [The Copenhagen Book](https://thecopenhagenbook.com) - A general guideline on implementing auth in web applications.
@@ -2298,6 +2297,12 @@ Thelin*
 * [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
 
 * [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev) by *Stephanie Eckles*
+
+### Django
+
+* [Learn Django](https://learndjango.com) by *Will Vincent*
+
+* [Modern JavaScript for Django Developers](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers)
 
 ## Other
 
