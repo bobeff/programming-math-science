@@ -1116,15 +1116,13 @@ This is a list of links to different freely available learning resources about c
 
 ## General Programming
 
-* [DZone](https://dzone.com/list)
-
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
-
-* [InfoWorld](https://www.infoworld.com)
 
 * [Programiz](https://www.programiz.com)
 
 * [Tutorials Point](https://www.tutorialspoint.com)
+
+* [W3 Schools](https://www.w3schools.com)
 
 ## Geographic Information Systems
 
@@ -2423,8 +2421,6 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
 
 * [The Odin Project](https://www.theodinproject.com) - An open-source curriculum for learning full-stack web development.
-
-* [W3 Schools](https://www.w3schools.com)
 
 * [WebDev](https://web.dev) - Guidance to build modern web experiences that work on any browser.
 
