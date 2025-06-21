@@ -1107,6 +1107,8 @@ This is a list of links to different freely available learning resources about c
 
 ## General Programming
 
+* [DZone](https://dzone.com/list)
+
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 
 * [Programiz](https://www.programiz.com)
