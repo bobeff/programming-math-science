@@ -2564,6 +2564,8 @@ Christopher Kohlhoff*
 
 * [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com)
 
+* [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
+
 * [Daniel Lemire's Blog](https://lemire.me)
 
 * [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
