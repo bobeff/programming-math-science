@@ -2568,6 +2568,8 @@ Christopher Kohlhoff*
 
 * [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
 
+* [Educated Guesswork](https://educatedguesswork.org) by *Eric Rescorla*
+
 * [Eli Bendersky's website](https://eli.thegreenplace.net)
 
 * [Fernando Borretti's Website](https://borretti.me)
