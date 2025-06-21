@@ -18,9 +18,9 @@ This is a list of links to different freely available learning resources about c
   * [Curl](#curl)
   * [Linux command line](#linux-command-line)
 * [Competitions and Interview Preparation Websites](#competitions-and-interview-preparation-websites)
-  * [Physics](#physics-competitions)
   * [Math](#math-competitions)
     * [Preparation Resources](#math-competitions-preparation)
+  * [Physics](#physics-competitions)
   * [Programming](#programming-competitions)
     * [Preparation Resources](#programming-competitions-preparation)
 * [Compilers and Interpreters](#compilers-and-interpreters)
@@ -471,10 +471,6 @@ This is a list of links to different freely available learning resources about c
 
 ## Competitions and Interview Preparation Websites
 
-### Physics <span id="physics-competitions">
-
-* [International Physics Olympiad](https://ipho-unofficial.org)
-
 ### Math <span id="math-competitions">
 
 * [Erdős](https://erdos.sdslabs.co)
@@ -486,6 +482,10 @@ This is a list of links to different freely available learning resources about c
 #### Preparation Resources <span id="math-competitions-preparation">
 
 * [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f) by *Darij Grinberg*
+
+### Physics <span id="physics-competitions">
+
+* [International Physics Olympiad](https://ipho-unofficial.org)
 
 ### Programming <span id="programming-competitions">
 
