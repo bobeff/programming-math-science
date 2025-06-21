@@ -49,6 +49,7 @@ This is a list of links to different freely available learning resources about c
     * [Oracle](#oracle)
 * [Demoscene](#demoscene)
 * [Design Patterns](#design-patterns)
+* [DevOps](#devops)
 * [Digital Signal Processing](#digital-signal-processing)
 * [Distributed Systems](#distributed-systems)
 * [Electronics](#electronics)
@@ -1005,6 +1006,14 @@ This is a list of links to different freely available learning resources about c
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+
+## DevOps
+
+* [DevOps with Docker: Containers for Beginners](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
+
+* [DevOps with Kubernetes: A not-so-gentle introduction to cloud-native container orchestration](https://courses.mooc.fi/org/uh-cs/courses/devops-with-kubernete)
+
+* [devopscube](https://devopscube.com)
 
 ## Digital Signal Processing
 
