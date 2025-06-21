@@ -65,6 +65,7 @@ This is a list of links to different freely available learning resources about c
   * [SIMD programming](#simd-programming)
 * [Math](#math)
   * [Algebra](#algebra)
+    * [Linear Algebra](#linear-algebra)
   * [Calculus](#calculus)
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
@@ -1364,17 +1365,19 @@ Thelin*
 
 * [Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212) by *Alexander Postnikov*
 
-* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
-
-* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
-
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
 * [Introduction to Abstract Algebra](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf) by *Alexander Paulin* **[pdf]**
 
-* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls) by *Stephen Boyd* and *Lieven Vandenberghe*
-
 * [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html) by *Anthony Bonkoski*
+
+#### Linear Algebra
+
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
+
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
+
+* [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls) by *Stephen Boyd* and *Lieven Vandenberghe*
 
 * [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) by *David Cherney*, *Tom Denton*,
 *Rohit Thomas* and *Andrew Waldron* **[pdf]**
