@@ -1670,6 +1670,8 @@ Thelin*
 
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) by *Paul E. McKenney*
 
+* [Lockfree Programming: A Mental Model](https://xorvoid.com/lockfree_programming_a_mental_model.html) by *Anthony Bonkoski*
+
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
 * [The Deadlock Empire](https://deadlockempire.github.io)
