@@ -2098,6 +2098,8 @@ Thelin*
 
 * [Pandas Illustrated: The Definitive Visual Guide to Pandas](https://betterprogramming.pub/pandas-illustrated-the-definitive-visual-guide-to-pandas-c31fa921a43) by *Lev Maximov*
 
+* [Planet Python](https://planetpython.org)
+
 * [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html) by *David Beazley*
 
 * [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl) by *Nicolas P. Rougier*
