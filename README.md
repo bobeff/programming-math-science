@@ -95,6 +95,7 @@ This is a list of links to different freely available learning resources about c
   * [Basic](#basic)
   * [C](#c)
   * [C++](#cpp)
+    * [Blogs](#cpp-blogs)
   * [CMake](#cmake)
   * [Cuda](#cuda)
   * [D](#d)
@@ -907,7 +908,7 @@ This is a list of links to different freely available learning resources about c
 
 * [How Does a C Debugger Work?](https://blog.0x972.info/?d=2014/11/13/10/40/50-how-does-a-debugger-work) by *Kevin Pouget*
 
-* [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup) by *Simon Brand*
+* [Writing a Linux Debugger](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup) by *Sy Brand*
 
 * **Writing a Debugger From Scratch** by *Tim Misiak*
   * [Part 1 - Attaching to a Process](https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1)
@@ -1892,8 +1893,6 @@ Thelin*
   * [Appendix II: Metaclasses and RTTI on C++](https://nicolasbrailo.github.io/blog/2013/6.html#cexceptionsunderthehoodappendixiimetaclassesandrttionc)
   * [Appendix III: RTTI and exceptions orthogonality](https://nicolasbrailo.github.io/blog/2013/7.html#cexceptionsunderthehoodappendixiiirttiandexceptionsorthogonality)
 
-* [C++ Stories](https://www.cppstories.com) by *Bartłomiej Filipek*
-
 * [C++20 Coroutines: sketching a minimal async framework](https://www.jeremyong.com/cpp/2021/01/04/cpp20-coroutines-a-minimal-async-framework) by *Jeremy Ong*
 
 * [C++20 Concepts: The Definitive Guide](https://thecodepad.com/cpp/c20-concepts-the-definitive-guide) by *Rajat Jain*
@@ -1908,13 +1907,70 @@ Thelin*
 
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
-* [Modernes C++](https://www.modernescpp.com/index.php/table-of-content-2) by *Rainer Grimm*
-
 * [My Favorite C++ Pattern: X Macros](https://danilafe.com/blog/chapel_x_macros) by *Daniel Fedorin*
 
 * [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy) by *Simon Tatham*
 
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
+
+#### Blogs <span id="cpp-blogs">
+
+* [Alf on programming (mostly C++)](https://alfps.wordpress.com)
+
+* [Andrzej's C++ Blog](https://akrzemi1.wordpress.com) by *Andrzej Krzemieński*
+
+* [Asymmetric Transfer](https://lewissbaker.github.io) *Lewis Baker*
+
+* [Bannalia: trivial notes on themes diverse](https://bannalia.blogspot.com) by *Joaquín M López Muñoz*
+
+* [Barry's C++ Blog](https://brevzin.github.io) by *Barry Revzin*
+
+* [Borislav Stanimirov's Blog](https://ibob.bg/blog)
+
+* [C++ on a Friday](https://blog.knatten.org) by *Anders Schau Knatten*
+
+* [C++ Stories](https://www.cppstories.com) by *Bartłomiej Filipek*
+
+* [C++ Truths](https://cpptruths.blogspot.com)
+
+* [Crascit's Blog](https://crascit.com) by *Craig Scott*
+
+* [Cristian Adam's Blog](https://cristianadam.eu)
+
+* [Eric Niebler's Blog](https://ericniebler.com)
+
+* [Fluent C++](https://www.fluentcpp.com) by *Jonathan Boccara*
+
+* [foonathan::​blog()](https://www.foonathan.net) by *Jonathan Müller*
+
+* [Functional C++](https://functionalcpp.wordpress.com)
+
+* [Just Software Solutions' Blog](https://www.justsoftwaresolutions.co.uk/blog) by *Anthony Williams*
+
+* [Manu Sanchez's Blog](https://manu343726.github.io)
+
+* [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com)
+
+* [Modernes C++](https://www.modernescpp.com) by *Rainer Grimm*
+
+* [Molecular Musings](https://blog.molecular-matters.com) by *Stefan Reinalter*
+
+* [Preshing on Programming](https://preshing.com) by *Jeff Preshing*
+
+* [Programming Nonsense](https://tartanllama.xyz) by *Sy Brand*
+
+* [Simplify C++](https://arne-mertz.de) by *Arne Mertz*
+
+* [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
+
+* [Thinking Asynchronously in C++](http://blog.think-async.com) by *
+Christopher Kohlhoff*
+
+* [vector-of-bool](https://vector-of-bool.github.io)
+
+* [Victor Zverovich's Blog](https://vitaut.net)
+
+* [Vishal Chovatiya's Blog](https://vishalchovatiya.com)
 
 ### CMake
 
