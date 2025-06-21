@@ -1065,8 +1065,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
-* [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
-
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com) by *Herbert Wolverson*
 
 * [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
@@ -2527,7 +2525,7 @@ Christopher Kohlhoff*
 
 * [Pikuma's Blog](https://pikuma.com) by *Gustavo Pezzi*
 
-* [Red Blob Games](https://www.redblobgames.com) by *Amit Patel*
+* [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
 
 * [Rubén Osorio's Blog](https://osor.io)
 
