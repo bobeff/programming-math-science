@@ -27,7 +27,6 @@ This is a list of links to different freely available learning resources about c
 * [Computer Graphics](#computer-graphics)
   * [Curves and Surfaces](#curves-and-surfaces)
   * [DirectX 12](#directx-12)
-    * [Microsoft Dev Blog Articles](#microsoft-dev-blog-articles)
   * [Image Processing](#image-processing)
     * [Dithering](#dithering)
   * [Metal](#metal)
@@ -95,7 +94,6 @@ This is a list of links to different freely available learning resources about c
   * [Basic](#basic)
   * [C](#c)
   * [C++](#cpp)
-    * [Blogs](#cpp-blogs)
   * [CMake](#cmake)
   * [Cuda](#cuda)
   * [D](#d)
@@ -147,6 +145,12 @@ This is a list of links to different freely available learning resources about c
   * [CSS](#css)
   * [Django](#django)
   * [HTML](#html)
+* [Personal Websites and Blogs](#personal-websites-and-blogs)
+  * [C++](#cpp-blogs)
+  * [Game and Graphics Programming](#game-and-graphics-programming-blogs)
+  * [Math](#math-blogs)
+  * [Mixed Programming](#mixed-programming-blogs)
+  * [Performance and Optimization](#performance-and-optimization-blogs)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -633,8 +637,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Implementing Order-Independent Transparency](https://osor.io/OIT) by *Rubén Osorio López*
 
-* [Inigo Quilez's Website](https://iquilezles.org) - Articles, tutorials, code, and presentations related to computer graphics.
-
 * [Learn Computer Graphics From Scratch](https://www.scratchapixel.com)
 
 * [Let's Make a Voxel Engine](https://sites.google.com/site/letsmakeavoxelengine)
@@ -704,20 +706,6 @@ This is a list of links to different freely available learning resources about c
 * [Getting Started With DirectX Raytracing](https://renderingpixels.com/2022/07/getting-started-with-directx-raytracing) by *Seppe Dekeyser*
 
 * [GPU Work Graphs mesh nodes in Microsoft DirectX® 12](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-intro) by *Max Oberberger*
-
-#### Microsoft Dev Blog Articles
-
-  * [DirectX Raytracing (DXR) Tier 1.1](https://devblogs.microsoft.com/directx/dxr-1-1) by *Amar Patel*
-
-  * [D3D12 Work Graphs Preview](https://devblogs.microsoft.com/directx/d3d12-work-graphs-preview) by *Amar Patel* and *Tex Riddell*
-
-  * [D3D12 Preview: Mesh Nodes in Work Graphs](https://devblogs.microsoft.com/directx/d3d12-mesh-nodes-in-work-graphs) by *Amar Patel*, *David Cook*, and *Greg Roth*
-
-  * [D3D12 Shader Execution Reordering](https://devblogs.microsoft.com/directx/ser) by *Amar Patel*
-
-  * [D3D12 Opacity Micromaps](https://devblogs.microsoft.com/directx/omm) by *Amar Patel* and *Adam Miles*
-
-  * [D3D12 Cooperative Vector](https://devblogs.microsoft.com/directx/cooperative-vector) by *Amar Patel* and *Greg Roth*
 
 ### Image Processing
 
@@ -1067,8 +1055,6 @@ This is a list of links to different freely available learning resources about c
 
 * [CSCI 181G PO: Game Engine Programming Course](https://cs.pomona.edu/classes/cs181g)
 
-* [Game Development, Shader Coding & Artificial Intelligence](https://www.alanzucconi.com) by *Alan Zucconi*
-
 * [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) by *Ruud Helderman*
 
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) by *Gustavo Pezzi*
@@ -1090,8 +1076,6 @@ This is a list of links to different freely available learning resources about c
 * [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers) by *Rodrigo Monteiro*
 
 * [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
-
-* [The blog of Nikita Lisitsa](https://lisyarus.github.io/blog)
 
 * [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting) by *Grant Handy*
 
@@ -1183,7 +1167,7 @@ Thelin*
 
 * [Memory Management Reference](https://www.memorymanagement.org)
 
-* [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memorfy-Profiling-Part1) by *Denis Bakhvalov*
+* [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1) by *Denis Bakhvalov*
 
 * [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
 
@@ -1211,8 +1195,6 @@ Thelin*
 
 ## Math
 
-* [3Blue1Brown lessons](https://www.3blue1brown.com/#lessons) by *Grant Sanderson*
-
 * [A Gentle Introduction to Tensors](https://www.ese.wustl.edu/~nehorai/Porat_A_Gentle_Introduction_to_Tensors_2014.pdf) by *Boaz Porat* **[pdf]**
 
 * [A Gentle Introduction to the Art of Mathematics](https://giam.southernct.edu/GIAM) by *Joe Fields*
@@ -1220,11 +1202,6 @@ Thelin*
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
 * [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by *Jean Gallier* by **[pdf]**
-
-* [Almost Sure: A random mathematical blog](https://almostsuremath.com) by *George Lowther*
-  * [Stochastic Calculus](https://almostsuremath.com/stochastic-calculus)
-  * [Probability Theory](https://almostsuremath.com/probability-theory)
-  * [Absolutely Sure](https://almostsuremath.com/absolutely-sure)
 
 * [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) by *Andrei Ciobanu*
 
@@ -1913,65 +1890,6 @@ Thelin*
 
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
-#### Blogs <span id="cpp-blogs">
-
-* [Alf on programming (mostly C++)](https://alfps.wordpress.com)
-
-* [Andrzej's C++ Blog](https://akrzemi1.wordpress.com) by *Andrzej Krzemieński*
-
-* [Asymmetric Transfer](https://lewissbaker.github.io) *Lewis Baker*
-
-* [Bannalia: trivial notes on themes diverse](https://bannalia.blogspot.com) by *Joaquín M López Muñoz*
-
-* [Barry's C++ Blog](https://brevzin.github.io) by *Barry Revzin*
-
-* [Borislav Stanimirov's Blog](https://ibob.bg/blog)
-
-* [C++ on a Friday](https://blog.knatten.org) by *Anders Schau Knatten*
-
-* [C++ Stories](https://www.cppstories.com) by *Bartłomiej Filipek*
-
-* [C++ Truths](https://cpptruths.blogspot.com)
-
-* [Crascit's Blog](https://crascit.com) by *Craig Scott*
-
-* [Cristian Adam's Blog](https://cristianadam.eu)
-
-* [Eric Niebler's Blog](https://ericniebler.com)
-
-* [Fluent C++](https://www.fluentcpp.com) by *Jonathan Boccara*
-
-* [foonathan::​blog()](https://www.foonathan.net) by *Jonathan Müller*
-
-* [Functional C++](https://functionalcpp.wordpress.com)
-
-* [Just Software Solutions' Blog](https://www.justsoftwaresolutions.co.uk/blog) by *Anthony Williams*
-
-* [Manu Sanchez's Blog](https://manu343726.github.io)
-
-* [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com)
-
-* [Modernes C++](https://www.modernescpp.com) by *Rainer Grimm*
-
-* [Molecular Musings](https://blog.molecular-matters.com) by *Stefan Reinalter*
-
-* [Preshing on Programming](https://preshing.com) by *Jeff Preshing*
-
-* [Programming Nonsense](https://tartanllama.xyz) by *Sy Brand*
-
-* [Simplify C++](https://arne-mertz.de) by *Arne Mertz*
-
-* [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
-
-* [Thinking Asynchronously in C++](http://blog.think-async.com) by *
-Christopher Kohlhoff*
-
-* [vector-of-bool](https://vector-of-bool.github.io)
-
-* [Victor Zverovich's Blog](https://vitaut.net)
-
-* [Vishal Chovatiya's Blog](https://vishalchovatiya.com)
-
 ### CMake
 
 * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html) by *Henry Schreiner*
@@ -2508,15 +2426,179 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Learn HTML](https://learn-html.org)
 
-## Other
+## Personal Websites and Blogs
+
+### C++ <span id="cpp-blogs">
+
+* [Alf on programming (mostly C++)](https://alfps.wordpress.com)
+
+* [Andrzej's C++ Blog](https://akrzemi1.wordpress.com) by *Andrzej Krzemieński*
+
+* [Asymmetric Transfer](https://lewissbaker.github.io) *Lewis Baker*
+
+* [Bannalia: trivial notes on themes diverse](https://bannalia.blogspot.com) by *Joaquín M López Muñoz*
+
+* [Barry's C++ Blog](https://brevzin.github.io) by *Barry Revzin*
+
+* [Borislav Stanimirov's Website](https://ibob.bg)
+
+* [C++ on a Friday](https://blog.knatten.org) by *Anders Schau Knatten*
+
+* [C++ Stories](https://www.cppstories.com) by *Bartłomiej Filipek*
+
+* [C++ Truths](https://cpptruths.blogspot.com)
+
+* [Crascit's Blog](https://crascit.com) by *Craig Scott*
+
+* [Cristian Adam's Blog](https://cristianadam.eu)
+
+* [Eric Niebler's Blog](https://ericniebler.com)
+
+* [Fluent C++](https://www.fluentcpp.com) by *Jonathan Boccara*
+
+* [foonathan::​blog()](https://www.foonathan.net) by *Jonathan Müller*
+
+* [Functional C++](https://functionalcpp.wordpress.com)
+
+* [Just Software Solutions' Blog](https://www.justsoftwaresolutions.co.uk/blog) by *Anthony Williams*
+
+* [Manu Sanchez's Blog](https://manu343726.github.io)
+
+* [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com)
+
+* [Modernes C++](https://www.modernescpp.com) by *Rainer Grimm*
+
+* [Molecular Musings](https://blog.molecular-matters.com) by *Stefan Reinalter*
+
+* [Moody Camel](https://moodycamel.com) by *Cameron Desrochers*
+
+* [Peter Dimov'a Blog](https://pdimov.github.io/blog)
+
+* [Preshing on Programming](https://preshing.com) by *Jeff Preshing*
+
+* [Programming Nonsense](https://tartanllama.xyz) by *Sy Brand*
+
+* [Simplify C++](https://arne-mertz.de) by *Arne Mertz*
+
+* [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
+
+* [Thinking Asynchronously in C++](http://blog.think-async.com) by *
+Christopher Kohlhoff*
+
+* [vector-of-bool](https://vector-of-bool.github.io)
+
+* [Victor Zverovich's Blog](https://vitaut.net)
+
+* [Vishal Chovatiya's Blog](https://vishalchovatiya.com)
+
+### Game and Graphics Programming <span id="game-and-graphics-programming-blogs">
+
+* [30fps.net: Computer Graphics & Programming with Pekka Väänänen](https://30fps.net)
+
+* [Alan Zucconi's Website](https://www.alanzucconi.com) - Game Development, Shader Coding & Artificial Intelligence.
+
+* [Aras Pranckevičius's Website](https://aras-p.info)
+
+* [DirectX Developer Blog](https://devblogs.microsoft.com/directx)
+
+* [Fabien Sanglard's Website](https://fabiensanglard.net)
+
+* [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly) by *Jendrik Illner*
+
+* [Inigo Quilez Website](https://iquilezles.org)
+
+* [Interplay of Light](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
+
+* [Jacco Bikker's Blog](https://jacco.ompf2.com)
+
+* [John Novak's Website](https://www.johnnovak.net)
+
+* [lisyarus blog](https://lisyarus.github.io) by *Nikita Lisitsa*
+
+* [Max Slater's Blog: Computer Graphics, Programming, and Math](https://thenumb.at)
+
+* [Matt Pharr’s blog](https://pharr.org/matt/blog)
+
+* [Maxime Heckel's Blog](https://blog.maximeheckel.com)
+
+* [Moments in Graphics](https://momentsingraphics.de) by *Christoph Peters*
+
+* [Of Shaders & Triangles](https://blog.42yeah.is) by *Hao Joe*
+
+* [Pikuma's Blog](https://pikuma.com) by *Gustavo Pezzi*
+
+* [Red Blob Games](https://www.redblobgames.com) by *Amit Patel*
+
+* [Rubén Osorio's Blog](https://osor.io)
+
+* [The Code Corsair](https://www.elopezr.com) by *Emilio López*
+
+* [The Brain Dump](https://floooh.github.io) by *Andre Weissflog*
+
+* [The Journal of Computer Graphics Techniques](https://jcgt.org)
+
+* [The ryg blog](https://fgiesen.wordpress.com) by *Fabian Giesen*
+
+### Math <span id="math-blogs">
+
+* [3Blue1Brown](https://www.3blue1brown.com) by *Grant Sanderson*
+
+* [Almost Sure: A Random Mathematical Blog](https://almostsuremath.com)
+  * [Stochastic Calculus](https://almostsuremath.com/stochastic-calculus)
+  * [Probability Theory](https://almostsuremath.com/probability-theory)
+  * [Absolutely Sure](https://almostsuremath.com/absolutely-sure)
+
+* [Ji-Ha's Blog](https://jiha-kim.github.io)
+
+### Mixed Programming <span id="mixed-programming-blogs">
+
+* [0pfs](https://0fps.net) by *Mikola Lysenko*
+
+* [Beej's Home Page](https://beej.us)
+
+* [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
+
+* [Andreas Herrmann's Blog](https://aherrmann.github.io)
+
+* [Arjun Sreedharan's Blog](https://arjunsreedharan.org)
+
+* [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com)
+
+* [Daniel Lemire's Blog](https://lemire.me)
+
+* [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
+
+* [Eli Bendersky's website](https://eli.thegreenplace.net)
+
+* [Fernando Borretti's Website](https://borretti.me)
+
+* [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
+
+* [Karl Seguin's Blog](https://www.openmymind.net)
+
+* [Karl Zylinski'a Website](https://zylinski.se)
+
+* [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
+
+* [Miguel Grinberg's Blog](miguelgrinberg.com)
+
+* [Phil Eaton's Website](https://eatonphil.com)
+
+* [Probably Dance](https://probablydance.com)
+
+* [Jari Komppa's Website](https://solhsa.com)
+
+* [Zaid Humayun's Blog](https://redixhumayun.github.io)
+
+### Performance and Optimization <span id="performance-and-optimization-blogs">
 
 * [Agner Fog's Website](https://www.agner.org)
 
-* [Beej's Guides](http://beej.us/guide)
+* [Denis Bakhvalov's Website](https://easyperf.net)
+
+## Other
 
 * [Explained from First Principles](https://explained-from-first-principles.com) by *Kaspar Etter*
-
-* [Green Tea Press: Free books by Allen B. Downey](https://greenteapress.com)
 
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
 
@@ -2536,7 +2618,7 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 
-* [The Nature of Code](https://natureofcode.com) a book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
+* [The Nature of Code](https://natureofcode.com) - A book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
 ## Other lists
 
