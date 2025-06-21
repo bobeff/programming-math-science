@@ -1116,6 +1116,8 @@ This is a list of links to different freely available learning resources about c
 
 ## General Programming
 
+* [freeCodeCamp](https://www.freecodecamp.org)
+
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 
 * [Programiz](https://www.programiz.com)
@@ -1333,6 +1335,8 @@ Thelin*
   * Birth, Growth, Death & Chaos
   * Graph Theory
   * Voting & Social Choice
+
+* [Math Planet](https://www.mathplanet.com)
 
 * [Mathematical Methods for Computer Vision, Robotics, and Graphics](https://graphics.stanford.edu/courses/cs205a-13-fall/assets/notes/cs205a_notes.pdf) by *Justin Solomon* **[pdf]**
 
