@@ -134,7 +134,6 @@ This is a list of links to different freely available learning resources about c
   * [ZX Spectrum and Z80 CPU](#zx-spectrum-and-z80-cpu)
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
-* [SIMD programming](#simd-programming)
 * [System programming](#system-programming)
 * [Text editors](#text-editors)
   * [Emacs](#emacs)
