@@ -488,7 +488,9 @@ This is a list of links to different freely available learning resources about c
 
 ### Programming <span id="programming-competitions">
 
-* [Code Golf](https://codegolf.stackexchange.com) - A site for recreational programming competitions
+* [Advent of Code](https://adventofcode.com) - An Advent calendar of small programming puzzles by *Eric Wastl*
+
+* [Code Golf](https://codegolf.stackexchange.com) - A site for recreational programming competitions.
 
 * [CodeAbbey](https://www.codeabbey.com)
 
