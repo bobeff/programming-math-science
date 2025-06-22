@@ -2448,6 +2448,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Borislav Stanimirov's Website](https://ibob.bg)
 
+* [C++ Metaprogramming](https://odinthenerd.blogspot.com) by *Odin Holmes*
+
 * [C++ on a Friday](https://blog.knatten.org) by *Anders Schau Knatten*
 
 * [C++ Stories](https://www.cppstories.com) by *Bartłomiej Filipek*
@@ -2495,7 +2497,13 @@ Christopher Kohlhoff*
 
 * [Victor Zverovich's Blog](https://vitaut.net)
 
+* [Video Cortex](http://videocortex.io) by *Adi Shavit*
+
 * [Vishal Chovatiya's Blog](https://vishalchovatiya.com)
+
+* [Vittorio Romeo's Blog](https://vittorioromeo.com)
+
+* [Vorbrodt's C++ Blog](https://vorbrodt.blog) by *Martin Vorbrodt*
 
 ### Game and Graphics Programming <span id="game-and-graphics-programming-blogs">
 
