@@ -58,6 +58,7 @@ This is a list of links to different freely available learning resources about c
   * [Game Physics](#game-physics)
 * [General Programming](#general-programming)
 * [Geographic Information Systems](#geographic-information-systems)
+* [GPU and TPU programming](#gpu-and-tpu-programming)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Logical Games](#logical-games)
@@ -1113,6 +1114,12 @@ This is a list of links to different freely available learning resources about c
 ## Geographic Information Systems
 
 * [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook) by *Hugo Ledoux, Ken Arroyo Ohori, Ravi Peters, and Maarten Pronk*
+
+## GPU and TPU Programming
+
+* [Introduction to CUDA Programming With GPU Puzzles](https://henryhmko.github.io/posts/cuda/cuda.html) by *Henry Ko*
+
+* [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html) by *Henry Ko*
 
 ## GUI Programming
 
