@@ -2614,6 +2614,8 @@ Christopher Kohlhoff*
 
 * [Denis Bakhvalov's Website](https://easyperf.net)
 
+* [Johnny's Software Lab](https://johnnysswlab.com) by *Ivica Bogosavljević*
+
 ## Other
 
 * [Explained from First Principles](https://explained-from-first-principles.com) by *Kaspar Etter*
