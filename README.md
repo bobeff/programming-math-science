@@ -2519,6 +2519,8 @@ Christopher Kohlhoff*
 
 * [DirectX Developer Blog](https://devblogs.microsoft.com/directx)
 
+* [Eurographics Digital Library](https://diglib.eg.org)
+
 * [Fabien Sanglard's Website](https://fabiensanglard.net)
 
 * [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly) by *Jendrik Illner*
