@@ -791,6 +791,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mesh Shaders on RDNA™ Graphics Cards](https://gpuopen.com/learn/mesh_shaders/mesh_shaders-index) by *Max Oberberger*, *Bastian Kuth* and *Quirin Meyer*
 
+* [No More Shading Languages: Compiling C++ to Vulkan Shaders](https://diglib.eg.org/server/api/core/bitstreams/e3553000-9d53-4d13-a5b0-29dc16a116de/content) by *H. Devillers*, M. Kurtenacker*, *R. Membarth*, *S. Lemme*, *M. Kenzel3*, *Ö. Yazici1*, and *P. Slusallek* **[pdf]**
+
 * [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders)
 
 * [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium)
