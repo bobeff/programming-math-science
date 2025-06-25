@@ -2574,6 +2574,8 @@ Christopher Kohlhoff*
 
 * [0pfs](https://0fps.net) by *Mikola Lysenko*
 
+* [A Random Walk Through Geek-Space](https://www.sebastiansylvan.com) by *Sebastian Sylvan*
+
 * [Beej's Home Page](https://beej.us)
 
 * [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
