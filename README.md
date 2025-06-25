@@ -539,6 +539,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Sphere Online Judge](https://www.spoj.com)
 
+* [SQLPad](https://sqlpad.io)
+
 * [takeUforward](https://takeuforward.org)
 
 * [Top Coder](https://www.topcoder.com/community/arena)
