@@ -449,6 +449,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Use Midnight Commander like a pro](https://klimer.eu/2015/05/01/use-midnight-commander-like-a-pro) by *Igor Klimer*
 
+* [Write a Shell in C](https://brennan.io/2015/01/16/write-a-shell-in-c) by *Stephen Brennan*
+
 * [Writing Programs with NCURSES](https://invisible-island.net/ncurses/ncurses-intro.html) by *Eric S. Raymond* and *Zeyd M. Ben-Halim*
 
 ### Curl
