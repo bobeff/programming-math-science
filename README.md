@@ -598,6 +598,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Make A Language](https://arzg.github.io/lang) - A series about making a programming language called *Eldiro* using the *Rust* programming language.
 
+* [Threaded code](https://muforth.dev/threaded-code)
+
 ## Computer Graphics
 
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
