@@ -1673,6 +1673,8 @@ Thelin*
 
 * [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html) by *Leslie Lamport*
 
+* [Implementing simple cooperative threads in C](https://brennan.io/2020/05/24/userspace-cooperative-multitasking) by *Stephen Brennan*
+
 * [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
 
 * [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html) by *Paul E. McKenney*
