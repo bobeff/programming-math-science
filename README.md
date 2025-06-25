@@ -2610,6 +2610,18 @@ Christopher Kohlhoff*
 
 * [Phil Eaton's Website](https://eatonphil.com)
 
+* [Playing with code](https://haqr.eu) by *Dmitry V. Sokolov*
+  * **On the site**
+    * [TinyRenderer: Software rendering in 500 lines of bare C++](https://haqr.eu/tinyrenderer)
+    * [TinyCompiler: a compiler in a week-end](https://haqr.eu/tinycompiler)
+    * [TinyOptimizer: an optimizing compiler challenge](https://haqr.eu/tinyoptimizer)
+    * [Cursed fire or #define black magic](https://haqr.eu/strange/cursed-fire)
+  * **On the [author's GitHub](https://github.com/ssloy)**
+    * [Tiny renderer or how OpenGL works: software rendering in 500 lines of code](https://github.com/ssloy/tinyrenderer/wiki)
+    * [Understandable RayTracing in 256 lines of bare C++](https://github.com/ssloy/tinyraytracer/wiki)
+    * [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki)
+    * [Least squares for programmers](https://github.com/ssloy/least-squares-course)
+
 * [Probably Dance](https://probablydance.com)
 
 * [Jari Komppa's Website](https://solhsa.com)
