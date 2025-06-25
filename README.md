@@ -2535,6 +2535,8 @@ Christopher Kohlhoff*
 
 * [Fabien Sanglard's Website](https://fabiensanglard.net)
 
+* [Frozen Fractal](https://frozenfractal.com) by *Thomas ten Cate*
+
 * [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly) by *Jendrik Illner*
 
 * [Inigo Quilez Website](https://iquilezles.org)
