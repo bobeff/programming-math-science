@@ -1117,6 +1117,8 @@ This is a list of links to different freely available learning resources about c
 
 * [W3 Schools](https://www.w3schools.com)
 
+* [Writing Toy Software Is A Joy: Why you should write more toy programs](https://blog.jsbarretto.com/post/software-is-joy) by *Joshua Barretto*
+
 ## Geographic Information Systems
 
 * [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook) by *Hugo Ledoux, Ken Arroyo Ohori, Ravi Peters, and Maarten Pronk*
