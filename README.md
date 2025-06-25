@@ -961,6 +961,8 @@ This is a list of links to different freely available learning resources about c
 
 * [SQLZap](https://sqlzap.com) - Learn SQL with for Free.
 
+* [SQLZoo](https://sqlzoo.net) - SQL Tutorial.
+
 #### MySQL
 
 * [MySQL for Developers](https://planetscale.com/courses/mysql-for-developers) by *Aaron Francis*
