@@ -136,6 +136,7 @@ This is a list of links to different freely available learning resources about c
 * [Reverse engineering](#reverse-engineering)
 * [Robotics](#robotics)
 * [System programming](#system-programming)
+* [Technical Writing](#technical-writing)
 * [Text editors](#text-editors)
   * [Emacs](#emacs)
   * [Vim](#vim)
@@ -2338,6 +2339,16 @@ Thelin*
 
 * [Lord of the io_uring](https://unixism.net/loti/index.html) by *Shuveb Hussain*
 
+## Technical Writing
+
+* [How to Write a Git Commit Message](https://cbea.ms/git-commit)
+
+* [Refactoring English: Effective Writing for Software Developers](https://refactoringenglish.com) by *Michael Lynch*
+
+* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by *James* **[pdf]**
+
+* [Technical Writing Posts](https://jamesg.blog/technical-writing) by *James*
+
 ## Text editors
 
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo)
@@ -2659,8 +2670,6 @@ Christopher Kohlhoff*
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://www.projectoberon.net) by *Niklaus Wirth* and *Jürg Gutknecht*
 
 * [Rocket and Space Technology](http://www.braeunig.us)
-
-* [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by *James* **[pdf]**
 
 * [Teach Yourself Computer Science](https://teachyourselfcs.com)
 
