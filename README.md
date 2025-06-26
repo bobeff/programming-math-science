@@ -2576,6 +2576,8 @@ Christopher Kohlhoff*
 
 * [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
 
+* [RayLib Help](https://raylibhelp.wuaze.com)
+
 * [Rubén Osorio's Blog](https://osor.io)
 
 * [The Code Corsair](https://www.elopezr.com) by *Emilio López*
