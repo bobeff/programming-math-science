@@ -2513,6 +2513,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Programming Nonsense](https://tartanllama.xyz) by *Sy Brand*
 
+* [Sandor Dargo's Blog](https://www.sandordargo.com)
+
 * [Simplify C++](https://arne-mertz.de) by *Arne Mertz*
 
 * [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
