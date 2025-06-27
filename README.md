@@ -2631,6 +2631,8 @@ Christopher Kohlhoff*
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
+* [Julia Evans](https://jvns.ca)
+
 * [Karl Seguin's Blog](https://www.openmymind.net)
 
 * [Karl Zylinski'a Website](https://zylinski.se)
