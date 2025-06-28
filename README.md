@@ -1053,6 +1053,12 @@ This is a list of links to different freely available learning resources about c
 
 * [5 Days To Virtualization: A Series On Hypervisor Development](https://revers.engineering/7-days-to-virtualization-a-series-on-hypervisor-development) by *Daax Rynd, Aidan Khoury and Nick Peterson*
 
+* [Emulators writing tutorials] by *Alexander Dickson*
+  * [JavaScript Chip-8 Emulator](https://web.archive.org/web/20210804123851/http://blog.alexanderdickson.com/javascript-chip-8-emulator)
+  * **Write a NES Emulator with JavaScript**
+    * [Part 1](https://web.archive.org/web/20210624190954/http://blog.alexanderdickson.com/javascript-nes-emulator-part-1)
+    * [Part 2](https://web.archive.org/web/20210624190316/http://blog.alexanderdickson.com/javascript-nes-emulator-part-2)
+
 * [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
 
 * **Roll your own JavaScript runtime** by  *Bartek Iwańczuk*
@@ -1090,7 +1096,7 @@ This is a list of links to different freely available learning resources about c
 
 * [The guide to implementing 2D platformers](http://higherorderfun.com/blog/2012/05/20/the-guide-to-implementing-2d-platformers) by *Rodrigo Monteiro*
 
-* [Scroll Back: The Theory and Practice of Cameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
+* [Scroll Back: The Theory and Practice of C`ameras in Side-Scrollers](https://docs.google.com/document/d/1iNSQIyNpVGHeak6isbP6AHdHD50gs8MNXF1GCf08efg/pub) by *Itay Keren*
 
 * [Write a First Person Game in 2KB With Rust](https://grantshandy.github.io/posts/raycasting) by *Grant Handy*
 
