@@ -1909,6 +1909,8 @@ Thelin*
 
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
+* [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
+
 * [My Favorite C++ Pattern: X Macros](https://danilafe.com/blog/chapel_x_macros) by *Daniel Fedorin*
 
 * [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy) by *Simon Tatham*
