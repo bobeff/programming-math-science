@@ -1145,6 +1145,8 @@ This is a list of links to different freely available learning resources about c
 * [A Book about Qt5](https://qmlbook.github.io) by *Jürgen Bocklage-Ryannel* and *Johan
 Thelin*
 
+* [James Brown's Tutorials](https://www.catch22.net/tuts)
+
 * [Minimal Cross-Platform Graphics](https://zserge.com/posts/fenster) by *Serge Zaitsev*
 
 * [Sol on Immediate Mode GUIs](https://solhsa.com/imgui/index.html) by *Jari Komppa*
