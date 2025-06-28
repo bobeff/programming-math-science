@@ -528,6 +528,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Kaggle](https://www.kaggle.com) - ML specific.
 
+* [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public)
+
 * [LeetCode](https://leetcode.com)
 
 * [NeetCode](https://neetcode.io)
