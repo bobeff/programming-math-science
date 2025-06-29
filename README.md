@@ -12,6 +12,7 @@ This is a list of links to different freely available learning resources about c
     * [Reinforcement learning](#reinforcement-learning)
   * [Computer Games AI](#computer-games-ai)
 * [Algorithms](#algorithms)
+  * [Bloom Filters](#bloom-filters)
 * [Art](#art)
 * [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
@@ -369,8 +370,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Approximation Algorithms](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf) by *Chandra Chekuri* **[pdf]**
 
-* [Bloom filters](https://eli.thegreenplace.net/2025/bloom-filters) by *Eli Bendersky*
-
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) by *Jason Brownlee*
 
 * [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
@@ -419,6 +418,14 @@ This is a list of links to different freely available learning resources about c
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
 * [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation) by *Julien Vernay*
+
+### Bloom Filters
+
+* [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters) by *Eli Bendersky*
+
+* [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial)
+
+* [Let's implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter) by *Onat Yiğit Mercan*
 
 ## Art
 
