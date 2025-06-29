@@ -1092,6 +1092,8 @@ This is a list of links to different freely available learning resources about c
 
 * [CSCI 181G PO: Game Engine Programming Course](https://cs.pomona.edu/classes/cs181g)
 
+* [Game Engineering](https://www.cs.usfca.edu/~galles/cs420) by *David Galles*
+
 * [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) by *Ruud Helderman*
 
 * [Isometric Projection in Game Development](https://pikuma.com/blog/isometric-projection-in-games) by *Gustavo Pezzi*
