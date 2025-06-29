@@ -374,6 +374,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
 
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization) by *David Galles*
+
 * [Data Structures & Algorithm Analysis](https://people.cs.vt.edu/~shaffer/Book) by *Clifford A. Shaffer*
 
 * [Data Structures & Algorithms in C++, Second Edition](https://eduarmandov.wordpress.com/wp-content/uploads/2017/05/c_c-data-structures-and-algorithms-in-c.pdf) by *Michael T. Goodrich*, *Roberto Tamassia*, and *David M. Mount* **[pdf]**
