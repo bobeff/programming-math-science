@@ -2633,8 +2633,6 @@ Christopher Kohlhoff*
 
 * [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com)
 
-* [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
-
 * [Daniel Lemire's Blog](https://lemire.me)
 
 * [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
@@ -2647,6 +2645,8 @@ Christopher Kohlhoff*
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
+* [Jari Komppa's Website](https://solhsa.com)
+
 * [Julia Evans](https://jvns.ca)
 
 * [Karl Seguin's Blog](https://www.openmymind.net)
@@ -2656,6 +2656,8 @@ Christopher Kohlhoff*
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
+
+* [Omar Aflak's Blog](https://omaraflak.medium.com)
 
 * [Phil Eaton's Website](https://eatonphil.com)
 
@@ -2673,7 +2675,7 @@ Christopher Kohlhoff*
 
 * [Probably Dance](https://probablydance.com)
 
-* [Jari Komppa's Website](https://solhsa.com)
+* [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
 
 * [Zaid Humayun's Blog](https://redixhumayun.github.io)
 
