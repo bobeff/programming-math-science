@@ -2682,6 +2682,8 @@ Christopher Kohlhoff*
 
 * [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com)
 
+* [Daniel Fedorin's Blog](https://danilafe.com)
+
 * [Daniel Lemire's Blog](https://lemire.me)
 
 * [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
