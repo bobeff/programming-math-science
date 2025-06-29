@@ -2427,6 +2427,19 @@ Thelin*
 
 ## Version control tools
 
+* **Building Git** by *James Coglan*
+  * **The Myers diff algorithm**
+    * [Part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1)
+    * [Part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2)
+    * [Part 3](https://blog.jcoglan.com/2017/02/17/the-myers-diff-algorithm-part-3)
+  * **Myers diff in linear space**
+    * [Part 1: Theory](https://blog.jcoglan.com/2017/03/22/myers-diff-in-linear-space-theory)
+    * [Part 2: Implementation](https://blog.jcoglan.com/2017/04/25/myers-diff-in-linear-space-implementation)
+  * [Merging with diff3](https://blog.jcoglan.com/2017/05/08/merging-with-diff3)
+  * [Why merges fail and what can be done about it](https://blog.jcoglan.com/2017/06/19/why-merges-fail-and-what-can-be-done-about-it)
+  * [The patience diff algorithm](https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm)
+  * [Implementing patience diff](https://blog.jcoglan.com/2017/09/28/implementing-patience-diff)
+
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
 * [Learn the workings of Git, not just the commands](https://developer.ibm.com/tutorials/d-learn-workings-git) by *Andre Fachat*
