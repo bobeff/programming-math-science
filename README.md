@@ -1507,6 +1507,8 @@ Thelin*
 
 * [A Practical Guide to Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) by *Xinfeng Zhou* **[pdf]**
 
+* [Trade Signal](https://www.investopedia.com/terms/t/trade-signal.asp) by *Lucas Downey*
+
 ### Mathematical Logic
 
 * [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
