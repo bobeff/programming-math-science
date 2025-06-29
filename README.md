@@ -58,6 +58,7 @@ This is a list of links to different freely available learning resources about c
   * [Game Engines](#game-engines)
   * [Game Physics](#game-physics)
 * [General Programming](#general-programming)
+  * [Lists of programming projects to try to implement](#lists-of-programming-projects-to-try-to-implement)
 * [Geographic Information Systems](#geographic-information-systems)
 * [GPU and TPU programming](#gpu-and-tpu-programming)
 * [GUI Programming](#gui-programming)
@@ -1149,6 +1150,13 @@ This is a list of links to different freely available learning resources about c
 * [Tutorials Point](https://www.tutorialspoint.com)
 
 * [W3 Schools](https://www.w3schools.com)
+
+### Lists of programming projects to try to implement
+
+* [Austin Z. Henley's Lists](https://austinhenley.com)
+  * [Challenging algorithms and data structures every programmer should try](https://austinhenley.com/blog/challengingalgorithms.html)
+  * [Challenging projects every programmer should try](https://austinhenley.com/blog/challengingprojects.html)
+  * [More challenging projects every programmer should try](https://austinhenley.com/blog/morechallengingprojects.html)
 
 * [Writing Toy Software Is A Joy: Why you should write more toy programs](https://blog.jsbarretto.com/post/software-is-joy) by *Joshua Barretto*
 
