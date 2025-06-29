@@ -398,6 +398,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) by *David J Wu*
 
+* [Myers Diff Algorithm - Code & Interactive Visualization](https://blog.robertelder.org/diff-algorithm) by *Robert Elder*
+
 * [Notes on Algorithms](https://www.cs.yale.edu/homes/aspnes/pinewiki/CS365(2f)Notes.html) by *James Aspnes*
 
 * [Notes on Data Structures and Programming Techniques](https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html) by *James Aspnes*
