@@ -2705,6 +2705,8 @@ Christopher Kohlhoff*
 
 * [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
 
+* [The If Works](https://blog.jcoglan.com) by *James Coglan*
+
 * [Zaid Humayun's Blog](https://redixhumayun.github.io)
 
 ### Performance and Optimization <span id="performance-and-optimization-blogs">
