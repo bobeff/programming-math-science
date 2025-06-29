@@ -584,6 +584,11 @@ This is a list of links to different freely available learning resources about c
 
 * [How LLVM Optimizes a Function](https://blog.regehr.org/archives/1603) by *John Regehr*
 
+* **Introduction to parser combinators** by *James Coglan*
+  * [Part 1](https://blog.jcoglan.com/2017/07/06/introduction-to-parser-combinators)
+  * [Part 2: Precedence and associativity in recursive descent](https://blog.jcoglan.com/2017/07/07/precedence-and-associativity-in-recursive-descent)
+  * [Part 3: Packrat parsing: a top-down performance improvement](https://blog.jcoglan.com/2017/07/30/packrat-parsing-a-top-down-performance-improvement)
+
 * [Let's Build a Compiler](https://xmonader.github.io/letsbuildacompiler-pretty) by *Jack Crenshaw*
 
 * **Let's make a Teeny Tiny compiler** by *Austin Z. Henley*
