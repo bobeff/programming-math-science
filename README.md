@@ -2451,6 +2451,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [The Odin Project](https://www.theodinproject.com) - An open-source curriculum for learning full-stack web development.
 
+* [Web Browser Engineering](https://browser.engineering) by *Pavel Panchekha* and *Chris Harrelson*
+
 * [WebDev](https://web.dev) - Guidance to build modern web experiences that work on any browser.
 
 * [What happens when you type google.com into your browser's address box and press enter?](https://github.com/alex/what-happens-when) by *Alex Gaynor*
