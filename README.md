@@ -2677,6 +2677,8 @@ Christopher Kohlhoff*
 
 * [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
 
+* [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
+
 * [Zaid Humayun's Blog](https://redixhumayun.github.io)
 
 ### Performance and Optimization <span id="performance-and-optimization-blogs">
