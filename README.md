@@ -2670,6 +2670,8 @@ Christopher Kohlhoff*
 
 * [A Random Walk Through Geek-Space](https://www.sebastiansylvan.com) by *Sebastian Sylvan*
 
+* [Austin Z. Henley's Blog](https://austinhenley.com/blog.html)
+
 * [Beej's Home Page](https://beej.us)
 
 * [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
