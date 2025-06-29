@@ -1704,6 +1704,8 @@ Thelin*
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
+* [Reading and writing](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1) - Article series on race conditions by *James Coglan*
+
 * [The Deadlock Empire](https://deadlockempire.github.io)
 
 * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores) by *Allen B. Downey*
