@@ -2702,6 +2702,8 @@ Christopher Kohlhoff*
 
 * [Jari Komppa's Website](https://solhsa.com)
 
+* [Jens Gustedt's Blog](https://gustedt.wordpress.com)
+
 * [Julia Evans](https://jvns.ca)
 
 * [Karl Seguin's Blog](https://www.openmymind.net)
