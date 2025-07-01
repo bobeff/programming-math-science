@@ -2672,19 +2672,21 @@ Christopher Kohlhoff*
 
 * [A Random Walk Through Geek-Space](https://www.sebastiansylvan.com) by *Sebastian Sylvan*
 
-* [Austin Z. Henley's Blog](https://austinhenley.com/blog.html)
-
-* [Beej's Home Page](https://beej.us)
-
 * [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
 
 * [Andreas Herrmann's Blog](https://aherrmann.github.io)
 
 * [Arjun Sreedharan's Blog](https://arjunsreedharan.org)
 
+* [Austin Z. Henley's Blog](https://austinhenley.com/blog.html)
+
 * [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com)
 
+* [Beej's Home Page](https://beej.us)
+
 * [Daniel Fedorin's Blog](https://danilafe.com)
+
+* [Daniel Hooper's Blog](https://danielchasehooper.com)
 
 * [Daniel Lemire's Blog](https://lemire.me)
 
