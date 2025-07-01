@@ -1893,6 +1893,8 @@ Thelin*
 
 * [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c) by *Ben Hoyt*
 
+* [I Write Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures) by *Daniel Hooper*
+
 * [Implementing smart pointers for the C programming language](https://snai.pe/posts/c-smart-pointers)
 
 * [Moden C](https://gustedt.gitlabpages.inria.fr/modern-c) by *Jens Gustedt*
