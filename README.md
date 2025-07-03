@@ -875,6 +875,8 @@ This is a list of links to different freely available learning resources about c
 
 * [HTTP/3 explained](https://http3-explained.haxx.se) by *Daniel Stenberg*
 
+* [Implementing fast TCP fingerprinting with eBPF](https://halb.it/posts/ebpf-fingerprinting-1) by *Alberto Ventafridda*
+
 * [Implementing TCP In Rust](https://github.com/Ghvstcode/Rust-Tcp) by *Ghvst Code*
 
 * **Let's code a TCP/IP stack** by *Sami Niiranen*
@@ -1847,6 +1849,8 @@ Thelin*
 
 * [A fundamental introduction to x86 assembly programming](https://www.nayuki.io/page/a-fundamental-introduction-to-x86-assembly-programming) by *Nayuki*
 
+* [An interactive guide to x86-64 assembly](https://halb.it/posts/x64-introduction) by *Alberto Ventafridda*
+
 * [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons)
 
 * [Learn Assembly Language](https://asmtutor.com) -  NASM x86 assembly language tutorial on Linux.
@@ -2671,6 +2675,8 @@ Christopher Kohlhoff*
 * [0pfs](https://0fps.net) by *Mikola Lysenko*
 
 * [A Random Walk Through Geek-Space](https://www.sebastiansylvan.com) by *Sebastian Sylvan*
+
+* [Alberto Ventafridda's Blog](https://halb.it)
 
 * [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
 
