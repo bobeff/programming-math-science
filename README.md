@@ -2494,6 +2494,20 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
+* [Tania Rascia'a Web Development Deep Dives](https://www.taniarascia.com/topics)
+  * [A Complete Guide to CSS Concepts and Fundamentals](https://www.taniarascia.com/overview-of-css-concepts)
+  * [An Introduction to GraphQL](https://www.taniarascia.com/introduction-to-graphql)
+  * [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers)
+  * [Everything I Know as a Software Developer Without a Degree](https://www.taniarascia.com/everything-i-know-as-a-software-developer-without-a-degree)
+  * [How to Set up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development)
+  * [How to Set Up webpack 5 From Scratch](https://www.taniarascia.com/how-to-use-webpack)
+  * [How to Structure and Organize a React Application](https://www.taniarascia.com/react-architecture-directory-structure)
+  * [How to Use React, the JavaScript Framework](https://www.taniarascia.com/getting-started-with-react)
+  * [How to Use Redux and React](https://www.taniarascia.com/redux-react-guide)
+  * [How to Use Vue, the JavaScript Framework](https://www.taniarascia.com/getting-started-with-vue)
+  * [Setting Up Virtual Hosts](https://www.taniarascia.com/setting-up-virtual-hosts)
+  * [The Event Loop, Callbacks, Promises, and Async/Await in JavaScript](https://www.taniarascia.com/asynchronous-javascript-event-loop-callbacks-promises-async-await)
+
 * [The Copenhagen Book](https://thecopenhagenbook.com) - A general guideline on implementing auth in web applications.
 
 * [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world) by *Miguel Grinberg*
@@ -2743,6 +2757,8 @@ Christopher Kohlhoff*
 * [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
 
 * [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
+
+* [Tania Rascia’s blog](https://www.taniarascia.com)
 
 * [The If Works](https://blog.jcoglan.com) by *James Coglan*
 
