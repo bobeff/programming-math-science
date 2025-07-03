@@ -2663,6 +2663,8 @@ Christopher Kohlhoff*
 
 * [RayLib Help](https://raylibhelp.wuaze.com)
 
+* [Rendering Engine Architecture Conference](https://enginearchitecture.org) - A conference about the craft of real-time rendering systems.
+
 * [Rubén Osorio's Blog](https://osor.io)
 
 * [The Code Corsair](https://www.elopezr.com) by *Emilio López*
