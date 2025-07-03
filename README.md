@@ -2684,6 +2684,8 @@ Christopher Kohlhoff*
 
 * [Beej's Home Page](https://beej.us)
 
+* [Bradley Chatha's D Blog](https://bradley.chatha.dev/blog)
+
 * [Daniel Fedorin's Blog](https://danilafe.com)
 
 * [Daniel Hooper's Blog](https://danielchasehooper.com)
