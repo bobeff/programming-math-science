@@ -1894,6 +1894,8 @@ Thelin*
 
 * [Demystifying bitwise operations, a gentle C tutorial](https://www.andreinc.net/2023/02/01/demystifying-bitwise-ops) by *Andrei Ciobanu*
 
+* [Extreme C](https://www.packtpub.com/free-ebook/extreme-c/9781789343625) by *Kamran Amini*
+
 * [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 
 * [Hacktical C: A practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
