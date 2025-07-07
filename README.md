@@ -585,6 +585,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://sillycross.github.io/2022/11/22/2022-11-22)
   * [Part 2: Building a baseline JIT for Lua automatically](https://sillycross.github.io/2023/05/12/2023-05-12)
 
+* [Compiler Design in C](https://holub.com/compiler) by *Allen I. Holub*
+
 * [Compiling to Assembly from Scratch](https://keleshev.com/compiling-to-assembly-from-scratch) by *Vladimir Keleshev*
 
 * [Crafting Interpreters](http://craftinginterpreters.com) by *Robert Nystrom*
