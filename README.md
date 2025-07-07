@@ -2819,6 +2819,8 @@ Christopher Kohlhoff*
 
 * [LibreTexts](https://libretexts.org) - Collections of science books.
 
+* [Lovely Professional University Books](https://www.lpude.in/SLMs)
+
 * [Max Slater's Bookmarks](https://github.com/TheNumbat/Lists)
 
 * [My favorite technical blogs](https://eatonphil.com/blogs.html) by *Phil Eaton*
