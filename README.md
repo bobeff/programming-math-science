@@ -2824,3 +2824,5 @@ Christopher Kohlhoff*
 * [Programming Notes for Professionals books](https://goalkicker.com)
 
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md)
+
+* [Raspberry Pi Official Magazine Books](https://magazine.raspberrypi.com/books)
