@@ -1273,6 +1273,8 @@ Thelin*
 
 * [An Infinitely Large Napkin](https://venhance.github.io/napkin/Napkin.pdf) by *Evan Chen* **[pdf]**
 
+* [An Introduction to Tensors for Students of Physics and Engineering](https://www.grc.nasa.gov/www/k-12/Numbers/Math/documents/Tensors_TM2002211716.pdf) by *Joseph C. Kolecki* **[pdf]**
+
 * [Approved Textbooks](https://aimath.org/textbooks/approved-textbooks) of the [*American Institute of Mathematics*](https://aimath.org/)
 
 * [Books and papers by *Professor Dimitry P. Bertsekas*](https://web.mit.edu/dimitrib/www/home.html)
