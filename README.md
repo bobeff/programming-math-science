@@ -1347,7 +1347,16 @@ Thelin*
   * [Principles of Statistics](https://www.statslab.cam.ac.uk/~rds37/PoS.html)
   * [Statistical Modelling](https://www.statslab.cam.ac.uk/~rds37/statistical_modelling.html)
 
-* [Courses notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
+* [Course Notes by Richard Weber](https://www.statslab.cam.ac.uk//~rrw1)
+  * [Markov Chains](https://www.statslab.cam.ac.uk//~rrw1/markov/index.html)
+  * [Mathematics of Operational Research](https://www.statslab.cam.ac.uk//~rrw1/mor/index.html)
+  * [Optimization](https://www.statslab.cam.ac.uk//~rrw1/opt/index.html)
+  * [Optimization and Control](https://www.statslab.cam.ac.uk//~rrw1/oc/index.html)
+  * [Probability](https://www.statslab.cam.ac.uk//~rrw1/prob/index.html)
+  * [Statistics](https://www.statslab.cam.ac.uk//~rrw1/stats/index.html)
+  * [Time Series](https://www.statslab.cam.ac.uk//~rrw1/timeseries/index.html)
+
+* [Course notes by Tom Leinster](https://golem.ph.utexas.edu/category/2024/08/galois_theory.html)
   * [Category theory](https://arxiv.org/abs/1612.09375)
   * [Fourier analysis](https://www.maths.ed.ac.uk/~tl/fa/fa_notes.pdf) **[pdf]**
   * [Galois theory](https://arxiv.org/abs/2408.07499)
