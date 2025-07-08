@@ -424,6 +424,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation) by *Julien Vernay*
 
+* [Think Data Structures](https://greenteapress.com/wp/think-data-structures) by *Allen B. Downey*
+
 ### Bloom Filters
 
 * [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters) by *Eli Bendersky*
