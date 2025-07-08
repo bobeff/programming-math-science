@@ -1381,6 +1381,15 @@ Thelin*
   * [Topics in Mathematical Physics](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT595_spring_2024/MAT595_PHY508_Lecture_Notes.pdf) **[pdf]**
   * [Homeworks and other courses materials](https://web.math.princeton.edu/~shapiro/teaching.html)
 
+* **[Lecture Notes by Omer Tamuz](https://tamuz.caltech.edu)**
+  * [General Equilibrium Theory](https://tamuz.caltech.edu/teaching/ss205b/lectures.pdf) **[pdf]**
+  * [Graduate Real Analysis](https://tamuz.caltech.edu/teaching/ma110a/lecture_notes.pdf) **[pdf]**
+  * [Multivariate Calculus](https://tamuz.caltech.edu/teaching/18.022)
+  * [Probability: Random Walks](https://tamuz.caltech.edu/teaching/ma140b)
+  * [Probability](https://tamuz.caltech.edu/teaching/ma144a)
+  * [The Value and Cost of Information](https://tamuz.caltech.edu/teaching/info.pdf) **[pdf]**
+  * [Undergraduate Game Theory](https://tamuz.caltech.edu/teaching/ps172)
+
 * [Math Alive](https://web.math.princeton.edu/math_alive/index.shtml) by *Ingrid Daubechies* and *Shannon Hughes* - lecture notes on:
   * Cryptography
   * Error correction & compression
