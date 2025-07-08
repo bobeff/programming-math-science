@@ -84,7 +84,7 @@ This is a list of links to different freely available learning resources about c
   * [Probability and Statistics](#probability-and-statistics)
   * [Proofs](#proofs)
   * [Theoretical Computer Science](#theoretical-computer-science)
-  * [Topology](#topology)
+  * [Topology](#topology)*
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
 * [Operating Systems](#operating-systems)
   * [Operating Systems Development](#operating-systems-development)
@@ -96,6 +96,7 @@ This is a list of links to different freely available learning resources about c
   * [Bash](#bash)
   * [Basic](#basic)
   * [C](#c)
+  * [C#](#c-sharp)
   * [C++](#cpp)
   * [CMake](#cmake)
   * [Cuda](#cuda)
@@ -1937,6 +1938,10 @@ Thelin*
 * [The Lost Art of Structure Packing](http://www.catb.org/esr/structure-packing) by *Eric S. Raymond*
 
 * [Writing a Simple Garbage Collector in C](http://maplant.com/gc.html) by *Matthew Plant*
+
+### C# <span id="c-sharp">
+
+* [Developing on AWS with C#](https://d1.awsstatic.com/developer-center/DevelopingonAWS_ER_fulldraft_net.pdf) by *Noah Gift* and *James Charlesworth* **[pdf]**
 
 ### C++ <span id="cpp">
 
