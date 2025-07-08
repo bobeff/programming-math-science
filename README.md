@@ -2226,7 +2226,7 @@ Thelin*
 
 * [Big Book of R](https://www.bigbookofr.com) by *Oscar Baruffa*
 
-* [Efficient R programming](https://csgillespie.github.io/efficientR) by *Colin Gillespie* and *Robin Lovelace*
+* [Efficient R Programming](https://csgillespie.github.io/efficientR) by *Colin Gillespie* and *Robin Lovelace*
 
 * [R for Data Science (2e)](https://r4ds.hadley.nz) *Hadley Wickham*, *Mine Cetinkaya-Rundel*, *Garrett Grolemund*
 
