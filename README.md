@@ -2044,6 +2044,8 @@ Thelin*
 
 * [How to Design Classes](https://felleisen.org/matthias/HtDC/htdc.pdf) by *Matthias Felleisen, Matthew Flatt, Robert Bruce Findler, Kathryn E. Gray, Shriram Krishnamurthi and Viera K. Proulx* **[pdf]**
 
+* [Think Java](https://greenteapress.com/wp/think-java-2e) by *Allen B. Downey*
+
 ### JavaScript
 
 * [Eloquent JavaScript](https://eloquentjavascript.net) by *Marijn Haverbeke*
