@@ -2814,6 +2814,8 @@ Christopher Kohlhoff*
 
 * [Johnny's Software Lab](https://johnnysswlab.com) by *Ivica Bogosavljević*
 
+* [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser) by *Ricardo Pallás*
+
 ## Other
 
 * [Explained from First Principles](https://explained-from-first-principles.com) by *Kaspar Etter*
