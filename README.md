@@ -1453,6 +1453,8 @@ Thelin*
 
 #### Linear Algebra
 
+* [Graphical Linear Algebra](https://graphicallinearalgebra.net) by *Pawel Sobocinski*
+
 * [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) by *J. Ström, K. Åström, and T. Akenine-Möller*
 
 * [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila) by *Dan Margalit and Joseph Rabinoff*
