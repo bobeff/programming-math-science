@@ -1048,6 +1048,14 @@ This is a list of links to different freely available learning resources about c
 
 ## Digital Signal Processing
 
+* [Online Textbooks and Course Materials by Julius Orion Smith III](https://ccrma.stanford.edu/~jos)
+  * [AI Audio Signal Processing Reading List](https://cm-gitlab.stanford.edu/jos/music423-2023/-/blob/master/README.md)
+  * [Audio Signal Processing in FAUST](https://ccrma.stanford.edu/~jos/aspf)
+  * [Intoroduction to Digital Filters](https://ccrma.stanford.edu/~jos/filters) by *Julious O. Smith III**
+  * [Mathematics Of The Discrete Fourier Transform (Dft), Second Edition](https://ccrma.stanford.edu/~jos/mdft)
+  * [Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp)
+  * [Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp)
+
 * [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org) by *Dr. Marc Lichtman*
 
 * [Software-Defined Radio for Engineers](https://www.analog.com/media/en/training-seminars/design-handbooks/Software-Defined-Radio-for-Engineers-2018/SDR4Engineers.pdf) by *Travis F. Collins*, *Robin Getz*, *Di Pu*, and *Alexander M. Wyglinski* **[pdf]**
