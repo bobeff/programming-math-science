@@ -926,6 +926,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mining Social Media](https://socialdata.site) by *Lam Thuy Vo*
 
+* [Topics in Mathematics of Data Science](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015) by *Dr. Afonso Bandeira*
+
 * [Towards Data Science](https://towardsdatascience.com) - The world’s leading publication for data science, AI, and ML professionals.
 
 ## Debuggers
