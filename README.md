@@ -1378,6 +1378,17 @@ Thelin*
 
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
+* **[Lecture Notes by Ian Tice](https://www.math.cmu.edu/~iantice/lecture_notes.html)**
+  * [A crash course in complex analysis](https://www.math.cmu.edu/~iantice/notes/complex_notes.pdf) **[pdf]**
+  * [A crash course in interpolation theory](https://www.math.cmu.edu/~iantice/notes/interpolation_notes.pdf) **[pdf]**
+  * [Derivation of the fluid equations](https://www.math.cmu.edu/~iantice/notes/basic_fluid_mechanics.pdf) **[pdf]**
+  * [Fluid-solid interaction](https://www.math.cmu.edu/~iantice/notes/fluid-structure.pdf) **[pdf]**
+  * [From Stokes flow to Darcy's law](https://www.math.cmu.edu/~iantice/notes/stokes_to_darcy.pdf) **[pdf]**
+  * [Gamma-convergence of the Ginzburg-Landau energy](https://www.math.cmu.edu/~iantice/notes/gamma_convergence_gl.pdf) **[pdf]**
+  * [Linear constant coefficient ordinary differential systems](https://www.math.cmu.edu/~iantice/notes/ODE_notes.pdf) **[pdf]**
+  * [Monstrous Functions](https://www.math.cmu.edu/~iantice/notes/monstrous_functions.pdf) **[pdf]**
+  * [Quasilinear symmetric hyperbolic systems](https://www.math.cmu.edu/~iantice/notes/quasilinear_hyperbolic_systems.pdf) **[pdf]**
+
 * **Lecture Notes by Jacob Shapiro**
   * [Calculus 1](https://web.math.princeton.edu/~js129/PDFs/teaching/calc1_spring_2019/LectureNotes.pdf) **[pdf]**
   * [Complex Analysis with Applications](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT330_spring_2024/MAT330_Lecture_Notes.pdf) **[pdf]**
