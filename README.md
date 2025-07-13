@@ -2797,6 +2797,8 @@ Christopher Kohlhoff*
 
 * [Karl Zylinski'a Website](https://zylinski.se)
 
+* [Loris Cro's Personal Website](https://kristoff.it)
+
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
