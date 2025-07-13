@@ -1946,6 +1946,8 @@ Thelin*
 
 * [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 
+* [Hacking Coroutines into C](https://wiomoc.de/misc/posts/hacking_coroutines_into_c.html) by *Christoph Walcher*
+
 * [Hacktical C: A practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 
 * [How to implement a hash table (in C)](https://benhoyt.com/writings/hash-table-in-c) by *Ben Hoyt*
