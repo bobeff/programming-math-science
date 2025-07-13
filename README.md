@@ -2195,10 +2195,6 @@ Thelin*
 
 * [Architecture Patterns with Python](https://www.cosmicpython.com) by *Harry Percival* and *Bob Gregory*
 
-* [Audio, Video, and Webcams in Python (Lost Chapter from Automate the Boring Stuff)](https://inventwithpython.com/blog/lost-av-chapter.html) by *Al Sweigart*
-
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e) by *Al Sweigart*
-
 * [Composing Programs](https://www.composingprograms.com) by *John DeNero*
 
 * [Computational Discovery on Jupyter](https://computational-discovery-on-jupyter.github.io/Computational-Discovery-on-Jupyter) by *Rob Corless*
@@ -2216,6 +2212,18 @@ Thelin*
 * [Introduction to Computer Programming with Python](https://www.aupress.ca/books/oer-202301-introduction-to-computer-programming-with-python) by *Harris Wang*
 
 * [Introduction to Python Programming](https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Python_Programming_-_WEB.pdf) by *Udayan Das*, *Aubrey Lawson*, *Chris Mayfield*, *Narges Norouzi* **[pdf]**
+
+* [Invent With Python](https://inventwithpython.com) by *Al Sweigart*
+  * [Audio, Video, and Webcams in Python (Lost Chapter from Automate the Boring Stuff)](https://inventwithpython.com/blog/lost-av-chapter.html)
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+  * [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond)
+  * [Cracking Codes with Python](https://inventwithpython.com/cracking)
+  * [Invent Your Own Computer Games with Python](https://inventwithpython.com/invent4thed)
+  * [Making Games with Python & Pygame](https://inventwithpython.com/pygame)
+  * [Python Programming Exercises, Gently Explained](https://inventwithpython.com/pythongently)
+  * [Scratch 3 Programming Playground](https://inventwithscratch.com/book3)
+  * [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython)
+  * [The Recursive Book of Recursion](https://inventwithpython.com/recursion)
 
 * [Learn Python the Right Way](https://learnpythontherightway.com)
 
