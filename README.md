@@ -1386,6 +1386,12 @@ Thelin*
 
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
+* [Lecuture Notes by Aditya Guntuboyina](https://www.stat.berkeley.edu/~aditya/styled/index.html)
+  * [Analysis of Time Series](https://www.stat.berkeley.edu/~aditya/resources/FullNotes248Spring2022TimeSeries.pdf) **[pdf]**
+  * [Introduction to Probability at an advanced level](https://www.stat.berkeley.edu/~aditya/resources/FullNotes201AFall2022.pdf) **[pdf]**
+  * [Theoretical Statistics](https://www.stat.berkeley.edu/~aditya/resources/FullNotes210BSpring2018.pdf) **[pdf]**
+
+
 * **[Lecture Notes by Ian Tice](https://www.math.cmu.edu/~iantice/lecture_notes.html)**
   * [A crash course in complex analysis](https://www.math.cmu.edu/~iantice/notes/complex_notes.pdf) **[pdf]**
   * [A crash course in interpolation theory](https://www.math.cmu.edu/~iantice/notes/interpolation_notes.pdf) **[pdf]**
@@ -1644,8 +1650,6 @@ Thelin*
 
 * [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
 
-* [Introduction to Probability at an advanced level](https://www.stat.berkeley.edu/~aditya/resources/FullNotes201AFall2022.pdf) by *Aditya Guntuboyina* **[pdf]**
-
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
 * [Lecture Notes on Probability](https://www.tamuz.caltech.edu/teaching/ma144a/lectures.pdf) by *Omer Tamuz* **[pdf]**
@@ -1692,8 +1696,6 @@ Thelin*
 * [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
-
-* [Theoretical Statistics](https://www.stat.berkeley.edu/~aditya/resources/FullNotes210BSpring2018.pdf) by *Aditya Guntuboyina* **[pdf]**
 
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR) by *Cosma Rohilla Shalizi*
 
