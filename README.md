@@ -2195,6 +2195,8 @@ Thelin*
 
 * [Architecture Patterns with Python](https://www.cosmicpython.com) by *Harry Percival* and *Bob Gregory*
 
+* [Audio, Video, and Webcams in Python (Lost Chapter from Automate the Boring Stuff)](https://inventwithpython.com/blog/lost-av-chapter.html) by *Al Sweigart*
+
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e) by *Al Sweigart*
 
 * [Composing Programs](https://www.composingprograms.com) by *John DeNero*
