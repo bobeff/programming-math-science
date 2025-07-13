@@ -1391,7 +1391,6 @@ Thelin*
   * [Introduction to Probability at an advanced level](https://www.stat.berkeley.edu/~aditya/resources/FullNotes201AFall2022.pdf) **[pdf]**
   * [Theoretical Statistics](https://www.stat.berkeley.edu/~aditya/resources/FullNotes210BSpring2018.pdf) **[pdf]**
 
-
 * **[Lecture Notes by Ian Tice](https://www.math.cmu.edu/~iantice/lecture_notes.html)**
   * [A crash course in complex analysis](https://www.math.cmu.edu/~iantice/notes/complex_notes.pdf) **[pdf]**
   * [A crash course in interpolation theory](https://www.math.cmu.edu/~iantice/notes/interpolation_notes.pdf) **[pdf]**
@@ -1446,6 +1445,8 @@ Thelin*
 * [Precalculus](https://stitz-zeager.com/) by *Carl Stitz* and *Jeff Zeager*
 
 * [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study Mathematics.
+
+* [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008) - Course teaches the art of guessing results and solving problems without doing a proof or an exact calculation by *Sanjoy Mahajan*
 
 * [Texts, exercises, problems and lecture notes by John Erdman](https://web.pdx.edu/~erdman)
   * [Exercises and Problems in Calculus](https://web.pdx.edu/%7Eerdman/CALCULUS/CALCULUSlicensepage.html)
