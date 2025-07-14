@@ -2856,6 +2856,8 @@ Christopher Kohlhoff*
 
 * [The If Works](https://blog.jcoglan.com) by *James Coglan*
 
+* [xnacly - blog](https://xnacly.me)
+
 * [Zaid Humayun's Blog](https://redixhumayun.github.io)
 
 ### Performance and Optimization <span id="performance-and-optimization-blogs">
