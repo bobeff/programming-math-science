@@ -2798,6 +2798,8 @@ Christopher Kohlhoff*
 
 * [Fernando Borretti's Website](https://borretti.me)
 
+* [Gerneral Protection Fault](https://gpfault.net)
+
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
 * [Jari Komppa's Website](https://solhsa.com)
