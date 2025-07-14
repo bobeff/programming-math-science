@@ -2818,6 +2818,8 @@ Christopher Kohlhoff*
 
 * [Loris Cro's Personal Website](https://kristoff.it)
 
+* [Mario's Lab](https://marioslab.io) by *Mario Zechner*
+
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
