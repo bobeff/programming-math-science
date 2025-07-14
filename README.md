@@ -628,6 +628,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Make A Language](https://arzg.github.io/lang) - A series about making a programming language called *Eldiro* using the *Rust* programming language.
 
+* [Strategies for very fast Lexers](https://xnacly.me/posts/2025/fast-lexer-strategie)
+
 * [Threaded code](https://muforth.dev/threaded-code)
 
 ## Computer Graphics
@@ -1444,7 +1446,7 @@ Thelin*
 
 * [Precalculus](https://stitz-zeager.com/) by *Carl Stitz* and *Jeff Zeager*
 
-* [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study Mathematics.
+* [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study MathemF comilatics.
 
 * [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008) - Course teaches the art of guessing results and solving problems without doing a proof or an exact calculation by *Sanjoy Mahajan*
 
