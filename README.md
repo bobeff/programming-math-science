@@ -2705,6 +2705,8 @@ Christopher Kohlhoff*
 
 * [DirectX Developer Blog](https://devblogs.microsoft.com/directx)
 
+* [Eric Arnebäck's Blog](https://erkaman.github.io)
+
 * [Eurographics Digital Library](https://diglib.eg.org)
 
 * [Fabien Sanglard's Website](https://fabiensanglard.net)
