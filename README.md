@@ -2747,6 +2747,8 @@ Christopher Kohlhoff*
 
 * [The Code Corsair](https://www.elopezr.com) by *Emilio López*
 
+* [The blog at the bottom of the sea](https://blog.demofox.org) by *Alan Wolfe*
+
 * [The Brain Dump](https://floooh.github.io) by *Andre Weissflog*
 
 * [The Journal of Computer Graphics Techniques](https://jcgt.org)
