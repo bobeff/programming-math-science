@@ -2818,6 +2818,8 @@ Christopher Kohlhoff*
 
 * [Karl Zylinski'a Website](https://zylinski.se)
 
+* [Lei Xia's Blog](https://www.ddhigh.com/en)
+
 * [Loris Cro's Personal Website](https://kristoff.it)
 
 * [Mario's Lab](https://marioslab.io) by *Mario Zechner*
