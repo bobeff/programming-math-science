@@ -1579,6 +1579,8 @@ Thelin*
 
 * [Functional Differential Geometry](https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf) by *Gerald Jay Sussman* and *Jack Wisdom* with *Will Farr* **[pdf]**
 
+* [Lecture Notes on Differential Geometry](https://ghomi.math.gatech.edu/LectureNotes/index.html) by *Mohammad Ghomi*
+
 * [Manifolds and Differential Forms](https://pi.math.cornell.edu/~sjamaar/manifolds/manifold.pdf) by *Reyer Sjamaar* **[pdf]**
 
 * [Open Problems In Geometry Of Curves And Surfaces](https://ghomi.math.gatech.edu/Papers/op.pdf) by *Mohammad Ghomi* **[pdf]**
