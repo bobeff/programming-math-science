@@ -1581,6 +1581,8 @@ Thelin*
 
 * [Manifolds and Differential Forms](https://pi.math.cornell.edu/~sjamaar/manifolds/manifold.pdf) by *Reyer Sjamaar* **[pdf]**
 
+* [Open Problems In Geometry Of Curves And Surfaces](https://ghomi.math.gatech.edu/Papers/op.pdf) by *Mohammad Ghomi* **[pdf]**
+
 ### Graph Theory
 
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
