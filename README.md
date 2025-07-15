@@ -1575,6 +1575,8 @@ Thelin*
 
 #### Diferential Geometry
 
+* [Differential Geometry: A First Course in Curves and Surfaces](https://ghomi.math.gatech.edu/Classes/Math4441Fall2021/ShifrinDiffGeo.pdf) by *Theodore Shifrin* **[pdf]**
+
 * [Functional Differential Geometry](https://groups.csail.mit.edu/mac/users/gjs/6946/calculus-indexed.pdf) by *Gerald Jay Sussman* and *Jack Wisdom* with *Will Farr* **[pdf]**
 
 * [Manifolds and Differential Forms](https://pi.math.cornell.edu/~sjamaar/manifolds/manifold.pdf) by *Reyer Sjamaar* **[pdf]**
