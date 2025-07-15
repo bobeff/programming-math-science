@@ -1583,6 +1583,8 @@ Thelin*
 
 * [Open Problems In Geometry Of Curves And Surfaces](https://ghomi.math.gatech.edu/Papers/op.pdf) by *Mohammad Ghomi* **[pdf]**
 
+* [What is differential geometry: curves and surfaces](https://arxiv.org/abs/2012.11814) by *Anton Petrunin* and *Sergio Zamora Barrera*
+
 ### Graph Theory
 
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
