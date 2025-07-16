@@ -1481,6 +1481,8 @@ Thelin*
 
 * [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html) by *Anthony Bonkoski*
 
+* [Lectures on Abstract Algebra](https://www.math.ucla.edu/~rse/algebra_book.pdf) by *Richard Elman* **[pdf]**
+
 #### Linear Algebra
 
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net) by *Pawel Sobocinski*
