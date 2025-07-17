@@ -906,6 +906,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Graduate Course in Applied Cryptography](https://toc.cryptobook.us) by *Dan Boneh* and *Victor Shoup*
 
+* [Advanced Topics in Cryptography: From Lattices to Program Obfuscation](https://advancedcrypto.github.io) by *Vinod Vaikuntanathan*
+
 * [All I Know About Certificates](https://www.pixelstech.net/article/1722045726-All-I-Know-About-Certificates----Certificate-Authority) by *Ke Pi*
 
 * [Coding Theory & Cryptography](http://www.mathstat.ualberta.ca/~bowman/m422/m422.pdf) by *John C. Bowman* **[pdf]**
