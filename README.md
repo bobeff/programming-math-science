@@ -1573,6 +1573,8 @@ Thelin*
 
 * [Euclid's Elements](https://mathcs.clarku.edu/~djoyce/java/elements/toc.html)
 
+* [Euclidean and Non-Euclidean Geometries: Development and History](https://www.ime.usp.br/~toscano/disc/2022/GreenbergGeometry.pdf) by *Marvin Jay Greenberg* **[pdf]**
+
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
 
 * [The Foundations of Geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf) by *David Hilbert* **[pdf]**
