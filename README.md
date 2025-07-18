@@ -1425,6 +1425,16 @@ Thelin*
   * [The Value and Cost of Information](https://tamuz.caltech.edu/teaching/info.pdf) **[pdf]**
   * [Undergraduate Game Theory](https://tamuz.caltech.edu/teaching/ps172)
 
+* **[Lecture Notes by Seongjai Kim](https://skim.math.msstate.edu)**
+  * [Calculus Lectures](https://skim.math.msstate.edu/LectureNotes/Calculus-Lectures.pdf) **[pdf]**
+  * [Fundamentals of Numerical Linear Algebra](https://skim.math.msstate.edu/LectureNotes/Numer_Lin_Algebra.pdf) **[pdf]**
+  * [Heterogeneity in Computational Environments](https://skim.math.msstate.edu/LectureNotes/Hetero_Comp.pdf) **[pdf]**
+  * [Linear Algebra with Applications](https://skim.math.msstate.edu/LectureNotes/Linear_Algebra_LectureNote.pdf) **[pdf]**
+  * [Mathematical Foundations of Machine Learning](https://skim.math.msstate.edu/LectureNotes/Machine_Learning_Lecture.pdf) **[pdf]**
+  * [Numerical Analysis and Applications with Music](https://skim.math.msstate.edu/LectureNotes/Numerical_Analysis_Lecture.pdf) **[pdf]**
+  * [Numerical Methods for Partial Differential Equations](https://skim.math.msstate.edu/LectureNotes/NumerPDEs_Lecture.pdf) **[pdf]**
+  * [Programming Basics and AI with Matlab and Python](https://skim.math.msstate.edu/LectureNotes/Programming-Basics-and-AI-Lecture.pdf) **[pdf]**
+
 * [Math Alive](https://web.math.princeton.edu/math_alive/index.shtml) by *Ingrid Daubechies* and *Shannon Hughes* - lecture notes on:
   * Cryptography
   * Error correction & compression
