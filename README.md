@@ -1549,6 +1549,8 @@ Thelin*
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
+* [Multivariable Calculus Lectures](https://math.jhu.edu/~brown/courses/f19/Documents/MultivariableCalculus.pdf) by *Richard J. Brown* **[pdf]**
+
 #### Vector Calculus
 
 * [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html) by *David Tong*
