@@ -1487,6 +1487,8 @@ Thelin*
 
 ### Algebra
 
+* [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
+
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
 
 * [Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212) by *Alexander Postnikov*
