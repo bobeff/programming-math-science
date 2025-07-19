@@ -1452,6 +1452,8 @@ Thelin*
 
 * [Mathematics for the Physical Sciences](https://www2.math.upenn.edu/~wilf/website/Mathematics_for_the_Physical_Sciences.html) by *Herbert S. Wilf*
 
+* [Notes on Mathematics For Engineers](https://websites.umich.edu/~ners311/CourseLibrary/MathNotes.pdf) **[pdf]**
+
 * [Open Mathematics Depository](https://openmathdep.tuxfamily.org)
 
 * [Open textbooks for undergraduate mathematics](https://openaccesstexts.com/math)
