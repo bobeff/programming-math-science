@@ -1836,7 +1836,10 @@ Thelin*
 
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *Alex Kuleshov*
 
-* [How to write Rust in the kernel](https://lwn.net/Articles/1024941)
+* [How to write Rust in the kernel](https://lwn.net/Articles/1024941) by *Daroc Alden*
+  * [Part 1](https://lwn.net/Articles/1024202)
+  * [Part 2](https://lwn.net/Articles/1025232)
+  * [Part 3](https://lwn.net/SubscriberLink/1026694/3413f4b43c862629)
 
 * [Making our own executable packer](https://fasterthanli.me/series/making-our-own-executable-packer) by *Amos Wenger*
 
