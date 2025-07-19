@@ -1911,6 +1911,8 @@ Thelin*
 
 * [Quantum Computation Lecture Notes](https://math.mit.edu/~shor/435-LN) by *Peter Shor*
 
+* [Quantum Mechanics for Engineers](https://websites.umich.edu/~ners311/CourseLibrary/Dommelen.pdf) by *Leon van Dommelen* **[pdf]**
+
 * [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
 
 * [Structure and Interpretation of Classical Mechanics](https://groups.csail.mit.edu/mac/users/gjs/6946/sicm-html) by *[Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman)* and *[Jack Wisdom](https://en.wikipedia.org/wiki/Jack_Wisdom)* with *[Meinhard E. Mayer](https://en.wikipedia.org/wiki/Meinhard_E._Mayer)*
