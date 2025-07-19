@@ -2764,6 +2764,8 @@ Christopher Kohlhoff*
 
 * [Jacco Bikker's Blog](https://jacco.ompf2.com)
 
+* [Jason Mcghee's Blog](https://jason.today)
+
 * [John Novak's Website](https://www.johnnovak.net)
 
 * [lisyarus blog](https://lisyarus.github.io) by *Nikita Lisitsa*
