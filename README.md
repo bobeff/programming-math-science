@@ -1961,6 +1961,7 @@ Thelin*
   * [Part 1 - Metaprogramming in Flat Assembler](https://gpfault.net/posts/asm-tut-1.txt.html)
   * [Part 2 - We're Writing a Virtual Machine](https://gpfault.net/posts/asm-tut-2.txt.html)
   * [Part 3 - Arithmetic and Logic](https://gpfault.net/posts/asm-tut-3.txt.html)
+  * [Part 4 - More About Jumps Than You Wanted To Know](https://gpfault.net/posts/asm-tut-4.html)
 
 * [NASM Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 
