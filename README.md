@@ -136,6 +136,7 @@ This is a list of links to different freely available learning resources about c
   * [DOS](#dos)
   * [Game Boy](#game-boy)
   * [Mega 65](#mega-65)
+  * [NES](#nes)
   * [ZX Spectrum and Z80 CPU](#zx-spectrum-and-z80-cpu)
     * [ZX Online Articles](#zx-online-articles)
 * [Reverse engineering](#reverse-engineering)
@@ -2392,8 +2393,6 @@ Thelin*
 
 * [Easy 6502](https://skilldrick.github.io/easy6502) by *Nick Morgan*
 
-* [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
-
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
 * [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
@@ -2409,8 +2408,6 @@ Thelin*
 * [Michael Abrash’s Graphics Programming Black Book, Special Edition](https://www.jagregory.com/abrash-black-book) by *Michael Abrash*
 
 * [NeHe OpenGL Tutorials](https://nehe.gamedev.net)
-
-* [NesDev.org](https://www.nesdev.org) - A community of homebrew game developers and hardware researchers for the Nintendo Entertainment System (NES) and other retro consoles.
 
 * [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake) by *Pekka Väänänen*
 
@@ -2474,6 +2471,12 @@ Thelin*
 * [MEGA65 Documentation](https://files.mega65.org/manuals-upload)
 
 * [MEGA65 Welcome Guide](https://dansanderson.com/mega65/welcome/index.html) by *Dan Sanderson*
+
+### NES
+
+* [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
+
+* [NesDev.org](https://www.nesdev.org) - A community of homebrew game developers and hardware researchers for the Nintendo Entertainment System (NES) and other retro consoles.
 
 ### ZX Spectrum and Z80 CPU
 
