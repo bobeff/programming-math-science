@@ -134,6 +134,7 @@ This is a list of links to different freely available learning resources about c
   * [Apple II](#apple-ii)
   * [Commodore 64](#commodore-64)
   * [DOS](#dos)
+  * [Game Boy](#game-boy)
   * [Mega 65](#mega-65)
   * [ZX Spectrum and Z80 CPU](#zx-spectrum-and-z80-cpu)
     * [ZX Online Articles](#zx-online-articles)
@@ -2393,12 +2394,6 @@ Thelin*
 
 * [Famicom Party: Making NES Games in Assembly](https://famicom.party/book) by *Kevin Zurawel*
 
-* [Game Boy Development community](https://gbdev.io)
-
-* [Game Boy Advanced programming tutorial](https://www.coranac.com/tonc/text) by *Jasper Vijn*
-
-* [Game Boy Advanced Development Resources](https://gbadev.org)
-
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
 * [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
@@ -2462,6 +2457,17 @@ Thelin*
 * [From 0 to 1 MB in DOS](https://blogsystem5.substack.com/p/from-0-to-1-mb-in-dos) by *Julio Merino*
 
 * [How Cosmo’s Cosmic Adventure DOS game works?](https://cosmodoc.org)
+
+
+### Game Boy
+
+* [Game Boy Development community](https://gbdev.io)
+
+* [Game Boy Advanced programming tutorial](https://www.coranac.com/tonc/text) by *Jasper Vijn*
+
+* [Game Boy Advanced Development Resources](https://gbadev.org)
+
+* [More than you wanted to know about how Game Boy cartridges work](https://abc.decontextualize.com/more-than-you-wanted-to-know) by *Allison Parrish*
 
 ### Mega 65
 
