@@ -2563,6 +2563,8 @@ Thelin*
 
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
 
+* [Org Mode](https://orgmode.org)
+
 * [Use GNU Emacs: The Plain Text Computing Environment](https://www2.lib.uchicago.edu/keith/emacs) by *Keith Waclena*
 
 ### Vim
