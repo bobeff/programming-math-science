@@ -2824,6 +2824,8 @@ Christopher Kohlhoff*
 
 * [The ryg blog](https://fgiesen.wordpress.com) by *Fabian Giesen*
 
+* [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
+
 ### Math <span id="math-blogs">
 
 * [3Blue1Brown](https://www.3blue1brown.com) by *Grant Sanderson*
