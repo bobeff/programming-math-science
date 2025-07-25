@@ -1133,6 +1133,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Procedural Content Generation in Games](https://www.pcgbook.com) by *Noor Shaker*, *Julian Togelius*, and *Mark J. Nelson*
 
+* [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html) by *Wassim Alhajomar*
+
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com) by *Herbert Wolverson*
