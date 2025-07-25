@@ -2828,6 +2828,8 @@ Christopher Kohlhoff*
 
 * [The ryg blog](https://fgiesen.wordpress.com) by *Fabian Giesen*
 
+* [wassimulato](https://wassimulator.com) by *Wassim Alhajomar*
+
 * [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
 
 ### Math <span id="math-blogs">
