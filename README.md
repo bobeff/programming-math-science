@@ -1424,6 +1424,14 @@ Thelin*
   * [Topics in Mathematical Physics](https://web.math.princeton.edu/~js129/PDFs/teaching/MAT595_spring_2024/MAT595_PHY508_Lecture_Notes.pdf) **[pdf]**
   * [Homeworks and other courses materials](https://web.math.princeton.edu/~shapiro/teaching.html)
 
+* **[Lecture Notes by John K. Hunter](https://math.ucdavis.edu/~hunter)**
+  * [Applied Analysis](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html)
+  * [Applied Mathematics](https://math.ucdavis.edu/~hunter/m280_09/applied_math.html)
+  * [Asymptotics](https://www.math.ucdavis.edu/~hunter/asymptotics/asymptotics.html)
+  * [Introduction to Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.html)
+  * [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_theory.html)
+  * [Partial Diferential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pdes.html)
+
 * **[Lecture Notes by Omer Tamuz](https://tamuz.caltech.edu)**
   * [General Equilibrium Theory](https://tamuz.caltech.edu/teaching/ss205b/lectures.pdf) **[pdf]**
   * [Graduate Real Analysis](https://tamuz.caltech.edu/teaching/ma110a/lecture_notes.pdf) **[pdf]**
