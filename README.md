@@ -1392,6 +1392,8 @@ Thelin*
 
 * [How do undergraduates do mathematics?](https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf) **[pdf]**
 
+* [Intermediate Calculus and Linear Algebra](https://www2.math.upenn.edu/~kazdan/202F13/notes/math21-2013.pdf) by *Jerry L. Kazdan* **[pdf]**
+
 * [Introduction to Applied Mathematics](https://math.dartmouth.edu/~m46s21/Script_MATH46_2020.pdf) by *Jan Glaubitz* **[pdf]**
 
 * [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) by *Egbert Rijke*
