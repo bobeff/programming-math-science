@@ -1474,6 +1474,16 @@ Thelin*
 
 * [Street-Fighting Mathematics](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008) - Course teaches the art of guessing results and solving problems without doing a proof or an exact calculation by *Sanjoy Mahajan*
 
+* [Teaching notes by Oliver Knill](https://people.math.harvard.edu/~knill/teach/index.html)
+  * [Differential Geometry](https://people.math.harvard.edu/~knill/teaching/math136/handouts/differential-geometry-2024.pdf) **[pdf]**
+  * [Introduction to Calculus](https://people.math.harvard.edu/~knill/teaching/math1a2024/handouts/1a_2024.pdf) **[pdf]**
+  * [Linear Algebra And Vector Calculus](https://people.math.harvard.edu/~knill/teaching/math22b2022/handouts/22b_2022.pdf) **[pdf]**
+  * [Linear Algebra And Vector Calculus I](https://people.math.harvard.edu/~knill/teaching/math22a2018/handouts/22a_2018_latest.pdf) **[pdf]**
+  * [Linear Algebra And Vector Calculus II](https://people.math.harvard.edu/~knill/teaching/math22b2019/handouts/22b_2019_latest.pdf) **[pdf]**
+  * [Multivariable Calculus](https://people.math.harvard.edu/~knill/teaching/summer2024/handouts/multivariable_knill_2024.pdf) **[pdf]**
+  * [Probability Theory](https://people.math.harvard.edu/~knill/teaching/math154/handouts/154.pdf) **[pdf]**
+  * [Teaching Mathematics with a Historical Perspective](https://people.math.harvard.edu/~knill/teaching/mathe320_2022/handouts/math320_2022.pdf) **[pdf]**
+
 * [Texts, exercises, problems and lecture notes by John Erdman](https://web.pdx.edu/~erdman)
   * [Exercises and Problems in Calculus](https://web.pdx.edu/%7Eerdman/CALCULUS/CALCULUSlicensepage.html)
   * [A ProblemText in Advanced Calculus](https://web.pdx.edu/%7Eerdman/PTAC/problemtext_pdf.pdf) **[pdf]**
