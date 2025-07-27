@@ -1390,6 +1390,8 @@ Thelin*
 
 * [Everything You Always Wanted To Know About Mathematics](https://www.math.cmu.edu/~jmackey/151_128/bws_book.pdf) by *Brendan W. Sullivan with Professor John Mackey* **[pdf]**
 
+* [Foundations of Mathematics](https://people.tamu.edu/~florent/teaching/lecture_notes/220lecture_notes.pdf) by *Florent P. Baudier* **[pdf]**
+
 * [How do undergraduates do mathematics?](https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf) **[pdf]**
 
 * [Intermediate Calculus and Linear Algebra](https://www2.math.upenn.edu/~kazdan/202F13/notes/math21-2013.pdf) by *Jerry L. Kazdan* **[pdf]**
