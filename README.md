@@ -2924,6 +2924,8 @@ Christopher Kohlhoff*
 
 * [Mario's Lab](https://marioslab.io) by *Mario Zechner*
 
+* [MALTSEV.SPACE](https://maltsev.space) by *Aleksey Maltsev*
+
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
