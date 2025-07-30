@@ -1767,6 +1767,8 @@ Thelin*
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
+* [Stochastic Processes](https://adembo.su.domains/math-136/nnotes.pdf) by *Amir Dembo* **[pdf]**
+
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR) by *Cosma Rohilla Shalizi*
 
 ### Proofs
