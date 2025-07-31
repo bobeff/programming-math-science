@@ -431,6 +431,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Think Data Structures](https://greenteapress.com/wp/think-data-structures) by *Allen B. Downey*
 
+* [Tim Roughgarden's Courses and Lecture Notes](https://timroughgarden.org)
+  * [Algorithmic Game Theory](https://timroughgarden.org/f13/f13.html)
+
 ### Bloom Filters
 
 * [Bloom Filters](https://eli.thegreenplace.net/2025/bloom-filters) by *Eli Bendersky*
