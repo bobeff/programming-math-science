@@ -86,6 +86,7 @@ This is a list of links to different freely available learning resources about c
   * [Theoretical Computer Science](#theoretical-computer-science)
   * [Topology](#topology)*
 * [Multithreading and Concurrency](#multithreading-and-concurrency)
+* [Music Theory](#music-theory)
 * [Operating Systems](#operating-systems)
   * [Operating Systems Development](#operating-systems-development)
 * [Photography](#photography)
@@ -1868,6 +1869,10 @@ Thelin*
 * [The Little Book of Semaphores](https://greenteapress.com/wp/semaphores) by *Allen B. Downey*
 
 * [What every systems programmer should know about concurrency](https://assets.bitbashing.io/papers/concurrency-primer.pdf) by *Matt Kline* **[pdf]**
+
+## Music Theory
+
+* [Introduction to Computer Music](https://cmtext.com) by *Prof. Jeffrey Hass*
 
 ## Operating Systems
 
