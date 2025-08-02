@@ -2946,6 +2946,8 @@ Christopher Kohlhoff*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
 
+* [NULL on error](https://nullonerror.org) - Flipping bits whilst updating pixels by *Rodrigo Delduca*
+
 * [Omar Aflak's Blog](https://omaraflak.medium.com)
 
 * [Phil Eaton's Website](https://eatonphil.com)
