@@ -1044,6 +1044,12 @@ This is a list of links to different freely available learning resources about c
 
 * [Design Patterns & Refactoring](https://sourcemaking.com) *SourceMaking*
 
+* **Design Patterns in Python blog posts series** by *Racey Chan*
+  * [Decorators and Functional programming](https://www.lihil.cc/blog/decorators-and--functional-programming)
+  * [Design Patterns You Should Unlearn in Python: Part1](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part)
+  * [Design Patterns You Should Unlearn in Python: Part2](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part2)
+  * [Most Design Patterns Are Just Dependency Injection in Disguise](https://www.lihil.cc/blog/Most-Design-Patterns-Are-Just-Dependency-Injection-In-Disguise)
+
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory) by *Mark Seemann*
 
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
