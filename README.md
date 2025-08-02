@@ -2958,6 +2958,8 @@ Christopher Kohlhoff*
 
 * [Probably Dance](https://probablydance.com)
 
+* [Racey Chan's Blog](https://www.lihil.cc/blog)
+
 * [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
 
 * [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
