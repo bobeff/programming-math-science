@@ -2809,6 +2809,8 @@ Christopher Kohlhoff*
 
 * [30fps.net: Computer Graphics & Programming with Pekka Väänänen](https://30fps.net)
 
+* [A small freedom area](https://blog.pkh.me) by *Clément Bœsch*
+
 * [Alan Zucconi's Website](https://www.alanzucconi.com) - Game Development, Shader Coding & Artificial Intelligence.
 
 * [Aras Pranckevičius's Website](https://aras-p.info)
