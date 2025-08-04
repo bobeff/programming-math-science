@@ -2817,6 +2817,8 @@ Christopher Kohlhoff*
 
 * [Aras Pranckevičius's Website](https://aras-p.info)
 
+* [c0de517e's weblore](https://www.c0de517e.com) by *Angelo Pesce*
+
 * [DirectX Developer Blog](https://devblogs.microsoft.com/directx)
 
 * [Eric Arnebäck's Blog](https://erkaman.github.io)
