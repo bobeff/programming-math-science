@@ -2811,6 +2811,8 @@ Christopher Kohlhoff*
 
 * [A small freedom area](https://blog.pkh.me) by *Clément Bœsch*
 
+* [Adam Sawicki's Blog](https://asawicki.info)
+
 * [Alan Zucconi's Website](https://www.alanzucconi.com) - Game Development, Shader Coding & Artificial Intelligence.
 
 * [Aras Pranckevičius's Website](https://aras-p.info)
