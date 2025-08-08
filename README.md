@@ -1726,6 +1726,8 @@ Thelin*
 
 * [Elementary Probability for Applications](https://sites.math.duke.edu/~rtd/EP4A/EP4A_April2021.pdf) by *Rick Durrett* **[pdf]**
 
+* [Fundamentals of Probability](https://ocw.mit.edu/courses/6-436j-fundamentals-of-probability-fall-2018) by *Prof. Yury Polyanskiy*
+
 * [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) by *Roman Vershynin* **[pdf]**
 
 * [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
