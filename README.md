@@ -1837,6 +1837,8 @@ Thelin*
 
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024) by *Prof. Erik Demaine*, *Dr. Zachary Abel*, and *Dr. Brynmor Chapman*
 
+* [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010) by *Prof. Tom Leighton* and *Dr. Marten van Dijk*
+
 * [Notation as a Tool of Thought](https://www.jsoftware.com/papers/tot.htm) by *Kenneth E. Iverson*
 
 * [Notes on Computational Complexity Theory](https://www.cs.yale.edu/homes/aspnes/classes/468/notes.pdf) by *James Aspnes* **[pdf]**
