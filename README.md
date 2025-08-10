@@ -279,6 +279,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by *Tong Xiao* and *Jingbo Zhu*
 
+* [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book) by *Jacob Austin*, *Sholto Douglas*, *Roy Frostig*, *Anselm Levskaya*, *Charlie Chen*, and *Sharad Vikram*
+
 #### Machine Learning Online Courses
 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning)
