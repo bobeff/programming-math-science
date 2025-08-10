@@ -63,6 +63,7 @@ This is a list of links to different freely available learning resources about c
 * [GPU and TPU programming](#gpu-and-tpu-programming)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
+* [Information Theory](#information-theory)
 * [Logical Games](#logical-games)
 * [Low Level Stuff](#low-level-stuff)
   * [SIMD programming](#simd-programming)
@@ -218,8 +219,6 @@ This is a list of links to different freely available learning resources about c
 * [Foundations of Computer Vision](https://visionbook.mit.edu) by *Antonio Torralba*, *Phillip Isola*, and *William Freeman*
 
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook) by *Mehryar Mohri*, *Afshin Rostamizadeh*, and *Ameet Talwalkar* **[MIT]**
-
-* [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
 
 * [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu) by *Peter Holderrieth* and *Ezra Erives*
 
@@ -1247,6 +1246,14 @@ Thelin*
 
 * [Zen, CUDA, and Tensor Cores](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i) by *Casey Muratori*
 
+## Information Theory
+
+* [Information and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008) by *Prof. Paul Penfield* and *Prof. Seth Lloyd*
+
+* [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
+
+* [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
+
 ## Logical Games
 
 * [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
@@ -1776,8 +1783,6 @@ Thelin*
 * [Probability: Theory and Examples](https://sites.math.duke.edu/~rtd/PTE/PTE5_011119.pdf) by *Rick Durrett* **[pdf]**
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
-
-* [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
 
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
