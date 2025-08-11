@@ -3027,6 +3027,8 @@ Christopher Kohlhoff*
 
 * [How These Things Work](https://reasonablypolymorphic.com/book/preface.html) - a book about abstraction
 
+* [Improve Your Social Skills](https://www.improveyoursocialskills.com) by *Dr. Daniel Wendler*
+
 * [Project Oberon: The Design of an Operating System, a Compiler, and a Computer](https://www.projectoberon.net) by *Niklaus Wirth* and *Jürg Gutknecht*
 
 * [Rocket and Space Technology](http://www.braeunig.us)
