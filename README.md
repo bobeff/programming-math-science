@@ -181,6 +181,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Alice’s Adventures in a differentiable wonderland](https://www.sscardapane.it/alice-book) by *Simone Scardapane*
 
+* [aman.ai](aman.ai) - The art of artificial intelligence one concept at a time by *Aman Chadha*
+
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
 
 * [Applied Machine Learning for Tabular Data](https://aml4td.org) by *Max Kuhn* and *Kjell Johnson*
