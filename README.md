@@ -481,6 +481,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Writing Programs with NCURSES](https://invisible-island.net/ncurses/ncurses-intro.html) by *Eric S. Raymond* and *Zeyd M. Ben-Halim*
 
+* [Writing Your Own Simple Tab-Completions for Bash and Zsh](https://mill-build.org/blog/14-bash-zsh-completion.html) by *Li Haoyi*
+
 ### Curl
 
 * [Curl Cookbook](https://catonmat.net/cookbooks/curl)
