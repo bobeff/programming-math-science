@@ -2963,6 +2963,8 @@ Christopher Kohlhoff*
 
 * [MALTSEV.SPACE](https://maltsev.space) by *Aleksey Maltsev*
 
+* [Max Bernstein's Blog](https://bernsteinbear.com)
+
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
