@@ -2909,6 +2909,8 @@ Christopher Kohlhoff*
 
 * [A Random Walk Through Geek-Space](https://www.sebastiansylvan.com) by *Sebastian Sylvan*
 
+* [Aaro Luomanen's Blog](https://aarol.dev)
+
 * [Alberto Ventafridda's Blog](https://halb.it)
 
 * [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
