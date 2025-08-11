@@ -354,6 +354,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Advanced Algorithms](https://people.inf.ethz.ch/aroeyskoe/AA23_materials/AAscript.pdf) by *Mohsen Ghaffari* **[pdf]** **[ETH]**
 
+* [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521) by *Sanjeev Arora*
+
 * [Advanced Data Structures](https://courses.csail.mit.edu/6.897/spring03/scribe_notes) by *Erik Demaine*
 
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by *Jeff Erickson*
