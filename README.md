@@ -2997,6 +2997,8 @@ Christopher Kohlhoff*
 
 * [Racey Chan's Blog](https://www.lihil.cc/blog)
 
+* [Squadrick](https://squadrick.dev) by *Dheeraj Reddy*
+
 * [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
 
 * [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
