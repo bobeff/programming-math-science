@@ -1834,6 +1834,8 @@ Thelin*
 
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
 
+* [Great Ideas in Theoretical Computer Science](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008) by *Prof. Scott Aaronson*
+
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
 
 * [Introduction to University Mathematics](https://courses.maths.ox.ac.uk/pluginfile.php/30903/mod_resource/content/33/Introduction%20to%20University%20Mathematics.pdf) by *Ian Hewitt* **[pdf]**
