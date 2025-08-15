@@ -1537,8 +1537,6 @@ Thelin*
 
 * [Trigonometry](https://mecmath.net/trig/index.html) by *Michael Corral*
 
-* [Undergraduate Game Theory Lecture Notes](https://tamuz.caltech.edu/teaching/ps172/lectures.pdf) by *Omer Tamuz* **[pdf]**
-
 ### Algebra
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
