@@ -1418,6 +1418,8 @@ Thelin*
 
 * [Foundations of Mathematics](https://people.tamu.edu/~florent/teaching/lecture_notes/220lecture_notes.pdf) by *Florent P. Baudier* **[pdf]**
 
+* [Game Theory with Engineering Applications](https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010) by *Prof. Asuman Ozdaglar*
+
 * [How do undergraduates do mathematics?](https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf) **[pdf]**
 
 * [Intermediate Calculus and Linear Algebra](https://www2.math.upenn.edu/~kazdan/202F13/notes/math21-2013.pdf) by *Jerry L. Kazdan* **[pdf]**
@@ -1536,6 +1538,8 @@ Thelin*
 * [The Tensor Cookbook](https://tensorcookbook.com) by *Thomas Dybdahl Ahle*
 
 * [Trigonometry](https://mecmath.net/trig/index.html) by *Michael Corral*
+
+
 
 ### Algebra
 
