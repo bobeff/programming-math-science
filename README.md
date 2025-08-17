@@ -2929,6 +2929,8 @@ Christopher Kohlhoff*
 
 * [Andreas Herrmann's Blog](https://aherrmann.github.io)
 
+* [Andrew Healey's Blog](https://healeycodes.com)
+
 * [Andrey Listopadov's Blog](https://andreyor.st)
 
 * [Arjun Sreedharan's Blog](https://arjunsreedharan.org)
