@@ -2913,6 +2913,8 @@ Christopher Kohlhoff*
 
 * [wassimulato](https://wassimulator.com) by *Wassim Alhajomar*
 
+* [hexaquo](https://hexaquo.at) by *Karl Bittner*
+
 * [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
 
 ### Math <span id="math-blogs">
