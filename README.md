@@ -1607,6 +1607,8 @@ Thelin*
 * [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
   * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
 
+* [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my) by *Alan Wolfe*
+
 * [Elementary Calculus](https://mecmath.net/calculus/index.html) by *Michael Corral*
 
 * [Harmonic Function Theory](https://www.axler.net/HFT.html) by *Sheldon Axler*, *Paul Bourdon*, and *Wade Ramey*
