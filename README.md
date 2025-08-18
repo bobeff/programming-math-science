@@ -2529,6 +2529,7 @@ Thelin*
 
 * [How Cosmo’s Cosmic Adventure DOS game works?](https://cosmodoc.org)
 
+* [MS-DOS development resources](https://github.com/SuperIlu/DOSDevelResources)
 
 ### Game Boy
 
