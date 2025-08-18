@@ -2859,6 +2859,8 @@ Christopher Kohlhoff*
 
 * [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly) by *Jendrik Illner*
 
+* [Ignacio Castaño's Blog](https://www.ludicon.com/castano/blog)
+
 * [Inigo Quilez Website](https://iquilezles.org)
 
 * [Interplay of Light](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
