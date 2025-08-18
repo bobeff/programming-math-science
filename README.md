@@ -73,9 +73,9 @@ This is a list of links to different freely available learning resources about c
   * [Calculus](#calculus)
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
-  * [Diferential Equations](#deferential-equations)
+  * [Differential Equations](#defferential-equations)
   * [Geometry](#geometry)
-    * [Diferential Geometry](#diferential-geometry)
+    * [Differential Geometry](#differential-geometry)
   * [Graph Theory](#graph-theory)
   * [Mathematical Finance](#mathematical-finance)
   * [Mathematical Logic](#mathematical-logic)
@@ -1466,7 +1466,7 @@ Thelin*
   * [Asymptotics](https://www.math.ucdavis.edu/~hunter/asymptotics/asymptotics.html)
   * [Introduction to Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.html)
   * [Measure Theory](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_theory.html)
-  * [Partial Diferential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pdes.html)
+  * [Partial Differential Equations](https://www.math.ucdavis.edu/~hunter/pdes/pdes.html)
 
 * **[Lecture Notes by Omer Tamuz](https://tamuz.caltech.edu)**
   * [General Equilibrium Theory](https://tamuz.caltech.edu/teaching/ss205b/lectures.pdf) **[pdf]**
@@ -1645,7 +1645,7 @@ Thelin*
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
 
-### Diferential Equations
+### Differential Equations
 
 * [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
 
@@ -1659,7 +1659,7 @@ Thelin*
 
 * [The Foundations of Geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf) by *David Hilbert* **[pdf]**
 
-#### Diferential Geometry
+#### Differential Geometry
 
 * [Differential Geometry: A First Course in Curves and Surfaces](https://ghomi.math.gatech.edu/Classes/Math4441Fall2021/ShifrinDiffGeo.pdf) by *Theodore Shifrin* **[pdf]**
 
