@@ -715,6 +715,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.md.html) by *Romain Guy* and *Mathias Agopian*
 
+* [Physically Based Shading in Theory and Practice](https://blog.selfshadow.com/publications/s2025-shading-course) by *Laurent Belcour*, *Naty Hoffman*, *Alain Hostettler*, *Peter Kutz*, *Kentaro Suzuki*, *Hajime Uchimura*, *Andrea Weidlich*, *Kenichiro Yasutomi *
+
 * **Probability Theory for Physically Based Rendering** by *Jacco Bikker*
   * [Part 1](https://jacco.ompf2.com/2019/12/11/probability-theory-for-physically-based-rendering)
   * [Part 2](https://jacco.ompf2.com/2019/12/13/probability-theory-for-physically-based-rendering-part-2)
