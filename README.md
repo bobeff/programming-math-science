@@ -2893,6 +2893,8 @@ Christopher Kohlhoff*
 
 * [Rubén Osorio's Blog](https://osor.io)
 
+* [Self Shadow](https://blog.selfshadow.com)
+
 * [The Code Corsair](https://www.elopezr.com) by *Emilio López*
 
 * [The blog at the bottom of the sea](https://blog.demofox.org) by *Alan Wolfe*
