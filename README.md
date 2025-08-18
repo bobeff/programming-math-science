@@ -2887,9 +2887,11 @@ Christopher Kohlhoff*
 
 * [Randy Gaul's Game Programming Blog](https://randygaul.github.io)
 
+* [RayLib Help](https://raylibhelp.wuaze.com)
+
 * [Red Blob Games](https://www.redblobgames.com) - Interactive visual explanations of math and algorithms, using motivating examples from computer games by *Amit Patel*
 
-* [RayLib Help](https://raylibhelp.wuaze.com)
+* [Rendering Dreams](https://blog.thomaspoulet.fr) by *Thomas Poulet*
 
 * [Rendering Engine Architecture Conference](https://enginearchitecture.org) - A conference about the craft of real-time rendering systems.
 
