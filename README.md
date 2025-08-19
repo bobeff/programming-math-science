@@ -160,6 +160,7 @@ This is a list of links to different freely available learning resources about c
   * [Math](#math-blogs)
   * [Mixed Programming](#mixed-programming-blogs)
   * [Performance and Optimization](#performance-and-optimization-blogs)
+  * [Web Development](#web-development-blogs)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -3051,6 +3052,10 @@ Christopher Kohlhoff*
 * [Johnny's Software Lab](https://johnnysswlab.com) by *Ivica Bogosavljević*
 
 * [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser) by *Ricardo Pallás*
+
+### Web Development <span id="web-development-blogs">
+
+* [JSLegendDev’s Substack](https://jslegenddev.substack.com)
 
 ## Other
 
