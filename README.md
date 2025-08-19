@@ -2705,8 +2705,6 @@ Thelin*
 * [Mozilla Developers Network](https://developer.mozilla.org) - Resources for Developers,
 by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
-* [Josh Comeau's Website](https://www.joshwcomeau.com) - Animation, CSS, JavaScript, React
-
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
 * [Tania Rascia'a Web Development Deep Dives](https://www.taniarascia.com/topics)
@@ -3055,7 +3053,11 @@ Christopher Kohlhoff*
 
 ### Web Development <span id="web-development-blogs">
 
-* [JSLegendDev’s Substack](https://jslegenddev.substack.com)
+* [Josh Comeau's Website](https://www.joshwcomeau.com) - Animation, CSS, JavaScript, React
+
+* [JSLegendDev’s Substack](https://jslegenddev.substack.com) - Web development, game development and their intersection.
+
+* [tania.dev](https://www.taniarascia.com) by *Tania Rascia*
 
 ## Other
 
