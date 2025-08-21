@@ -3029,6 +3029,8 @@ Christopher Kohlhoff*
 
 * [Squadrick](https://squadrick.dev) by *Dheeraj Reddy*
 
+* [Stephen Diehl's Blog](https://www.stephendiehl.com)
+
 * [stuffwithstuff](https://stuffwithstuff.com) by *Robert Nystrom*
 
 * [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
