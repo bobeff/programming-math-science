@@ -2015,6 +2015,13 @@ Thelin*
 
 ## Programming languages
 
+* **[Exotic Programming Ideas](https://www.stephendiehl.com/posts/types_of_types/)** by *Stephen Diehl*
+  * [Part 1: Module Systems](https://www.stephendiehl.com/posts/exotic_01)
+  * [Part 2: Term Rewriting](https://www.stephendiehl.com/posts/exotic_02)
+  * [Part 3: Effect Systems](https://www.stephendiehl.com/posts/exotic_03)
+  * [Part 4: Datalog](https://www.stephendiehl.com/posts/exotic_04)
+  * [Part 5: Types of Types](https://www.stephendiehl.com/posts/types_of_types)
+
 * [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/itpl) by *Bertrand Meyer*
 
 ### Ada
