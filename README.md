@@ -2163,6 +2163,17 @@ Thelin*
 
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
+* **Thoughts on creating a tracking pointer class** by *Raymond Chen*
+  * [Part 1: Concept art](https://devblogs.microsoft.com/oldnewthing/20250811-00/?p=111451)
+  * [Part 2: Using a std::list](https://devblogs.microsoft.com/oldnewthing/20250812-00/?p=111454)
+  * [Part 3: Using a std::vector](https://devblogs.microsoft.com/oldnewthing/20250813-00/?p=111459)
+  * [Part 4: Using a circular doubly linked list](https://devblogs.microsoft.com/oldnewthing/20250814-00/?p=111482)
+  * [Part 5: Copying our tracking pointer](https://devblogs.microsoft.com/oldnewthing/20250815-00/?p=111484)
+  * [Part 6: Non-modifying trackers](https://devblogs.microsoft.com/oldnewthing/20250818-00/?p=111486)
+  * [Part 7: Non-modifying trackers, second try](https://devblogs.microsoft.com/oldnewthing/20250819-00/?p=111488)
+  * [Part 8: Tracking const objects](https://devblogs.microsoft.com/oldnewthing/20250820-00/?p=111490)
+  * [Part 9: Conversion](https://devblogs.microsoft.com/oldnewthing/20250821-00/?p=111492)
+
 ### CMake
 
 * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html) by *Henry Schreiner*
