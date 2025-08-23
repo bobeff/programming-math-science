@@ -2947,6 +2947,8 @@ Christopher Kohlhoff*
   * [Probability Theory](https://almostsuremath.com/probability-theory)
   * [Absolutely Sure](https://almostsuremath.com/absolutely-sure)
 
+* [Better Explained](https://betterexplained.com)
+
 * [Ji-Ha's Blog](https://jiha-kim.github.io)
 
 ### Mixed Programming <span id="mixed-programming-blogs">
