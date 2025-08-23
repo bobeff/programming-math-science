@@ -231,7 +231,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Machine Learning](https://alex.smola.org/drafts/thebook.pdf) by *Alex Smola* and *S.V.N. Vishwanathan* **[pdf]**
 
-* [Introduction to Machine Learning](https://princeton-introml.github.io/files/COS324_Course_Notes.pdf) by *Sanjeev Arora*, *Simon Park*, *Dennis Jacob* and *Danqi Chen* **[pdf]** **[Princeton]**
+* [Introduction to Machine Learning](https://princeton-introml.github.io/) by *Sanjeev Arora*, *Simon Park*, *Dennis Jacob* and *Danqi Chen* **[Princeton]**
 
 * [Introduction to Machine Learning](https://introml.mit.edu/_static/spring24/LectureNotes/6_390_lecture_notes_spring24.pdf) **[pdf]** **[MIT]**
 
