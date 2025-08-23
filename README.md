@@ -3061,6 +3061,8 @@ Christopher Kohlhoff*
 
 * [The If Works](https://blog.jcoglan.com) by *James Coglan*
 
+* [Vectorized](https://vectrx.substack.com) by *Caden Parker*
+
 * [xnacly - blog](https://xnacly.me)
 
 * [Zaid Humayun's Blog](https://redixhumayun.github.io)
