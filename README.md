@@ -184,6 +184,8 @@ This is a list of links to different freely available learning resources about c
 
 * [aman.ai](aman.ai) - The art of artificial intelligence one concept at a time by *Aman Chadha*
 
+* [An Illustrated Guide to Automatic Sparse Differentiation](https://iclr-blogposts.github.io/2025/blog/sparse-autodiff) by *Adrian Hill*, *Guillaume Dalle*, and *Alexis Montoison*
+
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
 
 * [Applied Machine Learning for Tabular Data](https://aml4td.org) by *Max Kuhn* and *Kjell Johnson*
