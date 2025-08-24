@@ -2413,6 +2413,8 @@ Thelin*
 
 * [Think Python, 3rd Edition](https://allendowney.github.io/ThinkPython/index.html) by *Allen B. Downey*
 
+* [Wicked Python trickery - dynamically patch a Python function's source code at runtime](https://ericmjl.github.io/blog/2025/8/23/wicked-python-trickery-dynamically-patch-a-python-functions-source-code-at-runtime) by *Eric J. Ma*
+
 ### R
 
 * [Big Book of R](https://www.bigbookofr.com) by *Oscar Baruffa*
