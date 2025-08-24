@@ -251,6 +251,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
 
+* [Patterns, Predictions, and Actions: A story about machine learning](https://mlstory.org) by *Moritz Hardt* and *Benjamin Recht*
+
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
 
 * [Probabilistic Artificial Intelligence](https://arxiv.org/abs/2502.05244) by *Andreas Krause*, *Jonas Hübotter*
