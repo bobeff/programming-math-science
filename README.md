@@ -2955,6 +2955,8 @@ Christopher Kohlhoff*
 
 * [Ji-Ha's Blog](https://jiha-kim.github.io)
 
+* [John D. Cook's Blog](https://www.johndcook.com/blog)
+
 ### Mixed Programming <span id="mixed-programming-blogs">
 
 * [0pfs](https://0fps.net) by *Mikola Lysenko*
