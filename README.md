@@ -289,6 +289,8 @@ This is a list of links to different freely available learning resources about c
 
 * [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book) by *Jacob Austin*, *Sholto Douglas*, *Roy Frostig*, *Anselm Levskaya*, *Charlie Chen*, and *Sharad Vikram*
 
+* [How to run LLMs on PC at home using Llama.cpp](https://www.theregister.com/2025/08/24/llama_cpp_hands_on) by *Tobias Mann*
+
 #### Machine Learning Online Courses
 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning)
