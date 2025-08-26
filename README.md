@@ -251,6 +251,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
 
+* [Notes on AutoGrad](https://aschrein.github.io/jekyll/update/2025/08/23/compute_graph.html) by *Anton Schreiner*
+
 * [Patterns, Predictions, and Actions: A story about machine learning](https://mlstory.org) by *Moritz Hardt* and *Benjamin Recht*
 
 * [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html) by *N. Thuerey, P. Holl, M. Mueller, P. Schnell, F. Trost, K. Um*
