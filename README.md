@@ -2644,6 +2644,8 @@ Thelin*
 
 ## System programming
 
+* [io_uring basics: Writing a file to disk](https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html) by *Phil Eaton*
+
 * [io_uring by example](https://unixism.net/2020/04/io-uring-by-example-part-1-introduction) by *Shuveb Hussain*
 
 * [Lord of the io_uring](https://unixism.net/loti/index.html) by *Shuveb Hussain*
