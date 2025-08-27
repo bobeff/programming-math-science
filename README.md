@@ -267,6 +267,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) by *Mathieu Blondel and Vincent Roulet*
 
+* [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn) by *Trevor Hastie*, *Robert Tibshirani*, and *Jerome Friedman*
+
 * [The Engineer's Guide To Deep Learning](https://www.interdb.jp/dl) by *Hironobu Suzuki*
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
