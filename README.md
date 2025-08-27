@@ -1690,11 +1690,15 @@ Thelin*
 
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
 
+* [Graphs and Geometry](https://lovasz.web.elte.hu//bookxx/geombook-almost-final.pdf) by *László Lovász* **[pdf]**
+
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
 
 * [Graph Theory Lecture Notes](https://roam.libraries.psu.edu/system/files/e-books/MATH485-Graph_Theory.pdf) by *Christopher Griffin* **[pdf]**
 
 * [Introduction to Random Graphs](https://www.math.cmu.edu/~af1p/BOOK.pdf) by *Alan Frieze" and **ALAN FRIEZE and *Michał Karonski* **[pdf]**
+
+* [Large networks and graph limits](https://lovasz.web.elte.hu//bookxx/hombook-almost.final.pdf) by *László Lovász* **[pdf]**
 
 * [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016) by *David P. Williamson*
 
