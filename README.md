@@ -265,6 +265,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Speech and Language Processing, 3rd edition](https://web.stanford.edu/~jurafsky/slp3/) by *Daniel Jurafsky* and *James H. Martin*
 
+* [Statistical Learning Theory](https://web.stanford.edu/class/cs229t/notes.pdf) by *Percy Liang* **[pdf]**
+
 * [The Elements of Differentiable Programming](https://arxiv.org/abs/2403.14606) by *Mathieu Blondel and Vincent Roulet*
 
 * [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn) by *Trevor Hastie*, *Robert Tibshirani*, and *Jerome Friedman*
