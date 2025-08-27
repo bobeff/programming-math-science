@@ -392,6 +392,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms Design (in C)](https://www.ime.usp.br/~pf/algorithms) by *Paulo Feofiloff*
 
+* [Algorithms for Inference](https://ocw.mit.edu/courses/6-438-algorithms-for-inference-fall-2014) by *Prof. Devavrat Shah*
+
 * [Algorithms for Massive Data](https://arxiv.org/abs/2301.00754) by *Nicola Prezza*
 
 * [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc) by *Sergey Slotin*
