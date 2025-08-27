@@ -2224,6 +2224,8 @@ Thelin*
 
 * [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html) by *Dave Gauer*
 
+* [Implementing a Forth](https://ratfactor.com/forth/implementing) by *Dave Gauer*
+
 * [Starting FORTH](https://www.forth.com/starting-forth) by *Leo Brodie*
 
 * [Thinking Forth](https://www.forth.com/wp-content/uploads/2018/11/thinking-forth-color.pdf) by *Leo Brodie* **[pdf]**
