@@ -2644,6 +2644,8 @@ Thelin*
 
 ## System programming
 
+* [io_uring by example](https://unixism.net/2020/04/io-uring-by-example-part-1-introduction) by *Shuveb Hussain*
+
 * [Lord of the io_uring](https://unixism.net/loti/index.html) by *Shuveb Hussain*
 
 ## Technical Writing
