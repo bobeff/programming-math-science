@@ -2890,6 +2890,8 @@ Christopher Kohlhoff*
 
 * [Fabien Sanglard's Website](https://fabiensanglard.net)
 
+* [Forward Scattering](https://www.forwardscattering.org) by *Nicholas Chapman*
+
 * [Frozen Fractal](https://frozenfractal.com) by *Thomas ten Cate*
 
 * [Graphics Programming weekly](https://www.jendrikillner.com/tags/weekly) by *Jendrik Illner*
