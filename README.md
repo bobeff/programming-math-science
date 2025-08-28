@@ -155,6 +155,7 @@ This is a list of links to different freely available learning resources about c
   * [Django](#django)
   * [HTML](#html)
 * [Personal Websites and Blogs](#personal-websites-and-blogs)
+  * [AI](#ai-blogs)
   * [C++](#cpp-blogs)
   * [Game and Graphics Programming](#game-and-graphics-programming-blogs)
   * [Math](#math-blogs)
@@ -2808,6 +2809,10 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 * [Learn HTML](https://learn-html.org)
 
 ## Personal Websites and Blogs
+
+### AI <span id="ai-blogs">
+
+* [Chizoba Obasi's Blog](https://chizkidd.github.io)
 
 ### C++ <span id="cpp-blogs">
 
