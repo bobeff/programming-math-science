@@ -275,6 +275,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Little Book of Deep Learning](https://fleuret.org/francois) by *François Fleuret*
 
+* [The Most Important Machine Learning Equations: A Comprehensive Guide](https://chizkidd.github.io//2025/05/30/machine-learning-key-math-eqns) by *Chizoba Obasi*
+
 * [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) by *Daniel A. Roberts*, *Sho Yaida*, *Boris Hanin*
 
 * [Theory of Deep Learning](https://www.cs.princeton.edu/~arora/TheoryDL.pdf) by *Zhao Song* **[pdf]**
