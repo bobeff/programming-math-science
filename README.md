@@ -1127,6 +1127,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems) by *Unmesh Joshi*
 
+* [Principles of Blockchains](https://web3.princeton.edu/principles-of-blockchains) by *Prof. Pramod Viswanath*
+
 * [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned) by *Rex Wang*
 
 * [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems) - Curated list of resources on testing distributed systems by *Andrey Satarin*.
