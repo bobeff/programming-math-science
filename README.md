@@ -2814,6 +2814,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Chizoba Obasi's Blog](https://chizkidd.github.io)
 
+* [Jake Tae's Blog](https://jaketae.github.io)
+
 ### C++ <span id="cpp-blogs">
 
 * [Alf on programming (mostly C++)](https://alfps.wordpress.com)
