@@ -1973,6 +1973,8 @@ Thelin*
 
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg) by *Peter Jay Salzman, Michael Burian, Ori Pomerantz, Bob Mottram, Jim Huang*
 
+* [The UNIX-HATERS Handbook](https://simson.net/ref/ugh.pdf) by *Simson Garfinkel*, *Daniel Weise*, and *Steven Strassmann* **[pdf]**
+
 * [Unix as IDE](https://blog.sanctum.geek.nz/series/unix-as-ide) by *Tom Ryder*
 
 ### Operating Systems Development
