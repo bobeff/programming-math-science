@@ -2206,6 +2206,11 @@ Thelin*
   * [Part 7: Non-modifying trackers, second try](https://devblogs.microsoft.com/oldnewthing/20250819-00/?p=111488)
   * [Part 8: Tracking const objects](https://devblogs.microsoft.com/oldnewthing/20250820-00/?p=111490)
   * [Part 9: Conversion](https://devblogs.microsoft.com/oldnewthing/20250821-00/?p=111492)
+  * [Part 10: Proper conversion](https://devblogs.microsoft.com/oldnewthing/20250822-00/?p=111494)
+  * [Part 11: Repairing assignment](https://devblogs.microsoft.com/oldnewthing/20250825-00/?p=111497)
+  * [Part 12: A shared tracking pointer](https://devblogs.microsoft.com/oldnewthing/20250826-00/?p=111506)
+  * [Part 13: Restoring the strong exception guarantee](https://devblogs.microsoft.com/oldnewthing/20250827-00/?p=111518)
+  * [Part 14: Nonthrowing moves with the shared tracking pointer](https://devblogs.microsoft.com/oldnewthing/20250828-00/?p=111524)
 
 ### CMake
 
