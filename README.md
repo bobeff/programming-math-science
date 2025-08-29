@@ -587,6 +587,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Kaggle](https://www.kaggle.com) - ML specific.
 
+* [LabEx](https://labex.io) - Learn Linux, DevOps & Cybersecurity with Hands-on Labs.
+
 * [Learn OCaml](https://ocaml-sf.org/learn-ocaml-public)
 
 * [LeetCode](https://leetcode.com)
