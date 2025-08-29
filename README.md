@@ -422,6 +422,8 @@ This is a list of links to different freely available learning resources about c
 * [Data Structures for Data-Intensive Applications: Tradeoffs and Design Guidelines](https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf) by *Manos Athanassoulis
 , Stratos Idreos and Dennis Shasha* **[pdf]**
 
+* [Essential Coding Theory](https://cse.buffalo.edu/faculty/atri/courses/coding-theory/book) by *Venkatesan Guruswami*, *Atri Rudra*, and *Madhu Sudan*
+
 * [Exact String Matching Algorithms](http://www-igm.univ-mlv.fr/~lecroq/string) by *Christian Charras and Thierry Lecroq*
 
 * [Foundations of Data Science](https://www.cs.cornell.edu/jeh/book%20no%20so;utions%20March%202019.pdf) by *Avrim Blum*, *John Hopcroft*, and *Ravindran Kannan* **[pdf]**
