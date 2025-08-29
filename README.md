@@ -376,7 +376,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Advanced Algorithms](https://ocw.mit.edu/courses/6-854j-advanced-algorithms-fall-2008) by *Prof. Michel Goemans* **[MIT]**
 
-* [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521) by *Sanjeev Arora*
+* [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall15/cos521) by *Sanjeev Arora* **[Princeton]** **[Fall 2015]**
+
+* [Advanced Algorithm Design](https://www.cs.princeton.edu/courses/archive/fall18/cos521) by *Pravesh Kothari* and *Christopher Musco* **[Princeton]** **[Fall 2018]**
 
 * [Advanced Data Structures](https://courses.csail.mit.edu/6.897/spring03/scribe_notes) by *Erik Demaine*
 
