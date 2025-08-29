@@ -1309,6 +1309,8 @@ Thelin*
 
 * [Floating Point Visually Explained](https://fabiensanglard.net/floating_point_visually_explained) by *Fabien Sanglard*
 
+* [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing) by *Evan Ovadia*
+
 * [Memory Management Reference](https://www.memorymanagement.org)
 
 * [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1) by *Denis Bakhvalov*
