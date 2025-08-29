@@ -3044,6 +3044,8 @@ Christopher Kohlhoff*
 
 * [Eli Bendersky's website](https://eli.thegreenplace.net)
 
+* [Evan Ovadia's Blog](https://verdagon.dev)
+
 * [Fernando Borretti's Website](https://borretti.me)
 
 * [Gerneral Protection Fault](https://gpfault.net)
