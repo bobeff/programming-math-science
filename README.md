@@ -1127,7 +1127,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems) by *Unmesh Joshi*
 
-* [Principles of Blockchains](https://web3.princeton.edu/principles-of-blockchains) by *Prof. Pramod Viswanath*
+* [Principles of Blockchains](https://web3.princeton.edu/principles-of-blockchains) by *Prof. Pramod Viswanath* **[Princeton]**
 
 * [Rewriting Kafka in Rust Async: Insights and Lessons Learned in Rust](https://wangjunfei.com/2025/06/18/Rewriting-Kafka-in-Rust-Async-Insights-and-Lessons-Learned) by *Rex Wang*
 
@@ -2797,6 +2797,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 * [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
 
 * [Modern CSS Solutions for Old CSS Problems](https://moderncss.dev) by *Stephanie Eckles*
+
+* [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js) by *Lyra Rebane*
 
 ### Django
 
