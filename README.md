@@ -527,6 +527,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) by *William Shotts*
 
+* [Linux Commands Cheat Sheet](https://linux-commands.labex.io/)
+
 ## Competitions and Interview Preparation Websites
 
 ### Math <span id="math-competitions">
@@ -1100,6 +1102,8 @@ This is a list of links to different freely available learning resources about c
 * [DevOps with Kubernetes: A not-so-gentle introduction to cloud-native container orchestration](https://courses.mooc.fi/org/uh-cs/courses/devops-with-kubernete)
 
 * [devopscube](https://devopscube.com)
+
+* [DevOps Free Labs](https://labex.io/free-labs/devops)
 
 ## Digital Signal Processing
 
