@@ -1733,6 +1733,8 @@ Thelin*
   * [Probability Theory](https://metaphor.ethz.ch/x/2021/hs/401-3913-01L/auth/lethz/notes/probability_theory/probability_theory.pdf) by *Prof. Dr. Alain-Sol Sznitman* **[pdf]**
   * [Mathematical Foundations for Finance Lecture Notes](https://metaphor.ethz.ch/x/2021/hs/401-3913-01L/auth/lethz/notes/mff_script/lecture_notes.pdf) by *M. Schweizer* and *E. W. Farkas* **[pdf]**
 
+* [Statistical Method in Economics](https://ocw.mit.edu/courses/14-381-statistical-method-in-economics-fall-2018) by *Prof. Anna Mikusheva*
+
 * [Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013) by *Dr. Peter Kempthorne*, *Dr. Choongbum Lee*,  *Dr. Vasily Strela*, and *Dr. Jake Xia*
 
 * [Trade Signal](https://www.investopedia.com/terms/t/trade-signal.asp) by *Lucas Downey*
