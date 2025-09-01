@@ -146,6 +146,7 @@ This is a list of links to different freely available learning resources about c
 * [Robotics](#robotics)
 * [System programming](#system-programming)
 * [Technical Writing](#technical-writing)
+* [Testing](#testing)
 * [Text editors](#text-editors)
   * [Emacs](#emacs)
   * [Vim](#vim)
@@ -2700,6 +2701,10 @@ Thelin*
 * [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) by *James* **[pdf]**
 
 * [Technical Writing Posts](https://jamesg.blog/technical-writing) by *James*
+
+## Testing
+
+* [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) by *Alex Kladov*
 
 ## Text editors
 
