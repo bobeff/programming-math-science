@@ -366,6 +366,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Programming Starcraft AI](https://makingcomputerdothings.com/an-index-for-the-starcraft-ai-posts) by *Peter Kis*
 
+### Vibe conding
+
+* [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) by *Alex Kladov*
+
 ## Algorithms
 
 * [A First Course on Data Structures in Python](https://donsheehy.github.io/datastructures) by *Donald R. Sheehy*
