@@ -2990,6 +2990,8 @@ Christopher Kohlhoff*
 
 * [Moments in Graphics](https://momentsingraphics.de) by *Christoph Peters*
 
+* [Nikolaos Papadopoulos' Blog](https://www.4rknova.com)
+
 * [Of Shaders & Triangles](https://blog.42yeah.is) by *Hao Joe*
 
 * [Pikuma's Blog](https://pikuma.com) by *Gustavo Pezzi*
