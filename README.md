@@ -705,6 +705,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 1](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs)
   * [Part 2: Performance](https://interplayoflight.wordpress.com/2024/09/09/an-introduction-to-workgraphs-part-2-performance)
 
+* [Blocky Planet — Making Minecraft Spherical](https://www.bowerbyte.com/posts/blocky-planet)
+
 * **Building Real-Time Global Illumination** by *Jason McGhee*
   * [Part 1: Naive GI: A Foundation](https://jason.today/gi)
   * [Part 2: Radiance Cascades](https://jason.today/rc)
