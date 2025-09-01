@@ -368,6 +368,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Vibe conding
 
+* [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm) by *Harper Reed*
+
 * [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) by *Alex Kladov*
 
 ## Algorithms
