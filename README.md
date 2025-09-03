@@ -1115,6 +1115,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Handles are the better pointers](https://floooh.github.io/2018/06/17/handles-vs-pointers.html) by *Andre Weissflog*
 
+* [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers) by *Joe Mckay*
+
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
 ## DevOps
