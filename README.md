@@ -2993,6 +2993,8 @@ Christopher Kohlhoff*
 
 * [Ignacio Castaño's Blog](https://www.ludicon.com/castano/blog)
 
+* [imad's website](https://imadr.me)
+
 * [Inigo Quilez Website](https://iquilezles.org)
 
 * [Interplay of Light](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
