@@ -3094,6 +3094,8 @@ Christopher Kohlhoff*
 
 * [Arjun Sreedharan's Blog](https://arjunsreedharan.org)
 
+* [Artem Krylysov's Blog](https://artem.krylysov.com)
+
 * [Austin Z. Henley's Blog](https://austinhenley.com/blog.html)
 
 * [Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com)
