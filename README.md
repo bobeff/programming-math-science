@@ -2821,6 +2821,10 @@ Thelin*
 
 * [Let's build a browser engine!](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html) by *Matt Brubeck*
 
+* **Let’s write a search engine** by *Amit Patel*
+  * [Part 1](https://www.redblobgames.com/blog/2025-08-29-lets-write-a-search-engine-1)
+  * [Part 2](https://www.redblobgames.com/blog/2025-08-30-lets-write-a-search-engine-2)
+
 * [Mozilla Developers Network](https://developer.mozilla.org) - Resources for Developers,
 by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
