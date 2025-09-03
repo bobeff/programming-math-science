@@ -1651,6 +1651,8 @@ Thelin*
 
 * [Numerical Linear Algebra](https://www.csc.kth.se/~barbel/nla/notes.pdf) by *Bärbel Janssen* **[pdf]**
 
+* [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra) by *Duc-Tam Nguyen*
+
 ### Calculus
 
 * [Advanced Multivariable Calculus](https://sites.math.washington.edu/~awaw/teaching/math224_sp23/notes.pdf) by *Alex Wang* **[pdf]**
