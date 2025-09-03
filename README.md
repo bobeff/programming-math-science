@@ -3169,6 +3169,8 @@ Christopher Kohlhoff*
 
 * [Agner Fog's Website](https://www.agner.org)
 
+* [Branch Prediction Demystified](https://joegm.github.io/blog/branch-prediction-demystified) by *Joe Mckay*
+
 * [Denis Bakhvalov's Website](https://easyperf.net)
 
 * [Johnny's Software Lab](https://johnnysswlab.com) by *Ivica Bogosavljević*
