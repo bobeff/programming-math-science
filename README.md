@@ -136,6 +136,7 @@ This is a list of links to different freely available learning resources about c
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
   * [Apple II](#apple-ii)
   * [Commodore 64](#commodore-64)
+  * [CP/M](#cpm)
   * [DOS](#dos)
   * [Game Boy](#game-boy)
   * [Mega 65](#mega-65)
@@ -2613,6 +2614,14 @@ Thelin*
 * [Commodore Bookmarks](https://commodore.bookmark.computer) - Bookmarks for the Commodore 64, 128, Plus4, C16, VIC20 & PET Community.
 
 * [The Lost Ways of Programming: Commodore 64 BASIC](http://tomasp.net/commodore64) by *Tomas Petricek*
+
+### CP/M <span id="cpm">
+
+* [A gentle introduction to CP/M](https://eerielinux.wordpress.com/2025/08/28/a-gentle-introduction-to-cp-m)
+
+* **A journey into the 8-Bit microcomputing past: Exploring the CP/M operating system**
+  * [Part 1](https://eerielinux.wordpress.com/2024/12/20/a-journey-into-the-8-bit-microcomputing-past-exploring-the-cp-m-operating-system-part-1)
+  * [Part 2](https://eerielinux.wordpress.com/2024/12/30/a-journey-into-the-8-bit-microcomputing-past-exploring-the-cp-m-operating-system-part-2)
 
 ### DOS
 
