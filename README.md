@@ -451,6 +451,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Lecture Notes on Quantum Algorithms](https://www.cs.umd.edu/~amchilds/qa/qa.pdf) by *Andrew M. Childs* **[pdf]**
 
+* [Let's build a Full-Text Search engine](https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine) by *Artem Krylysov*
+
 * [Matters Computational: Ideas, Algorithms, Source Code](https://www.jjj.de/fxt/fxtbook.pdf) by *Jörg Arndt* **[pdf]**
 
 * [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) by *David J Wu*
