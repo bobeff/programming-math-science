@@ -3103,6 +3103,8 @@ Christopher Kohlhoff*
 
 * [Jens Gustedt's Blog](https://gustedt.wordpress.com)
 
+* [Joe Mckay's Blog](https://joegm.github.io)
+
 * [Julia Evans](https://jvns.ca)
 
 * [Karl Seguin's Blog](https://www.openmymind.net)
