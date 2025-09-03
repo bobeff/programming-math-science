@@ -2098,6 +2098,8 @@ Thelin*
 
 * [Ada Gem Archive](https://www.adacore.com/gems)
 
+* [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas) by *Romain Gora*
+
 ### Assembly
 
 * **A friendly introduction to assembly for high-level programmers** by *Manuel Spagnolo*
