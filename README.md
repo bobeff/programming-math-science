@@ -75,6 +75,7 @@ This is a list of links to different freely available learning resources about c
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
   * [Differential Equations](#defferential-equations)
+  * [General problem solving](#general-problem-solving)
   * [Geometry](#geometry)
     * [Differential Geometry](#differential-geometry)
   * [Graph Theory](#graph-theory)
@@ -1608,8 +1609,6 @@ Thelin*
 
 * [Trigonometry](https://mecmath.net/trig/index.html) by *Michael Corral*
 
-
-
 ### Algebra
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
@@ -1715,6 +1714,10 @@ Thelin*
 ### Differential Equations
 
 * [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
+
+### General problem solving
+
+* [How to Solve It](https://www.hlevkin.com/hlevkin/90MathPhysBioBooks/Math/Polya/George_Polya_How_To_Solve_It_.pdf) by *George Pólya* **[pdf]**
 
 ### Geometry
 
