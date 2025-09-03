@@ -2235,6 +2235,8 @@ Thelin*
   * [Part 12: A shared tracking pointer](https://devblogs.microsoft.com/oldnewthing/20250826-00/?p=111506)
   * [Part 13: Restoring the strong exception guarantee](https://devblogs.microsoft.com/oldnewthing/20250827-00/?p=111518)
   * [Part 14: Nonthrowing moves with the shared tracking pointer](https://devblogs.microsoft.com/oldnewthing/20250828-00/?p=111524)
+  * [Part 15: A custom shared pointer](https://devblogs.microsoft.com/oldnewthing/20250829-00/?p=111526)
+  * [Part 16: Second attempt to use a list](https://devblogs.microsoft.com/oldnewthing/20250901-00/?p=111537)
 
 ### CMake
 
