@@ -1281,6 +1281,8 @@ This is a list of links to different freely available learning resources about c
 * [A Book about Qt5](https://qmlbook.github.io) by *Jürgen Bocklage-Ryannel* and *Johan
 Thelin*
 
+* [Cross-platform window in C](https://imadr.me/cross-platform-window-in-c)
+
 * [James Brown's Tutorials](https://www.catch22.net/tuts)
 
 * [Minimal Cross-Platform Graphics](https://zserge.com/posts/fenster) by *Serge Zaitsev*
