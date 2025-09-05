@@ -3125,6 +3125,8 @@ Christopher Kohlhoff*
 
 * [Eli Bendersky's website](https://eli.thegreenplace.net)
 
+* [Entropic Thoughts](https://entropicthoughts.com) by *Christoffer Stjernlöf*
+
 * [Evan Ovadia's Blog](https://verdagon.dev)
 
 * [Fernando Borretti's Website](https://borretti.me)
