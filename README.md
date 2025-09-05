@@ -727,6 +727,12 @@ This is a list of links to different freely available learning resources about c
 
 * [Creative Coding Tutorials and Articles](https://bleuje.com/tutorials) by *Etienne Jacob*
 
+* [FrostKiwi's Secrets](https://blog.frost.kiwi) by *Wladislav Artsimovich*
+  * [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing)
+  * [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient)
+  * [How video games use LUTs and how you can too](https://blog.frost.kiwi/WebGL-LUTS-made-simple)
+  * [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase)
+
 * [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc)
 
 * [Noise is Beautiful: Part 1: Procedural textures](https://liu.diva-portal.org/smash/get/diva2:1954979/FULLTEXT01.pdf) by *Stefan Gustavson* **[pdf]**
@@ -3003,6 +3009,8 @@ Christopher Kohlhoff*
 * [Fabien Sanglard's Website](https://fabiensanglard.net)
 
 * [Forward Scattering](https://www.forwardscattering.org) by *Nicholas Chapman*
+
+* [FrostKiwi's Secrets](https://blog.frost.kiwi) by *Wladislav Artsimovich*
 
 * [Frozen Fractal](https://frozenfractal.com) by *Thomas ten Cate*
 
