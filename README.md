@@ -3203,6 +3203,8 @@ Christopher Kohlhoff*
 
 * [The If Works](https://blog.jcoglan.com) by *James Coglan*
 
+* [Theia Vogel's Blog](https://vgel.me)
+
 * [Vectorized](https://vectrx.substack.com) by *Caden Parker*
 
 * [xnacly - blog](https://xnacly.me)
