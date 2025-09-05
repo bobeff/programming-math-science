@@ -3199,6 +3199,8 @@ Christopher Kohlhoff*
 
 * [Racey Chan's Blog](https://www.lihil.cc/blog)
 
+* [Reasonably Polymorphic](https://reasonablypolymorphic.com) by *Sandy Maguire*
+
 * [Sam Rose's Blog](https://samwho.dev)
 
 * [Squadrick](https://squadrick.dev) by *Dheeraj Reddy*
