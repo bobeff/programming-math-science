@@ -699,6 +699,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Threaded code](https://muforth.dev/threaded-code)
 
+* [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500) by *Theia Vogel*
+
 ## Computer Graphics
 
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
