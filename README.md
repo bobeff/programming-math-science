@@ -3149,6 +3149,8 @@ Christopher Kohlhoff*
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
+* [Jamie Brandon's Blog](https://www.scattered-thoughts.net)
+
 * [Jari Komppa's Website](https://solhsa.com)
 
 * [Jens Gustedt's Blog](https://gustedt.wordpress.com)
