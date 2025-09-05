@@ -162,7 +162,7 @@ This is a list of links to different freely available learning resources about c
   * [AI](#ai-blogs)
   * [C++](#cpp-blogs)
   * [Game and Graphics Programming](#game-and-graphics-programming-blogs)
-  * [Math](#math-blogs)
+  * [Math and Physics](#math-and-physics-blogs)
   * [Mixed Programming](#mixed-programming-blogs)
   * [Performance and Optimization](#performance-and-optimization-blogs)
   * [Web Development](#web-development-blogs)
@@ -3068,7 +3068,7 @@ Christopher Kohlhoff*
 
 * [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
 
-### Math <span id="math-blogs">
+### Math and Physics <span id="math-and-physics-blogs">
 
 * [3Blue1Brown](https://www.3blue1brown.com) by *Grant Sanderson*
 
@@ -3078,6 +3078,8 @@ Christopher Kohlhoff*
   * [Absolutely Sure](https://almostsuremath.com/absolutely-sure)
 
 * [Better Explained](https://betterexplained.com)
+
+* [Galileo Unbound Blog](https://galileo-unbound.blog) by *Prof. David D. Nolte*
 
 * [Ji-Ha's Blog](https://jiha-kim.github.io)
 
