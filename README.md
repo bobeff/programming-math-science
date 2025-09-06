@@ -1285,6 +1285,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Geographic Information Systems
 
+* [Building Vector Tiles from scratch](https://www.debuisne.com/writing/geo-tiles) by *Andre Debuisne*
+
 * [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook) by *Hugo Ledoux, Ken Arroyo Ohori, Ravi Peters, and Maarten Pronk*
 
 ## GPU and TPU Programming
