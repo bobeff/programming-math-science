@@ -2089,6 +2089,9 @@ Thelin*
 
 * [Open textbooks for undergraduate physics](https://openaccesstexts.com/physics)
 
+* [Orbital Mechanics](https://www.alanzucconi.com/2025/09/04/orbital-mechanics) by *
+Alan Zucconi*
+
 * [Percolation Theory](https://web.mit.edu/ceder/publications/Percolation.pdf) by *Dr. Kim Christensen* **[pdf]**
 
 * [Physics for Mathematicians](https://nicf.net/articles/physics-for-mathematicians) by *Nicolas James Marks Ford*
