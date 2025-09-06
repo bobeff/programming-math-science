@@ -3153,6 +3153,8 @@ Christopher Kohlhoff*
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
+* [Jan Wedekind's Blog](https://www.wedesoft.de)
+
 * [Jamie Brandon's Blog](https://www.scattered-thoughts.net)
 
 * [Jari Komppa's Website](https://solhsa.com)
