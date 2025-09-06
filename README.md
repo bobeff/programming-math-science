@@ -3198,6 +3198,8 @@ Christopher Kohlhoff*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
 
+* [Nicholas Nethercote's Blog](https://nnethercote.github.io)
+
 * [NULL on error](https://nullonerror.org) - Flipping bits whilst updating pixels by *Rodrigo Delduca*
 
 * [Omar Aflak's Blog](https://omaraflak.medium.com)
