@@ -2088,6 +2088,8 @@ Thelin*
 
 * [Quantum Computation Lecture Notes](https://math.mit.edu/~shor/435-LN) by *Peter Shor*
 
+* [Quantum Mechanics](https://github.com/basketballguy999/Quantum-Mechanics-Concise-Book) by *basketballguy*
+
 * [Quantum Mechanics for Engineers](https://websites.umich.edu/~ners311/CourseLibrary/Dommelen.pdf) by *Leon van Dommelen* **[pdf]**
 
 * [Relativity: A Modern Primer](http://ramp-book.com) by *Kevin Han*
