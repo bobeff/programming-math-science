@@ -646,6 +646,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) by *Warren*
 
+* [A practical introduction to parsing](https://jhwlr.io/intro-to-parsing) by *Jan Procházka*
+
 * [Build Your Own Lisp](https://buildyourownlisp.com) by *Daniel Holden*
 
 * **Building a Toy Programming Language in Python** by *Miguel Grinberg*
