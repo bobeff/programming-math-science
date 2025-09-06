@@ -132,6 +132,7 @@ This is a list of links to different freely available learning resources about c
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Smalltalk](#smalltalk)
+  * [Ya](#ya)
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
   * [Advent of Code on retro machines](#adevent-of-code-on-retro-machines)
@@ -2578,6 +2579,10 @@ Thelin*
 ### Smalltalk
 
 * [Smalltalk Resources](https://smalltalk.tech.blog/resources) - A list of free smalltalk books.
+
+### Ya
+
+* [Я ☞ Articles](https://muratkasimov.art/Ya/Articles) by *Murat Kasimov*
 
 ### Zig
 
