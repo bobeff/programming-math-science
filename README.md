@@ -3085,7 +3085,7 @@ Christopher Kohlhoff*
 
 * [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
 
-### Math and Physics <span id="math-and-physics-blogs">
+### )ysics <span id="math-and-physics-blogs">
 
 * [3Blue1Brown](https://www.3blue1brown.com) by *Grant Sanderson*
 
@@ -3101,6 +3101,8 @@ Christopher Kohlhoff*
 * [Ji-Ha's Blog](https://jiha-kim.github.io)
 
 * [John D. Cook's Blog](https://www.johndcook.com/blog)
+
+* [Math3ma](https://www.math3ma.com/) by *Tai-Danae Bradley*
 
 ### Mixed Programming <span id="mixed-programming-blogs">
 
