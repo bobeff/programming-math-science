@@ -428,6 +428,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Approximation Algorithms](https://courses.grainger.illinois.edu/cs583/fa2021/approx-algorithms-lecture-notes.pdf) by *Chandra Chekuri* **[pdf]**
 
+* [Book of All-pairs Shortest Paths](https://olegkarasik.wordpress.com/category/developers-story/book-of-all-pairs-shortest-paths) by *Oleg Karasik*
+
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) by *Jason Brownlee*
 
 * [Collision Detection](https://www.jeffreythompson.org/collision-detection) by *Jeff Thompson*
