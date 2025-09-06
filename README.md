@@ -3157,6 +3157,8 @@ Christopher Kohlhoff*
 
 * [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
 
+* [Dissecting the Code](https://sergeyteplyakov.github.io/Blog) by *Sergey Teplyakov*
+
 * [Educated Guesswork](https://educatedguesswork.org) by *Eric Rescorla*
 
 * [Eli Bendersky's website](https://eli.thegreenplace.net)
