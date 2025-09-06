@@ -3178,6 +3178,8 @@ Christopher Kohlhoff*
 
 * [Karl Zylinski'a Website](https://zylinski.se)
 
+* [KC Sivaramakrishnan's Blog](https://kcsrk.info/blog)
+
 * [Lei Xia's Blog](https://www.ddhigh.com/en)
 
 * [Loris Cro's Personal Website](https://kristoff.it)
