@@ -2594,6 +2594,8 @@ Thelin*
 
 * [A Guide to the Graphics of the Sega Mega Drive / Genesis](https://rasterscroll.com/mdgraphics)
 
+* [BASIC Code](https://basic-code.bearblog.dev) by *Michael Coorlim*
+
 * [Books by Fabien Sanglard](https://fabiensanglard.net/three_books_update/index.html)
   - **Game Engine Black Book: Wolfenstein 3D**
   - **Game Engine Black Book: DOOM**
