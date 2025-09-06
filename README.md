@@ -3200,6 +3200,8 @@ Christopher Kohlhoff*
 
 * [Omar Aflak's Blog](https://omaraflak.medium.com)
 
+* [Paul Smith's Blog](https://www.pauladamsmith.com)
+
 * [Phil Eaton's Website](https://eatonphil.com)
 
 * [Playing with code](https://haqr.eu) by *Dmitry V. Sokolov*
