@@ -3171,6 +3171,8 @@ Christopher Kohlhoff*
 
 * [Gerneral Protection Fault](https://gpfault.net)
 
+* [Giles' blog](https://www.gilesthomas.com) by *Giles Thomas*
+
 * [glfmn.io](https://glfmn.io)
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
