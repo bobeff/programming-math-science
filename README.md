@@ -3134,6 +3134,8 @@ Christopher Kohlhoff*
 
 * [Bradley Chatha's D Blog](https://bradley.chatha.dev/blog)
 
+* [Considerations on Codecrafting](https://blog.polybdenum.com)
+
 * [Dan Hollick's Blog](https://typefully.com/DanHollick)
 
 * [Daniel Fedorin's Blog](https://danilafe.com)
