@@ -2339,6 +2339,8 @@ Alan Zucconi*
 
 * [Go Optimization Guide](https://goperf.dev) by *Alexander Stavonin*
 
+* [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly) by *Eli Benderski*
+
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
 
 * [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123) by *Eli Benderski*
