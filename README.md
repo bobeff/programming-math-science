@@ -1150,11 +1150,11 @@ This is a list of links to different freely available learning resources about c
 
 * [Indices, not Pointers](https://joegm.github.io/blog/indices-not-pointers) by *Joe Mckay*
 
+* [Multiple Dispatch Series](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions) by *Eli Bendersky*
+
 * [Plugins Series](https://eli.thegreenplace.net/tag/plugins) by *Eli Bendersky*
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
-
-* [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions) by *Eli Bendersky*
 
 ## DevOps
 
