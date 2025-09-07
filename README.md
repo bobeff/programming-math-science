@@ -2341,6 +2341,8 @@ Alan Zucconi*
 
 * [A comprehensive guide to go generate](https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate) by *Eli Bendersky*
 
+* [Accessing PostgreSQL databases in Go](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go) by *Eli Bendersky*
+
 * [Go Optimization Guide](https://goperf.dev) by *Alexander Stavonin*
 
 * [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go) by *Eli Benderski*
