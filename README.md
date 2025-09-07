@@ -3171,6 +3171,8 @@ Christopher Kohlhoff*
 
 * [Fernando Borretti's Website](https://borretti.me)
 
+* [Games by Mason](https://gamesbymason.com/blog)
+
 * [Gerneral Protection Fault](https://gpfault.net)
 
 * [Giles' blog](https://www.gilesthomas.com) by *Giles Thomas*
