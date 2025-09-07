@@ -2617,6 +2617,8 @@ Alan Zucconi*
 
 * [Rust Atomics and Locks: Low-Level Concurrency in Practice](https://marabos.nl/atomics) by *Mara Bos*
 
+* [Rust data structures with circular references](https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references) by *Eli Bendersky*
+
 * [Rust Language Cheat Sheet](https://cheats.rs)
 
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead)
