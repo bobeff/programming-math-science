@@ -109,6 +109,7 @@ This is a list of links to different freely available learning resources about c
   * [Erlang](#erlang)
   * [Forth](#forth)
   * [Go](#go)
+    * [Network programming in Go](#network-programming-in-go)
   * [Haskell](#haskell)
   * [Jai](#jai)
   * [Java](#java)
@@ -2357,9 +2358,15 @@ Alan Zucconi*
 
 * [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123) by *Eli Benderski*
 
-* [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
-
 * [The Y combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics) by *Eli Benderski*
+
+#### Network programming in Go
+
+* [Go HTTPS servers with TLS](https://eli.thegreenplace.net/2021/go-https-servers-with-tls)
+
+* [Go socket servers with TLS](https://eli.thegreenplace.net/2021/go-socket-servers-with-tls)
+
+* [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
 
 ### Haskell
 
