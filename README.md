@@ -110,6 +110,7 @@ This is a list of links to different freely available learning resources about c
   * [Forth](#forth)
   * [Go](#go)
   * [Haskell](#haskell)
+  * [Jai](#jai)
   * [Java](#java)
   * [JavaScript](#javascript)
   * [Lean](#lean)
@@ -2339,6 +2340,13 @@ Alan Zucconi*
 * [Monday Morning Haskell](https://mmhaskell.com)
 
 * [Real World Haskell](http://book.realworldhaskell.org) by *Bryan O'Sullivan, Don Stewart, and John Goerzen*
+
+### Jai
+
+* [Jai articles by James Oswald](https://jamesoswald.dev/tags/jai)
+  * [Simplicity, Jai, and Joy (Jai Part 1)](https://jamesoswald.dev/posts/jai-1)
+  * [Embedding, Jai, and Joy (Jai Part 2)](https://jamesoswald.dev/posts/jai-2)
+  * [Emulating Rust's Result and ? in Jai with Metaprogramming](https://jamesoswald.dev/posts/jai-result)
 
 ### Java
 
