@@ -1747,6 +1747,8 @@ Thelin*
 
 * [Euclidean and Non-Euclidean Geometries: Development and History](https://www.ime.usp.br/~toscano/disc/2022/GreenbergGeometry.pdf) by *Marvin Jay Greenberg* **[pdf]**
 
+* [Geometry: Euclid and Beyond](https://david92jackson.neocities.org/images/Euclid_and_Beyond-Hartshorne.pdf) by *Robin Hartshorne* **[pdf]**
+
 * [Planes in 3D space](https://alexharri.com/blog/planes) by *Alex Harri*
 
 * [The Foundations of Geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf) by *David Hilbert* **[pdf]**
