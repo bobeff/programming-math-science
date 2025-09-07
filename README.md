@@ -2351,6 +2351,8 @@ Alan Zucconi*
 
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
 
+* [The Y combinator in Go with generics](https://eli.thegreenplace.net/2022/the-y-combinator-in-go-with-generics) by *Eli Benderski*
+
 ### Haskell
 
 * [Learn Haskell by building a blog generator](https://lhbg-book.link/) *Gil Mizrahi*
