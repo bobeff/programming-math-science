@@ -2343,6 +2343,8 @@ Alan Zucconi*
 
 * [Accessing PostgreSQL databases in Go](https://eli.thegreenplace.net/2021/accessing-postgresql-databases-in-go) by *Eli Bendersky*
 
+* [Go internals: invariance and memory layout of slices](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices) by *Eli Bendersky*
+
 * [Go Optimization Guide](https://goperf.dev) by *Alexander Stavonin*
 
 * [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go) by *Eli Benderski*
