@@ -2339,6 +2339,8 @@ Alan Zucconi*
 
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
 
+* [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123) by *Eli Benderski*
+
 * [REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library) by *Ely Bendersky*
 
 ### Haskell
