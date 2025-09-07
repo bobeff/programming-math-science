@@ -2621,6 +2621,8 @@ Alan Zucconi*
 
 * [Rust Language Cheat Sheet](https://cheats.rs)
 
+* [Testing multiple implementations of a trait in Rust](https://eli.thegreenplace.net/2021/testing-multiple-implementations-of-a-trait-in-rust) by *Eli Bendersky*
+
 * [Things you can’t do in Rust (and what to do instead)](https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead)
 
 ### Smalltalk
