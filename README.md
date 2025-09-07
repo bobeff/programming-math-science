@@ -1149,6 +1149,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 
+* [The Expression Problem and its solutions](https://eli.thegreenplace.net/2016/the-expression-problem-and-its-solutions) by *Eli Bendersky*
+
 ## DevOps
 
 * [DevOps with Docker: Containers for Beginners](https://courses.mooc.fi/org/uh-cs/courses/devops-with-docker)
