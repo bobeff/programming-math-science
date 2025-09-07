@@ -526,6 +526,8 @@ This is a list of links to different freely available learning resources about c
 
 * [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world) - An unofficial book for beginners by *Ryan Yin*
 
+* [rsync: Series](https://michael.stapelberg.ch/posts/2022-06-18-rsync-overview) by *Michael Stapelberg*
+
 * [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours) by *Julia Evans*
 
 * [The Definitive Guide To Docker](https://masteringbackend.com/posts/docker-tutorial)
