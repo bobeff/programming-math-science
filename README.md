@@ -1127,6 +1127,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Design Patterns
 
+* [Building abstractions using higher-order functions](https://eli.thegreenplace.net/2023/building-abstractions-using-higher-order-functions) by *Eli Benderski*
+
 * [Data Engineering Design Patterns (DEDP)](https://www.dedp.online)
 
 * [Data-Oriented Design](https://www.dataorienteddesign.com/dodbook) by *Richard Fabian*
