@@ -1707,6 +1707,8 @@ Thelin*
 
 * [Multivariable Calculus Lectures](https://math.jhu.edu/~brown/courses/f19/Documents/MultivariableCalculus.pdf) by *Richard J. Brown* **[pdf]**
 
+* [Principles of Mathematical Analysis](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf) by *Walter Rudin* **[pdf]**
+
 #### Vector Calculus
 
 * [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html) by *David Tong*
