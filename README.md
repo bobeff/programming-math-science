@@ -3191,6 +3191,8 @@ Christopher Kohlhoff*
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
+* [James Oswald's Blog](https://jamesoswald.dev/posts)
+
 * [Jan Wedekind's Blog](https://www.wedesoft.de)
 
 * [Jamie Brandon's Blog](https://www.scattered-thoughts.net)
