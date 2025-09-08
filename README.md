@@ -839,6 +839,8 @@ This is a list of links to different freely available learning resources about c
 
 * [GPU Work Graphs mesh nodes in Microsoft DirectX® 12](https://gpuopen.com/learn/work_graphs_mesh_nodes/work_graphs_mesh_nodes-intro) by *Max Oberberger*
 
+* [Ten Years of D3D12](https://therealmjp.github.io/posts/ten-years-of-d3d12)
+
 ### Image Processing
 
 #### Dithering
