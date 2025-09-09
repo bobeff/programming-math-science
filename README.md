@@ -3300,6 +3300,8 @@ Christopher Kohlhoff*
 
 * [Probably Dance](https://probablydance.com)
 
+* [protty](https://kprotty.me)
+
 * [Racey Chan's Blog](https://www.lihil.cc/blog)
 
 * [RasterGrid](https://www.rastergrid.com/blog)
