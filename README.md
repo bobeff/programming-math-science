@@ -301,6 +301,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Visual Guide to Quantization: Demystifying the Compression of Large Language Models](https://newsletter.maartengrootendorst.com/p/a-visual-guide-to-quantization) by *Maarten Grootendorst*
 
+* [Defeating Nondeterminism in LLM Inference](https://thinkingmachines.ai/blog/defeating-nondeterminism-in-llm-inference) by *Horace He*
+
 * [Foundations of Large Language Models](https://arxiv.org/abs/2501.09223) by *Tong Xiao* and *Jingbo Zhu*
 
 * [How to Scale Your Model: A Systems View of LLMs on TPUs](https://jax-ml.github.io/scaling-book) by *Jacob Austin*, *Sholto Douglas*, *Roy Frostig*, *Anselm Levskaya*, *Charlie Chen*, and *Sharad Vikram*
