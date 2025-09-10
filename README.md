@@ -1146,6 +1146,10 @@ This is a list of links to different freely available learning resources about c
   * [Design Patterns You Should Unlearn in Python: Part2](https://www.lihil.cc/blog/design-patterns-you-should-unlearn-in-python-part2)
   * [Most Design Patterns Are Just Dependency Injection in Disguise](https://www.lihil.cc/blog/Most-Design-Patterns-Are-Just-Dependency-Injection-In-Disguise)
 
+* **Discovering observers** by *Sandor Dargo*
+  * [Part 1](https://www.sandordargo.com/blog/2025/09/03/observers-part1)
+  * [Part 2](https://www.sandordargo.com/blog/2025/09/10/observers-part2)
+
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory) by *Mark Seemann*
 
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
@@ -1355,7 +1359,7 @@ Thelin*
 
 * [Zen, CUDA, and Tensor Cores](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i) by *Casey Muratori*
 
-## Information Theory
+## Information TheoryDiscovering observers
 
 * [Information and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008) by *Prof. Paul Penfield* and *Prof. Seth Lloyd*
 
