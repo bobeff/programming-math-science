@@ -752,6 +752,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Noise is Beautiful: Part 1: Procedural textures](https://liu.diva-portal.org/smash/get/diva2:1954979/FULLTEXT01.pdf) by *Stefan Gustavson* **[pdf]**
 
+* **Noise is Beautiful** by *Stefan Gustavson*
+  * [Part 1: Procedural textures](https://computer-graphics.se/TNM084/Files/Noise%20if%20beautiful%20Part%201%2020241103.pdf) **[pdf]**
+  * [Part 2: Noise is beautiful](https://computer-graphics.se/TNM084/Files/Noise%20is%20beautiful%20Part%202%2020241103.pdf) **[pdf]**
+
 * [Radiometry: Overview](https://momentsingraphics.de/RadiometryOverview.html) by *Christoph Peters*
 
 * [Rotations with quaternions](https://imadr.me/rotations-with-quaternions)
