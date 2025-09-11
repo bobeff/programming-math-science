@@ -1255,6 +1255,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Procedural Content Generation in Games](https://www.pcgbook.com) by *Noor Shaker*, *Julian Togelius*, and *Mark J. Nelson*
 
+* **Procedural Island Generation** by *Chema Guerra*
+  * [Part 1](https://brashandplucky.com/2025/09/07/procedural-island-generation-i.html)
+  * [Part 2](https://brashandplucky.com/2025/09/10/procedural-island-generation-ii.html)
+
 * [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html) by *Wassim Alhajomar*
 
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
