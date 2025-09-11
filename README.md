@@ -3091,6 +3091,8 @@ Christopher Kohlhoff*
 
 * [c0de517e's weblore](https://www.c0de517e.com) by *Angelo Pesce*
 
+* [Chema Guerra's Blog](https://brashandplucky.com)
+
 * [DirectX Developer Blog](https://devblogs.microsoft.com/directx)
 
 * [Eric Arnebäck's Blog](https://erkaman.github.io)
