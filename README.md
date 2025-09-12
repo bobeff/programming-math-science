@@ -3236,6 +3236,8 @@ Christopher Kohlhoff*
 
 * [Considerations on Codecrafting](https://blog.polybdenum.com)
 
+* [Chris Penner's Blog](https://chrispenner.ca)
+
 * [Dan Hollick's Blog](https://typefully.com/DanHollick)
 
 * [Daniel Fedorin's Blog](https://danilafe.com)
