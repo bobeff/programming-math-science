@@ -2195,6 +2195,8 @@ Alan Zucconi*
 
 * [Programming from the Ground Up](https://download-mirror.savannah.gnu.org/releases/pgubook/ProgrammingGroundUp-1-0-booksize.pdf) by *Jonathan Bartlett* **[pdf]**
 
+* [Learn x86-64 assembly by writing a GUI from scratch](https://gaultier.github.io/blog/x11_x64.html) by *Philippe Gaultier*
+
 * **Let's Learn x86-64 Assembly!**
   * [Part 0 - Setup and First Steps](https://gpfault.net/posts/asm-tut-0.txt.html)
   * [Part 1 - Metaprogramming in Flat Assembler](https://gpfault.net/posts/asm-tut-1.txt.html)
