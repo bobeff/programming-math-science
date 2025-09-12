@@ -1326,6 +1326,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Computational Modelling of Terrains](https://tudelft3d.github.io/terrainbook) by *Hugo Ledoux, Ken Arroyo Ohori, Ravi Peters, and Maarten Pronk*
 
+* [Introduction to Python for Geographic Data Analysis](https://pythongis.org) by *Henrikki Tenkanen*, *Vuokko Heikinheimo*, and *David Whipp*
+
 ## GPU and TPU Programming
 
 * [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus) by *Damek Davis*
