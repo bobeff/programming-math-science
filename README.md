@@ -3250,6 +3250,8 @@ Christopher Kohlhoff*
 
 * [Dissecting the Code](https://sergeyteplyakov.github.io/Blog) by *Sergey Teplyakov*
 
+* [Edoardo Putti's Blog](https://edoput.it)
+
 * [Educated Guesswork](https://educatedguesswork.org) by *Eric Rescorla*
 
 * [Eli Bendersky's website](https://eli.thegreenplace.net)
