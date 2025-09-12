@@ -1439,7 +1439,7 @@ Thelin*
 
 * [A Programmer's Introduction to Mathematics](https://pimbook.org/) by *Jeremy Kun*
 
-* [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by *Jean Gallier* by **[pdf]**
+* [Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning](https://www.cis.upenn.edu/~jean/math-deep.pdf) by *Jean Gallier* and * Jocelyn Quaintance* **[pdf]**
 
 * [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles) by *Andrei Ciobanu*
 
