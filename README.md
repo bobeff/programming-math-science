@@ -1678,6 +1678,8 @@ Thelin*
 
 * [Lectures on Abstract Algebra](https://www.math.ucla.edu/~rse/algebra_book.pdf) by *Richard Elman* **[pdf]**
 
+* [The Rising Sea: Foundations Of Algebraic Geometry Notes](https://math.stanford.edu/~vakil/216blog) by *Ravi Vakil*
+
 #### Linear Algebra
 
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net) by *Pawel Sobocinski*
