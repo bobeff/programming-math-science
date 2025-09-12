@@ -2865,6 +2865,8 @@ Alan Zucconi*
 
 ### Emacs
 
+* [A Beginner's Guide to Extending Emacs](https://blog.tjll.net/a-beginners-guide-to-extending-emacs) by *Tyler Langlois*
+
 * **Emacs Config From Scratch** by *Arne Bahlo*
   * [Part 1: Foundations](https://arne.me/articles/emacs-from-scratch-part-one-foundations)
   * [Part 2: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
