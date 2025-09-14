@@ -1662,6 +1662,8 @@ Thelin*
 
 * [Trigonometry](https://mecmath.net/trig/index.html) by *Michael Corral*
 
+* [Visual Complex Analysis](https://umv.science.upjs.sk/hutnik/NeedhamVCA.pdf) by *Tristan Needham* **[pdf]**
+
 ### Algebra
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
