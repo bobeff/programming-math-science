@@ -951,6 +951,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Vulkan
 
+* [A Vulkan introduction](https://www.4rknova.com//blog/2025/09/10/vulkan-intro) by *Nikos Papadopoulos*
+
 * [I Am Graphics And So Can You](https://www.fasterthan.life/blog) - a series of blog posts about implementing a Vulkan renderer for Doom 3 by *Dustin H. Land*
 
 * [How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan) by *Elias Daler*
