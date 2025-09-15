@@ -1900,6 +1900,8 @@ Thelin*
 
 * [High-Dimensional Probability: An Introduction with Applications in Data Science](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) by *Roman Vershynin* **[pdf]**
 
+* [High-Dimensional Statistics](https://arxiv.org/abs/2310.19244) by *Philippe Rigollet* and  *Jan-Christian Hütter*
+
 * [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
