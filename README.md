@@ -1792,6 +1792,8 @@ Thelin*
 
 * [The Foundations of Geometry](https://math.berkeley.edu/~wodzicki/160/Hilbert.pdf) by *David Hilbert* **[pdf]**
 
+* [The Four Pillars of Geometry](https://www.johnval.nl/school/wiskunde/wiskundeD/gratis_studieboeken/FourPillarsOfGeometry.pdf) by *John Stillwell* **[pdf]**
+
 #### Differential Geometry
 
 * [Differential Geometry: A First Course in Curves and Surfaces](https://ghomi.math.gatech.edu/Classes/Math4441Fall2021/ShifrinDiffGeo.pdf) by *Theodore Shifrin* **[pdf]**
