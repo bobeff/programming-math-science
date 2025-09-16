@@ -3197,7 +3197,7 @@ Christopher Kohlhoff*
 
 * [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
 
-### )ysics <span id="math-and-physics-blogs">
+### Math and Physics <span id="math-and-physics-blogs">
 
 * [3Blue1Brown](https://www.3blue1brown.com) by *Grant Sanderson*
 
@@ -3323,6 +3323,8 @@ Christopher Kohlhoff*
 * [Nicholas Nethercote's Blog](https://nnethercote.github.io)
 
 * [Nicolas Rinaudo's Blog](https://nrinaudo.github.io/articles.html)
+
+* [NULL BITMAP](https://buttondown.com/jaffray) by *Justin Jaffray*
 
 * [NULL on error](https://nullonerror.org) - Flipping bits whilst updating pixels by *Rodrigo Delduca*
 
