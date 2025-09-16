@@ -3261,6 +3261,8 @@ Christopher Kohlhoff*
 
 * [Daniel Lemire's Blog](https://lemire.me)
 
+* [Dayvi Schuster's Blog](https://dayvster.com)
+
 * [Digital Grove](https://www.rfleury.com) by *Ryan Fleury*
 
 * [Dissecting the Code](https://sergeyteplyakov.github.io/Blog) by *Sergey Teplyakov*
