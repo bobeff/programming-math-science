@@ -384,6 +384,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Disciplined AI Software Development](https://github.com/Varietyz/Disciplined-AI-Software-Development) by *Jay Baleine*
 
+* [Diving Into Spec-Driven Development With GitHub Spec Kit](https://developer.microsoft.com/blog/spec-driven-development-spec-kit) by *Den Delimarsky*
+
 * [How I program with Agents](https://crawshaw.io/blog/programming-with-agents) by *David Crawshaw*
 
 * [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) by *David Crawshaw*
