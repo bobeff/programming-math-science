@@ -3018,6 +3018,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Jake Tae's Blog](https://jaketae.github.io)
 
+* [Randorithms](https://randorithms.com) by *Ben Coleman*
+
 ### C++ <span id="cpp-blogs">
 
 * [Alf on programming (mostly C++)](https://alfps.wordpress.com)
