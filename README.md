@@ -3015,6 +3015,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 ### AI <span id="ai-blogs">
 
+* [Ahead of AI](https://magazine.sebastianraschka.com) by *Sebastian Raschka*
+
 * [Chizoba Obasi's Blog](https://chizkidd.github.io)
 
 * [Jake Tae's Blog](https://jaketae.github.io)
