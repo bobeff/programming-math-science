@@ -169,6 +169,7 @@ This is a list of links to different freely available learning resources about c
   * [Mixed Programming](#mixed-programming-blogs)
   * [Performance and Optimization](#performance-and-optimization-blogs)
   * [Web Development](#web-development-blogs)
+  * [Other Blogs](#other-blogs)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -3397,6 +3398,10 @@ Christopher Kohlhoff*
 * [JSLegendDev’s Substack](https://jslegenddev.substack.com) - Web development, game development and their intersection.
 
 * [tania.dev](https://www.taniarascia.com) by *Tania Rascia*
+
+### Other Blogs
+
+* [Just another electronics blog](https://justanotherelectronicsblog.com)
 
 ## Other
 
