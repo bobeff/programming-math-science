@@ -3361,6 +3361,8 @@ Christopher Kohlhoff*
 
 * [Racey Chan's Blog](https://www.lihil.cc/blog)
 
+* [Rahman Sibahi's Blog](https://asibahi.github.io)
+
 * [RasterGrid](https://www.rastergrid.com/blog)
 
 * [Reasonably Polymorphic](https://reasonablypolymorphic.com) by *Sandy Maguire*
