@@ -1165,6 +1165,7 @@ This is a list of links to different freely available learning resources about c
 * **Discovering observers** by *Sandor Dargo*
   * [Part 1](https://www.sandordargo.com/blog/2025/09/03/observers-part1)
   * [Part 2](https://www.sandordargo.com/blog/2025/09/10/observers-part2)
+  * [Part 3](https://www.sandordargo.com/blog/2025/09/17/observers-part3)
 
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory) by *Mark Seemann*
 
