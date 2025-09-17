@@ -65,6 +65,7 @@ This is a list of links to different freely available learning resources about c
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Information Theory](#information-theory)
+* [IQ Tests](#iq-tests)
 * [Logical Games](#logical-games)
 * [Low Level Stuff](#low-level-stuff)
   * [SIMD programming](#simd-programming)
@@ -1387,6 +1388,12 @@ Thelin*
 * [Information Theory, Inference, and Learning Algorithms](https://inference.org.uk/itila/book.html) by *David MacKay*
 
 * [Statistics and Information Theory](https://web.stanford.edu/class/stats311/lecture-notes.pdf) by *John Duchi* **[pdf]**
+
+## IQ Tests
+
+* [Cognitive Ability Test by University of Cambridge](https://planning.e-psychometrics.com/test/icar60)
+
+* [IQ Test made by Mensa Norway](https://test.mensa.no/Home/Test/en-US)
 
 ## Logical Games
 
