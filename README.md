@@ -3343,6 +3343,8 @@ Christopher Kohlhoff*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
 
+* [MonoidMusicianʼs Blog](https://blog.veritates.love) by *Verity Scheel*
+
 * [Nicholas Nethercote's Blog](https://nnethercote.github.io)
 
 * [Nicolas Rinaudo's Blog](https://nrinaudo.github.io/articles.html)
