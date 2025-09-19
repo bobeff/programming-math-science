@@ -1243,6 +1243,8 @@ This is a list of links to different freely available learning resources about c
 
 * [GameBoy Emulation in JavaScript](http://imrannazar.com/GameBoy-Emulation-in-JavaScript:-The-CPU) by *Imran Nazar*
 
+* [Hypervisor in 1,000 Lines](https://1000hv.seiya.me/en) by *Seiya Nuta*
+
 * **Roll your own JavaScript runtime** by  *Bartek Iwańczuk*
   * [Part 1](https://deno.com/blog/roll-your-own-javascript-runtime)
   * [Part 2](https://deno.com/blog/roll-your-own-javascript-runtime-pt2)
