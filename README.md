@@ -3019,6 +3019,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [You no longer need JavaScript](https://lyra.horse/blog/2025/08/you-dont-need-js) by *Lyra Rebane*
 
+* [What You Need to Know about Modern CSS (2025 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-2025-edition) by *Chris Coyier*
+
 ### Django
 
 * [Learn Django](https://learndjango.com) by *Will Vincent*
