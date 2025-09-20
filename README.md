@@ -3405,6 +3405,8 @@ Christopher Kohlhoff*
 
 * [Theia Vogel's Blog](https://vgel.me)
 
+* [Thomas Leonard's blog](https://roscidus.com)
+
 * [Vectorized](https://vectrx.substack.com) by *Caden Parker*
 
 * [xnacly - blog](https://xnacly.me)
