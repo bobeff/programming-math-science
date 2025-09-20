@@ -3423,6 +3423,8 @@ Christopher Kohlhoff*
 
 ### Web Development <span id="web-development-blogs">
 
+* [Frontend Masters](https://frontendmasters.com)
+
 * [Josh Comeau's Website](https://www.joshwcomeau.com) - Animation, CSS, JavaScript, React
 
 * [JSLegendDev’s Substack](https://jslegenddev.substack.com) - Web development, game development and their intersection.
