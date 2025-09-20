@@ -253,6 +253,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Lecture Notes for Machine Learning and Data Science Courses Information School, University of Washington](https://faculty.washington.edu/otoomet/machineLearning.pdf) by *Ott Toomet* **[pdf]**
 
+* [Lecture Notes for Machine Learning Theory](https://tselilschramm.org/mltheory/ma.pdf) by *Tengyu Ma* **[pdf]**
+
 * [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) by *Stas Bekman*
 
 * [Machine Learning Lecture Notes](https://cs229.stanford.edu/main_notes.pdf) by *Andrew Ng* and *Tengyu Ma* **[pdf]** **[Stanford]**
