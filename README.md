@@ -3399,8 +3399,6 @@ Christopher Kohlhoff*
 
 * [Syed Jafar Naqvi's Blog](https://medium.com/@naqvi.jafar91)
 
-* [Tania Rascia’s blog](https://www.taniarascia.com)
-
 * [The If Works](https://blog.jcoglan.com) by *James Coglan*
 
 * [Theia Vogel's Blog](https://vgel.me)
@@ -3433,7 +3431,7 @@ Christopher Kohlhoff*
 
 * [JSLegendDev’s Substack](https://jslegenddev.substack.com) - Web development, game development and their intersection.
 
-* [tania.dev](https://www.taniarascia.com) by *Tania Rascia*
+* [Tania Rascia’s blog](https://www.taniarascia.com) by *Tania Rascia*
 
 ### Other Blogs
 
