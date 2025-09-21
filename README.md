@@ -1277,6 +1277,10 @@ This is a list of links to different freely available learning resources about c
 * **Procedural Island Generation** by *Chema Guerra*
   * [Part 1](https://brashandplucky.com/2025/09/07/procedural-island-generation-i.html)
   * [Part 2](https://brashandplucky.com/2025/09/10/procedural-island-generation-ii.html)
+  * [Part 3](https://brashandplucky.com/2025/09/17/procedural-island-generation-iii.html)
+  * [Part 4](https://brashandplucky.com/2025/09/22/procedural-island-generation-iv.html)
+  * [Part 5](https://brashandplucky.com/2025/09/25/procedural-island-generation-v.html)
+  * [Part 6](https://brashandplucky.com/2025/09/28/procedural-island-generation-vi.html)
 
 * [Programming Vehicles in Games](https://wassimulator.com/blog/programming/programming_vehicles_in_games.html) by *Wassim Alhajomar*
 
