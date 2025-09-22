@@ -969,6 +969,8 @@ This is a list of links to different freely available learning resources about c
 
 * [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
 
+* [Vulkan – Cross platform 3D Graphics](https://www.vulkan.org)
+
 * [Vulkan Guide](https://vkguide.dev)
 
 * [Vulkan Raytracing Tutorials](https://iorange.github.io)
