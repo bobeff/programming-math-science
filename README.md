@@ -3353,6 +3353,8 @@ Christopher Kohlhoff*
 
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
 
+* [Melatoni's Blog](https://nghiant3223.github.io) by *Nguyen Trong Nghia*
+
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
 
 * [MonoidMusicianʼs Blog](https://blog.veritates.love) by *Verity Scheel*
