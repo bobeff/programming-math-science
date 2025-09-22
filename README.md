@@ -3178,6 +3178,8 @@ Christopher Kohlhoff*
 
 * [Jason Mcghee's Blog](https://jason.today)
 
+* [JMS55's Blog](https://jms55.github.io)
+
 * [John Novak's Website](https://www.johnnovak.net)
 
 * [lisyarus blog](https://lisyarus.github.io) by *Nikita Lisitsa*
