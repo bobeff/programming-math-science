@@ -2421,6 +2421,8 @@ Alan Zucconi*
 
 * [Higher-order functions in Go](https://eli.thegreenplace.net/2023/higher-order-functions-in-go) by *Eli Benderski*
 
+* [Memory Allocation in Go](https://nghiant3223.github.io/2025/06/03/memory_allocation_in_go.html) by *Nguyen Trong Nghia*
+
 * [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly) by *Eli Benderski*
 
 * [Practical Go Lessons](https://www.practical-go-lessons.com) by *Maximilien Andile*
