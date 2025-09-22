@@ -2401,6 +2401,8 @@ Alan Zucconi*
 
 ### Forth
 
+* [Easy Forth](https://skilldrick.github.io/easyforth) by *Nick Morgan*
+
 * [Forth: The programming language that writes itself](https://ratfactor.com/forth/the_programming_language_that_writes_itself.html) by *Dave Gauer*
 
 * [Implementing a Forth](https://ratfactor.com/forth/implementing) by *Dave Gauer*
