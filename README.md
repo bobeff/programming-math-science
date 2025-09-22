@@ -1433,6 +1433,8 @@ Thelin*
 
 * [Performance Analysis and Tunning on Modern CPUs](https://github.com/dendibakh/perf-book) by *Denis Bakhvalov*
 
+* [Pointer Tagging in C++: The Art of Packing Bits Into a Pointer](https://vectrx.substack.com/p/pointer-tagging-in-c-the-art-of-packing) by *Caden Parker*
+
 * [Stack frame layout on x86-64](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64) by *Eli Bendersky*
 
 * **Understanding Memory Management** by *Eric Rescorla*
