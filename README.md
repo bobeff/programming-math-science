@@ -1036,6 +1036,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Practical Cryptography for Developers](https://cryptobook.nakov.com) by *Svetlin Nakov*
 
+* [The Beginner's Textbook for Fully Homomorphic Encryption](https://arxiv.org/abs/2503.05136) by *Ronny Ko*
+
 ## Data Science
 
 * [Advanced Data Science: Statistics and Prediction Algorithms Through Case Studies](https://rafalab.dfci.harvard.edu/dsbook-part-2) by *Rafael A. Irizarry*
