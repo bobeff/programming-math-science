@@ -1452,6 +1452,8 @@ Thelin*
 
 * [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64) by *Miguel Young de la Sota*
 
+* [SIMD: A Practical Guide](https://vectrx.substack.com/p/simd-a-practical-guide) by *Caden Parker*
+
 * [SIMD for C++ Developers](http://const.me/articles/simd/simd.pdf) **[pdf]**
 
 * [Wojciech Muła — website](http://0x80.pl/notesen.html)
