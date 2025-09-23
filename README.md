@@ -2347,6 +2347,8 @@ Alan Zucconi*
 
 * [Learn C++](https://www.learncpp.com)
 
+* [Learning to read C++ compiler errors: Not a legal base class](https://devblogs.microsoft.com/oldnewthing/20250919-00/?p=111612) by *Raymond Chen*
+
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
