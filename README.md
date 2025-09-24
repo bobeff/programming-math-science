@@ -1060,6 +1060,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Towards Data Science](https://towardsdatascience.com) - The world’s leading publication for data science, AI, and ML professionals.
 
+* [Grokking Statistics](https://www.manning.com/books/grokking-statistics) by *Thomas Nield*
+
 ## Debuggers
 
 * [Debugging with GDB](https://sourceware.org/gdb/current/onlinedocs/gdb.html)
