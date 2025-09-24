@@ -176,6 +176,8 @@ This is a list of links to different freely available learning resources about c
 
 ## AI
 
+* [Agentic Design Patterns](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic) by *Antonio Gulli*
+
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://norvig.github.io/paip-lisp) by *Peter Norvig*
 
 ### Machine Learning
