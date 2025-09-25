@@ -690,6 +690,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Essentials of Compilation: An Incremental Approach](https://iucompilercourse.github.io/tutorial-web-page) by *Geremy G. Siek*
 
+* [Graal Truffle tutorial](https://www.endoflineblog.com/graal-truffle-tutorial-part-0-what-is-truffle) by *Adam Ruka*
+
 * [How Clang Compiles a Function](https://blog.regehr.org/archives/1605) by *John Regehr*
 
 * [How LLVM Optimizes a Function](https://blog.regehr.org/archives/1603) by *John Regehr*
