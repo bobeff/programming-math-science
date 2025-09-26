@@ -3347,6 +3347,8 @@ Christopher Kohlhoff*
 
 * [Jari Komppa's Website](https://solhsa.com)
 
+* [Jaz's Blog](https://jazco.dev)
+
 * [Jens Gustedt's Blog](https://gustedt.wordpress.com)
 
 * [Joe Mckay's Blog](https://joegm.github.io)
