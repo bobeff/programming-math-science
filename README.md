@@ -3139,6 +3139,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
 
+* [The Sparkelling Bedangler](https://morwenn.github.io)
+
 * [Thinking Asynchronously in C++](http://blog.think-async.com) by *
 Christopher Kohlhoff*
 
