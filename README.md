@@ -3204,9 +3204,11 @@ Christopher Kohlhoff*
 
 * [lisyarus blog](https://lisyarus.github.io) by *Nikita Lisitsa*
 
-* [Max Slater's Blog: Computer Graphics, Programming, and Math](https://thenumb.at)
+* [Martin Fuller's Graphics Ramblings](https://martinfullerblog.wordpress.com)
 
 * [Matt Pharr’s blog](https://pharr.org/matt/blog)
+
+* [Max Slater's Blog: Computer Graphics, Programming, and Math](https://thenumb.at)
 
 * [Maxime Heckel's Blog](https://blog.maximeheckel.com)
 
