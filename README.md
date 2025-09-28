@@ -1933,6 +1933,8 @@ Thelin*
 
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
 
+* [Bayesian Data Analysis, Third Edition](https://sites.stat.columbia.edu/gelman/book) by *Andrew Gelman*, *John Carlin*, *Hal Stern*, *David Dunson*, *Aki Vehtari*, and *Donald Rubin*
+
 * [Digital textbook on probability and statistics](https://www.statlect.com) by *Marco Taboga*
 
 * [Elementary Probability for Applications](https://sites.math.duke.edu/~rtd/EP4A/EP4A_April2021.pdf) by *Rick Durrett* **[pdf]**
