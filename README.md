@@ -1418,6 +1418,8 @@ Thelin*
 
 * [Hex: A Strategy Guide](http://www.mseymour.ca/hex_book) by *Matthew Seymour*
 
+* [Learn to Play Go](https://online-go.com/learn-to-play-go)
+
 * [The World's Fastest Scrabble Program](https://www.cs.cmu.edu/afs/cs/academic/class/15451-s06/www/lectures/scrabble.pdf) by Andrew W. Appel and Guy J. Jacobson **[pdf]**
 
 ## Low Level Stuff
