@@ -76,6 +76,7 @@ This is a list of links to different freely available learning resources about c
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
   * [Differential Equations](#defferential-equations)
+  * [Game Theory](#game-theory)
   * [General problem solving](#general-problem-solving)
   * [Geometry](#geometry)
     * [Differential Geometry](#differential-geometry)
@@ -1582,8 +1583,6 @@ Thelin*
 
 * [Foundations of Mathematics](https://people.tamu.edu/~florent/teaching/lecture_notes/220lecture_notes.pdf) by *Florent P. Baudier* **[pdf]**
 
-* [Game Theory with Engineering Applications](https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010) by *Prof. Asuman Ozdaglar*
-
 * [How do undergraduates do mathematics?](https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf) **[pdf]**
 
 * [Intermediate Calculus and Linear Algebra](https://www2.math.upenn.edu/~kazdan/202F13/notes/math21-2013.pdf) by *Jerry L. Kazdan* **[pdf]**
@@ -1818,6 +1817,12 @@ Thelin*
 ### Differential Equations
 
 * [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
+
+### Game Theory
+
+* [Game Theory with Engineering Applications](https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010) by *Prof. Asuman Ozdaglar*
+
+* [Lecture Notes for 1st Year Ph.D. Game Theory](https://econweb.ucsd.edu/~jsobel/200Cs09/Kartik_Notes.pdf) by *Navin Kartik* **[pdf]**
 
 ### General problem solving
 
