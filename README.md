@@ -974,7 +974,7 @@ This is a list of links to different freely available learning resources about c
 
 * [How I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan) by *Elias Daler*
 
-* [NVIDIA Vulkan Ray Tracing Tutorials](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+* [NVIDIA Vulkan Ray Tracing Tutorial](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR) by *Martin-Karl Lefrançois*, *Pascal Gautron*, *Nia Bickford*, *David Akeley*
 
 * [Vulkan – Cross platform 3D Graphics](https://www.vulkan.org)
 
