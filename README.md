@@ -1180,6 +1180,8 @@ This is a list of links to different freely available learning resources about c
   * [Part 2](https://www.sandordargo.com/blog/2025/09/10/observers-part2)
   * [Part 3](https://www.sandordargo.com/blog/2025/09/17/observers-part3)
 
+* [The expression problem and Rust](https://purplesyringa.moe/blog/the-expression-problem-and-rust) by *Alisa Sireneva*
+
 * [From design patterns to category theory](https://blog.ploeh.dk/2017/10/04/from-design-patterns-to-category-theory) by *Mark Seemann*
 
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com) by *Robert Nystrom*
