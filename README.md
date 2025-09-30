@@ -3430,6 +3430,8 @@ Christopher Kohlhoff*
 
 * [protty](https://kprotty.me)
 
+* [purplesyringa](https://purplesyringa.moe) by *Alisa Sireneva*
+
 * [Racey Chan's Blog](https://www.lihil.cc/blog)
 
 * [Rahman Sibahi's Blog](https://asibahi.github.io)
