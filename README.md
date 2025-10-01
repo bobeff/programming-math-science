@@ -2832,6 +2832,8 @@ Alan Zucconi*
 
 * [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 
+* [Colin Leroy-Mira’s Website](https://www.colino.net/wordpress/en/welcome)
+
 * [Neil Parker's Apple II page](https://llx.com/Neil/a2/index.html)
 
 ### Commodore 64
