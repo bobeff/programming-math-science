@@ -14,6 +14,7 @@ This is a list of links to different freely available learning resources about c
   * [Vibe Coding and Spec-Driven Development](#vibe-coding-and-spec-driven-development)
 * [Algorithms](#algorithms)
   * [Bloom Filters](#bloom-filters)
+  * [Diff Algorithms](#diff-algorithms)
 * [Art](#art)
 * [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
@@ -486,8 +487,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) by *David J Wu*
 
-* [Myers Diff Algorithm - Code & Interactive Visualization](https://blog.robertelder.org/diff-algorithm) by *Robert Elder*
-
 * [Notes on Algorithms](https://www.cs.yale.edu/homes/aspnes/pinewiki/CS365(2f)Notes.html) by *James Aspnes*
 
 * [Notes on Data Structures and Programming Techniques](https://www.cs.yale.edu/homes/aspnes/classes/223/notes.html) by *James Aspnes*
@@ -520,6 +519,25 @@ This is a list of links to different freely available learning resources about c
 * [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial)
 
 * [Let's implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter) by *Onat Yiğit Mercan*
+
+### Diff Algorithms
+
+* **Building Git** by *James Coglan*
+  * **The Myers diff algorithm**
+    * [Part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1)
+    * [Part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2)
+    * [Part 3](https://blog.jcoglan.com/2017/02/17/the-myers-diff-algorithm-part-3)
+  * **Myers diff in linear space**
+    * [Part 1: Theory](https://blog.jcoglan.com/2017/03/22/myers-diff-in-linear-space-theory)
+    * [Part 2: Implementation](https://blog.jcoglan.com/2017/04/25/myers-diff-in-linear-space-implementation)
+  * [Merging with diff3](https://blog.jcoglan.com/2017/05/08/merging-with-diff3)
+  * [Why merges fail and what can be done about it](https://blog.jcoglan.com/2017/06/19/why-merges-fail-and-what-can-be-done-about-it)
+  * [The patience diff algorithm](https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm)
+  * [Implementing patience diff](https://blog.jcoglan.com/2017/09/28/implementing-patience-diff)
+
+* [Diff Algorithms](https://flo.znkr.io/diff)
+
+* [Myers Diff Algorithm - Code & Interactive Visualization](https://blog.robertelder.org/diff-algorithm) by *Robert Elder*
 
 ## Art
 
@@ -2983,19 +3001,6 @@ Alan Zucconi*
 * [Unicode programming, with examples](https://begriffs.com/posts/2019-05-23-unicode-icu.html) by *Joe Nelson*
 
 ## Version control tools
-
-* **Building Git** by *James Coglan*
-  * **The Myers diff algorithm**
-    * [Part 1](https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1)
-    * [Part 2](https://blog.jcoglan.com/2017/02/15/the-myers-diff-algorithm-part-2)
-    * [Part 3](https://blog.jcoglan.com/2017/02/17/the-myers-diff-algorithm-part-3)
-  * **Myers diff in linear space**
-    * [Part 1: Theory](https://blog.jcoglan.com/2017/03/22/myers-diff-in-linear-space-theory)
-    * [Part 2: Implementation](https://blog.jcoglan.com/2017/04/25/myers-diff-in-linear-space-implementation)
-  * [Merging with diff3](https://blog.jcoglan.com/2017/05/08/merging-with-diff3)
-  * [Why merges fail and what can be done about it](https://blog.jcoglan.com/2017/06/19/why-merges-fail-and-what-can-be-done-about-it)
-  * [The patience diff algorithm](https://blog.jcoglan.com/2017/09/19/the-patience-diff-algorithm)
-  * [Implementing patience diff](https://blog.jcoglan.com/2017/09/28/implementing-patience-diff)
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
