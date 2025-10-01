@@ -474,6 +474,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf) by *Udi Manber* **[pdf]**
 
+* [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272) by *Aleksandrs Slivkins*
+
 * [Kalman Filter from the Ground Up](https://www.kalmanfilter.net) by *Alex Becker*
 
 * [Lecture Notes on Quantum Algorithms](https://www.cs.umd.edu/~amchilds/qa/qa.pdf) by *Andrew M. Childs* **[pdf]**
