@@ -2810,6 +2810,11 @@ Alan Zucconi*
 
 * [NeHe OpenGL Tutorials](https://nehe.gamedev.net)
 
+* [Patai Gergely's Website](https://cobbpg.github.io)
+  * [Porting Stunt Car Racer to the Commodore Plus/4](https://cobbpg.github.io/articles/stunt-car-racer-plus4-port.html)
+  * [Porting Stunt Car Racer to the Apple II](https://cobbpg.github.io/articles/stunt-car-racer-apple2-port.html)
+  * [Pushing the Boundaries of C64 Graphics with NUFLIX](https://cobbpg.github.io/articles/nuflix.html)
+
 * [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake) by *Pekka Väänänen*
 
 * [Programming specs for the GBA and NDS hardware](https://problemkaputt.de/gbatek.htm) by *Martin Korth*
