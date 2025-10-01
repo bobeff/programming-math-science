@@ -19,7 +19,7 @@ This is a list of links to different freely available learning resources about c
 * [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
   * [Curl](#curl)
-  * [Linux command line](#linux-command-line)
+  * [Linux command line](#linux-command-line)f
 * [Competitions and Interview Preparation Websites](#competitions-and-interview-preparation-websites)
   * [Math](#math-competitions)
     * [Preparation Resources](#math-competitions-preparation)
@@ -28,6 +28,7 @@ This is a list of links to different freely available learning resources about c
     * [Preparation Resources](#programming-competitions-preparation)
 * [Compilers and Interpreters](#compilers-and-interpreters)
 * [Computer Graphics](#computer-graphics)
+  * [Creative Coding](#creative-coding)
   * [Curves and Surfaces](#curves-and-surfaces)
   * [DirectX 12](#directx-12)
   * [Image Processing](#image-processing)
@@ -777,8 +778,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Crash Course in BRDF Implementation](https://boksajak.github.io/blog/BRDF) by *Jakub Boksansky*
 
-* [Creative Coding Tutorials and Articles](https://bleuje.com/tutorials) by *Etienne Jacob*
-
 * [FrostKiwi's Secrets](https://blog.frost.kiwi) by *Wladislav Artsimovich*
   * [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing)
   * [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient)
@@ -861,6 +860,14 @@ This is a list of links to different freely available learning resources about c
 * [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text) by *Tim Gfrerer*
 
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
+
+### Creative Coding
+
+* [Creative Coding Tutorials and Articles](https://bleuje.com/tutorials) by *Etienne Jacob*
+
+* [Inigo Quilez Website](https://iquilezles.org)
+
+* [Paul Bourke's Website](https://paulbourke.net)
 
 ### Curves and Surfaces
 
@@ -3216,8 +3223,6 @@ Christopher Kohlhoff*
 
 * [imad's website](https://imadr.me)
 
-* [Inigo Quilez Website](https://iquilezles.org)
-
 * [Interplay of Light](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
 
 * [Jacco Bikker's Blog](https://jacco.ompf2.com)
@@ -3243,8 +3248,6 @@ Christopher Kohlhoff*
 * [Nikolaos Papadopoulos' Blog](https://www.4rknova.com)
 
 * [Of Shaders & Triangles](https://blog.42yeah.is) by *Hao Joe*
-
-* [Paul Bourke's Website](https://paulbourke.net)
 
 * [Pikuma's Blog](https://pikuma.com) by *Gustavo Pezzi*
 
