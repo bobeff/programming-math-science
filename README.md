@@ -2073,6 +2073,8 @@ Thelin*
 
 * [Software Foundations](https://softwarefoundations.cis.upenn.edu) - A broad introduction to the mathematical underpinnings of reliable software.
 
+* [Type Theory & Functional Programming](https://www.cs.cornell.edu/courses/cs6110/2015sp/textbook/Simon%20Thompson%20textbook.pdf) by *Simon Thompson* **[pdf]**
+
 * [What Can Be Computed?: A Practical Guide to the Theory of Computation](https://www.softouch.on.ca/kb/data/What%20Can%20Be%20Computed.pdf) by *John MacCormick* **[pdf]**
 
 ### Topology
