@@ -3327,6 +3327,8 @@ Christopher Kohlhoff*
 
 * [Andrey Listopadov's Blog](https://andreyor.st)
 
+* [Anton Zhiyanov's Blog](https://antonz.org)
+
 * [Arjun Sreedharan's Blog](https://arjunsreedharan.org)
 
 * [Artem Krylysov's Blog](https://artem.krylysov.com)
