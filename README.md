@@ -3313,6 +3313,8 @@ Christopher Kohlhoff*
 
 * [Math3ma](https://www.math3ma.com/) by *Tai-Danae Bradley*
 
+* [Oran Looney's Blog](https://www.oranlooney.com)
+
 ### Mixed Programming <span id="mixed-programming-blogs">
 
 * [0pfs](https://0fps.net) by *Mikola Lysenko*
