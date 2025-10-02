@@ -1391,6 +1391,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus) by *Damek Davis*
 
+* [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by *Aleksa Gordić*
+
 * [Introduction to CUDA Programming With GPU Puzzles](https://henryhmko.github.io/posts/cuda/cuda.html) by *Henry Ko*
 
 * [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html) by *Henry Ko*
