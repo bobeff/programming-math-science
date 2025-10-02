@@ -1568,7 +1568,6 @@ Thelin*
     * [Sets, Groups and Knots](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/101/course/course.pdf) **[pdf]**
     * [Topology](https://people.math.harvard.edu/~ctm/papers/home/text/class/harvard/131/course/course.pdf) **[pdf]**
 
-
 * [Course notes by J.S. Milne](https://www.jmilne.org/math/CourseNotes)
   * [Abelian Varieties](https://www.jmilne.org/math/CourseNotes/AV.pdf) **[pdf]**
   * [Algebraic Geometry](https://www.jmilne.org/math/CourseNotes/AG.pdf) **[pdf]**
@@ -1726,6 +1725,8 @@ Thelin*
   * [Functional Analysis and Operator Algebras: An Introduction](https://web.pdx.edu/%7Eerdman/FAOA/functional_analysis_operator_algebras_pdf.pdf) **[pdf]**
 
 * [The Lost Art of Logarithms](https://www.lostartoflogarithms.com) by *Charles Petzold*
+
+* [The Mathematics in Toys and Games](https://ocw.mit.edu/courses/es-268-the-mathematics-in-toys-and-games-spring-2010) by *Jing Li*, *Prof. Erik Demaine*, and *Melissa Gymrek*
 
 * [The Matrix Cookbook](https://www2.compute.dtu.dk/pubdb/pubs/3274-full.html) by *Kaare Brandt Petersen* and *Michael Syskind Pedersen*
 
