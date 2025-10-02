@@ -3479,6 +3479,8 @@ Christopher Kohlhoff*
 
 * [Vectorized](https://vectrx.substack.com) by *Caden Parker*
 
+* [Vladimir Makarov's Blog](https://vnmakarov.github.io)
+
 * [xnacly - blog](https://xnacly.me)
 
 * [Zaid Humayun's Blog](https://redixhumayun.github.io)
