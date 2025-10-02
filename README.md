@@ -2031,6 +2031,8 @@ Thelin*
 
 * [Seeing Theory](https://seeing-theory.brown.edu) - a book about statistics with interactive visualizations by *Daniel Kunin, Jingru Guo, Tyler Dae Devlin, and Daniel Xiang*
 
+* [Statistical Inference, Second Edition](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) by *George Casella* and *Roger L. Berger* **[pdf]**
+
 * [Statistics Handbook](https://github.com/carloocchiena/the_statistics_handbook) by *Carlo Occhiena*
 
 * [Stochastic Processes](https://adembo.su.domains/math-136/nnotes.pdf) by *Amir Dembo* **[pdf]**
