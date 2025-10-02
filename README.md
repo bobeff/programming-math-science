@@ -3105,6 +3105,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Ahead of AI](https://magazine.sebastianraschka.com) by *Sebastian Raschka*
 
+* [Aleksa Gordić blog](https://www.aleksagordic.com)
+
 * [Chizoba Obasi's Blog](https://chizkidd.github.io)
 
 * [Jake Tae's Blog](https://jaketae.github.io)
