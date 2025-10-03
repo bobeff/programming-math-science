@@ -1818,6 +1818,8 @@ Thelin*
 
 * [Principles of Mathematical Analysis](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf) by *Walter Rudin* **[pdf]**
 
+* [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020) by *Dr. Casey Rodriguez*
+
 #### Vector Calculus
 
 * [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html) by *David Tong*
