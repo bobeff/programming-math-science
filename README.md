@@ -63,13 +63,13 @@ This is a list of links to different freely available learning resources about c
 * [General Programming](#general-programming)
   * [Lists of programming projects to try to implement](#lists-of-programming-projects-to-try-to-implement)
 * [Geographic Information Systems](#geographic-information-systems)
-* [GPU and TPU programming](#gpu-and-tpu-programming)
 * [GUI Programming](#gui-programming)
 * [Hardware](#hardware)
 * [Information Theory](#information-theory)
 * [IQ Tests](#iq-tests)
 * [Logical Games](#logical-games)
 * [Low Level Stuff](#low-level-stuff)
+  * [GPU and TPU programming](#gpu-and-tpu-programming)
   * [SIMD programming](#simd-programming)
 * [Math](#math)
   * [Algebra](#algebra)
@@ -1387,16 +1387,6 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Python for Geographic Data Analysis](https://pythongis.org) by *Henrikki Tenkanen*, *Vuokko Heikinheimo*, and *David Whipp*
 
-## GPU and TPU Programming
-
-* [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus) by *Damek Davis*
-
-* [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by *Aleksa Gordić*
-
-* [Introduction to CUDA Programming With GPU Puzzles](https://henryhmko.github.io/posts/cuda/cuda.html) by *Henry Ko*
-
-* [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html) by *Henry Ko*
-
 ## GUI Programming
 
 * [A Book about Qt5](https://qmlbook.github.io) by *Jürgen Bocklage-Ryannel* and *Johan
@@ -1491,6 +1481,21 @@ Thelin*
   * [Part 7: Advanced Garbage Collection](https://educatedguesswork.org/posts/memory-management-7)
 
 * [What Every Computer Scientist Should Know About Floating-Point Arithmetic](https://docs.oracle.com/cd/E19957-01/800-7895/800-7895.pdf) **[pdf]**
+
+* [Matrix Multiplication Optimization Article Series](https://salykova.github.io) by *Amanzhol Salykov*
+  * [Advanced Matrix Multiplication Optimization on Modern Multi-Core Processors](https://salykova.github.io/gemm-cpu)
+  * [Advanced Matrix Multiplication Optimization on NVIDIA GPUs](https://salykova.github.io/gemm-gpu)
+  * [Matrix Core Programming on AMD CDNA3 and CDNA4 architecture](https://salykova.github.io/matrix-cores-cdna)
+
+### GPU and TPU Programming
+
+* [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus) by *Damek Davis*
+
+* [Inside NVIDIA GPUs: Anatomy of high performance matmul kernels](https://www.aleksagordic.com/blog/matmul) by *Aleksa Gordić*
+
+* [Introduction to CUDA Programming With GPU Puzzles](https://henryhmko.github.io/posts/cuda/cuda.html) by *Henry Ko*
+
+* [TPU Deep Dive](https://henryhmko.github.io/posts/tpu/tpu.html) by *Henry Ko*
 
 ### SIMD programming
 
@@ -3333,6 +3338,8 @@ Christopher Kohlhoff*
 * [Aaro Luomanen's Blog](https://aarol.dev)
 
 * [Alberto Ventafridda's Blog](https://halb.it)
+
+* [Amanzhol Salykov's Blog](https://salykova.github.io)
 
 * [Amit's Thoughts](https://amitp.blogspot.com) by *Amit Patel*
 
