@@ -1496,6 +1496,8 @@ Thelin*
 
 * [ARM NEON for C++ Developers](http://const.me/articles/simd/NEON.pdf) **[pdf]**
 
+* [Cuckoo hashing improves SIMD hash tables](https://reiner.org/cuckoo-hashing#large-out-of-cache-tables-successful-lookups) by *Reiner Pope*
+
 * [Designing a SIMD Algorithm from Scratch](https://mcyoung.xyz/2023/11/27/simd-base64) by *Miguel Young de la Sota*
 
 * [SIMD: A Practical Guide](https://vectrx.substack.com/p/simd-a-practical-guide) by *Caden Parker*
