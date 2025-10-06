@@ -3393,6 +3393,8 @@ Christopher Kohlhoff*
 
 * [Fernando Borretti's Website](https://borretti.me)
 
+* [Francesco Mazzoli's Blog](https://mazzo.li/archive.html)
+
 * [Games by Mason](https://gamesbymason.com/blog)
 
 * [Gerneral Protection Fault](https://gpfault.net)
