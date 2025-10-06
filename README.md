@@ -3132,6 +3132,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Borislav Stanimirov's Website](https://ibob.bg)
 
+* [Braden Ganetsky's Website](https://ganets.ky)
+
 * [C++ Metaprogramming](https://odinthenerd.blogspot.com) by *Odin Holmes*
 
 * [C++ on a Friday](https://blog.knatten.org) by *Anders Schau Knatten*
