@@ -2945,6 +2945,8 @@ Alan Zucconi*
 
 * [Introduction to Autonomous Robots](https://introduction-to-autonomous-robots.github.io) by *Nikolaus Correll, Bradley Hayes, Christoffer Heckman, and Alessandro Roncone*
 
+* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) by *Jessy Grizzle*
+
 * [Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/Modern_Robotics) by *Kevin M. Lynch* and *Frank C. Park*
 
 * [Robotics & ROS 2 Essentials](https://github.com/henki-robotics/robotics_essentials_ros2)
