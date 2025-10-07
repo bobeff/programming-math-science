@@ -3262,6 +3262,8 @@ Christopher Kohlhoff*
 
 * [Martin Fuller's Graphics Ramblings](https://martinfullerblog.wordpress.com)
 
+* [Maister's Graphics Adventures](https://themaister.net/blog) by *Hans-Kristian Arntzen*
+
 * [Matt Pharr’s blog](https://pharr.org/matt/blog)
 
 * [Max Slater's Blog: Computer Graphics, Programming, and Math](https://thenumb.at)
