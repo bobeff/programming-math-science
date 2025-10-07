@@ -3571,6 +3571,8 @@ Christopher Kohlhoff*
 
 * [The Nature of Code](https://natureofcode.com) - A book about how can we capture the unpredictable evolutionary and emergent properties of nature in software by *Daniel Shiffman*
 
+* [Vjeux Blog](https://blog.vjeux.com)
+
 ## Other lists
 
 * [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html) - A list of free programming books.
