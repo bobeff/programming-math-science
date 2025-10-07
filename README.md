@@ -3230,6 +3230,8 @@ Christopher Kohlhoff*
 
 * [Chema Guerra's Blog](https://brashandplucky.com)
 
+* [Cyanilux Game Dev Blog & Tutorials](https://www.cyanilux.com)
+
 * [DirectX Developer Blog](https://devblogs.microsoft.com/directx)
 
 * [Eric Arnebäck's Blog](https://erkaman.github.io)
