@@ -3304,6 +3304,8 @@ Christopher Kohlhoff*
 
 * [Self Shadow](https://blog.selfshadow.com)
 
+* [Stephen Sherratt's Blog](https://www.gridbugs.org)
+
 * [The blog at the bottom of the sea](https://blog.demofox.org) by *Alan Wolfe*
 
 * [The Brain Dump](https://floooh.github.io) by *Andre Weissflog*
