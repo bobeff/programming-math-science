@@ -3499,6 +3499,8 @@ Christopher Kohlhoff*
 
 * [Sam Rose's Blog](https://samwho.dev)
 
+* [Simon Willison's Weblog](https://simonwillison.net)
+
 * [Squadrick](https://squadrick.dev) by *Dheeraj Reddy*
 
 * [Stephen Diehl's Blog](https://www.stephendiehl.com)
