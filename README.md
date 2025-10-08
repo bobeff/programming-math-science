@@ -3379,9 +3379,11 @@ Christopher Kohlhoff*
 
 * [Bradley Chatha's D Blog](https://bradley.chatha.dev/blog)
 
-* [Considerations on Codecrafting](https://blog.polybdenum.com)
-
 * [Chris Penner's Blog](https://chrispenner.ca)
+
+* [Chuniversiteit](https://chuniversiteit.nl/archive) by *Chun Fei Lung*
+
+* [Considerations on Codecrafting](https://blog.polybdenum.com)
 
 * [Dan Hollick's Blog](https://typefully.com/DanHollick)
 
