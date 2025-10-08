@@ -1139,6 +1139,10 @@ This is a list of links to different freely available learning resources about c
 
 * [Concurrency Control and Recovery in Database Systems](https://www.microsoft.com/en-us/research/people/philbe/book) by *Philip A. Bernstein*, *Vassos Hadzilacos*, *Nathan Goodman*
 
+* [Jacob's blog: On database building blocks](https://jacobsherin.com) by *Sherin Jacob*
+  * [A B+Tree Node Underflows: Merge or Borrow?](https://jacobsherin.com/posts/2025-08-16-bplustree-compare-borrow-merge)
+  * [Cache-Friendly B+Tree Nodes With Dynamic Fanout](https://jacobsherin.com/posts/2025-08-18-bplustree-struct-hack)
+
 * [Let's Build a Simple Database](https://cstack.github.io/db_tutorial) by *Connor Stack*
 
 ### NoSQL
