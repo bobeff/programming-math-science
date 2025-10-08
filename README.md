@@ -3541,6 +3541,8 @@ Christopher Kohlhoff*
 
 ### Web Development <span id="web-development-blogs">
 
+* [nullpt-rs blog](https://nullpt.rs)
+
 * [Frontend Masters](https://frontendmasters.com)
 
 * [Josh Comeau's Website](https://www.joshwcomeau.com) - Animation, CSS, JavaScript, React
