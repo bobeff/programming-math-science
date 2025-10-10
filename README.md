@@ -3465,6 +3465,8 @@ Christopher Kohlhoff*
 
 * [Miguel Grinberg's Blog](miguelgrinberg.com)
 
+* [Mikael Zayenz Lagerkvist's Personal Website](https://zayenz.se)
+
 * [MonoidMusicianʼs Blog](https://blog.veritates.love) by *Verity Scheel*
 
 * [Nicholas Nethercote's Blog](https://nnethercote.github.io)
