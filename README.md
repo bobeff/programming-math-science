@@ -3421,6 +3421,8 @@ Christopher Kohlhoff*
 
 * [glfmn.io](https://glfmn.io)
 
+* [Interjected Future](https://interjectedfuture.com) by *Wil Chung*
+
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
 
 * [James Oswald's Blog](https://jamesoswald.dev/posts)
