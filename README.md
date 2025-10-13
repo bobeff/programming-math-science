@@ -19,7 +19,8 @@ This is a list of links to different freely available learning resources about c
 * [Biology](#biology)
 * [Command Line and Tools](#command-line-and-tools)
   * [Curl](#curl)
-  * [Linux command line](#linux-command-line)f
+  * [Linux command line](#linux-command-line)
+  * [Nix](#nix)
 * [Competitions and Interview Preparation Websites](#competitions-and-interview-preparation-websites)
   * [Math](#math-competitions)
     * [Preparation Resources](#math-competitions-preparation)
@@ -562,9 +563,7 @@ This is a list of links to different freely available learning resources about c
 
 * [How is a binary executable organized? Let's explore it!](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable) by *Julia Evans*
 
-* [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com) by *Chase Lambert*
-
-* [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world) - An unofficial book for beginners by *Ryan Yin*
+* [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com) by *Chase Lambert*S
 
 * [rsync: Series](https://michael.stapelberg.ch/posts/2022-06-18-rsync-overview) by *Michael Stapelberg*
 
@@ -599,6 +598,12 @@ This is a list of links to different freely available learning resources about c
 * [The Linux Command Line](https://linuxcommand.org/tlcl.php) by *William Shotts*
 
 * [Linux Commands Cheat Sheet](https://linux-commands.labex.io/)
+
+### Nix
+
+* [NixOS & Flakes Book](https://nixos-and-flakes.thiscute.world) - An unofficial book for beginners by *Ryan Yin*
+
+* [Wombat’s Book of Nix](https://mhwombat.codeberg.page/nix-book) by *Amy de Buitléir*
 
 ## Competitions and Interview Preparation Websites
 
