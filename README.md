@@ -3560,6 +3560,8 @@ Christopher Kohlhoff*
 
 * [Frontend Masters](https://frontendmasters.com)
 
+* [Hugo Daniel's Blog](https://hugodaniel.com)
+
 * [Josh Comeau's Website](https://www.joshwcomeau.com) - Animation, CSS, JavaScript, React
 
 * [JSLegendDev’s Substack](https://jslegenddev.substack.com) - Web development, game development and their intersection.
