@@ -3269,6 +3269,8 @@ Christopher Kohlhoff*
 
 * [Interplay of Light](https://interplayoflight.wordpress.com) by *Kostas Anagnostou*
 
+* [Irradiance Blog](https://irradiance.ca) by *Pablo Zurita*
+
 * [Jacco Bikker's Blog](https://jacco.ompf2.com)
 
 * [Jason Mcghee's Blog](https://jason.today)
