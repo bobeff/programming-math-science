@@ -3239,6 +3239,8 @@ Christopher Kohlhoff*
 
 * [Bits, pixels, cycles and more](https://zeux.io) by *Arseny Kapoulkine*
 
+* [Bumbershoot Software Blog](https://bumbershootsoft.wordpress.com) by *Michael Martin*
+
 * [c0de517e's weblore](https://www.c0de517e.com) by *Angelo Pesce*
 
 * [Chema Guerra's Blog](https://brashandplucky.com)
