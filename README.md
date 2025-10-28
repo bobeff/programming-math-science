@@ -3490,6 +3490,8 @@ Christopher Kohlhoff*
 
 * [Omar Aflak's Blog](https://omaraflak.medium.com)
 
+* [Owen Shepherd's Blog](https://owen.cafe)
+
 * [Paul Smith's Blog](https://www.pauladamsmith.com)
 
 * [Phil Eaton's Website](https://eatonphil.com)
