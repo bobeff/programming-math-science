@@ -3005,6 +3005,8 @@ Alan Zucconi*
   * [Part 2: Projects and Keybindings](https://arne.me/articles/emacs-from-scratch-part-two)
   * [Part 3: LSP & Tree-sitter](https://arne.me/blog/emacs-config-from-scratch-part-three)
 
+* [System Crafters Emacs Guides](https://systemcrafters.net/guides)
+
 * [Emacs Lisp Elements](https://protesilaos.com/emacs/emacs-lisp-elements) by *Protesilaos*
 
 * **Emacs Mini Manual** by *Tu Do*
