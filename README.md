@@ -2307,6 +2307,8 @@ Alan Zucconi*
 
 * [An interactive guide to x86-64 assembly](https://halb.it/posts/x64-introduction) by *Alberto Ventafridda*
 
+* [Easy RISC-V](https://dramforever.github.io/easyriscv) by **
+
 * [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons)
 
 * [Learn Assembly Language](https://asmtutor.com) -  NASM x86 assembly language tutorial on Linux.
