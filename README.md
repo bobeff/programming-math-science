@@ -3398,6 +3398,8 @@ Christopher Kohlhoff*
 
 * [Bradley Chatha's D Blog](https://bradley.chatha.dev/blog)
 
+* [Chris Loy's Blog](https://chrisloy.dev)
+
 * [Chris Penner's Blog](https://chrispenner.ca)
 
 * [Chuniversiteit](https://chuniversiteit.nl/archive) by *Chun Fei Lung*
