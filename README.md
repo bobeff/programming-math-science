@@ -3348,6 +3348,8 @@ Christopher Kohlhoff*
   * [Probability Theory](https://almostsuremath.com/probability-theory)
   * [Absolutely Sure](https://almostsuremath.com/absolutely-sure)
 
+* [Ben Brubaker's Blog](https://benbrubaker.com/blog)
+
 * [Better Explained](https://betterexplained.com)
 
 * [Galileo Unbound Blog](https://galileo-unbound.blog) by *Prof. David D. Nolte*
