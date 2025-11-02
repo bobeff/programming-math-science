@@ -3358,6 +3358,8 @@ Christopher Kohlhoff*
 
 * [John D. Cook's Blog](https://www.johndcook.com/blog)
 
+* [Machine Logic](https://lawrencecpaulson.github.io) by *Lawrence C. Paulson*
+
 * [Math3ma](https://www.math3ma.com/) by *Tai-Danae Bradley*
 
 * [Oran Looney's Blog](https://www.oranlooney.com)
