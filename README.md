@@ -1272,6 +1272,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction) by *Eli Bendersky*
 
+* [Implementing the Raft distributed consensus protocol in Go](https://notes.eatonphil.com/2023-05-25-raft.html) by *Phil Eaton*
+
 * [Linearizability in distributed systems](https://eli.thegreenplace.net/2024/linearizability-in-distributed-systems) by *Eli Bendersky*
 
 * [Notes on Theory of Distributed Systems](http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf) by *James Aspnes* **[pdf]**
