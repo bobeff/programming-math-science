@@ -1351,6 +1351,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Game Engines
 
+* [Bevy game development](https://taintedcoders.com) by *Nolan Tait*
+
 * [C# and Shader Tutorials for the Unity Engine](https://catlikecoding.com/unity/tutorials) by *Jasper Flick*
 
 * [Godot Engine 4 Tutorials](https://catlikecoding.com/godot) by *Jasper Flick*
