@@ -3021,6 +3021,8 @@ Alan Zucconi*
 
 * [How to learn Emacs](https://david.rothlis.net/emacs/howtolearn.html) by *David Röthlisberger*
 
+* [How I am deeply integrating emacs](https://joshblais.com/blog/how-i-am-deeply-integrating-emacs) by *Joshua Blais*
+
 * [Org Mode](https://orgmode.org)
 
 * [Use GNU Emacs: The Plain Text Computing Environment](https://www2.lib.uchicago.edu/keith/emacs) by *Keith Waclena*
