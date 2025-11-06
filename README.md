@@ -3368,6 +3368,8 @@ Christopher Kohlhoff*
 
 * [Math3ma](https://www.math3ma.com/) by *Tai-Danae Bradley*
 
+* [Mathematical Enchantment](https://mathenchant.wordpress.com) by *James Propp*
+
 * [Oran Looney's Blog](https://www.oranlooney.com)
 
 ### Mixed Programming <span id="mixed-programming-blogs">
