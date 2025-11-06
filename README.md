@@ -3076,6 +3076,8 @@ Alan Zucconi*
 * [Mozilla Developers Network](https://developer.mozilla.org) - Resources for Developers,
 by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
+* [Ruby on Rails Guides](https://guides.rubyonrails.org)
+
 * [Single page apps in depth](https://singlepageappbook.com/) by *Mikito Takada*
 
 * [Tania Rascia'a Web Development Deep Dives](https://www.taniarascia.com/topics)
