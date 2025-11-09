@@ -3548,6 +3548,8 @@ Christopher Kohlhoff*
 
 * [Sam Rose's Blog](https://samwho.dev)
 
+* [Serge Skoredin's Blog](https://skoredin.pro/blog)
+
 * [Simon Willison's Weblog](https://simonwillison.net)
 
 * [Squadrick](https://squadrick.dev) by *Dheeraj Reddy*
