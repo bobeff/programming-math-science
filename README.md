@@ -2313,7 +2313,7 @@ Alan Zucconi*
 
 * [An interactive guide to x86-64 assembly](https://halb.it/posts/x64-introduction) by *Alberto Ventafridda*
 
-* [Easy RISC-V](https://dramforever.github.io/easyriscv) by **
+* [Easy RISC-V](https://dramforever.github.io/easyriscv)
 
 * [FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons)
 
