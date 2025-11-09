@@ -3392,6 +3392,8 @@ Christopher Kohlhoff*
 
 * [Andreas Herrmann's Blog](https://aherrmann.github.io)
 
+* [Andrew Gallant's Blog](https://burntsushi.net)
+
 * [Andrew Healey's Blog](https://healeycodes.com)
 
 * [Andrey Listopadov's Blog](https://andreyor.st)
