@@ -3412,6 +3412,8 @@ Christopher Kohlhoff*
 
 * [Chris Penner's Blog](https://chrispenner.ca)
 
+* [Chris Warbo's Blog](http://www.chriswarbo.net/blog)
+
 * [Chuniversiteit](https://chuniversiteit.nl/archive) by *Chun Fei Lung*
 
 * [Considerations on Codecrafting](https://blog.polybdenum.com)
