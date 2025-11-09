@@ -3544,6 +3544,8 @@ Christopher Kohlhoff*
 
 * [Rahman Sibahi's Blog](https://asibahi.github.io)
 
+* [Rahul Gopinath's Blog](https://rahul.gopinath.org/posts)
+
 * [RasterGrid](https://www.rastergrid.com/blog)
 
 * [Reasonably Polymorphic](https://reasonablypolymorphic.com) by *Sandy Maguire*
