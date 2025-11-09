@@ -401,6 +401,8 @@ This is a list of links to different freely available learning resources about c
 
 * [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms) by *David Crawshaw*
 
+* [How I Use Every Claude Code Feature](https://blog.sshh.io/p/how-i-use-every-claude-code-feature) by *Shrivu Shankar*
+
 * [My LLM codegen workflow atm](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm) by *Harper Reed*
 
 * [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit) by *Den Delimarsky*
