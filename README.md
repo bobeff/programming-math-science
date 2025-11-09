@@ -2994,6 +2994,8 @@ Alan Zucconi*
 
 * [How to Test](https://matklad.github.io/2021/05/31/how-to-test.html) by *Alex Kladov*
 
+* [The Fuzzing Book](https://www.fuzzingbook.org) by *Andreas Zeller*, *Rahul Gopinath*, *Marcel Böhme*, *Gordon Fraser*, and *Christian Holler*
+
 ## Text editors
 
 * [Build Your Own Text Editor](https://viewsourcecode.org/snaptoken/kilo)
