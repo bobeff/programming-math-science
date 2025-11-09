@@ -2282,6 +2282,8 @@ Alan Zucconi*
 
 * [A Dumb Introduction to z3](https://asibahi.github.io/thoughts/a-gentle-introduction-to-z3) by *Rahman Sibahi*
 
+* [Control structures in programming languages: from goto to algebraic effects](https://xavierleroy.org/control-structures) by *Xavier Leroy*
+
 * **[Exotic Programming Ideas](https://www.stephendiehl.com/posts/types_of_types/)** by *Stephen Diehl*
   * [Part 1: Module Systems](https://www.stephendiehl.com/posts/exotic_01)
   * [Part 2: Term Rewriting](https://www.stephendiehl.com/posts/exotic_02)
