@@ -3512,6 +3512,8 @@ Christopher Kohlhoff*
 
 * [Nicolas Rinaudo's Blog](https://nrinaudo.github.io/articles.html)
 
+* [Niko Matsakis's Blog](https://smallcultfollowing.com/babysteps/blog/)
+
 * [NULL BITMAP](https://buttondown.com/jaffray) by *Justin Jaffray*
 
 * [NULL on error](https://nullonerror.org) - Flipping bits whilst updating pixels by *Rodrigo Delduca*
