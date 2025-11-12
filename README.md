@@ -3482,6 +3482,8 @@ Christopher Kohlhoff*
 
 * [Joe Mckay's Blog](https://joegm.github.io)
 
+* [Jonathan Marler's Blog](https://marler8997.github.io)
+
 * [Julia Evans](https://jvns.ca)
 
 * [Karl Seguin's Blog](https://www.openmymind.net)
