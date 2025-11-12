@@ -2654,6 +2654,8 @@ Alan Zucconi*
 
 * [Datalog in Rust](https://github.com/frankmcsherry/blog/blob/master/posts/2025-06-03.md) by *Frank McSherry*
 
+* [Learn Prolog Now!](https://lpn.swi-prolog.org) by *Patrick Blackburn*, *Johan Bos*, *Kristina Striegnitz*
+
 * [The Power of Prolog](https://www.metalevel.at/prolog) by *Markus Triska*
 
 * [Game Programming in Prolog](https://thingspool.net/morsels/list.html) by *Youngjin Kang*
