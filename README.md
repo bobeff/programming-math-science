@@ -868,6 +868,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text) by *Tim Gfrerer*
 
+* [The Geometry Behind Normal Maps](https://www.shlom.dev/articles/geometry-behind-normal-maps) by *Shlomi Nissan*
+
 * [WebGL2 Fundamentals](https://webgl2fundamentals.org/)
 
 ### Creative Coding
