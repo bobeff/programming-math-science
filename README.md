@@ -2179,6 +2179,8 @@ Thelin*
 
 ## Operating Systems
 
+* [A Commentary On The Sixth Edition Unix Operating System](https://warsus.github.io/lions-) by *J. Lions*
+
 * [Advanced Linux Programming](https://agabroward.org/ourpages/auto/2017/10/14/52245814/advanced-linux-programming.pdf) by *Mark Mitchell*, *Jeffrey Oldham*, and *Alex Samuel* **[pdf]**
 
 * [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os)
