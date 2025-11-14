@@ -301,6 +301,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Principles of Deep Learning Theory](https://arxiv.org/abs/2106.10165) by *Daniel A. Roberts*, *Sho Yaida*, *Boris Hanin*
 
+* [The Principles of Diffusion Models: From Origins to Advances](https://arxiv.org/abs/2510.21890) by *Chieh-Hsin Lai*, *Yang Song*, *Dongjun Kim*, *Yuki Mitsufuji*, *Stefano Ermon*
+
 * [Theory of Deep Learning](https://www.cs.princeton.edu/~arora/TheoryDL.pdf) by *Zhao Song* **[pdf]**
 
 * [Tutorial on Diffusion Models for Imaging and Vision](https://arxiv.org/abs/2403.18103) by *Stanley H. Chan*
