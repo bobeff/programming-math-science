@@ -243,6 +243,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook) by *Mehryar Mohri*, *Afshin Rostamizadeh*, and *Ameet Talwalkar* **[MIT]**
 
+* [GNN From Scratch](https://cultured-avenue-f13.notion.site/GNN-From-Scratch-2a3dfe9550dd80ac87deee4fe6cd0696) by **
+
 * [Harvard's undergraduate course in Machine Learning](https://github.com/harvard-ml-courses/cs181-textbook) by *William J. Deuschle*
 
 * [Introduction to Flow Matching and Diffusion Models](https://diffusion.csail.mit.edu) by *Peter Holderrieth* and *Ezra Erives*
