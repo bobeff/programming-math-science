@@ -1827,6 +1827,8 @@ Thelin*
 
 * [Calculus 1 for Honours Mathematics](https://math.uwaterloo.ca/~baforres/UCM137/CourseNotes/Forrest_M137CN.pdf) by *Barbara A. Forrest* and *Brian E. Forrest* **[pdf]**
 
+* [Calculus for Mathematicians, Computer Scientists, and Physicists](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) by *Andrew D. Hwang* **[pdf]**
+
 * [Calculus Made Easy](http://calculusmadeeasy.org/) by [*Silvanus P. Thompson*](https://en.wikipedia.org/wiki/Silvanus_P._Thompson)
 
 * [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl) by *John Verzani*
