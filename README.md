@@ -2129,6 +2129,8 @@ Thelin*
 
 * [Mathematical Techniques for Computer Science](https://drive.google.com/file/d/1TRs0Yfdlm7UpY1LJ80ya8rLnmsWUVFi6/view) by *Andrea Schalk* **[pdf]**
 
+* [Mathematics and Computation: A Theory Revolutionizing Technology and Science](https://www.math.ias.edu/files/Book-online-Aug0619.pdf) by *Avi Wigderson* **[pdf]**
+
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) by *Eric Lehman*, *F. Thomson Leighton*, and *Albert R. Meyer* **[pdf]**
 
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/6-1200j-mathematics-for-computer-science-spring-2024) by *Prof. Erik Demaine*, *Dr. Zachary Abel*, and *Dr. Brynmor Chapman*
