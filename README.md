@@ -3514,6 +3514,8 @@ Christopher Kohlhoff*
 
 * [Lei Xia's Blog](https://www.ddhigh.com/en)
 
+* [Lesley Lai's Blog](https://lesleylai.info)
+
 * [Loris Cro's Personal Website](https://kristoff.it)
 
 * [Mario's Lab](https://marioslab.io) by *Mario Zechner*
