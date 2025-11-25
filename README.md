@@ -2834,6 +2834,8 @@ Alan Zucconi*
 
 * [Learning Zig](https://www.openmymind.net/learning_zig) by *Karl Seguin*
 
+* [Zigbook](https://www.zigbook.net)
+
 ## Retrocomputing
 
 * [A Guide to the Graphics of the Sega Mega Drive / Genesis](https://rasterscroll.com/mdgraphics)
