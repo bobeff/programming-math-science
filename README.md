@@ -3574,6 +3574,8 @@ Christopher Kohlhoff*
     * [KABOOM! in 180 lines of bare C++](https://github.com/ssloy/tinykaboom/wiki)
     * [Least squares for programmers](https://github.com/ssloy/least-squares-course)
 
+* [Pointers Gone Wild](https://pointersgonewild.com) by *Maxime Chevalier-Boisvert*
+
 * [Probably Dance](https://probablydance.com)
 
 * [protty](https://kprotty.me)
