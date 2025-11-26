@@ -1256,6 +1256,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Digital Signal Processing
 
+* [Digital Signals Theory](https://brianmcfee.net/dstbook-site/content/intro.html) by *Brian McFee*
+
 * [Online Textbooks and Course Materials by Julius Orion Smith III](https://ccrma.stanford.edu/~jos)
   * [AI Audio Signal Processing Reading List](https://cm-gitlab.stanford.edu/jos/music423-2023/-/blob/master/README.md)
   * [Audio Signal Processing in FAUST](https://ccrma.stanford.edu/~jos/aspf)
