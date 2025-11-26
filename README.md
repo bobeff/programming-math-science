@@ -3224,6 +3224,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com)
 
+* [Mathieu Ropert's Blog](https://mropert.github.io)
+
 * [Modernes C++](https://www.modernescpp.com) by *Rainer Grimm*
 
 * [Molecular Musings](https://blog.molecular-matters.com) by *Stefan Reinalter*
