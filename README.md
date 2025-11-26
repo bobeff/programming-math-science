@@ -3526,6 +3526,8 @@ Christopher Kohlhoff*
 
 * [Mario's Lab](https://marioslab.io) by *Mario Zechner*
 
+* [Martin Janiczek's Blog](https://martin.janiczek.cz)
+
 * [Martin Uecker's Blog](https://uecker.codeberg.page/blog.html)
 
 * [MALTSEV.SPACE](https://maltsev.space) by *Aleksey Maltsev*
