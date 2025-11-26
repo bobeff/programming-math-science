@@ -898,6 +898,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A Gentle Introduction to D3D12](https://alextardif.com/DX12Tutorial.html) by *Alex Tardif*
 
+* [All Sources of DirectX 12 Documentation](https://asawicki.info/news_1794_all_sources_of_directx_12_documentation) by *Adam Sawicki*
+
 * **Compute with DirectX 12** by *Stefan Pijnacker*
   * [Part 1: the Theory](https://www.stefanpijnacker.nl/article/compute-with-directx12-part-1)
   * [Part 2: The Setup](https://www.stefanpijnacker.nl/article/compute-with-directx-12-part-2)
