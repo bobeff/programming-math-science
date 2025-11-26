@@ -3253,6 +3253,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 * [Thinking Asynchronously in C++](http://blog.think-async.com) by *
 Christopher Kohlhoff*
 
+* [Tomasz Wisniewski's Blog](https://twdev.blog)
+
 * [vector-of-bool](https://vector-of-bool.github.io)
 
 * [Victor Zverovich's Blog](https://vitaut.net)
