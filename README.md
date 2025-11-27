@@ -3525,6 +3525,8 @@ Christopher Kohlhoff*
 
 * [Julia Evans](https://jvns.ca)
 
+* [Justin Meiners's Blog](https://www.jmeiners.com)
+
 * [Karl Seguin's Blog](https://www.openmymind.net)
 
 * [Karl Zylinski'a Website](https://zylinski.se)
