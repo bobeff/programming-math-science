@@ -14,6 +14,7 @@ This is a list of links to different freely available learning resources about c
   * [Vibe Coding and Spec-Driven Development](#vibe-coding-and-spec-driven-development)
 * [Algorithms](#algorithms)
   * [Bloom Filters](#bloom-filters)
+  * [Date-time](#date-time)
   * [Diff Algorithms](#diff-algorithms)
 * [Art](#art)
 * [Biology](#biology)
@@ -529,6 +530,10 @@ This is a list of links to different freely available learning resources about c
 * [Bloom Filters by Example](https://llimllib.github.io/bloomfilter-tutorial)
 
 * [Let's implement a Bloom Filter](https://onatm.dev/2020/08/10/let-s-implement-a-bloom-filter) by *Onat Yiğit Mercan*
+
+### Date-time
+
+* [A Very Fast 64–Bit Date Algorithm](https://www.benjoffe.com/fast-date-64) by *Ben Joffe*
 
 ### Diff Algorithms
 
