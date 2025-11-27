@@ -3627,6 +3627,8 @@ Christopher Kohlhoff*
 
 * [Thomas Leonard's blog](https://roscidus.com)
 
+* [TK Kinoshita's Blog](https://www.iamtk.co)
+
 * [Vectorized](https://vectrx.substack.com) by *Caden Parker*
 
 * [Vladimir Makarov's Blog](https://vnmakarov.github.io)
