@@ -3361,6 +3361,8 @@ Christopher Kohlhoff*
 
 * [Rubén Osorio's Blog](https://osor.io)
 
+* [Ryan Kaplan's Blog](https://www.rykap.com)
+
 * [Self Shadow](https://blog.selfshadow.com)
 
 * [Stephen Sherratt's Blog](https://www.gridbugs.org)
