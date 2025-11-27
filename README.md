@@ -2453,6 +2453,8 @@ Alan Zucconi*
 
 * [Effective Modern C++](https://ia902804.us.archive.org/23/items/EffectiveModernC/Effective-Modern-C%2B%2B.pdf) by *Scott Meyers* **[pdf]**
 
+* [Efficient Programming with Components](https://www.jmeiners.com/efficient-programming-with-components) by *Alexander Stepanov* and *Justin Meiners*
+
 * [Fiber in C++: Understanding the Basics](https://agraphicsguynotes.com/posts/fiber_in_cpp_understanding_the_basics) by *Jiayin Cao*
 
 * [Hacking C++](https://hackingcpp.com)
