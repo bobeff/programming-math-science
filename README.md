@@ -29,6 +29,7 @@ This is a list of links to different freely available learning resources about c
   * [Programming](#programming-competitions)
     * [Preparation Resources](#programming-competitions-preparation)
 * [Compilers and Interpreters](#compilers-and-interpreters)
+  * [Static Program Analysis](#static-program-analysis)
 * [Computer Graphics](#computer-graphics)
   * [Creative Coding](#creative-coding)
   * [Curves and Surfaces](#curves-and-surfaces)
@@ -773,6 +774,14 @@ This is a list of links to different freely available learning resources about c
 * [Writing a C compiler in 500 lines of Python](https://vgel.me/posts/c500) by *Theia Vogel*
 
 * [Writing a C Compiler, in Zig](https://asibahi.github.io/thoughts/c-compiler-1-zig) by *Rahman Sibahi*
+
+### Static Program Analysis
+
+* [Principles of Program Analysis](https://www.researchgate.net/publication/265352570_Principles_of_Program_Analysis) by *Flemming Nielson*, *Hanne Riis Nielson*, and *Chris Hankin*
+
+* [Secure Programming with Static Analysis](https://ptgmedia.pearsoncmg.com/images/9780321424778/samplepages/9780321424778.pdf) by *Brian Chess* and *Jacob West*
+
+* [Static Program Analysis](https://cs.au.dk/~amoeller/spa) by *Anders Møller* and *Michael I. Schwartzbach*
 
 ## Computer Graphics
 
