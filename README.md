@@ -604,6 +604,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Effective Shell](https://effective-shell.com/) by *Dave Kerr*
 
+* [GameShell: a "game" to teach the Unix shell](https://github.com/phyver/GameShell) by *Pierre Hyvernat*
+
 * [Linux command line for you and me](https://lym.readthedocs.io/en/latest/index.html) by *Kushal Das*
 
 * [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook) by *Flavio Copes*
