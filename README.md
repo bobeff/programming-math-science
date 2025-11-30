@@ -3458,6 +3458,8 @@ Christopher Kohlhoff*
 
 * [Anton Zhiyanov's Blog](https://antonz.org)
 
+* [Anubhav Nain's Blog](https://eagledot.xyz)
+
 * [Arjun Sreedharan's Blog](https://arjunsreedharan.org)
 
 * [Artem Krylysov's Blog](https://artem.krylysov.com)
