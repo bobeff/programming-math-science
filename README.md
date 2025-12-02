@@ -3369,6 +3369,8 @@ Christopher Kohlhoff*
 
 * [Of Shaders & Triangles](https://blog.42yeah.is) by *Hao Joe*
 
+* [Peter Strahle's Blog](https://peterstrahle.dev/blog.html)
+
 * [Pikuma's Blog](https://pikuma.com) by *Gustavo Pezzi*
 
 * [Randy Gaul's Game Programming Blog](https://randygaul.github.io)
