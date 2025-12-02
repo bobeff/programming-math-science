@@ -3668,6 +3668,8 @@ Christopher Kohlhoff*
 
 * [Optimizing a Math Expression Parser in Rust](https://rpallas.xyz/math-parser) by *Ricardo Pallás*
 
+* [Romain Guy's Blog](https://www.romainguy.dev/posts)
+
 ### Web Development <span id="web-development-blogs">
 
 * [nullpt-rs blog](https://nullpt.rs)
