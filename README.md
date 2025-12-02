@@ -3562,6 +3562,8 @@ Christopher Kohlhoff*
 
 * [MALTSEV.SPACE](https://maltsev.space) by *Aleksey Maltsev*
 
+* [Matt Godbolt's Blog](https://xania.org)
+
 * [Max Bernstein's Blog](https://bernsteinbear.com)
 
 * [mcyoung](https://mcyoung.xyz) by *Miguel Young de la Sota*
