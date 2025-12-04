@@ -3303,6 +3303,8 @@ Christopher Kohlhoff*
 
 * [Alan Zucconi's Website](https://www.alanzucconi.com) - Game Development, Shader Coding & Artificial Intelligence.
 
+* [Alexandru Ene's blog](https://alexene.dev)
+
 * [Anton Schreiner's Blog](https://aschrein.github.io)
 
 * [Aras Pranckevičius's Website](https://aras-p.info)
