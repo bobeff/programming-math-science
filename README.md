@@ -3272,6 +3272,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Simplify C++](https://arne-mertz.de) by *Arne Mertz*
 
+* [The C++ way](https://thecppway.com) by *Andrzej Krzemieński*
+
 * [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
 
 * [The Sparkelling Bedangler](https://morwenn.github.io)
