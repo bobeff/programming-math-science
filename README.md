@@ -2877,6 +2877,8 @@ Alan Zucconi*
 
 * [Easy 6502](https://skilldrick.github.io/easy6502) by *Nick Morgan*
 
+* [Extra Instructions Of The 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes) by *Adam Vardy*
+
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
 * [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
