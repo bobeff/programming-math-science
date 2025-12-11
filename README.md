@@ -172,11 +172,11 @@ This is a list of links to different freely available learning resources about c
   * [AI](#ai-blogs)
   * [C and C++](#c-and-cpp-blogs)
   * [Game and Graphics Programming](#game-and-graphics-programming-blogs)
+  * [Hardware Blogs](#other-blogs)
   * [Math and Physics](#math-and-physics-blogs)
   * [Mixed Programming](#mixed-programming-blogs)
   * [Performance and Optimization](#performance-and-optimization-blogs)
   * [Web Development](#web-development-blogs)
-  * [Other Blogs](#other-blogs)
 * [Other](#other)
 * [Other lists](#other-lists)
 
@@ -3419,6 +3419,12 @@ Christopher Kohlhoff*
 
 * [Zero Radiance](https://zero-radiance.github.io/post) by *Evgenii Golubev*
 
+### Hardware Blogs
+
+* [Just another electronics blog](https://justanotherelectronicsblog.com)
+
+* [Ken Shirriff's blog](https://www.righto.com)
+
 ### Math and Physics <span id="math-and-physics-blogs">
 
 * [3Blue1Brown](https://www.3blue1brown.com) by *Grant Sanderson*
@@ -3693,10 +3699,6 @@ Christopher Kohlhoff*
 * [JSLegendDev’s Substack](https://jslegenddev.substack.com) - Web development, game development and their intersection.
 
 * [Tania Rascia’s blog](https://www.taniarascia.com) by *Tania Rascia*
-
-### Other Blogs
-
-* [Just another electronics blog](https://justanotherelectronicsblog.com)
 
 ## Other
 
