@@ -170,7 +170,7 @@ This is a list of links to different freely available learning resources about c
   * [HTML](#html)
 * [Personal Websites and Blogs](#personal-websites-and-blogs)
   * [AI](#ai-blogs)
-  * [C++](#cpp-blogs)
+  * [C and C++](#c-and-cpp-blogs)
   * [Game and Graphics Programming](#game-and-graphics-programming-blogs)
   * [Math and Physics](#math-and-physics-blogs)
   * [Mixed Programming](#mixed-programming-blogs)
@@ -3208,7 +3208,7 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Randorithms](https://randorithms.com) by *Ben Coleman*
 
-### C++ <span id="cpp-blogs">
+### C and C++ <span id="c-and-cpp-blogs">
 
 * [Alf on programming (mostly C++)](https://alfps.wordpress.com)
 
@@ -3279,6 +3279,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 * [The C++ way](https://thecppway.com) by *Andrzej Krzemieński*
 
 * [The Old New Thing: Practical development throughout the evolution of Windows](https://devblogs.microsoft.com/oldnewthing) by *Raymond Chen*
+
+* [The Pasture](https://thephd.dev) by *JeanHeyd Meneide*
 
 * [The Sparkelling Bedangler](https://morwenn.github.io)
 
