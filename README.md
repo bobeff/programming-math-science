@@ -1518,6 +1518,8 @@ Thelin*
 
 * [Stack frame layout on x86-64](https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64) by *Eli Bendersky*
 
+* [Static Machine Code Analysis](https://tetzank.github.io/posts/static-machine-code-analysis) by *Frank Tetzel*
+
 * **Understanding Memory Management** by *Eric Rescorla*
   * [Part 1: C](https://educatedguesswork.org/posts/memory-management-1)
   * [Part 2: C++ and RAII](https://educatedguesswork.org/posts/memory-management-2)
