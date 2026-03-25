@@ -3516,6 +3516,8 @@ Christopher Kohlhoff*
 
 * [Dissecting the Code](https://sergeyteplyakov.github.io/Blog) by *Sergey Teplyakov*
 
+* [Dangerous Assembly](https://tetzank.github.io) by *Frank Tetzel*
+
 * [Edoardo Putti's Blog](https://edoput.it)
 
 * [Educated Guesswork](https://educatedguesswork.org) by *Eric Rescorla*
