@@ -1127,6 +1127,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Mathematical Methods in Data Science (with Python)](https://mmids-textbook.github.io) by *Sebastien Roch*
 
+* [Mining of Massive Datasets](http://www.mmds.org) by *Jure Leskovec*, *Anand Rajaraman*, and *Jeff Ullman*
+
 * [Mining Social Media](https://socialdata.site) by *Lam Thuy Vo*
 
 * [Topics in Mathematics of Data Science](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015) by *Dr. Afonso Bandeira*
