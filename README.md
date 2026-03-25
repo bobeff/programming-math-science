@@ -2305,6 +2305,8 @@ Thelin*
 
 * [IBM Quantum Learning](https://learning.quantum.ibm.com) - Learn the basics of quantum computing.
 
+* [Introduction to Classical and Quantum Computing](https://www.thomaswong.net) by *Thomas G. Wong*
+
 * [Introduction to Special Relativity, Quantum Mechanics and Nuclear Physics for Nuclear Engineers](https://websites.umich.edu/~ners311/CourseLibrary/book.pdf) by *Alex F. Bielajew* **[pdf]**
 
 * [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook in 5 volumes.
