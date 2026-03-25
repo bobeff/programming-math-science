@@ -1914,6 +1914,8 @@ Thelin*
 
 ### Game Theory
 
+* [Game Theory (Open Access textbook with 165 solved exercises)](https://arxiv.org/abs/1512.06808) by *Giacomo Bonanno*
+
 * [Game Theory with Engineering Applications](https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010) by *Prof. Asuman Ozdaglar*
 
 * [Lecture Notes for 1st Year Ph.D. Game Theory](https://econweb.ucsd.edu/~jsobel/200Cs09/Kartik_Notes.pdf) by *Navin Kartik* **[pdf]**
