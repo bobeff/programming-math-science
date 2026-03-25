@@ -1683,6 +1683,8 @@ Thelin*
 
 * [Introduction to Homotopy Type Theory](https://arxiv.org/abs/2212.11082) by *Egbert Rijke*
 
+* [Introduction to the Modeling and Analysis of Complex Systems](https://milneopentextbooks.org/introduction-to-the-modeling-and-analysis-of-complex-systems) by *Hiroki Sayama*
+
 * [Introduction to Stochastic Calculus](https://jiha-kim.github.io/posts/introduction-to-stochastic-calculus) by *Ji-Ha*
 
 * [Lecuture Notes by Aditya Guntuboyina](https://www.stat.berkeley.edu/~aditya/styled/index.html)
@@ -1857,7 +1859,7 @@ Thelin*
 
 * [Calculus 1 for Honours Mathematics](https://math.uwaterloo.ca/~baforres/UCM137/CourseNotes/Forrest_M137CN.pdf) by *Barbara A. Forrest* and *Brian E. Forrest* **[pdf]**
 
-* [Calculus Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) by *L.V. Tarasov*
+* [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) by *L.V. Tarasov*
 
 * [Calculus for Mathematicians, Computer Scientists, and Physicists](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) by *Andrew D. Hwang* **[pdf]**
 
