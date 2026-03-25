@@ -2010,6 +2010,8 @@ Thelin*
 
 ### Number theory
 
+* [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) by *Leo Moser*
+
 * [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
 
 * [Theory of Numbers](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012) by *Prof. Abhinav Kumar*
