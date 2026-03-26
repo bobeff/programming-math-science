@@ -327,6 +327,8 @@ This is a list of links to different freely available learning resources about c
 
 * [How to run LLMs on PC at home using Llama.cpp](https://www.theregister.com/2025/08/24/llama_cpp_hands_on) by *Tobias Mann*
 
+* [Quantization from the ground up](https://ngrok.com/blog/quantization) by *Sam Rose*
+
 #### Machine Learning Online Courses
 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning)
