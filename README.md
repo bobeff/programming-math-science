@@ -521,6 +521,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
+* [The Little Book of algorithms](https://github.com/little-book-of/algorithms) by *Duc-Tam Nguyen*
+
 * [The Skyline algorithm for packing 2D rectangles](https://jvernay.fr/en/blog/skyline-2d-packer/implementation) by *Julien Vernay*
 
 * [Think Data Structures](https://greenteapress.com/wp/think-data-structures) by *Allen B. Downey*
