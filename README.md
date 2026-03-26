@@ -489,6 +489,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Functional Data Structures and Algorithms: A Proof Assistant Approach](https://fdsa-book.net) by *Tobias Nipkow*, *Jasmin Blanchette*, *Manuel Eberl*, *Alejandro Gómez-Londoño*, *Peter Lammich*, *Christian Sternagel*, *Simon Wimmer*, *Bohua Zhan*
 
+* [Hello Algo](https://www.hello-algo.com/en)
+
 * [How does B-tree make your queries fast?](https://blog.allegro.tech/2023/11/how-does-btree-make-your-queries-fast.html) by *Mateusz Kuźmik*
 
 * [Introduction to Algorithms: A Creative Approach](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Introduction%20to%20Algorithms_%20A%20Creative%20Approach%20%5BManber%201989-01-11%5D.pdf) by *Udi Manber* **[pdf]**
