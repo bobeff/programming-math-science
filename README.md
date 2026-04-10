@@ -2152,6 +2152,8 @@ Thelin*
 
 * [Mathematical Reasoning & Proofs](https://alistairsavage.ca/mat1362) by *Alistair Savage* **[University of Ottawa]**
 
+* [Mathematical Reasoning: Writing and Proof (Version 3)](https://www.tedsundstrom.com/mathematical-reasoning-3) by *Ted Sundstrom*
+
 * [Reading, Discovering and Writing Proofs](https://cs.uwaterloo.ca/~cbruni/pdfs/Math135SeptDec2015/RDW_1.pdf) by *Carmen Bruni* **[pdf]**
 
 * [The Mechanics of Proof](https://hrmacbeth.github.io/math2001) by *Heather Macbeth*
