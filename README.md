@@ -3579,6 +3579,8 @@ Christopher Kohlhoff*
 
 * [glfmn.io](https://glfmn.io)
 
+* [Init 1](https://codepr.github.io) by *Andrea Baldan*
+
 * [Interjected Future](https://interjectedfuture.com) by *Wil Chung*
 
 * [IT Hare on Soft.ware](http://ithare.com) by *Sergey Ignatchenko*
