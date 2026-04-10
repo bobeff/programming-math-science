@@ -1084,7 +1084,13 @@ This is a list of links to different freely available learning resources about c
 
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) by *Larry Peterson and Bruce Davie*
 
-* [Concurrent Servers](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction) by *Eli Bendersky*
+* **Concurrent Servers** by *Eli Bendersky*
+  * [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction)
+  * [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads)
+  * [Part 3 - Event-driven](https://eli.thegreenplace.net/2017/concurrent-servers-part-3-event-driven)
+  * [Part 4 - libuv](https://eli.thegreenplace.net/2017/concurrent-servers-part-4-libuv)
+  * [Part 5 - Redis case study](https://eli.thegreenplace.net/2017/concurrent-servers-part-5-redis-case-study)
+  * [Part 6 - Callbacks, Promises and async/await](https://eli.thegreenplace.net/2018/concurrent-servers-part-6-callbacks-promises-and-asyncawait)
 
 * [HTTP2 Explained](https://daniel.haxx.se/http2) by *Daniel Stenberg*
 
