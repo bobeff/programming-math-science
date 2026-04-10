@@ -1109,6 +1109,15 @@ This is a list of links to different freely available learning resources about c
 
 * [Mediocre Engineer’s guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https) by *Devon Peroutky*
 
+* **MQTT broker from scratch** by *Andrea Baldan*
+  * [Part 1: The protocol](https://codepr.github.io/posts/sol-mqtt-broker)
+  * [Part 2: Networking](https://codepr.github.io/posts/sol-mqtt-broker-p2)
+  * [Part 3: Server](https://codepr.github.io/posts/sol-mqtt-broker-p3)
+  * [Part 4: Data structures](https://codepr.github.io/posts/sol-mqtt-broker-p4)
+  * [Part 5: Topic abstraction](https://codepr.github.io/posts/sol-mqtt-broker-p5)
+  * [Part 6: Handlers](https://codepr.github.io/posts/sol-mqtt-broker-p6)
+  * [Part 7: Refactoring & eventloop](https://codepr.github.io/posts/sol-mqtt-broker-bonus)
+
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
 * [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding)
