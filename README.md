@@ -86,7 +86,8 @@ This is a list of links to different freely available learning resources about c
   * [General problem solving](#general-problem-solving)
   * [Geometry](#geometry)
     * [Differential Geometry](#differential-geometry)
-  * [Graph Theory](#graph-theory)
+  * [Combinatorics](#combinatorics)
+    * [Graph Theory](#graph-theory)
   * [Mathematical Finance](#mathematical-finance)
   * [Mathematical Logic](#mathematical-logic)
   * [Measure Theory](#measure-theory)
@@ -1839,8 +1840,6 @@ Thelin*
 
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
 
-* [Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212) by *Alexander Postnikov*
-
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
 * [Introduction to Abstract Algebra](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf) by *Alexander Paulin* **[pdf]**
@@ -2006,7 +2005,15 @@ Thelin*
 
 * [What is differential geometry: curves and surfaces](https://arxiv.org/abs/2012.11814) by *Anton Petrunin* and *Sergio Zamora Barrera*
 
-### Graph Theory
+### Combinatorics
+
+* [Algebraic Combinatorics](https://math.mit.edu/~apost/courses/18.212) by *Alexander Postnikov*
+
+* [Analytic Combinatorics](https://algo.inria.fr/flajolet/Publications/book.pdf) by *Philippe Flajolet* and *Robert Sedgewick* **[pdf]**
+
+* [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) by *Kenneth P. Bogart*
+
+#### Graph Theory
 
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
 
@@ -2182,8 +2189,6 @@ Thelin*
 ### Theoretical Computer Science
 
 * [An Introduction to Abstract Mathematics](https://www.math.uci.edu/~ndonalds/math13/notes.pdf) by *Neil Donaldson* and *Alessandra Pantano* **[pdf]**
-
-* [Analytic Combinatorics](https://algo.inria.fr/flajolet/Publications/book.pdf) by *Philippe Flajolet* and *Robert Sedgewick* **[pdf]**
 
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
 
