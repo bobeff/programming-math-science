@@ -1877,6 +1877,13 @@ Thelin*
 
 ### Analysis
 
+* [Classical Real Analysis Books](https://classicalrealanalysis.info) by *Andrew M. Bruckner*, *Judith B. Bruckner*, and *Brian S. Thomson*
+  * [Elementary Real Analysis, Second Edition](http://classicalrealanalysis.info/Elementary-Real-Analysis.php)
+  * [Real Analysis](http://classicalrealanalysis.info/Real-Analysis.php)
+  * [Mathematical Discovery](http://classicalrealanalysis.info/Mathematical-Discovery.php)
+  * [The Calculus Integral](http://classicalrealanalysis.info/The-Calculus-Integral.php)
+  * [Theory of the Integral](http://classicalrealanalysis.info/Theory-of-the-Integral.php)
+
 * [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
   * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
 
