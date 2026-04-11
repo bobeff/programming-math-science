@@ -77,6 +77,7 @@ This is a list of links to different freely available learning resources about c
 * [Math](#math)
   * [Algebra](#algebra)
     * [Linear Algebra](#linear-algebra)
+  * [Analysis](#analysis)
   * [Calculus](#calculus)
     * [Vector Calculus](#vector-calculus)
   * [Category Theory](#category-theory)
@@ -1825,8 +1826,6 @@ Thelin*
 
 * [Trigonometry](https://mecmath.net/trig/index.html) by *Michael Corral*
 
-* [Visual Complex Analysis](https://umv.science.upjs.sk/hutnik/NeedhamVCA.pdf) by *Tristan Needham* **[pdf]**
-
 ### Algebra
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
@@ -1876,6 +1875,21 @@ Thelin*
 
 * [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra) by *Duc-Tam Nguyen*
 
+### Analysis
+
+* [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
+  * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
+
+* [Harmonic Function Theory](https://www.axler.net/HFT.html) by *Sheldon Axler*, *Paul Bourdon*, and *Wade Ramey*
+
+* [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7) by *William F. Trench*
+
+* [Principles of Mathematical Analysis](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf) by *Walter Rudin* **[pdf]**
+
+* [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020) by *Dr. Casey Rodriguez*
+
+* [Visual Complex Analysis](https://umv.science.upjs.sk/hutnik/NeedhamVCA.pdf) by *Tristan Needham* **[pdf]**
+
 ### Calculus
 
 * [Advanced Multivariable Calculus](https://sites.math.washington.edu/~awaw/teaching/math224_sp23/notes.pdf) by *Alex Wang* **[pdf]**
@@ -1894,26 +1908,15 @@ Thelin*
 
 * [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP) by *Joel Feldman*, *Andrew Rechnitzer* and *Elyse Yeager*
 
-* [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
-  * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
-
 * [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my) by *Alan Wolfe*
 
 * [Elementary Calculus](https://mecmath.net/calculus/index.html) by *Michael Corral*
-
-* [Harmonic Function Theory](https://www.axler.net/HFT.html) by *Sheldon Axler*, *Paul Bourdon*, and *Wade Ramey*
 
 * [Integration Theory](https://www.math.chalmers.se/Math/Grundutb/GU/MMA110/A12/integration.pdf) by *Johan Jonasson* **[pdf]**
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
-* [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7) by *William F. Trench*
-
 * [Multivariable Calculus Lectures](https://math.jhu.edu/~brown/courses/f19/Documents/MultivariableCalculus.pdf) by *Richard J. Brown* **[pdf]**
-
-* [Principles of Mathematical Analysis](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf) by *Walter Rudin* **[pdf]**
-
-* [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020) by *Dr. Casey Rodriguez*
 
 #### Vector Calculus
 
