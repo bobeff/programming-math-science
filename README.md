@@ -1907,6 +1907,8 @@ Thelin*
 
 * [Introduction to Calculus](https://arachnoid.com/calculus/resources/introduction_to_calculus.pdf) by *Paul Lutus* **[pdf]**
 
+* [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7) by *William F. Trench*
+
 * [Multivariable Calculus Lectures](https://math.jhu.edu/~brown/courses/f19/Documents/MultivariableCalculus.pdf) by *Richard J. Brown* **[pdf]**
 
 * [Principles of Mathematical Analysis](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf) by *Walter Rudin* **[pdf]**
