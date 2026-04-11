@@ -1790,6 +1790,11 @@ Thelin*
 * [Open textbooks for undergraduate mathematics](https://openaccesstexts.com/math)
 
 * [Paul's Online Math Notes](https://tutorial.math.lamar.edu/) by *Paul Dawkins*
+  * [Algebra](https://tutorial.math.lamar.edu/Classes/Alg/Alg.aspx)
+  * [Calculus I](https://tutorial.math.lamar.edu/Classes/CalcI/CalcI.aspx)
+  * [Calculus II](https://tutorial.math.lamar.edu/Classes/CalcII/CalcII.aspx)
+  * [Calculus III](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
+  * [Differential Equations](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
 
 * [Precalculus](https://stitz-zeager.com/) by *Carl Stitz* and *Jeff Zeager*
 
