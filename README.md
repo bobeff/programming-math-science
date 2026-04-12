@@ -1860,8 +1860,7 @@ Thelin*
 
 * [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls) by *Stephen Boyd* and *Lieven Vandenberghe*
 
-* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) by *David Cherney*, *Tom Denton*,
-*Rohit Thomas* and *Andrew Waldron* **[pdf]**
+* [Linear Algebra](https://www.math.ucdavis.edu/~linear/linear-guest.pdf) by *David Cherney*, *Tom Denton*, *Rohit Thomas* and *Andrew Waldron* **[pdf]**
 
 * [Linear Algebra, Fourth edition](https://www.cs.ox.ac.uk/files/12921/book.pdf) by *Jim Hefferon* **[pdf]**
 
