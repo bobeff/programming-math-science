@@ -1899,6 +1899,8 @@ Thelin*
 
 * [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020) by *Dr. Casey Rodriguez*
 
+* [Real Analysis](https://milneopentextbooks.org/real-analysis) by *Gary Towsley*
+
 * [Visual Complex Analysis](https://umv.science.upjs.sk/hutnik/NeedhamVCA.pdf) by *Tristan Needham* **[pdf]**
 
 ### Calculus
@@ -1920,6 +1922,8 @@ Thelin*
 * [CLP Calculus Textbooks](https://personal.math.ubc.ca/~CLP) by *Joel Feldman*, *Andrew Rechnitzer* and *Elyse Yeager*
 
 * [Derivatives, Gradients, Jacobians and Hessians](https://blog.demofox.org/2025/08/16/derivatives-gradients-jacobians-and-hessians-oh-my) by *Alan Wolfe*
+
+* [Differential Calculus: From Practice to Theory](https://milneopentextbooks.org/differential-calculus-from-practice-to-theory) by *Eugene Boman* and *Robert Rogers*
 
 * [Elementary Calculus](https://mecmath.net/calculus/index.html) by *Michael Corral*
 
