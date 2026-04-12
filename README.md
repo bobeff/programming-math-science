@@ -2124,6 +2124,8 @@ Thelin*
 
 * [Introduction to Modern Statistics (2nd Ed)](https://openintro-ims2.netlify.app) by *Mine Çetinkaya-Rundel and Johanna Hardin*
 
+* [Introduction to Probability](https://open.umn.edu/opentextbooks/textbooks/introduction-to-probability) by *Charles M. Grinstead* and *J. Laurie Snell*
+
 * [Introduction to probability and statistics](https://mphitchman.com/math340) by *Mike Hitchman*
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
