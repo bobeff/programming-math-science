@@ -3820,6 +3820,8 @@ Christopher Kohlhoff*
 
 ## Other lists
 
+* [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books)
+
 * [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html) - A list of free programming books.
 
 * [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md)
