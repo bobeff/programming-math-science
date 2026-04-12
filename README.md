@@ -2053,6 +2053,8 @@ Thelin*
 
 ### Mathematical Logic
 
+* [A Concise Introduction to Logic](https://milneopentextbooks.org/concise-introduction-to-logic) by *Craig DeLancey*
+
 * [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
 
 * [PQT Logic Textbook](https://www.cis.upenn.edu/~weinstei/PQT.pdf) by *Scott Weinstein*, *Owain West* and *Grace Zhang* **[pdf]**
