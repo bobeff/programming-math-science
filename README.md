@@ -1935,6 +1935,8 @@ Thelin*
 
 * [Multivariable Calculus Lectures](https://math.jhu.edu/~brown/courses/f19/Documents/MultivariableCalculus.pdf) by *Richard J. Brown* **[pdf]**
 
+* [Precalculus: An Investigation of Functions](https://www.opentextbookstore.com/precalc) by *David Lippman* and *Melonie Rasmussen*
+
 #### Vector Calculus
 
 * [Lectures on Vector Calculus](https://www.damtp.cam.ac.uk/user/tong/vc.html) by *David Tong*
