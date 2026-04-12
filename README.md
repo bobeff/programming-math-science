@@ -2055,6 +2055,8 @@ Thelin*
 
 * [A Concise Introduction to Logic](https://milneopentextbooks.org/concise-introduction-to-logic) by *Craig DeLancey*
 
+* [A Friendly Introduction to Mathematical Logic](https://milneopentextbooks.org/a-friendly-introduction-to-mathematical-logic) by *hristopher Leary* and *Lars Kristiansen*
+
 * [forall x: Calgary: An Introduction to Formal Logic](https://forallx.openlogicproject.org) by  *P. D. Magnus*, *Tim Button*, *Robert Trueman*, and *Richard Zach*
 
 * [PQT Logic Textbook](https://www.cis.upenn.edu/~weinstei/PQT.pdf) by *Scott Weinstein*, *Owain West* and *Grace Zhang* **[pdf]**
