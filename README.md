@@ -1959,6 +1959,8 @@ Thelin*
 
 ### Differential Equations
 
+* [Elementary Differential Equations with Boundary Value Problems](https://digitalcommons.trinity.edu/mono/9) by *William F. Trench*
+
 * [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
 
 ### Game Theory
