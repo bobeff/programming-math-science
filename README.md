@@ -2380,6 +2380,8 @@ Thelin*
 
 * [Introduction to Special Relativity, Quantum Mechanics and Nuclear Physics for Nuclear Engineers](https://websites.umich.edu/~ners311/CourseLibrary/book.pdf) by *Alex F. Bielajew* **[pdf]**
 
+* [Mechanics and Relativity](https://open.umn.edu/opentextbooks/textbooks/mechanics-and-relativity) by *Timon Idema*
+
 * [Motion Mountain](https://www.motionmountain.net) by *Christoph Schiller* - A free physics textbook in 5 volumes.
 
 * [Open textbooks for undergraduate physics](https://openaccesstexts.com/physics)
