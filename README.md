@@ -1936,6 +1936,8 @@ Thelin*
 
 * [Multivariable Calculus Lectures](https://math.jhu.edu/~brown/courses/f19/Documents/MultivariableCalculus.pdf) by *Richard J. Brown* **[pdf]**
 
+* [Pre-Calculus](http://www.wallace.ccfaculty.org/141.html) by *Salah Abed*, *Sonia Farag*, *Stephen Lane*, *Tyler Wallace*, and *Barbara Whitney*
+
 * [Precalculus: An Investigation of Functions](https://www.opentextbookstore.com/precalc) by *David Lippman* and *Melonie Rasmussen*
 
 #### Vector Calculus
