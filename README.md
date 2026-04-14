@@ -1836,6 +1836,8 @@ Thelin*
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
 
+* [Abstract Algebra: Theory and Applications](https://judsonbooks.org/abstract-algebra-theory-and-applications) by *Thomas W. Judson*
+
 * [Advanced Modern Algebra](https://david92jackson.neocities.org/images/Advanced_Modern_Algebra-Rotman.pdf) by *Joseph J. Rotman* **[pdf]**
 
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
