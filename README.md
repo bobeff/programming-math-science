@@ -1914,6 +1914,11 @@ Thelin*
 
 * [Calculus 1 for Honours Mathematics](https://math.uwaterloo.ca/~baforres/UCM137/CourseNotes/Forrest_M137CN.pdf) by *Barbara A. Forrest* and *Brian E. Forrest* **[pdf]**
 
+* [Calculus Books by Tyler Wallace](http://www.wallace.ccfaculty.org)
+  * [Calculus 1](http://www.wallace.ccfaculty.org/151.html)
+  * [Calculus 2](http://www.wallace.ccfaculty.org/152.html)
+  * [Calculus 3](http://www.wallace.ccfaculty.org/163.html)
+
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) by *L.V. Tarasov*
 
 * [Calculus for Mathematicians, Computer Scientists, and Physicists](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) by *Andrew D. Hwang* **[pdf]**
