@@ -2442,6 +2442,8 @@ Alan Zucconi*
 
 * [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm) by *John English*
 
+* [Ada95 Lovelace tutorial](https://dwheeler.com/lovelace) by *David A. Wheeler*
+
 * [Ada Gem Archive](https://www.adacore.com/gems)
 
 * [Introduction to Ada: a project-based exploration with rosettas](https://blog.adacore.com/introduction-to-ada-a-project-based-exploration-with-rosettas) by *Romain Gora*
