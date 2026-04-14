@@ -1500,7 +1500,7 @@ Thelin*
 
 * [Zen, CUDA, and Tensor Cores](https://www.computerenhance.com/p/zen-cuda-and-tensor-cores-part-i) by *Casey Muratori*
 
-## Information TheoryDiscovering observers
+## Information Theory
 
 * [Information and Entropy](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008) by *Prof. Paul Penfield* and *Prof. Seth Lloyd*
 
