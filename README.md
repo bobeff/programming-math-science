@@ -1546,6 +1546,8 @@ Thelin*
 
 * [Group Borrowing: Zero-Cost Memory Safety with Fewer Restrictions](https://verdagon.dev/blog/group-borrowing) by *Evan Ovadia*
 
+* [It's OK to compare floating-points for equality](https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html) by *Nikita Lisitsa*
+
 * [Memory Management Reference](https://www.memorymanagement.org)
 
 * [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1) by *Denis Bakhvalov*
