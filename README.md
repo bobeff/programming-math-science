@@ -645,7 +645,16 @@ This is a list of links to different freely available learning resources about c
 
 #### Preparation Resources <span id="math-competitions-preparation">
 
+* [Easy Putnam Problems](https://www.ms.uky.edu/~sohum/putnam/easy_putnam_problems.pdf) **[pdf]**
+
 * [Mathematical Problem Solving](https://www.cip.ifi.lmu.de/~grinberg/t/20f) by *Darij Grinberg*
+
+* [My Putnam Problems](https://www.ms.uky.edu/~sohum/putnam/myputnam.pdf) by *Avinash Sathaye* **[pdf]**
+
+* [Putnam Training Problems](https://www.ms.uky.edu/~sohum/putnam/training_problems-2014.pdf) **[pdf]**
+
+* [Virginia Tech Regional Mathematics Contest Problems](https://www.ms.uky.edu/~sohum/putnam/Virtech_probs.pdf) **[pdf]**
+  * [Virginia Tech Regional Mathematics Contest Problems Solutions](https://www.ms.uky.edu/~sohum/putnam/Virtech_sols.pdf) **[pdf]**
 
 ### Physics <span id="physics-competitions">
 
