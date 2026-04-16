@@ -1844,6 +1844,8 @@ Thelin*
 
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html) by *Tyler Wallace*
 
+* [Elements of Abstract and Linear Algebra](https://www.math.miami.edu/~ec/book) by *Edwin H. Connell*
+
 * [Intermediate Algebra](https://saylordotorg.github.io/text_intermediate-algebra/index.html) by *Saylor Academy*
 
 * [Introduction to Abstract Algebra](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf) by *Alexander Paulin* **[pdf]**
