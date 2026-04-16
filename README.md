@@ -2240,6 +2240,8 @@ Thelin*
 
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
 
+* [generatingfunctionology](https://www.ms.uky.edu/~sohum/putnam/gen_funs_wilf.pdf) by *Herbert S. Wilf* **[pdf]**
+
 * [Great Ideas in Theoretical Computer Science](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008) by *Prof. Scott Aaronson*
 
 * [Introduction to Theoretical Computer Science](https://introtcs.org) by [*Boaz Barak*](https://en.wikipedia.org/wiki/Boaz_Barak)
