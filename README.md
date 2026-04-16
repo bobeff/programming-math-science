@@ -2035,6 +2035,8 @@ Thelin*
 
 * [Combinatorics Through Guided Discovery](https://bogart.openmathbooks.org) by *Kenneth P. Bogart*
 
+* [Enumerative Combinatorics, Volume 1, Second Edition](https://www.ms.uky.edu/~sohum/putnam/enu_comb_stanley.pdf) by *Richard P. Stanley* **[pdf]**
+
 #### Graph Theory
 
 * [An introduction to graph theory](https://arxiv.org/pdf/2308.04512.pdf) by *Darij Grinberg* **[pdf]**
