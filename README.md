@@ -1786,6 +1786,8 @@ Thelin*
 
 * [Math Planet](https://www.mathplanet.com)
 
+* [Mathematics Its Contents Methods And Meaning, Volumes 1 - 3](https://archive.org/details/MathematicsItsContentsMethodsAndMeaningVol3/Mathematics-%20its%20contents%20methods%20and%20meaning%20Vol%201) by *A. D. Aleksandrov*, *A. N. Kolmogorov*, *M. A. Lavrent'ev*
+
 * [Mathematical Methods for Computer Vision, Robotics, and Graphics](https://graphics.stanford.edu/courses/cs205a-13-fall/assets/notes/cs205a_notes.pdf) by *Justin Solomon* **[pdf]**
 
 * [Mathematical Methods for Physics](https://www.ma.imperial.ac.uk/~dturaev/Mathematical_Methods2021.pdf) by *Dmitry Turaev* **[pdf]**
