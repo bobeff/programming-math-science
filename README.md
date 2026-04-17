@@ -2201,6 +2201,8 @@ Thelin*
 * [Probability Theory](https://web.stanford.edu/class/stats310a/lnotes.pdf) by *Amir Dembo* **[pdf]** **[Stanford]**
   * [Other course materials](https://web.stanford.edu/class/stats310a)
 
+* [Probability Theory (First Steps)](https://archive.org/details/ProbabilityTheoryfirstSteps) by *E. S. Wentzel*
+
 * [Probability Theory & Computational Mathematics](https://tropp.caltech.edu/notes/Tro24-Probability-Theory-LN.pdf) by *Prof. Joel A. Tropp* **[pdf]** **[Caltech]**
 
 * [Probability with Engineering Applications](https://hajek.ece.illinois.edu/ECE313Notes.html) by *Bruce Hajek*
