@@ -2136,6 +2136,8 @@ Thelin*
 
 * [All of Statistics: A concise Course in Statistical Inference](https://egrcc.github.io/docs/math/all-of-statistics.pdf) by *Larry Wasserman* **[pdf]**
 
+* [An Elementary Introduction To The Theory Of Probability](https://archive.org/details/gnedenko-khinchin-an-elementary-introduction-to-the-theory-of-probability) by *B. V. Gnedenko*, *A. Ya. Khinchin*
+
 * [AnyDice](https://anydice.com)
 
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
