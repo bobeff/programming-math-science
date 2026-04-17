@@ -2303,6 +2303,8 @@ Thelin*
 
 * [Topology Without Tears](https://www.topologywithouttears.net) by *Sidney A. Morris*
 
+* [Topology: A First Course](https://math.mit.edu/~hrm/palestine/munkres-topology.pdf) by *James R. Munkres*
+
 ## Multithreading and Concurrency
 
 * [A C++17 Thread Pool for High-Performance Scientific Computing](https://arxiv.org/abs/2105.00613) by *Barak Shoshany*
