@@ -2207,6 +2207,8 @@ Thelin*
 
 * [Stochastic Processes](https://adembo.su.domains/math-136/nnotes.pdf) by *Amir Dembo* **[pdf]**
 
+* [The Probabilistic Method](https://math.bme.hu/~gabor/oktatas/SztoM/AlonSpencer.ProbMethod3ed.pdf) by *Noga Alon* and  *Joel H. Spencer* **[pdf]**
+
 * [The Truth About Linear Regression](https://www.stat.cmu.edu/~cshalizi/TALR) by *Cosma Rohilla Shalizi*
 
 ### Proofs
