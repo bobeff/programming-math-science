@@ -2054,6 +2054,8 @@ Thelin*
 
 * [Graphs and Geometry](https://lovasz.web.elte.hu//bookxx/geombook-almost-final.pdf) by *László Lovász* **[pdf]**
 
+* [Graph Theory, Sixth Edition, 2025](https://diestel-graph-theory.com) by *Reinhard Diestel*
+
 * [Graph Theory and Additive Combinatorics](https://yufeizhao.com/gtacbook) by *Yufei Zhao*
 
 * [Graph Theory Lecture Notes](https://roam.libraries.psu.edu/system/files/e-books/MATH485-Graph_Theory.pdf) by *Christopher Griffin* **[pdf]**
