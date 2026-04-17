@@ -2140,6 +2140,8 @@ Thelin*
 
 * [AnyDice](https://anydice.com)
 
+* [Applied Problems In Probability Theory](https://archive.org/details/wentzel-ovcharov-applied-problems-in-probability-theory) by *E. Wentzel* and *L. Ovcharov*
+
 * [Bayes Rules! An Introduction to Applied Bayesian Modeling](https://www.bayesrulesbook.com/) by *Alicia A. Johnson, Miles Q. Ott, Mine Dogucu*
 
 * [Bayesian Data Analysis, Third Edition](https://sites.stat.columbia.edu/gelman/book) by *Andrew Gelman*, *John Carlin*, *Hal Stern*, *David Dunson*, *Aki Vehtari*, and *Donald Rubin*
