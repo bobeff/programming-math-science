@@ -1845,6 +1845,17 @@ Thelin*
 
 * [Trigonometry](https://mecmath.net/trig/index.html) by *Michael Corral*
 
+* [Umnov A.E. and Umnov E.A's Educational Materials](http://umnov.ru/english.htm) **[MIPT]**
+  * **Subjects Included:**
+    * *Elementary Mathematics*
+    * *Intoduction to Calculus*
+    * *Multy-dimentional Analysis. Integrals and Series*
+    * *Analytic Geometry*
+    * *Linear Algebra*
+    * *Multiple integrals and field theory*
+    * *Harmonic Analysis*
+    * *Parametric Sets of Second-Order Lines on a Plane*
+
 ### Algebra
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
