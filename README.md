@@ -3595,6 +3595,8 @@ Christopher Kohlhoff*
 
 * [Oran Looney's Blog](https://www.oranlooney.com)
 
+* [Valeriy Manokhin's Blog](https://valeman.medium.com)
+
 ### Mixed Programming <span id="mixed-programming-blogs">
 
 * [0pfs](https://0fps.net) by *Mikola Lysenko*
