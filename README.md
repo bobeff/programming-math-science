@@ -1391,6 +1391,8 @@ This is a list of links to different freely available learning resources about c
 
 * [CSCI 181G PO: Game Engine Programming Course](https://cs.pomona.edu/classes/cs181g)
 
+* [Game Frame Breakdown Articles](https://www.4rknova.com//blog/2025/02/20/frame-breakdown-articles) collection by *Nikolaos Papadopoulos*
+
 * [Game Engineering](https://www.cs.usfca.edu/~galles/cs420) by *David Galles*
 
 * [How to program a text adventure in C](https://helderman.github.io/htpataic/htpataic01.html) by *Ruud Helderman*
@@ -1414,8 +1416,6 @@ This is a list of links to different freely available learning resources about c
 * [Retro Rampage](https://github.com/nicklockwood/RetroRampage) - A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by *Nick Lockwood*
 
 * [Roguelike Tutorial - In Rust](https://bfnightly.bracketproductions.com) by *Herbert Wolverson*
-
-* [Reverse engineering the rendering of The Witcher 3](https://astralcode.blogspot.com/2018/11/reverse-engineering-rendering-of.html)
 
 * [Terrain programmig](https://www.shamusyoung.com/twentysidedtale/?p=141) by *Shamus Young*
 
