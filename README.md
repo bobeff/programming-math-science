@@ -405,6 +405,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Vibe Coding and Spec-Driven Development
 
+* [AI-Assisted Coding: A Practical Guide for Software Engineers](https://frontendmasters.com/blog/ai-assisted-coding-a-practical-guide-for-software-engineers) by *Durgesh Rajubhai Pawar*
+
 * [Basic Claude Code](https://harper.blog/2025/05/08/basic-claude-code) by *Harper Reed*
 
 * [Disciplined AI Software Development](https://github.com/Varietyz/Disciplined-AI-Software-Development) by *Jay Baleine*
