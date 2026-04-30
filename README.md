@@ -2272,6 +2272,8 @@ Thelin*
 
 * [Discrete Mathematics and Its Applications, Eighth Edition](https://faculty.ksu.edu.sa/sites/default/files/%5BBook%5D%20Discrete%20mathematics%20and%20its%20applications%20%282019%29_0.pdf) by *Kenneth H. Rosen*
 
+* [Discrete Structures for Computer Science: Counting, Recursion, and Probability](https://cglab.ca/~michiel/DiscreteStructures) by *Michiel Smid*
+
 * [Edsger W. Dijkstra Archive](https://www.cs.utexas.edu/~EWD/index03xx.html)
 
 * [Elements of Programming](http://elementsofprogramming.com) by *Alexander Stepanov and Paul McJones*
