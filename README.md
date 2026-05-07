@@ -2383,6 +2383,8 @@ Thelin*
 
 * [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) by *Remzi H Arpaci-Dusseau* and *Andrea C Arpaci-Dusseau*
 
+* [Principia Softwarica](https://principia-softwarica.org) by *Yoann Padioleau* - A series of literate programming books explaining Plan 9 system programs.
+
 * [Systems Programming: Lecture Notes](http://web.eecs.utk.edu/~huangj/cs360/lecture_notes.html) by *Jian Huang*
 
 * [The Art of Unix Programming](http://www.catb.org/esr/writings/taoup/html) by *Eric Steven Raymond*
