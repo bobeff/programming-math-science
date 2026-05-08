@@ -335,6 +335,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Quantization from the ground up](https://ngrok.com/blog/quantization) by *Sam Rose*
 
+* [The Big Book of Large Language Models](https://book.theaiedge.io) by *Damien Benveniste*
+
 #### Machine Learning Online Courses
 
 * [Google Machine Learning Education](https://developers.google.com/machine-learning)
