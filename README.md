@@ -88,6 +88,7 @@ This is a list of links to different freely available learning resources about c
     * [Differential Geometry](#differential-geometry)
   * [Combinatorics](#combinatorics)
     * [Graph Theory](#graph-theory)
+  * [High School Math](#high-school-math)
   * [Mathematical Finance](#mathematical-finance)
   * [Mathematical Logic](#mathematical-logic)
   * [Measure Theory](#measure-theory)
@@ -2084,6 +2085,12 @@ Thelin*
 * [Large networks and graph limits](https://lovasz.web.elte.hu//bookxx/hombook-almost.final.pdf) by *László Lovász* **[pdf]**
 
 * [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016) by *David P. Williamson*
+
+### High School Math
+
+* [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by *V. Litvinenko* and *A. Mordkovich*
+
+* [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by *V. Gusev*,  *V. Litvinenko*, and *A. Mordkovich*
 
 ### Mathematical Finance
 
