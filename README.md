@@ -191,6 +191,8 @@ This is a list of links to different freely available learning resources about c
 
 ### Machine Learning
 
+* [A Brief Introduction to Machine Learning for Engineers](https://arxiv.org/abs/1709.02840) by *Osvaldo Simeone*
+
 * [A Brief Introduction to Neural Networks](https://dkriesel.com/en/science/neural_networks) by *David Kriesel*
 
 * [A Comprehensive Guide to Machine Learning](https://snasiriany.me/files/ml-book.pdf) by *Soroush Nasiriany*, *Garrett Thomas*, *William Wang*, *Alex Yang*, *Jennifer Listgarten*, *Anant Sahai* **[pdf]**
