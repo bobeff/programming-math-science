@@ -2439,6 +2439,8 @@ Thelin*
 
 * [Writing an OS in Nim](https://0xc0ffee.netlify.app) by *Khaled Hammouda*
 
+* [xv6: a simple, Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2025/xv6.html) by *Russ Cox*, *Frans Kaashoek*, and *Robert Morris*
+
 ## Photography
 
 * [Photography for geeks](https://lcamtuf.coredump.cx/photo_basics) by *Michal Zalewski*
