@@ -2098,6 +2098,8 @@ Thelin*
 
 * [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by *V. Gusev*,  *V. Litvinenko*, and *A. Mordkovich*
 
+* [The USSR Olympiad Problem Book](https://archive.org/details/shklarsky-chentzov-yaglom-the-ussr-olympiad-problem-book) by *D. O. Shklarsky*, *N. N. Chentzov*, and *I. M. Yaglom*
+
 ### Mathematical Finance
 
 * [A Practical Guide to Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) by *Xinfeng Zhou* **[pdf]**
