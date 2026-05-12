@@ -2008,6 +2008,8 @@ Thelin*
 
 * [Category Theory: Lecture Notes and Online Books](https://www.logicmatters.net/categories/) - collection by *Peter Smith*
 
+* [Notes on Category Theory with examples from basic mathematics](https://arxiv.org/abs/1912.10642) by *Paolo Perrone*
+
 * [Pragmatic Category Theory](https://chshersh.com/blog/2024-07-30-pragmatic-category-theory-part-01.html) by *Dmitrii Kovanikov*
 
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](https://ocw.mit.edu/courses/18-s097-applied-category-theory-january-iap-2019/resources/18-s097iap19textbook) by *Brendan Fong* and *David I. Spivak*
