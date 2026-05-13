@@ -2509,6 +2509,8 @@ Alan Zucconi*
 
 * [Introduction to the Theory of Programming Languages](https://bertrandmeyer.com/itpl) by *Bertrand Meyer*
 
+* [Programming Paradigms for Dummies: What Every Programmer Should Know](https://webperso.info.ucl.ac.be/~pvr/VanRoyChapter.pdf) by *Peter Van Roy* **[pdf]**
+
 ### Ada
 
 * [Ada 95: The Craft of Object-Oriented Programming](https://adaic.org/resources/add_content/docs/craft/html/contents.htm) by *John English*
