@@ -2094,6 +2094,8 @@ Thelin*
 
 ### High School Math
 
+* [Mathematical Problems And Puzzles from the Polish Mathematical Olympiads](https://archive.org/details/straszewicz-mathematical-problems-and-puzzles) by *Stefan Straszewicz*
+
 * [Solving Problems In Algebra And Trigonometry](https://archive.org/details/LitivinenkoMordkovichSolvingProblemsInAlgebraAndTrigonometryMir1988) by *V. Litvinenko* and *A. Mordkovich*
 
 * [Solving Problems In Geometry](https://archive.org/details/GusevLitivinenkoMordkovichSolvingProblemsInGeometryMir1988) by *V. Gusev*,  *V. Litvinenko*, and *A. Mordkovich*
