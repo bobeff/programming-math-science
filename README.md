@@ -1140,6 +1140,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Networking 101](https://internalpointers.com/post-group/networking-101) by *Internal Pointers*
 
+* [Topics in High-Performance Messaging](https://ultramessaging.github.io/thpm/thpm.html) by *Robert A. Van Valzah*, *Todd L. Montgomery*, and *Eric Bowden*
+
 * [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding)
 
 ## Cryptography
