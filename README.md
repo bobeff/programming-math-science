@@ -3388,6 +3388,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Andrzej's C++ Blog](https://akrzemi1.wordpress.com) by *Andrzej Krzemieński*
 
+* [Arthur O’Dwyer's Blog](https://quuxplusone.github.io/blog)
+
 * [Asymmetric Transfer](https://lewissbaker.github.io) *Lewis Baker*
 
 * [Bannalia: trivial notes on themes diverse](https://bannalia.blogspot.com) by *Joaquín M López Muñoz*
