@@ -2287,6 +2287,8 @@ Thelin*
 
 * [An Introduction to Abstract Mathematics](https://www.math.uci.edu/~ndonalds/math13/notes.pdf) by *Neil Donaldson* and *Alessandra Pantano* **[pdf]**
 
+* [Applied Discrete Structures](https://discretemath.org) by *Al Doerr* and *Ken Levasseur*
+
 * [Busy Beavers! - An interactive intro to Computability Theory](https://tigyog.app/d/C:tWWwvJDWlo/r/busy-beavers) by *Jim Fisher*
 
 * [Computational Complexity: A Modern Approach](https://theory.cs.princeton.edu/complexity) by *Sanjeev Arora* and *Boaz Barak*
