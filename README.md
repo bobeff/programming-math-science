@@ -1871,6 +1871,8 @@ Thelin*
     * *Harmonic Analysis*
     * *Parametric Sets of Second-Order Lines on a Plane*
 
+* [University Mathematics](https://olewitthansen.dk/Mathematics/Mathematics.html) by *Ole Witt-Hansen*
+
 ### Algebra
 
 * [Abstract Algebra](https://dongryul-kim.github.io/harvard_notes/Math55a/Notes_Math55a.pdf) taughy by *Yum-Tong Siu*, notes by *Dongryul Kim* **[pdf]**
