@@ -524,6 +524,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Notes on Randomized Algorithms](https://www.cs.yale.edu/homes/aspnes/classes/469/notes.pdf) by *James Aspnes* **[pdf]**
 
+* [Open Data Structures](https://opendatastructures.org) by *Pat Morin*
+
 * [Planning Algorithms](http://lavalle.pl/planning) by *Steven M. LaValle*
 
 * [Principles of Algorithmic Problem Solving](https://www.csc.kth.se/~jsannemo/slask/main.pdf) by *Johan Sannemo*
