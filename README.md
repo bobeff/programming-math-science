@@ -2114,6 +2114,8 @@ Thelin*
 
 * [A Practical Guide to Quantitative Finance Interviews](https://academyflex.com/wp-content/uploads/2024/03/a-practical-guide-to-quantitative-finance-interviews.pdf) by *Xinfeng Zhou* **[pdf]**
 
+* [Financial Machine Learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501707) by *Bryan T. Kelly* and *Dacheng Xiu*
+
 * [Mathematical Foundations for Finance](https://metaphor.ethz.ch/x/2021/hs/401-3913-01L) by *Prof. Dr. Beatrice Acciaio*
   * [Probability Theory](https://metaphor.ethz.ch/x/2021/hs/401-3913-01L/auth/lethz/notes/probability_theory/probability_theory.pdf) by *Prof. Dr. Alain-Sol Sznitman* **[pdf]**
   * [Mathematical Foundations for Finance Lecture Notes](https://metaphor.ethz.ch/x/2021/hs/401-3913-01L/auth/lethz/notes/mff_script/lecture_notes.pdf) by *M. Schweizer* and *E. W. Farkas* **[pdf]**
