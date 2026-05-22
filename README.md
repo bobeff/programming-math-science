@@ -2214,6 +2214,8 @@ Thelin*
 
 * [Lecture Notes on Probability Statistics and Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/chapters1-19.pdf) by *C. H. Taubes* **[pdf]**
 
+* [Linear Model and Extensions](https://arxiv.org/abs/2401.00649) by *Peng Ding*
+
 * [Markov Chains for programmers](https://czekster.github.io/markov) by *Ricardo M. Czekster*
 
 * [Modern Discrete Probability: An Essential Toolkit](https://people.math.wisc.edu/~roch/mdp) by *Sebastien Roch*
