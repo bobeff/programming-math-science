@@ -1978,6 +1978,8 @@ Thelin*
   * [Calculus 2](http://www.wallace.ccfaculty.org/152.html)
   * [Calculus 3](http://www.wallace.ccfaculty.org/163.html)
 
+* [Calculus in Context](https://www.science.smith.edu/~callahan/cic/book.pdf) by *James Callahan*, *Kenneth Hoffman*, *David Cox*, *Donal O’Shea*, *Harriet Pollatsek*, and *Lester Senechal* **[pdf]**
+
 * [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) by *L.V. Tarasov*
 
 * [Calculus for Mathematicians, Computer Scientists, and Physicists](https://mathcs.holycross.edu/~ahwang/print/calc.pdf) by *Andrew D. Hwang* **[pdf]**
