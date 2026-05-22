@@ -236,6 +236,9 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning](https://www.deeplearningbook.org/) by *Ian Goodfellow, Yoshua Bengio and Aaron Courville*
 
+* [Deep Learning](https://srdas.github.io/DLBook) by *Subir Varma* and *Sanjiv Das*
+  - [Version with Python and R](https://srdas.github.io/DLBook2)
+
 * [Deep Learning Course](https://fleuret.org/dlc) by *François Fleuret*
 
 * [Deep Learning: Foundations and Concepts](https://www.bishopbook.com) by *Chris Bishop with Hugh Bishop*
@@ -287,6 +290,8 @@ This is a list of links to different freely available learning resources about c
 * [Machine learning with neural networks](https://arxiv.org/pdf/1901.05639) by *Bernard Mehling* [pdf]
 
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com) by *Michael Nielsen*
+
+* [Natural Language Processing](https://srdas.github.io/NLPBook/intro.html) by *Sanjiv Ranjan Das*
 
 * [Notes on AutoGrad](https://aschrein.github.io/jekyll/update/2025/08/23/compute_graph.html) by *Anton Schreiner*
 
@@ -1171,6 +1176,11 @@ This is a list of links to different freely available learning resources about c
 * [Advanced Data Science: Statistics and Prediction Algorithms Through Case Studies](https://rafalab.dfci.harvard.edu/dsbook-part-2) by *Rafael A. Irizarry*
 
 * [Data Science at the Command Line](https://jeroenjanssens.com/dsatcl) by *Jeroen Janssens*
+
+* [Data Science: Theories, Models, Algorithms, and Analytics](https://srdas.github.io/MLBook) by *Sanjiv Ranjan Das*
+  - [pdf](https://srdas.github.io/Papers/DSA_Book.pdf)
+  - [Data for the book's examples](https://app.box.com/s/8uduwzfyezeoupqii76u7a6ro3somole)
+  - [Version with Python and R](https://srdas.github.io/MLBook2)
 
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz) by *Claus O. Wilke*
 
