@@ -2325,6 +2325,8 @@ Thelin*
 
 * [Elements of Programming](http://elementsofprogramming.com) by *Alexander Stepanov and Paul McJones*
 
+* [Foundations of Computation](https://math.hws.edu/FoundationsOfComputation) by *Carol Critchlow* and *David Eck*
+
 * [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html) by *[Alfred V. Aho](https://en.wikipedia.org/wiki/Alfred_Aho)* and *[Jeffrey D. Ullman](https://en.wikipedia.org/wiki/Jeffrey_Ullman)*
 
 * [generatingfunctionology](https://www.ms.uky.edu/~sohum/putnam/gen_funs_wilf.pdf) by *Herbert S. Wilf* **[pdf]**
