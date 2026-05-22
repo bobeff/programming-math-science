@@ -215,6 +215,8 @@ This is a list of links to different freely available learning resources about c
 
 * [An Introduction to Statistical Learning](https://www.statlearning.com) by *Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani*
 
+* [Applied Causal Inference Powered by ML and AI](https://arxiv.org/abs/2403.02467) by *Victor Chernozhukov*, *Christian Hansen*, *Nathan Kallus*, *Martin Spindler*, and *Vasilis Syrgkanis*
+
 * [Applied Machine Learning for Tabular Data](https://aml4td.org) by *Max Kuhn* and *Kjell Johnson*
 
 * [Books by Andriy Burkov](https://www.thelmbook.com)
