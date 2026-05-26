@@ -1619,6 +1619,8 @@ Thelin*
 
 ### SIMD programming
 
+* [Accelerating copy_if using SIMD](https://loonatick-src.github.io/posts/vectorized-copy-if-analysis) by *Chaitanya Kumar*
+
 * [ARM NEON for C++ Developers](http://const.me/articles/simd/NEON.pdf) **[pdf]**
 
 * [Cuckoo hashing improves SIMD hash tables](https://reiner.org/cuckoo-hashing#large-out-of-cache-tables-successful-lookups) by *Reiner Pope*
