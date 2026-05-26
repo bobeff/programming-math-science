@@ -3442,6 +3442,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [C++ Truths](https://cpptruths.blogspot.com)
 
+* [Chaitanya Kumar's Blog](https://loonatick-src.github.io)
+
 * [Crascit's Blog](https://crascit.com) by *Craig Scott*
 
 * [Cristian Adam's Blog](https://cristianadam.eu)
