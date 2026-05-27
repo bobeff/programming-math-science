@@ -3458,6 +3458,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Functional C++](https://functionalcpp.wordpress.com)
 
+* [Ion Gaztañaga's Blog](https://github.com/igaztanaga)
+
 * [Just Software Solutions' Blog](https://www.justsoftwaresolutions.co.uk/blog) by *Anthony Williams*
 
 * [Lu's blog](https://uvdn7.github.io) by *Lu Pan*
