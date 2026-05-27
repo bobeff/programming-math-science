@@ -3462,6 +3462,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Ion Gaztañaga's Blog](https://github.com/igaztanaga)
 
+* [Jaysmito Mukherjee's Blog](https://jaysmito.dev/blog)
+
 * [Just Software Solutions' Blog](https://www.justsoftwaresolutions.co.uk/blog) by *Anthony Williams*
 
 * [Lu's blog](https://uvdn7.github.io) by *Lu Pan*
