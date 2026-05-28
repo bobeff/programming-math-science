@@ -1367,6 +1367,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Distributed systems
 
+* [Distributed Systems](https://www.cl.cam.ac.uk/teaching/2122/ConcDisSys/dist-sys-notes.pdf) by *Dr. Martin Kleppmann* **[pdf]**
+
 * [Distributed systems for fun and profit](https://book.mixu.net/distsys) by *Mikito Takada*
 
 * [Implementing Raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction) by *Eli Bendersky*
