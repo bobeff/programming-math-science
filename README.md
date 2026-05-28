@@ -2692,6 +2692,8 @@ Alan Zucconi*
 
 * [Microsoft C++ language documentation](https://docs.microsoft.com/en-us/cpp/cpp)
 
+* [Modern C++ Tutorial](https://changkun.de/modern-cpp) by *Ou Changkun*
+
 * [More C++ Idioms](https://en.wikibooks.org/wiki/More_C%2B%2B_Idioms)
 
 * [My Favorite C++ Pattern: X Macros](https://danilafe.com/blog/chapel_x_macros) by *Daniel Fedorin*
