@@ -2429,6 +2429,8 @@ Thelin*
 
 * [Exploring Operating Systems](https://mohitmishra786.github.io/exploring-os)
 
+* [Linux Basics for Hackers](https://github.com/ahegazy0/linux-basics-for-hackers-notes) by *Abdulrahman Hegazy*
+
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *Alex Kuleshov*
 
 * [How to write Rust in the kernel](https://lwn.net/Articles/1024941) by *Daroc Alden*
