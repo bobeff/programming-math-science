@@ -1617,6 +1617,8 @@ Thelin*
   * [Advanced Matrix Multiplication Optimization on NVIDIA GPUs](https://salykova.github.io/gemm-gpu)
   * [Matrix Core Programming on AMD CDNA3 and CDNA4 architecture](https://salykova.github.io/matrix-cores-cdna)
 
+* [Virtual Memory: A Deep Dive into Page Tables, TLBs, and Linux Internals](https://blog.codingconfessions.com/p/virtual-memory) by *Abhinav Upadhyay*
+
 ### GPU and TPU Programming
 
 * [Basic facts about GPUs](https://damek.github.io/random/basic-facts-about-gpus) by *Damek Davis*
