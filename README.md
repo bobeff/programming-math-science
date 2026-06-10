@@ -2062,6 +2062,8 @@ Thelin*
 
 * [Game Theory with Engineering Applications](https://ocw.mit.edu/courses/6-254-game-theory-with-engineering-applications-spring-2010) by *Prof. Asuman Ozdaglar*
 
+* [Introduction to Game Theory: a Discovery Approach](https://nordstrommath.com/IntroGameTheoryText) by *Jennifer Firkins Nordstrom*
+
 * [Lecture Notes for 1st Year Ph.D. Game Theory](https://econweb.ucsd.edu/~jsobel/200Cs09/Kartik_Notes.pdf) by *Navin Kartik* **[pdf]**
 
 ### General problem solving
