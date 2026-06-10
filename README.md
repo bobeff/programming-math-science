@@ -1919,6 +1919,8 @@ Thelin*
 
 * [Introduction to Abstract Algebra](https://math.berkeley.edu/~apaulin/AbstractAlgebra.pdf) by *Alexander Paulin* **[pdf]**
 
+* [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) by *David Joyce* **[pdf]**
+
 * [Learn you Galois Fields for Great Good](https://xorvoid.com/galois_fields_for_great_good_00.html) by *Anthony Bonkoski*
 
 * [Lectures on Abstract Algebra](https://www.math.ucla.edu/~rse/algebra_book.pdf) by *Richard Elman* **[pdf]**
