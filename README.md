@@ -2415,6 +2415,8 @@ Thelin*
 
 * [POSIX Threads Programming](https://hpc-tutorials.llnl.gov/posix) by *Blaise Barney*
 
+* [Programming Parallel Computers](https://ppc.cs.aalto.fi) by *Jukka Suomela*, *Samuli Laine*, and *Jaakko Lehtinen*
+
 * [Reading and writing](https://blog.jcoglan.com/2020/09/28/reading-and-writing-part-1) - Article series on race conditions by *James Coglan*
 
 * [Spinlocks vs. Mutexes: When to Spin and When to Sleep](https://howtech.substack.com/p/spinlocks-vs-mutexes-when-to-spin)
