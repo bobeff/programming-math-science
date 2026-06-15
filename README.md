@@ -93,6 +93,7 @@ This is a list of links to different freely available learning resources about c
   * [Mathematical Logic](#mathematical-logic)
   * [Measure Theory](#measure-theory)
   * [Number Theory](#number-theory)
+  * [Numerical Analysis](#numerical-analysis)
   * [Operations Research](#operations-research)
   * [Probability and Statistics](#probability-and-statistics)
   * [Proofs](#proofs)
@@ -2191,6 +2192,10 @@ Thelin*
 * [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
 
 * [Theory of Numbers](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012) by *Prof. Abhinav Kumar*
+
+### Numerical analysis
+
+* [Tea Time Numerical Analysis](https://lqbrin.github.io/tea-time-numerical) by *Leon Q. Brin*
 
 ### Operations Research
 
