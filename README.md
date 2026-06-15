@@ -276,6 +276,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Machine Learning Interviews](https://huyenchip.com/ml-interviews-book) by *Chip Huyen*
 
+* [Introduction to Machine Learning Systems](https://mlsysbook.ai) by *Vijay Janapa Reddi*
+
 * [Learning Theory from First Principles](https://www.di.ens.fr/%7Efbach/ltfp_book.pdf) by *Francis Bach* **[pdf]**
 
 * [Lecture Notes for Machine Learning and Data Science Courses Information School, University of Washington](https://faculty.washington.edu/otoomet/machineLearning.pdf) by *Ott Toomet* **[pdf]**
