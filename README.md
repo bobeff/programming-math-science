@@ -524,6 +524,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Introduction to Multi-Armed Bandits](https://arxiv.org/abs/1904.07272) by *Aleksandrs Slivkins*
 
+* [Introduction to Parallel Algorithms](https://www.cs.cmu.edu/~guyb/paralg/paralg/parallel.pdf) by *Guy E. Blelloch*, *Laxman Dhulipala*, and *Yihan Sun* **[pdf]**
+
 * [Kalman Filter from the Ground Up](https://www.kalmanfilter.net) by *Alex Becker*
 
 * [Lecture Notes on Quantum Algorithms](https://www.cs.umd.edu/~amchilds/qa/qa.pdf) by *Andrew M. Childs* **[pdf]**
