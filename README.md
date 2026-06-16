@@ -2191,6 +2191,8 @@ Thelin*
 
 ### Number theory
 
+* [A Computational Introduction to Number Theory and Algebra](https://shoup.net/ntb) by *Victor Shoup*
+
 * [An Introduction to the Theory of Numbers](http://www.trillia.com/moser-number.html) by *Leo Moser*
 
 * [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
