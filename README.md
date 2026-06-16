@@ -244,6 +244,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Deep Learning: Foundations and Concepts](https://www.bishopbook.com) by *Chris Bishop with Hugh Bishop*
 
+* [Deep Learning: Foundations, Architectures, and Engineering Practice](https://drive.google.com/file/d/1XJISCOICgEzozRpLHPC_TwT_ybfQwALp/view) by *Amer Hussein* **[pdf]**
+
 * [Deep Learning Interviews](https://arxiv.org/abs/2201.00650) by *Shlomo Kashani* and *Amir Ivry*
 
 * [Deep Learning on Graphs](https://yaoma24.github.io/dlg_book) by *Yao Ma* and *Jiliang Tang*
