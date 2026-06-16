@@ -1918,6 +1918,8 @@ Thelin*
 
 * [Advanced Modern Algebra](https://david92jackson.neocities.org/images/Advanced_Modern_Algebra-Rotman.pdf) by *Joseph J. Rotman* **[pdf]**
 
+* [Algebra: Abstract and Concrete](https://homepage.divms.uiowa.edu/~goodman/algebrabook.dir/download.htm) by *Frederick M. Goodman*
+
 * [Algebra: An Elementary Text-Book](http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp36404) by [*George Chrystal*](https://en.wikipedia.org/wiki/George_Chrystal)
 
 * [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/book.html) by *Tyler Wallace*
