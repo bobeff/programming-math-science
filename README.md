@@ -3120,6 +3120,8 @@ Alan Zucconi*
 
 * [Extra Instructions Of The 65XX Series CPU](http://www.ffd2.com/fridge/docs/6502-NMOS.extra.opcodes) by *Adam Vardy*
 
+* [Game Eengine White Papers: Commander Keen](https://forgottenbytes.net/books/White_Papers_Keen.pdf) by *Bas Smits* **[pdf]**
+
 * [How PlayStation Graphics & Visual Artefacts Work](https://pikuma.com/blog/how-to-make-ps1-graphics) by *Gustavo Pezzi*
 
 * [How pseudo-3d racing games work](http://www.extentofthejam.com/pseudo) by *Louis Gorenfeld*
