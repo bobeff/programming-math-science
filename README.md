@@ -767,6 +767,8 @@ This is a list of links to different freely available learning resources about c
 
 * [A practical introduction to parsing](https://jhwlr.io/intro-to-parsing) by *Jan Procházka*
 
+* [Advanced Compilers: The Self-Guided Online Course](https://www.cs.cornell.edu/courses/cs6120/2025fa/self-guided) by *Adrian Sampson*
+
 * [Build Your Own Lisp](https://buildyourownlisp.com) by *Daniel Holden*
 
 * **Building a Toy Programming Language in Python** by *Miguel Grinberg*
