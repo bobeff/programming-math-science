@@ -1998,6 +1998,8 @@ Thelin*
 
 * [Advanced Multivariable Calculus](https://sites.math.washington.edu/~awaw/teaching/math224_sp23/notes.pdf) by *Alex Wang* **[pdf]**
 
+* [Basic Analysis: Introduction to Real Analysis](https://www.jirka.org/ra) by *Jiří Lebl*
+
 * [Calculus](https://ocw.mit.edu/courses/res-18-001-calculus-fall-2023/pages/textbook) by *Gilbert Strang*
 
 * [Calculus 1 for Honours Mathematics](https://math.uwaterloo.ca/~baforres/UCM137/CourseNotes/Forrest_M137CN.pdf) by *Barbara A. Forrest* and *Brian E. Forrest* **[pdf]**
