@@ -873,6 +873,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Fundamentals of Radiance Cascades](https://m4xc.dev/articles/fundamental-rc)
 
+* [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook) by *David J. Eck*
+
 * [Noise is Beautiful: Part 1: Procedural textures](https://liu.diva-portal.org/smash/get/diva2:1954979/FULLTEXT01.pdf) by *Stefan Gustavson* **[pdf]**
 
 * **Noise is Beautiful** by *Stefan Gustavson*
