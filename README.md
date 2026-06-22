@@ -2303,6 +2303,10 @@ Thelin*
 
 * [Probability in High Dimensions](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf) by *Prof. Joel A. Tropp* **[pdf]** **[Caltech]**
 
+* [Probability Textbooks by Mark Huber](https://autotomic.wixsite.com/markhubernews/probability-textbook)
+  * [Probability Adventures](https://d71b37a6-f420-4d99-8d4f-f64245d5a10b.filesusr.com/ugd/c2b9b6_ec6b6996afd84189bbd95c19cd0a2fde.pdf) **[pdf]**
+  * [Probability Lectures and Labs](https://d71b37a6-f420-4d99-8d4f-f64245d5a10b.filesusr.com/ugd/c2b9b6_8e0fbc80cfa64a0aa0c393840b0d50f8.pdf) **[pdf]**
+
 * [Probability Theory](https://web.stanford.edu/class/stats310a/lnotes.pdf) by *Amir Dembo* **[pdf]** **[Stanford]**
   * [Other course materials](https://web.stanford.edu/class/stats310a)
 
