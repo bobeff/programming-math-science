@@ -1983,6 +1983,8 @@ Thelin*
   * [The Calculus Integral](http://classicalrealanalysis.info/The-Calculus-Integral.php)
   * [Theory of the Integral](http://classicalrealanalysis.info/Theory-of-the-Integral.php)
 
+* [Complex Analysis](https://complexanalysis.org) by *Russell W. Howell* and *John H. Mathews*
+
 * [Complex Analysis](https://courses.maths.ox.ac.uk/pluginfile.php/111560/mod_resource/content/8/A2%20complex%20analysis%20*2024.pdf) by *Dmitry Belyaev* **[pdf]**
   * [Problems and Solutions](https://courses.maths.ox.ac.uk/mod/assign/view.php?id=60627)
 
