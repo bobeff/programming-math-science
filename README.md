@@ -3525,6 +3525,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [Manu Sanchez's Blog](https://manu343726.github.io)
 
+* [Marius Bancila's Blog](https://mariusbancila.ro/blog)
+
 * [Marshall's C++ Musings](https://cplusplusmusings.wordpress.com)
 
 * [Mathieu Ropert's Blog](https://mropert.github.io)
