@@ -2269,6 +2269,8 @@ Thelin*
 
 * [Introduction to Probability for Data Science](https://probability4datascience.com/index.html) by *Stanley H. Chan*
 
+* [Introduction to Statistics](https://onlinestatbook.com) by *David Lane*
+
 * [Lecture Notes on Probability](https://www.tamuz.caltech.edu/teaching/ma144a/lectures.pdf) by *Omer Tamuz* **[pdf]**
 
 * [Lecture Notes on Probability Statistics and Linear Algebra](https://people.math.harvard.edu/~knill/teaching/math19b_2011/handouts/chapters1-19.pdf) by *C. H. Taubes* **[pdf]**
