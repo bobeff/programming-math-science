@@ -1870,6 +1870,21 @@ Thelin*
   * [Calculus III](https://tutorial.math.lamar.edu/Classes/CalcIII/CalcIII.aspx)
   * [Differential Equations](https://tutorial.math.lamar.edu/Classes/DE/DE.aspx)
 
+* [Peter Cameron's Lecture Notes](https://cameroncounts.wordpress.com/lecture-notes)
+  - [Mathematical Structures](https://cameroncounts.wordpress.com/wp-content/uploads/2023/01/struct.pdf) **[pdf]**
+  - [Introduction to Algebra](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/intalg.pdf) **[pdf]**
+  - [Linear Algebra](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/linalg.pdf) **[pdf]**
+  - [Algebraic Structures](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/algstr.pdf) **[pdf]* [Number theory](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/nt.pdf) **[pdf]**
+  - [Combinatorics](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/comb.pdf) **[pdf]**
+  - [Probability](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/prob.pdf) **[pdf]**
+  - [Cryptography](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/crypt.pdf) **[pdf]**
+  - [Complexity](https://cameroncounts.wordpress.com/wp-content/uploads/2013/11/compl.pdf) **[pdf]**
+  - [A Crash Course on Group Theory](https://cameroncounts.wordpress.com/wp-content/uploads/2016/11/groups.pdf) **[pdf]**
+  - **Notes on Advanced Combinatorics**
+    + [The art of counting](https://cameroncounts.wordpress.com/wp-content/uploads/2016/04/acnotes1.pdf) **[pdf]**
+    + [Structure, symmetry and polynomials](https://cameroncounts.wordpress.com/wp-content/uploads/2016/04/acnotes2.pdf) **[pdf]**
+    + [Finite geometry and strongly regular graphs](https://cameroncounts.wordpress.com/wp-content/uploads/2018/10/acnotes3.pdf) **[pdf]**
+
 * [Precalculus](https://stitz-zeager.com/) by *Carl Stitz* and *Jeff Zeager*
 
 * [Real Not Complex](https://realnotcomplex.com) - Discover Incredible FREE Resources to Study MathemF comilatics.
