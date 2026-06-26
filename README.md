@@ -2228,6 +2228,8 @@ Thelin*
 
 * [Elementary Number Theory: Primes, Congruences, and Secrets](https://wstein.org/ent) by *William Stein*
 
+* [Lectures notes on number theory for computer science](https://arxiv.org/abs/2606.20783) by *Alexandros V. Gerbessiotis*
+
 * [Theory of Numbers](https://ocw.mit.edu/courses/18-781-theory-of-numbers-spring-2012) by *Prof. Abhinav Kumar*
 
 ### Numerical analysis
