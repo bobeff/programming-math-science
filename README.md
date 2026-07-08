@@ -3740,6 +3740,8 @@ Christopher Kohlhoff*
 
 * [John D. Cook's Blog](https://www.johndcook.com/blog)
 
+* [Laboratories in Mathematical Experimentation: A Bridge to Higher Mathematics, 2nd Edition](https://digitalcommons.humboldt.edu/textbooks/9) by *J. William Bruce, George Cobb, Giuliana Davidoff, Christopher DugawF,  Alan Durfee, Art M. Duval, Janice Gifford, Helmut Knaust, Donal O’Shea, Mark Peterson, Harriet Pollatsek, Margaret Robinson, Lester Senechal, Robert Weaver*
+
 * [Machine Logic](https://lawrencecpaulson.github.io) by *Lawrence C. Paulson*
 
 * [Math3ma](https://www.math3ma.com/) by *Tai-Danae Bradley*
