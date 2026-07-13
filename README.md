@@ -2096,6 +2096,8 @@ Thelin*
 
 * [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
 
+* [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs) by *Jiří Lebl*
+
 ### Game Theory
 
 * [Game Theory (Open Access textbook with 165 solved exercises)](https://arxiv.org/abs/1512.06808) by *Giacomo Bonanno*
