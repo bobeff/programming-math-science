@@ -448,6 +448,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit) by *Den Delimarsky*
 
+* [Token-Saving Plugins Are Mostly Stupid Idea](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea)
+
 * [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) by *Alex Kladov*
 
 ## Algorithms
