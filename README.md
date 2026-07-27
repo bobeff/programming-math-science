@@ -843,6 +843,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Computer Graphics
 
+* [3D Gaussian Splatting in a Weekend](https://bfeldman.me/3dgs-weekend) by *Benjamin Feldman*
+
 * [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html) by *Fletcher Dunn* and *Ian Parberry*
 
 * [A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer) by *Kristoffer Dyrkorn*
