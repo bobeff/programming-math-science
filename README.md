@@ -470,6 +470,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Algorithms](https://courses.grainger.illinois.edu/cs473/fa2021/lec/book.pdf) by *Sariel Har-Peled* **[pdf]**
 
+* [Algorithms Course](https://www.cl.cam.ac.uk/teaching/2021/Algorithms) by *Prof. Frank Stajano* **[Cambridge]**
+
 * [Algorithms, 4th Edition](https://mrce.in/ebooks/Algorithms%204th%20Ed.pdf) by *Robert Sedgewick* and *Kevin Wayne*
 
 * [Algorithms and Data Structures](https://people.mpi-inf.mpg.de/~mehlhorn/ftp/Mehlhorn-Sanders-Toolbox.pdf) by *Kurt Mehlhorn and Peter Sanders* **[pdf]**
