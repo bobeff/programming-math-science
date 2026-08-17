@@ -3062,6 +3062,8 @@ Alan Zucconi*
 
 * [Python Programming for Economics and Finance](https://python-programming.quantecon.org) by *Thomas J. Sargent* and *John Stachurski*
 
+* [Pythonlings](https://github.com/abhiksark/pythonlings) by *Abhik Sarkar* - Learn Python by fixing tiny broken programs.
+
 * [Real Python](https://realpython.com) - A collection of Python tutorials.
 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) by *Nicolas Rougier*
