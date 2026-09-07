@@ -620,7 +620,7 @@ This is a list of links to different freely available learning resources about c
 
 * [How is a binary executable organized? Let's explore it!](https://jvns.ca/blog/2014/09/06/how-to-read-an-executable) by *Julia Evans*
 
-* [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com) by *Chase Lambert*S
+* [Learn Makefiles: With the tastiest examples](https://makefiletutorial.com) by *Chase Lambert*
 
 * [rsync: Series](https://michael.stapelberg.ch/posts/2022-06-18-rsync-overview) by *Michael Stapelberg*
 
