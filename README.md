@@ -448,6 +448,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Spec-driven development with AI: Get started with a new open source toolkit](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit) by *Den Delimarsky*
 
+* [Token-Saving Plugins Are Mostly Stupid Idea](https://turaai.net/blog#token-saving-plugins-are-mostly-stupid-idea)
+
 * [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) by *Alex Kladov*
 
 ## Algorithms
@@ -2098,6 +2100,8 @@ Thelin*
 
 * [Fourier Series & PDEs](https://courses.maths.ox.ac.uk/course/view.php?id=4942) by *Philip Maini* **[Oxford]**
 
+* [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs) by *Jiří Lebl*
+
 ### Game Theory
 
 * [Game Theory (Open Access textbook with 165 solved exercises)](https://arxiv.org/abs/1512.06808) by *Giacomo Bonanno*
@@ -2245,6 +2249,8 @@ Thelin*
 * [Arkadi Nemirovski Books and Lecture Notes on Optimization](https://www2.isye.gatech.edu/~nemirovs)
 
 * [Bridging Continuous and Discrete Optimization](https://people.orie.cornell.edu/dpw/orie6334) by *David P. Williamson*
+
+* [Convex Optimization](https://arxiv.org/abs/2607.11664) by *Andreas Habring*
 
 * [Introduction to Operations Research, Tenth Edition](https://s23.middlebury.edu/MATH0318A/Hillier10th.pdf) by *Frederick S. Hillier*, and *Gerald J. Lieberman* **[pdf]**
 
