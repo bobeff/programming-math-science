@@ -1132,6 +1132,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Computer Networks: A Systems Approach](https://book.systemsapproach.org) by *Larry Peterson and Bruce Davie*
 
+* [Computer Networking : Principles, Protocols and Practice, 4th edition](https://4ed.computer-networking.info/syllabus/default/index.html) by *Olivier Bonaventure*
+
 * **Concurrent Servers** by *Eli Bendersky*
   * [Part 1 - Introduction](https://eli.thegreenplace.net/2017/concurrent-servers-part-1-introduction)
   * [Part 2 - Threads](https://eli.thegreenplace.net/2017/concurrent-servers-part-2-threads)
