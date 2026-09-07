@@ -2954,6 +2954,8 @@ Alan Zucconi*
 
 ### OCaml
 
+* [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/) by *Sylvain Conchon* and *Jean-Christophe Filliâtre*
+
 * [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html) by *Michael R. Clarkson*
 
 * [Real World OCaml](https://dev.realworldocaml.org) by *Yaron Minsky*, *Anil Madhavapeddy* and *Jason Hickey*
