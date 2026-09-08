@@ -2505,6 +2505,15 @@ Thelin*
 
 * [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/) by *Alex Kuleshov*
 
+* [Linux Learning Resources by Paul Cobbaut](https://linux-training.be)
+  * [Fundamentals](https://linux-training.be/linuxfun.pdf) **[pdf]**
+  * [System Administration](https://linux-training.be/linuxsys.pdf) **[pdf]**
+  * [Servers](https://linux-training.be/linuxsrv.pdf) **[pdf]**
+  * [Storage](https://linux-training.be/linuxsto.pdf) **[pdf]**
+  * [Security](https://linux-training.be/linuxsec.pdf) **[pdf]**
+  * [Networking](https://linux-training.be/linuxnet.pdf) **[pdf]**
+  * [Fun](https://linux-training.be/linuxtraining_20211003.pdf) **[pdf]**
+
 * [How to write Rust in the kernel](https://lwn.net/Articles/1024941) by *Daroc Alden*
   * [Part 1](https://lwn.net/Articles/1024202)
   * [Part 2](https://lwn.net/Articles/1025232)
