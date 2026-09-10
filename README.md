@@ -4059,6 +4059,8 @@ Christopher Kohlhoff*
 
 ## Other lists
 
+* [22 Free Data Science Books](https://www.wzchen.com/data-science-books)
+
 * [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books)
 
 * [Become a Programmer, Motherfucker](http://programming-motherfucker.com/become.html) - A list of free programming books.
