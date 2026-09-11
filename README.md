@@ -630,6 +630,8 @@ This is a list of links to different freely available learning resources about c
 
 * [rsync: Series](https://michael.stapelberg.ch/posts/2022-06-18-rsync-overview) by *Michael Stapelberg*
 
+* [SSH for developers](https://flaviocopes.com/ssh-for-developers) by *Flavio Copes*
+
 * [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours) by *Julia Evans*
 
 * [The Definitive Guide To Docker](https://masteringbackend.com/posts/docker-tutorial)
