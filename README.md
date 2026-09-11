@@ -1230,6 +1230,7 @@ This is a list of links to different freely available learning resources about c
 * [Topics in Mathematics of Data Science](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-of-data-science-fall-2015) by *Dr. Afonso Bandeira*
 
 * [Towards Data Science](https://towardsdatascience.com) - The world’s leading publication for data science, AI, and ML professionals.
+* * [Complete Data Science Learning Roadmap in 2026: What to Learn, When to Learn It, and What Actually Works](https://www.mygreatlearning.com/blog/complete-data-science-learning-roadmap-in-2026) by *Great Learning Editorial Team*
 
 ## Debuggers
 
