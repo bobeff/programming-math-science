@@ -3479,6 +3479,8 @@ by Developers. Documenting CSS, HTML, and JavaScript, since 2005.
 
 * [A Complete Guide to CSS Grid](https://css-tricks.com/snippets/css/complete-guide-grid) by *Chris House*
 
+* [A deep dive into StyleX](https://flaviocopes.com/stylex) by *Flavio Copes*
+
 * [CSS Tricks](https://css-tricks.com)
 
 * [Learn CSS Layout the pedantic way](https://book.mixu.net/css) by *Mikito Takada*
