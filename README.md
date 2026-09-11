@@ -2499,6 +2499,8 @@ Thelin*
 
 * [Introduction to Computer Music](https://cmtext.com) by *Prof. Jeffrey Hass*
 
+* [Music Theory for the 21st-Century Classroom](https://musictheory.pugetsound.edu/mt21c/MusicTheory.html) by *Robert Hutchinson*
+
 ## Operating Systems
 
 * [A Commentary On The Sixth Edition Unix Operating System](https://warsus.github.io/lions-) by *J. Lions*
