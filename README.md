@@ -612,6 +612,8 @@ This is a list of links to different freely available learning resources about c
 
 ## Command Line and Tools
 
+* [A deep dive into Ghostty](https://flaviocopes.com/ghostty) by *Flavio Copes*
+
 * [Command Line Handbook](https://commandline.stribny.name) by *Petr Stribny*
 
 * [Driving Compilers](https://fabiensanglard.net/dc) by *Fabien Sanglard*
