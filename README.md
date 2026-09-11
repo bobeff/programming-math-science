@@ -3859,6 +3859,8 @@ Christopher Kohlhoff*
 
 * [Fernando Borretti's Website](https://borretti.me)
 
+* [Flavio Copes' Blog](https://flaviocopes.com/blog)
+
 * [Francesco Mazzoli's Blog](https://mazzo.li/archive.html)
 
 * [Games by Mason](https://gamesbymason.com/blog)
