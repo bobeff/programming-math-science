@@ -145,6 +145,7 @@ This is a list of links to different freely available learning resources about c
   * [Ruby](#ruby)
   * [Rust](#rust)
   * [Smalltalk](#smalltalk)
+  * [TypeScript](#typescript)
   * [Ya](#ya)
   * [Zig](#zig)
 * [Retrocomputing](#retrocomputing)
@@ -3168,6 +3169,10 @@ Alan Zucconi*
 ### Smalltalk
 
 * [Smalltalk Resources](https://smalltalk.tech.blog/resources) - A list of free smalltalk books.
+
+### TypeScript
+
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book) by *Simone Poggiali*
 
 ### Ya
 
