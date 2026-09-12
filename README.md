@@ -3172,7 +3172,7 @@ Alan Zucconi*
 
 ### TypeScript
 
-* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/it-it) by *Simone Poggiali*
+* [The Concise TypeScript Book](https://gibbok.github.io/typescript-book) by *Simone Poggiali*
 
 ### Ya
 
