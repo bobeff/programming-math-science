@@ -2865,6 +2865,8 @@ Alan Zucconi*
 
 * [Generic functions on slices with Go type parameters](https://eli.thegreenplace.net/2021/generic-functions-on-slices-with-go-type-parameters) by *Eli Bendedrsky*
 
+* [Go concurrency distilled](https://antonz.org/go-concurrency-distilled) by *Anton Zhiyanov*
+
 * [Go internals: invariance and memory layout of slices](https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices) by *Eli Bendersky*
 
 * [Go Optimization Guide](https://goperf.dev) by *Alexander Stavonin*
