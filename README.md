@@ -2188,6 +2188,8 @@ Thelin*
 
 * [Spectral Graph Theory](https://people.orie.cornell.edu/dpw/orie6334/Fall2016) by *David P. Williamson*
 
+* [Start Doing Graph Theory](https://vertex.degree) by *Mikhail Lavrov*
+
 ### High School Math
 
 * [Mathematical Problems And Puzzles from the Polish Mathematical Olympiads](https://archive.org/details/straszewicz-mathematical-problems-and-puzzles) by *Stefan Straszewicz*
