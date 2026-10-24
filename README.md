@@ -3434,6 +3434,8 @@ Alan Zucconi*
 
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up) by *John Wiegley*
 
+* [Git from the Inside Out](https://maryrosecook.com/blog/post/git-from-the-inside-out) by *Mary Rose Cook*
+
 * [Learn the workings of Git, not just the commands](https://developer.ibm.com/tutorials/d-learn-workings-git) by *Andre Fachat*
 
 ## Web programming
