@@ -3121,6 +3121,8 @@ Alan Zucconi*
 
 * [Learn RegEx step by step, from zero to advanced](https://regexlearn.com/)
 
+* [Regex Hunter](https://regexhunter.com) - A daily regex puzzle game: match every target and spare every decoy, in as few characters as possible.
+
 * [RegexOne](https://regexone.com)
 
 * [Regular-Expressions.info](https://www.regular-expressions.info) by *Jan Goyvaerts*
