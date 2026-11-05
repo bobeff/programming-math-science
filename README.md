@@ -452,6 +452,8 @@ This is a list of links to different freely available learning resources about c
 
 * [The complete guide to Codex](https://flaviocopes.com/codex) by *Flavio Copes*
 
+* [The complete guide to Cursor](https://flaviocopes.com/cursor) by *Flavio Copes*
+
 * [Vibe Coding Terminal Editor](https://matklad.github.io/2025/08/31/vibe-coding-terminal-editor.html) by *Alex Kladov*
 
 ## Algorithms
