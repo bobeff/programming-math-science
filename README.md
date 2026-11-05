@@ -2813,6 +2813,8 @@ Alan Zucconi*
 
 * [Philosophy of coroutines](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/coroutines-philosophy) by *Simon Tatham*
 
+* [Practical Guide to Bare Metal C++](https://arobenko.github.io/bare_metal_cpp) by *Alex Robenko*
+
 * [The Boost C++ Libraries](https://theboostcpplibraries.com) by *Boris Schäling*
 
 * **Thoughts on creating a tracking pointer class** by *Raymond Chen*
