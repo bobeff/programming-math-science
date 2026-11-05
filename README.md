@@ -2005,6 +2005,8 @@ Thelin*
 
 * [The Little Book of Linear Algebra](https://github.com/the-litte-book-of/linear-algebra) by *Duc-Tam Nguyen*
 
+* [Understanding Linear Algebra](https://understandinglinearalgebra.org) by *David Austin*
+
 ### Analysis
 
 * [Classical Real Analysis Books](https://classicalrealanalysis.info) by *Andrew M. Bruckner*, *Judith B. Bruckner*, and *Brian S. Thomson*
