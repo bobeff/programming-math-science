@@ -1068,6 +1068,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Raymarching explained interactively](https://imadr.me/raymarching-explained-interactively)
 
+* [Revisiting importance sampling](https://lisyarus.github.io/blog/posts/revisiting-importance-sampling.html) by *Nikita Lisitsa*
+
 ### Shaders
 
 * [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
