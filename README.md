@@ -1630,6 +1630,8 @@ Thelin*
 
 * [Memory Profiling](https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1) by *Denis Bakhvalov*
 
+* [Number Parsing at a Gigabyte per Second](https://arxiv.org/abs/2101.11408) by *Daniel Lemire*
+
 * [Onboarding floating-point](https://www.altdevarts.com/p/onboarding-floating-point) by *Mike Acton*
 
 * [Performance Analysis and Tunning on Modern CPUs](https://github.com/dendibakh/perf-book) by *Denis Bakhvalov*
