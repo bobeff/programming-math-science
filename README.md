@@ -2027,6 +2027,8 @@ Thelin*
 
 * [Introduction to Real Analysis](https://digitalcommons.trinity.edu/mono/7) by *William F. Trench*
 
+* [Mathematical analysis and applications](https://archive.org/details/hari-mohan-srivastava.-mathematical-analysis-and-applications/page/136/mode/2up) by *Hari Mohan Srivastava*
+
 * [Principles of Mathematical Analysis](https://david92jackson.neocities.org/images/Principles_of_Mathematical_Analysis-Rudin.pdf) by *Walter Rudin* **[pdf]**
 
 * [Real Analysis](https://ocw.mit.edu/courses/18-100a-real-analysis-fall-2020) by *Dr. Casey Rodriguez*
