@@ -292,6 +292,8 @@ This is a list of links to different freely available learning resources about c
 
 * [Machine Learning Lecture Notes](https://cs229.stanford.edu/main_notes.pdf) by *Andrew Ng* and *Tengyu Ma* **[pdf]** **[Stanford]**
 
+* [Machine Learning Projects](https://www.clcoding.com/2026/08/machine-learning-projects-free-pdf.html) by *Brian Boucheron* and *Lisa Tegliferri*
+
 * [Machine Learning Systems](https://mlsysbook.ai) by *Vijay Janapa Reddi*
 
 * [Machine learning with neural networks](https://arxiv.org/pdf/1901.05639) by *Bernard Mehling* [pdf]
