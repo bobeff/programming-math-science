@@ -1799,6 +1799,12 @@ Thelin*
 
 * [Foundations of Mathematics](https://people.tamu.edu/~florent/teaching/lecture_notes/220lecture_notes.pdf) by *Florent P. Baudier* **[pdf]**
 
+* [Giacomo Bonanno's Textbooks](https://faculty.econ.ucdavis.edu/faculty/bonanno)
+  * [Game Theory](https://faculty.econ.ucdavis.edu/faculty/bonanno/GT_Book.html)
+  * [Decision Making](https://faculty.econ.ucdavis.edu/faculty/bonanno/DM_Book.html)
+  * [The Economics of Uncertainty and Insurance](https://faculty.econ.ucdavis.edu/faculty/bonanno/EUI_Book.html)
+  * [Uncertainty, Risk and Information](https://faculty.econ.ucdavis.edu/faculty/bonanno/URI_Book.html)
+
 * [How do undergraduates do mathematics?](https://www.maths.ox.ac.uk/system/files/attachments/study_public_0.pdf) **[pdf]**
 
 * [Intermediate Calculus and Linear Algebra](https://www2.math.upenn.edu/~kazdan/202F13/notes/math21-2013.pdf) by *Jerry L. Kazdan* **[pdf]**
